@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T09:29:43",
+  "last_updated": "2026-07-12T09:30:11",
   "html": {
     "https://web.archive.org/web/20250925081715if_/https://twitter.com/Kanataqqq0221/status/1971126839902089254": {
       "status": "done",
@@ -17785,9 +17785,9 @@
       "referenced_by": [
         "20260205000844_twitter_com_Kanataqqq0221_status_2019201490318238179.json"
       ],
-      "last_updated": "2026-07-12T09:04:41",
+      "last_updated": "2026-07-12T09:30:07",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260205000844/https://video.twimg.com/amplify_video/2019201394411188224/vid/avc1/720x1280/u8nPyqdbCqjJyW4N.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2019202718552977408/vid/avc1/720x1280/bCbb85EslQBxv5eL.mp4": {
       "status": "done",
@@ -17822,9 +17822,9 @@
       "referenced_by": [
         "20260212000749_twitter_com_Kanataqqq0221_status_2021737973264617620.json"
       ],
-      "last_updated": "2026-07-12T09:04:42",
+      "last_updated": "2026-07-12T09:30:09",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260212000749/https://video.twimg.com/amplify_video/2003739212504522752/vid/avc1/720x1280/nYkIz7VQzti3bRjC.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2021829873736830976/vid/avc1/1280x720/ny-immlwP3tMTyAp.mp4": {
       "status": "done",
@@ -17964,9 +17964,9 @@
       "referenced_by": [
         "20260320132156_twitter_com_Kanataqqq0221_status_2034983783104225340.json"
       ],
-      "last_updated": "2026-07-12T09:04:43",
+      "last_updated": "2026-07-12T09:30:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260320132156/https://video.twimg.com/ext_tw_video/2034970506039078912/pu/vid/avc1/540x960/pTeiL5GdxwA9i_j1.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2035130941203701760/vid/avc1/720x1280/DolJrnz71lQ8Ecun.mp4": {
       "status": "done",
