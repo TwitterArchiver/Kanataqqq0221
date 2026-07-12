@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2075766861359419526",
+    "created_at": "2026-07-11T04:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075792547356844413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506298944850370565",
+          "start": 0,
+          "username": "acane1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075792547356844413",
+    "in_reply_to_user_id": "1506298944850370565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075772087764156736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acane1021 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2075772080931700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6fta6bgAA8YN2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2075766861359419526",
+        "created_at": "2026-07-11T04:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075792547356844413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506298944850370565",
+              "start": 0,
+              "username": "acane1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075792547356844413",
+        "in_reply_to_user_id": "1506298944850370565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075772087764156736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acane1021 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075772080931700736"
+          ]
+        },
+        "author_id": "1506298944850370565",
+        "conversation_id": "2075766861359419526",
+        "created_at": "2026-07-11T02:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075772087764156736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76gin5ER8P",
+              "end": 49,
+              "expanded_url": "https://x.com/acane1021/status/2075772087764156736/photo/1",
+              "media_key": "3_2075772080931700736",
+              "start": 26,
+              "url": "https://t.co/76gin5ER8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075772087764156736",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075768981601063063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 你没有心 ꒦ິ^꒦ິ https://t.co/76gin5ER8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 373,
+          "like_count": 2948,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:57:30.000Z",
+        "description": "",
+        "id": "1506298944850370565",
+        "name": "蛀牙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048087178035785728/tI6MfP5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "acane1021",
+        "verified": false
+      }
+    ]
+  }
+}
