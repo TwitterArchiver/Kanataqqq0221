@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029721775060439205",
+    "created_at": "2026-03-06T06:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029799408683077801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012867962596884480",
+          "start": 0,
+          "username": "Oblivious64756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029799408683077801",
+    "in_reply_to_user_id": "2012867962596884480",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029787911466737884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oblivious64756 hihihiha。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2029787903002599424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCtBV-_a4AAtbQl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCtBV-_a4AAtbQl.mp4"
+          }
+        ],
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029721775060439205",
+        "created_at": "2026-03-06T06:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029799408683077801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012867962596884480",
+              "start": 0,
+              "username": "Oblivious64756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029799408683077801",
+        "in_reply_to_user_id": "2012867962596884480",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029787911466737884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oblivious64756 hihihiha。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029787903002599424"
+          ]
+        },
+        "author_id": "2012867962596884480",
+        "conversation_id": "2029721775060439205",
+        "created_at": "2026-03-06T05:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029787911466737884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qP7n9xXI2G",
+              "end": 43,
+              "expanded_url": "https://x.com/Oblivious64756/status/2029787911466737884/photo/1",
+              "media_key": "16_2029787903002599424",
+              "start": 20,
+              "url": "https://t.co/qP7n9xXI2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029787911466737884",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029721775060439205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 來支持了 https://t.co/qP7n9xXI2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 148,
+          "like_count": 845,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T12:41:51.000Z",
+        "description": "這是一個自我介紹～",
+        "id": "2012867962596884480",
+        "location": "Houston, TX",
+        "name": "Oblivious",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013489676074532865/PrNRic15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 165,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Oblivious64756",
+        "verified": false
+      }
+    ]
+  }
+}

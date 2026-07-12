@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2031524397803253953",
+    "created_at": "2026-03-11T00:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T01:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031524397803253953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanataqqq0221/…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/kanataqqq0221/status/2031522651920019723",
+          "start": 125,
+          "url": "https://t.co/RbhTTDqlFY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031524397803253953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031522651920019723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾經是多麼迫切\n希望我的實力可以和你相近\n想去跟你拼桃舞舞、曉舞舞\n去拼了命練習那些以前幾乎我根本打不動的曲子\n無論後來我多麼低聲下氣地去祈求\n你也不曾理會我\n可是現在又是什麼意思\n加回來我要當以前的事情都沒發生過嗎\n我從來沒覺得一個人能這麼惡心 https://t.co/RbhTTDqlFY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2031524397803253953",
+        "created_at": "2026-03-11T00:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031524397803253953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanataqqq0221/…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/kanataqqq0221/status/2031522651920019723",
+              "start": 125,
+              "url": "https://t.co/RbhTTDqlFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031524397803253953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031522651920019723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾經是多麼迫切\n希望我的實力可以和你相近\n想去跟你拼桃舞舞、曉舞舞\n去拼了命練習那些以前幾乎我根本打不動的曲子\n無論後來我多麼低聲下氣地去祈求\n你也不曾理會我\n可是現在又是什麼意思\n加回來我要當以前的事情都沒發生過嗎\n我從來沒覺得一個人能這麼惡心 https://t.co/RbhTTDqlFY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2031522651920019723",
+        "created_at": "2026-03-11T00:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031522651920019723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031522651920019723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當初某人口口聲聲覺得我惡心\n把我傷透了又撇在一邊\n被掛了之後\n現在又突然加回來我\n一句釋懷了就想讓我把以前的事情都忘掉嗎\n絕對不可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 161,
+          "like_count": 970,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

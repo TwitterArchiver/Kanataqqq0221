@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981609044256108544",
+        "3_1981609044247728128",
+        "3_1981609044226772992",
+        "3_1981609044243537920"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981609062342283358",
+    "created_at": "2025-10-24T06:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981609062342283358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1vYN33xSz",
+          "end": 40,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+          "media_key": "3_1981609044256108544",
+          "start": 17,
+          "url": "https://t.co/u1vYN33xSz"
+        },
+        {
+          "display_url": "pic.x.com/u1vYN33xSz",
+          "end": 40,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+          "media_key": "3_1981609044247728128",
+          "start": 17,
+          "url": "https://t.co/u1vYN33xSz"
+        },
+        {
+          "display_url": "pic.x.com/u1vYN33xSz",
+          "end": 40,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+          "media_key": "3_1981609044226772992",
+          "start": 17,
+          "url": "https://t.co/u1vYN33xSz"
+        },
+        {
+          "display_url": "pic.x.com/u1vYN33xSz",
+          "end": 40,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+          "media_key": "3_1981609044243537920",
+          "start": 17,
+          "url": "https://t.co/u1vYN33xSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981609062342283358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MDA-21☺️好きですwwww https://t.co/u1vYN33xSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981609044256108544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AW7T6WMAAVpM2.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981609044247728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AW7T4WUAAM3PT.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981609044226772992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AW7TzWkAAm3JU.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981609044243537920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AW7T3WYAA7jnT.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981609044256108544",
+            "3_1981609044247728128",
+            "3_1981609044226772992",
+            "3_1981609044243537920"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981609062342283358",
+        "created_at": "2025-10-24T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981609062342283358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1vYN33xSz",
+              "end": 40,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+              "media_key": "3_1981609044256108544",
+              "start": 17,
+              "url": "https://t.co/u1vYN33xSz"
+            },
+            {
+              "display_url": "pic.x.com/u1vYN33xSz",
+              "end": 40,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+              "media_key": "3_1981609044247728128",
+              "start": 17,
+              "url": "https://t.co/u1vYN33xSz"
+            },
+            {
+              "display_url": "pic.x.com/u1vYN33xSz",
+              "end": 40,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+              "media_key": "3_1981609044226772992",
+              "start": 17,
+              "url": "https://t.co/u1vYN33xSz"
+            },
+            {
+              "display_url": "pic.x.com/u1vYN33xSz",
+              "end": 40,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1981609062342283358/photo/1",
+              "media_key": "3_1981609044243537920",
+              "start": 17,
+              "url": "https://t.co/u1vYN33xSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981609062342283358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MDA-21☺️好きですwwww https://t.co/u1vYN33xSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

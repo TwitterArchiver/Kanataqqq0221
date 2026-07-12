@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2063116803149291633",
+    "created_at": "2026-06-07T00:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063420949630988403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617471215001796609",
+          "start": 0,
+          "username": "stuk_randomdude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063420949630988403",
+    "in_reply_to_user_id": "1617471215001796609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063277297621508131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuk_randomdude 在大陆的话我会选择吃寿司郎（因为对比起来深圳那家滨寿司品控实在是有点差）去hk的时候对比起来其实是相反（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2063116803149291633",
+        "created_at": "2026-06-07T00:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063420949630988403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617471215001796609",
+              "start": 0,
+              "username": "stuk_randomdude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063420949630988403",
+        "in_reply_to_user_id": "1617471215001796609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063277297621508131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuk_randomdude 在大陆的话我会选择吃寿司郎（因为对比起来深圳那家滨寿司品控实在是有点差）去hk的时候对比起来其实是相反（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617471215001796609",
+        "conversation_id": "2063116803149291633",
+        "created_at": "2026-06-06T15:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063277297621508131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063277297621508131",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063116803149291633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 為什麼不吃壽司郎。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 306,
+          "like_count": 2560,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T10:36:22.000Z",
+        "description": "正常人盡量不要找我\n這個帳號就只是用作看黃色和玩弄詐騙機器人用\n真的想聊就私聊問我聯繫方式\n如果還看不出來，我是男的",
+        "id": "1617471215001796609",
+        "location": "某處",
+        "name": "Stuk",
+        "pinned_tweet_id": "2061303538568081620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629528544878686212/P4_GDHqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 144,
+          "like_count": 389,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 844
+        },
+        "username": "stuk_randomdude",
+        "verified": false
+      }
+    ]
+  }
+}

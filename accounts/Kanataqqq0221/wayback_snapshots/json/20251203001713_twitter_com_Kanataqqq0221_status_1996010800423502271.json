@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1995367689376899119",
+    "created_at": "2025-12-03T00:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T01:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996010800423502271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730915039404855296",
+          "start": 0,
+          "username": "Goldraphael_"
+        },
+        {
+          "end": 28,
+          "id": "1778985848618602496",
+          "start": 14,
+          "username": "Tonyliu395995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996010800423502271",
+    "in_reply_to_user_id": "1730915039404855296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995458071242383451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldraphael_ @Tonyliu395995 傻逼，屌子长脑子上的是这样的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1995367689376899119",
+        "created_at": "2025-12-03T00:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996010800423502271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730915039404855296",
+              "start": 0,
+              "username": "Goldraphael_"
+            },
+            {
+              "end": 28,
+              "id": "1778985848618602496",
+              "start": 14,
+              "username": "Tonyliu395995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996010800423502271",
+        "in_reply_to_user_id": "1730915039404855296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995458071242383451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldraphael_ @Tonyliu395995 傻逼，屌子长脑子上的是这样的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730915039404855296",
+        "conversation_id": "1995367689376899119",
+        "created_at": "2025-12-01T11:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995458071242383451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778985848618602496",
+              "start": 0,
+              "username": "Tonyliu395995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995458071242383451",
+        "in_reply_to_user_id": "1778985848618602496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36927,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995367689376899119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonyliu395995 说明这小孩很勇啊，好好教育，以后长大了没有女人可以伤害的了他，现在的男人太龟了。很久没有见到对女人上去就干不多逼逼的人了，更何况是小孩。被大人压制能不断爬起来反抗的人要好好培养。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 86,
+          "like_count": 352,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T11:41:31.000Z",
+        "description": "永遠保持清醒",
+        "id": "1730915039404855296",
+        "name": "褪色者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940461917811658752/lJbhmGUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 212,
+          "like_count": 3628,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1818
+        },
+        "username": "Goldraphael_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:17:57.000Z",
+        "description": "人无远虑必有近忧！",
+        "id": "1778985848618602496",
+        "location": "brisbane",
+        "name": "洼地老牛",
+        "pinned_tweet_id": "1816381055311683814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778986080643190784/MIKY_jEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25882,
+          "following_count": 1236,
+          "like_count": 73630,
+          "listed_count": 109,
+          "media_count": 6671,
+          "tweet_count": 50155
+        },
+        "username": "Tonyliu395995",
+        "verified": true
+      }
+    ]
+  }
+}

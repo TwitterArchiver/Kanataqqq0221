@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021613779352682497"
+      ],
+      "media_source_tweet_id": [
+        "2021613786709606703"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022159237242405205",
+    "created_at": "2026-02-13T04:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022159237242405205"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 19,
+          "tag": "CHUNITHM_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1596780365237977089",
+          "start": 3,
+          "username": "LaseeleiSeyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjW7w7cLRg",
+          "end": 62,
+          "expanded_url": "https://x.com/LaseeleiSeyao/status/2021613786709606703/photo/1",
+          "media_key": "3_2021613779352682497",
+          "start": 39,
+          "url": "https://t.co/mjW7w7cLRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022159237242405205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021613786709606703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaseeleiSeyao: #CHUNITHM_art \n梦中访客 https://t.co/mjW7w7cLRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021613779352682497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA43BXdaAAEvrBK.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021613779352682497"
+          ],
+          "media_source_tweet_id": [
+            "2021613786709606703"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022159237242405205",
+        "created_at": "2026-02-13T04:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022159237242405205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 19,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1596780365237977089",
+              "start": 3,
+              "username": "LaseeleiSeyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjW7w7cLRg",
+              "end": 62,
+              "expanded_url": "https://x.com/LaseeleiSeyao/status/2021613786709606703/photo/1",
+              "media_key": "3_2021613779352682497",
+              "start": 39,
+              "url": "https://t.co/mjW7w7cLRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022159237242405205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021613786709606703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaseeleiSeyao: #CHUNITHM_art \n梦中访客 https://t.co/mjW7w7cLRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021613779352682497"
+          ]
+        },
+        "author_id": "1596780365237977089",
+        "conversation_id": "2021613786709606703",
+        "created_at": "2026-02-11T15:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021613786709606703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjW7w7cLRg",
+              "end": 43,
+              "expanded_url": "https://x.com/LaseeleiSeyao/status/2021613786709606703/photo/1",
+              "media_key": "3_2021613779352682497",
+              "start": 20,
+              "url": "https://t.co/mjW7w7cLRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021613786709606703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5600,
+          "like_count": 385,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "#CHUNITHM_art \n梦中访客 https://t.co/mjW7w7cLRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 122,
+          "like_count": 592,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T08:18:07.000Z",
+        "description": "画/arcaea/CHUNITHM/日常/sdvx|CN/EN/JP||AP/JLPT||属性:🧠💻🎨🎮🎧||Neuroscience/EE||freelife||Check artworks in Highlights!||🔕 CP大乱炖⭕️狂暴杂食同人女🦅温良人类🪼RT狂魔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/laseelei0123",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/laseelei0123",
+                "start": 0,
+                "url": "https://t.co/boHS9JOnKv"
+              }
+            ]
+          }
+        },
+        "id": "1596780365237977089",
+        "location": "UTC+8",
+        "name": "Seyao Laseelei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969112413279756288/962AWD_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 2724,
+          "like_count": 55328,
+          "listed_count": 6,
+          "media_count": 835,
+          "tweet_count": 9195
+        },
+        "url": "https://t.co/boHS9JOnKv",
+        "username": "LaseeleiSeyao",
+        "verified": false
+      }
+    ]
+  }
+}

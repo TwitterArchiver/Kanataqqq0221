@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978384007479144448"
+      ],
+      "media_source_tweet_id": [
+        "1978384012407091465"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "1978645700566040626",
+    "created_at": "2025-10-16T02:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978645700566040626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1688895401599070208",
+          "start": 3,
+          "username": "genmaikomekosan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJbQ4A9yh2",
+          "end": 65,
+          "expanded_url": "https://x.com/genmaikomekosan/status/1978384012407091465/photo/1",
+          "media_key": "3_1978384007479144448",
+          "start": 42,
+          "url": "https://t.co/XJbQ4A9yh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978645700566040626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978384012407091465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genmaikomekosan: 性格も髪型(を描くの)も面倒臭いアイドル https://t.co/XJbQ4A9yh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_1978384007479144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ShxdsbsAAvRLi.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978384007479144448"
+          ],
+          "media_source_tweet_id": [
+            "1978384012407091465"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "1978645700566040626",
+        "created_at": "2025-10-16T02:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978645700566040626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1688895401599070208",
+              "start": 3,
+              "username": "genmaikomekosan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJbQ4A9yh2",
+              "end": 65,
+              "expanded_url": "https://x.com/genmaikomekosan/status/1978384012407091465/photo/1",
+              "media_key": "3_1978384007479144448",
+              "start": 42,
+              "url": "https://t.co/XJbQ4A9yh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978645700566040626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978384012407091465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genmaikomekosan: 性格も髪型(を描くの)も面倒臭いアイドル https://t.co/XJbQ4A9yh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978384007479144448"
+          ]
+        },
+        "author_id": "1688895401599070208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "1978384012407091465",
+        "created_at": "2025-10-15T08:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978384012407091465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJbQ4A9yh2",
+              "end": 44,
+              "expanded_url": "https://x.com/genmaikomekosan/status/1978384012407091465/photo/1",
+              "media_key": "3_1978384007479144448",
+              "start": 21,
+              "url": "https://t.co/XJbQ4A9yh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978384012407091465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1399,
+          "impression_count": 113284,
+          "like_count": 6069,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "性格も髪型(を描くの)も面倒臭いアイドル https://t.co/XJbQ4A9yh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:50:25.000Z",
+        "description": "ほぼ成人向け、ひっそり活動したい ⚠️DMは@komeko_genmaiへ⚠️ fantia🔞➡️ https://t.co/5LlJA0oIN2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "komeko_genmai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/507767",
+                "end": 73,
+                "expanded_url": "https://fantia.jp/fanclubs/507767",
+                "start": 50,
+                "url": "https://t.co/5LlJA0oIN2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/genmaikomeko",
+                "end": 23,
+                "expanded_url": "https://lit.link/genmaikomeko",
+                "start": 0,
+                "url": "https://t.co/KYO0Yt67fK"
+              }
+            ]
+          }
+        },
+        "id": "1688895401599070208",
+        "location": "サブ垢➡️@TINPOKO_KOMEKO",
+        "name": "玄米こめ子🔞",
+        "pinned_tweet_id": "1932800001102787016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924113838493876224/MGXa0rgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106699,
+          "following_count": 4,
+          "like_count": 14762,
+          "listed_count": 300,
+          "media_count": 301,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/KYO0Yt67fK",
+        "username": "genmaikomekosan",
+        "verified": true
+      }
+    ]
+  }
+}

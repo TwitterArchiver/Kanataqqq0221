@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2041688977577799843",
+    "created_at": "2026-04-08T01:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041688977577799843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1144143792",
+          "start": 3,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041688977577799843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041472368456146978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Crazy_Kid__: 这是一篇约稿推文：\n征集舞萌痴画师大手子，画黑白猫！\n立绘将用于下一版的痛车制作。\n预算充足，自由发挥空间大，只要画风对我胃口就行。\n带过往作品和报价狠狠砸我～🤗🤗\n\n以下の日本語は翻訳機を使用しています。\nmaimaiのイラスト募集！\nみ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2041472322637631489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTEQuGbkAEo4Bm.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2041688977577799843",
+        "created_at": "2026-04-08T01:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041688977577799843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1144143792",
+              "start": 3,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041688977577799843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041472368456146978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Crazy_Kid__: 这是一篇约稿推文：\n征集舞萌痴画师大手子，画黑白猫！\n立绘将用于下一版的痛车制作。\n预算充足，自由发挥空间大，只要画风对我胃口就行。\n带过往作品和报价狠狠砸我～🤗🤗\n\n以下の日本語は翻訳機を使用しています。\nmaimaiのイラスト募集！\nみ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041472322637631489"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2041472368456146978",
+        "created_at": "2026-04-07T11:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041472368456146978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McPfvhLhB2",
+              "end": 164,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2041472368456146978/photo/1",
+              "media_key": "3_2041472322637631489",
+              "start": 141,
+              "url": "https://t.co/McPfvhLhB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041472368456146978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 230,
+                "start": 227,
+                "tag": "约稿"
+              },
+              {
+                "end": 236,
+                "start": 231,
+                "tag": "有償依頼"
+              },
+              {
+                "end": 244,
+                "start": 237,
+                "tag": "maimai"
+              }
+            ]
+          },
+          "text": "这是一篇约稿推文：\n征集舞萌痴画师大手子，画黑白猫！\n立绘将用于下一版的痛车制作。\n预算充足，自由发挥空间大，只要画风对我胃口就行。\n带过往作品和报价狠狠砸我～🤗🤗\n\n以下の日本語は翻訳機を使用しています。\nmaimaiのイラスト募集！\nみるく＆しゃまの立ち絵描いてほしいです～！\n次の痛車制作に使用予定です！\n予算はたっぷりあります！ 自由に描いていただいて全然OK、画風が好みなら誰でも大歓迎です！\n過去作品と料金、ガンガン送ってきてください～！\n\n#约稿 #有償依頼 #maimai"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5369,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "这是一篇约稿推文：\n征集舞萌痴画师大手子，画黑白猫！\n立绘将用于下一版的痛车制作。\n预算充足，自由发挥空间大，只要画风对我胃口就行。\n带过往作品和报价狠狠砸我～🤗🤗\n\n以下の日本語は翻訳機を使用しています。\nmaimaiのイラスト募集！\nみるく＆しゃまの立ち絵描いてほしいです～！ https://t.co/McPfvhLhB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 207,
+          "like_count": 1610,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / sbwmc / 全网第一台maimaiでらっくす四轮痛车车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 1578,
+          "like_count": 18536,
+          "listed_count": 31,
+          "media_count": 10475,
+          "tweet_count": 48762
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

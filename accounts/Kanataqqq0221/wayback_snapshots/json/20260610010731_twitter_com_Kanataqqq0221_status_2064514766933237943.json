@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064340509003538432",
+        "3_2064340535142400000",
+        "3_2064340540150423552",
+        "3_2064340550883643392"
+      ],
+      "media_source_tweet_id": [
+        "2064340636384518545",
+        "2064340636384518545",
+        "2064340636384518545",
+        "2064340636384518545"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064514766933237943",
+    "created_at": "2026-06-10T01:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064514766933237943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039323868280635392",
+          "start": 3,
+          "username": "momi_oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfBtTGNqCK",
+          "end": 57,
+          "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+          "media_key": "3_2064340509003538432",
+          "start": 34,
+          "url": "https://t.co/KfBtTGNqCK"
+        },
+        {
+          "display_url": "pic.x.com/KfBtTGNqCK",
+          "end": 57,
+          "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+          "media_key": "3_2064340535142400000",
+          "start": 34,
+          "url": "https://t.co/KfBtTGNqCK"
+        },
+        {
+          "display_url": "pic.x.com/KfBtTGNqCK",
+          "end": 57,
+          "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+          "media_key": "3_2064340540150423552",
+          "start": 34,
+          "url": "https://t.co/KfBtTGNqCK"
+        },
+        {
+          "display_url": "pic.x.com/KfBtTGNqCK",
+          "end": 57,
+          "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+          "media_key": "3_2064340550883643392",
+          "start": 34,
+          "url": "https://t.co/KfBtTGNqCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064514766933237943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064340636384518545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momi_oxo: ソルト　ブルーロイヤル\n＃maimai https://t.co/KfBtTGNqCK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2751,
+        "media_key": "3_2064340509003538432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCwW6a4AAl_H8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064340535142400000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCx4SaQAAywqv.jpg",
+        "width": 2731
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2064340540150423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCyK8aoAARBRR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 858,
+        "media_key": "3_2064340550883643392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCyy7akAAB0Fi.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064340509003538432",
+            "3_2064340535142400000",
+            "3_2064340540150423552",
+            "3_2064340550883643392"
+          ],
+          "media_source_tweet_id": [
+            "2064340636384518545",
+            "2064340636384518545",
+            "2064340636384518545",
+            "2064340636384518545"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064514766933237943",
+        "created_at": "2026-06-10T01:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064514766933237943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039323868280635392",
+              "start": 3,
+              "username": "momi_oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 57,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340509003538432",
+              "start": 34,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 57,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340535142400000",
+              "start": 34,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 57,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340540150423552",
+              "start": 34,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 57,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340550883643392",
+              "start": 34,
+              "url": "https://t.co/KfBtTGNqCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064514766933237943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064340636384518545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momi_oxo: ソルト　ブルーロイヤル\n＃maimai https://t.co/KfBtTGNqCK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064340509003538432",
+            "3_2064340535142400000",
+            "3_2064340540150423552",
+            "3_2064340550883643392"
+          ]
+        },
+        "author_id": "2039323868280635392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064340636384518545",
+        "created_at": "2026-06-09T13:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064340636384518545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 43,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340509003538432",
+              "start": 20,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 43,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340535142400000",
+              "start": 20,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 43,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340540150423552",
+              "start": 20,
+              "url": "https://t.co/KfBtTGNqCK"
+            },
+            {
+              "display_url": "pic.x.com/KfBtTGNqCK",
+              "end": 43,
+              "expanded_url": "https://x.com/momi_oxo/status/2064340636384518545/photo/1",
+              "media_key": "3_2064340550883643392",
+              "start": 20,
+              "url": "https://t.co/KfBtTGNqCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340636384518545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2578,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ソルト　ブルーロイヤル\n＃maimai https://t.co/KfBtTGNqCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 344,
+          "like_count": 2616,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T12:48:02.000Z",
+        "description": "",
+        "id": "2039323868280635392",
+        "name": "兎侑",
+        "pinned_tweet_id": "2060040447364612478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077365632634880/EgajvLFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 17,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 42
+        },
+        "username": "momi_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

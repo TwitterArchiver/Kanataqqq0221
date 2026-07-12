@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2024124743385817414",
+    "created_at": "2026-02-19T01:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024293508547567759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777344951556456448",
+          "start": 0,
+          "username": "AyakoHimy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024293508547567759",
+    "in_reply_to_user_id": "1777344951556456448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024149238318244242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyakoHimy 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2024124743385817414",
+        "created_at": "2026-02-19T01:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024293508547567759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777344951556456448",
+              "start": 0,
+              "username": "AyakoHimy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024293508547567759",
+        "in_reply_to_user_id": "1777344951556456448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024149238318244242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyakoHimy 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777344951556456448",
+        "conversation_id": "2024124743385817414",
+        "created_at": "2026-02-18T15:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024149238318244242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024149238318244242",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024124743385817414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 Chill girl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 129,
+          "like_count": 733,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T14:37:27.000Z",
+        "description": "24/06 21/01 私はフリーランスの作曲家兼画家です\n\nこの文章を読んでくださっているあなたと、ぜひ音楽でコラボレーションしたいです。\n\nここでは誰も私を知らないので、他のソーシャル メディア プラットフォームよりも自然に自分の日常生活や仕事をシェアしています。",
+        "id": "1777344951556456448",
+        "name": "ayako himy",
+        "pinned_tweet_id": "2015734311144833070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022891768249987072/0Ppo8nbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 56,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1095
+        },
+        "username": "AyakoHimy",
+        "verified": false
+      }
+    ]
+  }
+}

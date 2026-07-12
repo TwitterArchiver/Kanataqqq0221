@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061437975586803712",
+        "3_2061437975175856128",
+        "3_2061437974550843392"
+      ],
+      "media_source_tweet_id": [
+        "2061438175885905922",
+        "2061438175885905922",
+        "2061438175885905922"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061630554873987262",
+    "created_at": "2026-06-02T02:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061630554873987262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1688556439865090048",
+          "start": 3,
+          "username": "ysn42231385235"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJ9DCqGQkY",
+          "end": 52,
+          "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+          "media_key": "3_2061437975586803712",
+          "start": 29,
+          "url": "https://t.co/yJ9DCqGQkY"
+        },
+        {
+          "display_url": "pic.x.com/yJ9DCqGQkY",
+          "end": 52,
+          "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+          "media_key": "3_2061437975175856128",
+          "start": 29,
+          "url": "https://t.co/yJ9DCqGQkY"
+        },
+        {
+          "display_url": "pic.x.com/yJ9DCqGQkY",
+          "end": 52,
+          "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+          "media_key": "3_2061437974550843392",
+          "start": 29,
+          "url": "https://t.co/yJ9DCqGQkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061630554873987262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061438175885905922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysn42231385235: 女仆咖啡厅日后谈 https://t.co/yJ9DCqGQkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061437975586803712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuy6rVaEAA-RzA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061437975175856128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuy6pzbgAAiUj8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061437974550843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuy6neakAAVdne.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061437975586803712",
+            "3_2061437975175856128",
+            "3_2061437974550843392"
+          ],
+          "media_source_tweet_id": [
+            "2061438175885905922",
+            "2061438175885905922",
+            "2061438175885905922"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061630554873987262",
+        "created_at": "2026-06-02T02:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061630554873987262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1688556439865090048",
+              "start": 3,
+              "username": "ysn42231385235"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 52,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437975586803712",
+              "start": 29,
+              "url": "https://t.co/yJ9DCqGQkY"
+            },
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 52,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437975175856128",
+              "start": 29,
+              "url": "https://t.co/yJ9DCqGQkY"
+            },
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 52,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437974550843392",
+              "start": 29,
+              "url": "https://t.co/yJ9DCqGQkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061630554873987262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061438175885905922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysn42231385235: 女仆咖啡厅日后谈 https://t.co/yJ9DCqGQkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061437975586803712",
+            "3_2061437975175856128",
+            "3_2061437974550843392"
+          ]
+        },
+        "author_id": "1688556439865090048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061438175885905922",
+        "created_at": "2026-06-01T13:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061438175885905922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 32,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437975586803712",
+              "start": 9,
+              "url": "https://t.co/yJ9DCqGQkY"
+            },
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 32,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437975175856128",
+              "start": 9,
+              "url": "https://t.co/yJ9DCqGQkY"
+            },
+            {
+              "display_url": "pic.x.com/yJ9DCqGQkY",
+              "end": 32,
+              "expanded_url": "https://x.com/ysn42231385235/status/2061438175885905922/photo/1",
+              "media_key": "3_2061437974550843392",
+              "start": 9,
+              "url": "https://t.co/yJ9DCqGQkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438175885905922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女仆咖啡厅日后谈 https://t.co/yJ9DCqGQkY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 284,
+          "like_count": 2479,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "Vocaloid丨音ゲー好き丨OD丨ヲタ芸初心者                                         \n男的，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，我不为此账号任何言论负责，切勿当真，可爱小妹妹私信我 (*^▽^*)",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "月誓",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057602600904896512/eezwLCox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 542,
+          "like_count": 7914,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2412
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

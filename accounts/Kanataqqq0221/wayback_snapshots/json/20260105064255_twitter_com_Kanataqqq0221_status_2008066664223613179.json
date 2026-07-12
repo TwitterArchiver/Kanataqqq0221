@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2007406094524789202",
+    "created_at": "2026-01-05T06:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T07:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008066664223613179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "149891783",
+          "start": 0,
+          "username": "Kobaryo_2b1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008066664223613179",
+    "in_reply_to_user_id": "149891783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007406094524789202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kobaryo_2b1c Angela可愛い！！……\nえ…Kobaryo！？！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2007404456900734983",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9u7t8YasAcFF73.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2007406094524789202",
+        "created_at": "2026-01-05T06:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008066664223613179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "149891783",
+              "start": 0,
+              "username": "Kobaryo_2b1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008066664223613179",
+        "in_reply_to_user_id": "149891783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007406094524789202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kobaryo_2b1c Angela可愛い！！……\nえ…Kobaryo！？！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007404456900734983"
+          ]
+        },
+        "author_id": "149891783",
+        "conversation_id": "2007406094524789202",
+        "created_at": "2026-01-03T10:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007406094524789202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOEDhn5Bhe",
+              "end": 23,
+              "expanded_url": "https://x.com/Kobaryo_2b1c/status/2007406094524789202/photo/1",
+              "media_key": "3_2007404456900734983",
+              "start": 0,
+              "url": "https://t.co/sOEDhn5Bhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007406094524789202",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 964,
+          "impression_count": 166538,
+          "like_count": 10203,
+          "quote_count": 62,
+          "reply_count": 30,
+          "retweet_count": 1403
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sOEDhn5Bhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 94,
+          "like_count": 381,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-30T14:17:24.000Z",
+        "description": "❏ 作曲 / 編曲 / イラスト / デザイン等\n❏ 楽曲提供: D4DJ、SEGA、TAITO、WACCA、アリス・ギア・アイギス、東方ダンマクカグラ、Arcaea、神椿市協奏中。等\n\n❖ https://t.co/Fj3rbQDFim\n❖ https://t.co/uxuPmECOCE\n❖ @hitnex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "hitnex"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Kobaryo",
+                "end": 119,
+                "expanded_url": "http://youtube.com/c/Kobaryo",
+                "start": 96,
+                "url": "https://t.co/Fj3rbQDFim"
+              },
+              {
+                "display_url": "pixiv.me/mdkb",
+                "end": 145,
+                "expanded_url": "http://pixiv.me/mdkb",
+                "start": 122,
+                "url": "https://t.co/uxuPmECOCE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kobaryo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kobaryo",
+                "start": 0,
+                "url": "https://t.co/bcOfK2ajJo"
+              }
+            ]
+          }
+        },
+        "id": "149891783",
+        "location": "ご依頼等→ cutemachine268@gmail.com",
+        "name": "Kobaryo",
+        "pinned_tweet_id": "1782001718286483706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510608573667373056/roCBB1VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72435,
+          "following_count": 1456,
+          "like_count": 170831,
+          "listed_count": 373,
+          "media_count": 4365,
+          "tweet_count": 26838
+        },
+        "url": "https://t.co/bcOfK2ajJo",
+        "username": "Kobaryo_2b1c",
+        "verified": true
+      }
+    ]
+  }
+}

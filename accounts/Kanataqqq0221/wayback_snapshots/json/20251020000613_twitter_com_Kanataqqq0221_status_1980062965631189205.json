@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980062965631189205",
+    "created_at": "2025-10-20T00:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980062965631189205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1979716946259226932",
+          "start": 5,
+          "url": "https://t.co/0ltc2nOdp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980062965631189205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979716946259226932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草，棍 https://t.co/0ltc2nOdp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1979716915460288512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3leC63XsAAs12G.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980062965631189205",
+        "created_at": "2025-10-20T00:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980062965631189205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1979716946259226932",
+              "start": 5,
+              "url": "https://t.co/0ltc2nOdp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980062965631189205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979716946259226932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，棍 https://t.co/0ltc2nOdp0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979716915460288512"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1979716946259226932",
+        "created_at": "2025-10-19T01:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979716946259226932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIHpxfbbQD",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1979716946259226932/photo/1",
+              "media_key": "3_1979716915460288512",
+              "start": 0,
+              "url": "https://t.co/sIHpxfbbQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979716946259226932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 25200,
+          "like_count": 682,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sIHpxfbbQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 51
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20442,
+          "following_count": 206,
+          "like_count": 53,
+          "listed_count": 57,
+          "media_count": 6970,
+          "tweet_count": 6994
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

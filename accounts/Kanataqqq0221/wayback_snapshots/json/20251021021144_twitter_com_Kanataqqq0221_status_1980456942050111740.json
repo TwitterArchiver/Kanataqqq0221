@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980456942050111740",
+    "created_at": "2025-10-21T02:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980456942050111740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "754155633537155072",
+          "start": 3,
+          "username": "NeCroSucc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980456942050111740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971712212592214363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeCroSucc: 好在意啊\n到底是拍这张的时候还是其实绝大多数时候都在全身用力凹造型\n好在意啊\n好在意脚趾啊\n它到底在自作主张的干什么\n为什么看起来那么用力\n*附1 中指只是一时兴起\n*附2 嗯 垫了两个不同颜色的猫爪手套\n实在找不到能撑起来大小还合适的了\n不过后续…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980456942050111740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980456942050111740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980456942050111740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2261,
+        "media_key": "3_1971712208037154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ztzn9bEAAoAFR.jpg",
+        "width": 2208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971712208037154816"
+          ]
+        },
+        "author_id": "754155633537155072",
+        "conversation_id": "1971712212592214363",
+        "created_at": "2025-09-26T23:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971712212592214363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ty2040yGYM",
+              "end": 174,
+              "expanded_url": "https://x.com/NeCroSucc/status/1971712212592214363/photo/1",
+              "media_key": "3_1971712208037154816",
+              "start": 151,
+              "url": "https://t.co/ty2040yGYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971712212592214363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2006,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好在意啊\n到底是拍这张的时候还是其实绝大多数时候都在全身用力凹造型\n好在意啊\n好在意脚趾啊\n它到底在自作主张的干什么\n为什么看起来那么用力\n*附1 中指只是一时兴起\n*附2 嗯 垫了两个不同颜色的猫爪手套\n实在找不到能撑起来大小还合适的了\n不过后续的都看不大出来垫了\n*附3 因为睡不着想发推 就发了 https://t.co/ty2040yGYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 73
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-16T03:28:09.000Z",
+        "description": "是的我是冲动的时候会搭话的超级社恐 也可能是丑人多作怪 *INFP*\n今晚的主菜是意识到自己一事无成的鹅肝 再混合一些碎纸币 撒上变了味的理想出锅装盘\n配菜是半颗在狭小空间里待久了 干瘪又难闻的苹果\n可能是一款赛博galgame\n泛/4i 更多资讯好感度解锁（\n晚上好\n璀璨的星星们",
+        "id": "754155633537155072",
+        "location": "巢",
+        "name": "Mrs.Crow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524759351348514816/W0pb5D2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 409,
+          "like_count": 1340,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 942
+        },
+        "username": "NeCroSucc",
+        "verified": false
+      }
+    ]
+  }
+}

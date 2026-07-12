@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042603988038881283"
+      ],
+      "media_source_tweet_id": [
+        "2043267888325460066"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043586338906350035",
+    "created_at": "2026-04-13T07:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043586338906350035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "tanoc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "500649442",
+          "start": 3,
+          "username": "tanoc_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3p0mVKZPe",
+          "end": 68,
+          "expanded_url": "https://x.com/tanoc_official/status/2043267888325460066/video/1",
+          "media_key": "13_2042603988038881283",
+          "start": 45,
+          "url": "https://t.co/P3p0mVKZPe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043586338906350035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043267888325460066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanoc_official: 「ハードコア銃」のヒミツがヤバい…\n#tanoc https://t.co/P3p0mVKZPe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20737,
+        "height": 1920,
+        "media_key": "13_2042603988038881283",
+        "preview_image_url": "https://pbs.twimg.com/media/HFjK_W3akAYHVFS.jpg",
+        "public_metrics": {
+          "view_count": 33710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042603988038881283/pl/pmuvERGr9ZMjRdnc.m3u8?v=1cd"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042603988038881283/vid/avc1/480x852/rWK5Uen0jfjv8BUV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042603988038881283/vid/avc1/1080x1920/dNBCGurmzlADBVuz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042603988038881283/vid/avc1/720x1280/Feqk4oPM7JUiD5Jr.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042603988038881283/vid/avc1/320x568/FLVI6oJTb50ofnWC.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042603988038881283"
+          ],
+          "media_source_tweet_id": [
+            "2043267888325460066"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043586338906350035",
+        "created_at": "2026-04-13T07:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043586338906350035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "tanoc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "500649442",
+              "start": 3,
+              "username": "tanoc_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3p0mVKZPe",
+              "end": 68,
+              "expanded_url": "https://x.com/tanoc_official/status/2043267888325460066/video/1",
+              "media_key": "13_2042603988038881283",
+              "start": 45,
+              "url": "https://t.co/P3p0mVKZPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043586338906350035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043267888325460066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanoc_official: 「ハードコア銃」のヒミツがヤバい…\n#tanoc https://t.co/P3p0mVKZPe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042603988038881283"
+          ]
+        },
+        "author_id": "500649442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043267888325460066",
+        "created_at": "2026-04-12T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043267888325460066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "tanoc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3p0mVKZPe",
+              "end": 48,
+              "expanded_url": "https://x.com/tanoc_official/status/2043267888325460066/video/1",
+              "media_key": "13_2042603988038881283",
+              "start": 25,
+              "url": "https://t.co/P3p0mVKZPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043267888325460066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 135315,
+          "like_count": 1651,
+          "quote_count": 52,
+          "reply_count": 4,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "「ハードコア銃」のヒミツがヤバい…\n#tanoc https://t.co/P3p0mVKZPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 228,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-23T10:12:20.000Z",
+        "description": "音楽制作集団 HARDCORE TANO*C\nYouTube ch. https://t.co/6XuF0S8GXv\n公式ハッシュタグ #tanoc \nゲーム配信 #タノシーゲーム部\nファンアート #たのあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 68,
+                "tag": "tanoc"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "tag": "タノシーゲーム部"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "たのあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@tanoc_official",
+                "end": 58,
+                "expanded_url": "https://www.youtube.com/@tanoc_official",
+                "start": 35,
+                "url": "https://t.co/6XuF0S8GXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tano-c.net",
+                "end": 23,
+                "expanded_url": "https://tano-c.net/",
+                "start": 0,
+                "url": "https://t.co/RWf4EIu5sZ"
+              }
+            ]
+          }
+        },
+        "id": "500649442",
+        "location": "Tokyo",
+        "name": "HARDCORE TANO*C",
+        "pinned_tweet_id": "2039664815929766202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1084393916391014400/nNIF3aPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101477,
+          "following_count": 51,
+          "like_count": 1,
+          "listed_count": 516,
+          "media_count": 2965,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/RWf4EIu5sZ",
+        "username": "tanoc_official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979840265717239808"
+      ],
+      "media_source_tweet_id": [
+        "1979840271883100447"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980061974370377915",
+    "created_at": "2025-10-20T00:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980061974370377915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616627158755205121",
+          "start": 3,
+          "username": "EasypeekWORKS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Vlygktuzj",
+          "end": 48,
+          "expanded_url": "https://x.com/EasypeekWORKS/status/1979840271883100447/photo/1",
+          "media_key": "3_1979840265717239808",
+          "start": 25,
+          "url": "https://t.co/3Vlygktuzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980061974370377915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 713
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979840271883100447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EasypeekWORKS: いじめっこ https://t.co/3Vlygktuzj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979840265717239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nOO2YXUAA4BV0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979840265717239808"
+          ],
+          "media_source_tweet_id": [
+            "1979840271883100447"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980061974370377915",
+        "created_at": "2025-10-20T00:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980061974370377915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1616627158755205121",
+              "start": 3,
+              "username": "EasypeekWORKS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Vlygktuzj",
+              "end": 48,
+              "expanded_url": "https://x.com/EasypeekWORKS/status/1979840271883100447/photo/1",
+              "media_key": "3_1979840265717239808",
+              "start": 25,
+              "url": "https://t.co/3Vlygktuzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980061974370377915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 713
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979840271883100447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EasypeekWORKS: いじめっこ https://t.co/3Vlygktuzj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979840265717239808"
+          ]
+        },
+        "author_id": "1616627158755205121",
+        "conversation_id": "1979840271883100447",
+        "created_at": "2025-10-19T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979840271883100447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Vlygktuzj",
+              "end": 29,
+              "expanded_url": "https://x.com/EasypeekWORKS/status/1979840271883100447/photo/1",
+              "media_key": "3_1979840265717239808",
+              "start": 6,
+              "url": "https://t.co/3Vlygktuzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979840271883100447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3480,
+          "impression_count": 161981,
+          "like_count": 16113,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 713
+        },
+        "reply_settings": "everyone",
+        "text": "いじめっこ https://t.co/3Vlygktuzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 42,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 47
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T02:42:14.000Z",
+        "description": "Looking for drawing friends! 1次創作/ WHISKY / VINYL / ZIPPO / CIGARS / VRC→@ovespk https://t.co/0X7p3vIL6Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "ovespk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "easypeekworks.booth.pm",
+                "end": 104,
+                "expanded_url": "https://easypeekworks.booth.pm",
+                "start": 81,
+                "url": "https://t.co/0X7p3vIL6Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overeasypeek.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://overeasypeek.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/iGyxYpf4GB"
+              }
+            ]
+          }
+        },
+        "id": "1616627158755205121",
+        "location": "he/him",
+        "name": "いじぴく Easypeek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961568534380908544/fEM_4z1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6084,
+          "following_count": 189,
+          "like_count": 22979,
+          "listed_count": 54,
+          "media_count": 147,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/iGyxYpf4GB",
+        "username": "EasypeekWORKS",
+        "verified": false
+      }
+    ]
+  }
+}

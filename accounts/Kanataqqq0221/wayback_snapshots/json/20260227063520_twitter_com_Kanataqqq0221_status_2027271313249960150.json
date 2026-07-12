@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2027070377344766008",
+    "created_at": "2026-02-27T06:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027271313249960150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569966034035134464",
+          "start": 0,
+          "username": "sukixi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027271313249960150",
+    "in_reply_to_user_id": "1569966034035134464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027070377344766008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukixi_ovo 好美丽😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3357,
+        "media_key": "3_2027070370302619648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGZwwybcAAbEe8.jpg",
+        "width": 2516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2027070377344766008",
+        "created_at": "2026-02-27T06:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027271313249960150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569966034035134464",
+              "start": 0,
+              "username": "sukixi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027271313249960150",
+        "in_reply_to_user_id": "1569966034035134464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027070377344766008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukixi_ovo 好美丽😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027070370302619648"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "conversation_id": "2027070377344766008",
+        "created_at": "2026-02-26T17:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027070377344766008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNdQ4g8PI8",
+              "end": 23,
+              "expanded_url": "https://x.com/sukixi_ovo/status/2027070377344766008/photo/1",
+              "media_key": "3_2027070370302619648",
+              "start": 0,
+              "url": "https://t.co/LNdQ4g8PI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027070377344766008",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 860,
+          "impression_count": 91096,
+          "like_count": 12410,
+          "quote_count": 22,
+          "reply_count": 31,
+          "retweet_count": 1258
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LNdQ4g8PI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 130,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024145896255156224/xHJ5RTev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 165,
+          "like_count": 1174,
+          "listed_count": 11,
+          "media_count": 181,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

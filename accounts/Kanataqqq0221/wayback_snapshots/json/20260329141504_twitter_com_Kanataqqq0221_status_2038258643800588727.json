@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038218666668622302",
+    "created_at": "2026-03-29T14:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038258643800588727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038258643800588727",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038258556949123144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 太贵了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038218666668622302",
+        "created_at": "2026-03-29T14:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038258643800588727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038258643800588727",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038258556949123144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 太贵了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688556439865090048",
+        "conversation_id": "2038218666668622302",
+        "created_at": "2026-03-29T14:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038258556949123144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038258556949123144",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038237009219911920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 深圳找找挺多吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 180,
+          "like_count": 1299,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "Vocaloid丨音ゲー好き丨apex 丨VRChat 丨 ヲタ芸丨\n 上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子。\n打apex加我",
+        "id": "1688556439865090048",
+        "location": "术p音游apex互fo欢迎",
+        "name": "月誓",
+        "pinned_tweet_id": "2037291424472019237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852021990514921472/U9BdZls7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 348,
+          "like_count": 3608,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 731
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

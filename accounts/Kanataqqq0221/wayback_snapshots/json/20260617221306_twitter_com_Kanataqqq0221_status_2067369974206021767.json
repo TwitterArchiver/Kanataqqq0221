@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2066960015773356432",
+    "created_at": "2026-06-17T22:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067369974206021767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635679785132371969",
+          "start": 0,
+          "username": "_Culacc1no_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067369974206021767",
+    "in_reply_to_user_id": "1635679785132371969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067035256595841463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Culacc1no_ @Recz3eth 666一命掉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2195,
+        "media_key": "3_2067035250434416640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-Vm9BaoAAi6F-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-17T22:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067369974206021767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635679785132371969",
+              "start": 0,
+              "username": "_Culacc1no_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067369974206021767",
+        "in_reply_to_user_id": "1635679785132371969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067035256595841463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Culacc1no_ @Recz3eth 666一命掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067035250434416640"
+          ]
+        },
+        "author_id": "1635679785132371969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-17T00:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067035256595841463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "Recz3eth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3fRabBQ7L",
+              "end": 47,
+              "expanded_url": "https://x.com/_Culacc1no_/status/2067035256595841463/photo/1",
+              "media_key": "3_2067035250434416640",
+              "start": 24,
+              "url": "https://t.co/e3fRabBQ7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067035256595841463",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 94610,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066960015773356432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Recz3eth 典，跳了之后复活在b站直播 https://t.co/e3fRabBQ7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 348,
+          "like_count": 2659,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T16:30:37.000Z",
+        "description": "Mt😺｜春来我不先哈气，哪个基米敢作声！｜死にたいわけじゃなくて    明日を生きるのが辛いだけ",
+        "id": "1635679785132371969",
+        "location": "Meow Town",
+        "name": "和乐 清浅",
+        "pinned_tweet_id": "1944085551961059797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898845031886381056/PIofMUtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 909,
+          "like_count": 14021,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "_Culacc1no_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980787569874112647",
+    "created_at": "2025-10-22T00:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T01:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980787569874112647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hsn8086/status/1980331242051760359",
+          "start": 5,
+          "url": "https://t.co/Hc5Nn8D0M8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980787569874112647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980331242051760359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雅美咯。 https://t.co/Hc5Nn8D0M8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_1980331229800001536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3uMwuHXcAAlR74.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980787569874112647",
+        "created_at": "2025-10-22T00:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980787569874112647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hsn8086/status/1980331242051760359",
+              "start": 5,
+              "url": "https://t.co/Hc5Nn8D0M8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980787569874112647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980331242051760359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雅美咯。 https://t.co/Hc5Nn8D0M8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980331229800001536"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980331242051760359",
+        "created_at": "2025-10-20T17:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980331242051760359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbBRWrLtMY",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1980331242051760359/photo/1",
+              "media_key": "3_1980331229800001536",
+              "start": 0,
+              "url": "https://t.co/cbBRWrLtMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980331242051760359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 391088,
+          "like_count": 1932,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cbBRWrLtMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 80
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102153,
+          "following_count": 992,
+          "like_count": 45545,
+          "listed_count": 228,
+          "media_count": 16687,
+          "tweet_count": 24634
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

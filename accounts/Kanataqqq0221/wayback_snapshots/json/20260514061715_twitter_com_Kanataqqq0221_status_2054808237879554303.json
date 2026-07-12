@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054808229860020224"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2054808237879554303",
+    "created_at": "2026-05-14T06:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054808237879554303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RR3JRWzULw",
+          "end": 23,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2054808237879554303/photo/1",
+          "media_key": "3_2054808229860020224",
+          "start": 0,
+          "url": "https://t.co/RR3JRWzULw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054808237879554303",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RR3JRWzULw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2054808229860020224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQlMr5bEAAJ0fH.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054808229860020224"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2054808237879554303",
+        "created_at": "2026-05-14T06:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054808237879554303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RR3JRWzULw",
+              "end": 23,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2054808237879554303/photo/1",
+              "media_key": "3_2054808229860020224",
+              "start": 0,
+              "url": "https://t.co/RR3JRWzULw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054808237879554303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RR3JRWzULw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 265,
+          "like_count": 2311,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

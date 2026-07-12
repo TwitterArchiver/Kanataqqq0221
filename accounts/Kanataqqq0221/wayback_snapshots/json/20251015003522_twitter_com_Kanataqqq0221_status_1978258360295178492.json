@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978258353735516160"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1978258360295178492",
+    "created_at": "2025-10-15T00:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T01:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978258360295178492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDapz5CViP",
+          "end": 28,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1978258360295178492/photo/1",
+          "media_key": "3_1978258353735516160",
+          "start": 5,
+          "url": "https://t.co/MDapz5CViP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978258360295178492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "習作。🥺 https://t.co/MDapz5CViP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978258353735516160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3QvfdBawAA7ICz.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978258353735516160"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1978258360295178492",
+        "created_at": "2025-10-15T00:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T01:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978258360295178492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDapz5CViP",
+              "end": 28,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1978258360295178492/photo/1",
+              "media_key": "3_1978258353735516160",
+              "start": 5,
+              "url": "https://t.co/MDapz5CViP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978258360295178492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "習作。🥺 https://t.co/MDapz5CViP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

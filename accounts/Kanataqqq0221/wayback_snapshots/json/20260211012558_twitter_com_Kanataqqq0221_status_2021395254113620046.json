@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021395254113620046",
+    "created_at": "2026-02-11T01:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021395254113620046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/otoge_checker/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/otoge_checker/status/2020502709712114114",
+          "start": 2,
+          "url": "https://t.co/MvnOhFw58y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021395254113620046",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020502709712114114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✅ https://t.co/MvnOhFw58y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021395254113620046",
+        "created_at": "2026-02-11T01:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021395254113620046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/otoge_checker/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/otoge_checker/status/2020502709712114114",
+              "start": 2,
+              "url": "https://t.co/MvnOhFw58y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021395254113620046",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020502709712114114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✅ https://t.co/MvnOhFw58y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115203330899202048",
+        "conversation_id": "2020502709712114114",
+        "created_at": "2026-02-08T14:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020502709712114114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020502709712114114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 367756,
+          "like_count": 5610,
+          "quote_count": 37,
+          "reply_count": 142,
+          "retweet_count": 415
+        },
+        "reply_settings": "everyone",
+        "text": "即使日本陷入沉重压抑的氛围，\n即使中日关系因政府或首相的影响进一步恶化，\n我仍将继续传播日本音乐游戏在中国市场的相关资讯，\n中日音乐游戏玩家之间的交流与友谊绝不能被破坏，更不应中断。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 131,
+          "like_count": 508,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T10:42:48.000Z",
+        "description": "バンダイナムコ・セガ・タイトーの音楽ゲームを中心に、新情報発表やイベント・大会・国外展開している日本の音ゲーについてゆるくお伝えします。(#BEMANI 機種の公式告知の日本国外プレーヤー向けの簡単な翻訳もつぶやきます)\n#アフィブログ転載禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 69,
+                "tag": "BEMANI"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "tag": "アフィブログ転載禁止"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/eager_yeti6246",
+                "end": 23,
+                "expanded_url": "https://note.com/eager_yeti6246",
+                "start": 0,
+                "url": "https://t.co/147gJROt5o"
+              }
+            ]
+          }
+        },
+        "id": "1115203330899202048",
+        "name": "音ゲーチェッカー(仮)",
+        "pinned_tweet_id": "2020872325265273182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1115205035976081413/4J49Bq7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 75,
+          "like_count": 87998,
+          "listed_count": 17,
+          "media_count": 6414,
+          "tweet_count": 59245
+        },
+        "url": "https://t.co/147gJROt5o",
+        "username": "otoge_checker",
+        "verified": false
+      }
+    ]
+  }
+}

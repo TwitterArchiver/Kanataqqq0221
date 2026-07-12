@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2053341072966004797",
+    "created_at": "2026-05-11T03:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053684447346839995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "858868164351873024",
+          "start": 0,
+          "username": "define02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053684447346839995",
+    "in_reply_to_user_id": "858868164351873024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053682821701710170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@define02 哎哟我去 看到这种直接捏鼻子绕路走了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2053341072966004797",
+        "created_at": "2026-05-11T03:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053684447346839995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "858868164351873024",
+              "start": 0,
+              "username": "define02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053684447346839995",
+        "in_reply_to_user_id": "858868164351873024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053682821701710170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@define02 哎哟我去 看到这种直接捏鼻子绕路走了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858868164351873024",
+        "conversation_id": "2053341072966004797",
+        "created_at": "2026-05-11T03:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053682821701710170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053682821701710170",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053341072966004797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 感觉空间刷到过 也可能是讲话同一股味儿的 上来就是贴贴抱抱的 说话还喜欢加个括弧的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 262,
+          "like_count": 2290,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1601
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T02:18:22.000Z",
+        "description": "最后一天冲击前继续告诉我",
+        "id": "858868164351873024",
+        "name": "驟雨の狭間",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038824282730684416/q6M8GsXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 80,
+          "like_count": 1893,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 487
+        },
+        "username": "define02",
+        "verified": false
+      }
+    ]
+  }
+}

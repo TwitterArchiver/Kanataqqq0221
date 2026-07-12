@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2039994170518175995",
+    "created_at": "2026-04-03T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039994170518175995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505182792547966978",
+          "start": 3,
+          "username": "azuki_komame100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039994170518175995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039650206044786960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azuki_komame100: 音ゲー界隈、発言が度々不味くないか\n実力性別年齢関係なく楽しもうぜ、互いに褒め合ったりアドバイスしたりしてさ\nそれが俺の望む音ゲー界隈の姿なんだけどおかしいかな？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2039994170518175995",
+        "created_at": "2026-04-03T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039994170518175995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505182792547966978",
+              "start": 3,
+              "username": "azuki_komame100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039994170518175995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039650206044786960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azuki_komame100: 音ゲー界隈、発言が度々不味くないか\n実力性別年齢関係なく楽しもうぜ、互いに褒め合ったりアドバイスしたりしてさ\nそれが俺の望む音ゲー界隈の姿なんだけどおかしいかな？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505182792547966978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2039650206044786960",
+        "created_at": "2026-04-02T10:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039650206044786960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039650206044786960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 179712,
+          "like_count": 1728,
+          "quote_count": 142,
+          "reply_count": 30,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "音ゲー界隈、発言が度々不味くないか\n実力性別年齢関係なく楽しもうぜ、互いに褒め合ったりアドバイスしたりしてさ\nそれが俺の望む音ゲー界隈の姿なんだけどおかしいかな？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 196,
+          "like_count": 1473,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T14:02:10.000Z",
+        "description": "'08 🚹色んな音ゲーを楽しんでます。 \n主に太鼓(2作名人)/maimai🌈/ウニ🌈\n基本タメ⭕️(自分からはタメしませんが)\n🗝️垢(フォロリク歓迎！)→@komame_azuki100\n単位捜索隊→@Unit_search\n素晴らしいアイコン→@pachikasu_kou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "komame_azuki100"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "Unit_search"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pachikasu_kou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@azuki_komame1…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@azuki_komame100",
+                "start": 0,
+                "url": "https://t.co/A55jDBCbf1"
+              }
+            ]
+          }
+        },
+        "id": "1505182792547966978",
+        "location": "ゲーセンに住みたいな",
+        "name": "あずき",
+        "pinned_tweet_id": "2039312691190509883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978696425778417664/mdaG1xKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 540,
+          "like_count": 16410,
+          "listed_count": 0,
+          "media_count": 856,
+          "tweet_count": 4192
+        },
+        "url": "https://t.co/A55jDBCbf1",
+        "username": "azuki_komame100",
+        "verified": false
+      }
+    ]
+  }
+}

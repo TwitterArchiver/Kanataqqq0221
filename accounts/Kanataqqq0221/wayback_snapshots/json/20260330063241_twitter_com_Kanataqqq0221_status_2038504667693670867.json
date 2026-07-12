@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038364410201448803",
+    "created_at": "2026-03-30T06:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038504667693670867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1097515527277240320",
+          "start": 0,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038504667693670867",
+    "in_reply_to_user_id": "1097515527277240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038364410201448803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYR487 感覺從宙星代往後的牌子都不像以前的那些好看）有點套模版的意味（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038364410201448803",
+        "created_at": "2026-03-30T06:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038504667693670867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1097515527277240320",
+              "start": 0,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038504667693670867",
+        "in_reply_to_user_id": "1097515527277240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038364410201448803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYR487 感覺從宙星代往後的牌子都不像以前的那些好看）有點套模版的意味（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097515527277240320",
+        "conversation_id": "2038364410201448803",
+        "created_at": "2026-03-29T21:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T22:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038364410201448803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038364410201448803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "話說回來\nCiRCLE版本叫做丸\n於是我們就有了丸代的牌子們\n......好啦其實不難看\n但我覺得字太擠了而且都擠在一邊\n我不太喜歡\n我應該會繼續掛我的櫻、白將\n之後再打彩、雪將這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 188,
+          "like_count": 1334,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ブルアカ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 4822,
+          "like_count": 161294,
+          "listed_count": 3,
+          "media_count": 1585,
+          "tweet_count": 66974
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

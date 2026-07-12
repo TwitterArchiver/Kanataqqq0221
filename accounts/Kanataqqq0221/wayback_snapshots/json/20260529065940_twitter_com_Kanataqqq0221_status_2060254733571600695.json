@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2060217918496133221",
+    "created_at": "2026-05-29T06:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060254733571600695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012867962596884480",
+          "start": 0,
+          "username": "Oblivious64756"
+        },
+        {
+          "end": 28,
+          "id": "1634356196697341953",
+          "start": 16,
+          "username": "TORLI114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060254733571600695",
+    "in_reply_to_user_id": "2012867962596884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060227522965745963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oblivious64756 @TORLI114514 于是我选择了复制歌词x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2060217918496133221",
+        "created_at": "2026-05-29T06:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060254733571600695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012867962596884480",
+              "start": 0,
+              "username": "Oblivious64756"
+            },
+            {
+              "end": 28,
+              "id": "1634356196697341953",
+              "start": 16,
+              "username": "TORLI114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060254733571600695",
+        "in_reply_to_user_id": "2012867962596884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060227522965745963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oblivious64756 @TORLI114514 于是我选择了复制歌词x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012867962596884480",
+        "conversation_id": "2060217918496133221",
+        "created_at": "2026-05-29T05:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060227522965745963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            },
+            {
+              "end": 27,
+              "id": "1634356196697341953",
+              "start": 15,
+              "username": "TORLI114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060227522965745963",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060217918496133221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 @TORLI114514 nibushishuonibuihuishiyongyingyuma😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 270,
+          "like_count": 2408,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T12:41:51.000Z",
+        "description": "這是一個自我介紹～",
+        "id": "2012867962596884480",
+        "location": "Houston, TX",
+        "name": "Oblivious",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032041773166698496/78iXaajg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 531,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 106
+        },
+        "username": "Oblivious64756",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 118,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "TORLI114514",
+        "verified": false
+      }
+    ]
+  }
+}

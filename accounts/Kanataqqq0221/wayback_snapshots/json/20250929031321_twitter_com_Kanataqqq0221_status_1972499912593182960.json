@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972141574953078784",
+        "3_1972141574986563584",
+        "3_1972141575024398339",
+        "3_1972141574952980480"
+      ],
+      "media_source_tweet_id": [
+        "1972141610747285722",
+        "1972141610747285722",
+        "1972141610747285722",
+        "1972141610747285722"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972499912593182960",
+    "created_at": "2025-09-29T03:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972499912593182960"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 19,
+          "tag": "チュウニズムシンメトリー界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843882731681525764",
+          "start": 3,
+          "username": "alice_0197319"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTiex2hpFb",
+          "end": 58,
+          "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+          "media_key": "3_1972141574953078784",
+          "start": 35,
+          "url": "https://t.co/aTiex2hpFb"
+        },
+        {
+          "display_url": "pic.x.com/aTiex2hpFb",
+          "end": 58,
+          "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+          "media_key": "3_1972141574986563584",
+          "start": 35,
+          "url": "https://t.co/aTiex2hpFb"
+        },
+        {
+          "display_url": "pic.x.com/aTiex2hpFb",
+          "end": 58,
+          "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+          "media_key": "3_1972141575024398339",
+          "start": 35,
+          "url": "https://t.co/aTiex2hpFb"
+        },
+        {
+          "display_url": "pic.x.com/aTiex2hpFb",
+          "end": 58,
+          "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+          "media_key": "3_1972141574952980480",
+          "start": 35,
+          "url": "https://t.co/aTiex2hpFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972499912593182960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972141610747285722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alice_0197319: #チュウニズムシンメトリー界隈 https://t.co/aTiex2hpFb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_1972141574953078784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G150UEXbkAA32ZR.jpg",
+        "width": 412
+      },
+      {
+        "height": 300,
+        "media_key": "3_1972141574986563584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G150UEfagAA4zAI.jpg",
+        "width": 384
+      },
+      {
+        "height": 300,
+        "media_key": "3_1972141575024398339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G150UEob0AM2icF.jpg",
+        "width": 366
+      },
+      {
+        "height": 300,
+        "media_key": "3_1972141574952980480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G150UEXaEAA74zW.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972141574953078784",
+            "3_1972141574986563584",
+            "3_1972141575024398339",
+            "3_1972141574952980480"
+          ],
+          "media_source_tweet_id": [
+            "1972141610747285722",
+            "1972141610747285722",
+            "1972141610747285722",
+            "1972141610747285722"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972499912593182960",
+        "created_at": "2025-09-29T03:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972499912593182960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 19,
+              "tag": "チュウニズムシンメトリー界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1843882731681525764",
+              "start": 3,
+              "username": "alice_0197319"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 58,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574953078784",
+              "start": 35,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 58,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574986563584",
+              "start": 35,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 58,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141575024398339",
+              "start": 35,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 58,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574952980480",
+              "start": 35,
+              "url": "https://t.co/aTiex2hpFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972499912593182960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972141610747285722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alice_0197319: #チュウニズムシンメトリー界隈 https://t.co/aTiex2hpFb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972141574953078784",
+            "3_1972141574986563584",
+            "3_1972141575024398339",
+            "3_1972141574952980480"
+          ]
+        },
+        "author_id": "1843882731681525764",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972141610747285722",
+        "created_at": "2025-09-28T03:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T04:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972141610747285722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "チュウニズムシンメトリー界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 39,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574953078784",
+              "start": 16,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 39,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574986563584",
+              "start": 16,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 39,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141575024398339",
+              "start": 16,
+              "url": "https://t.co/aTiex2hpFb"
+            },
+            {
+              "display_url": "pic.x.com/aTiex2hpFb",
+              "end": 39,
+              "expanded_url": "https://x.com/alice_0197319/status/1972141610747285722/photo/1",
+              "media_key": "3_1972141574952980480",
+              "start": 16,
+              "url": "https://t.co/aTiex2hpFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972141610747285722",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 19569,
+          "like_count": 313,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "#チュウニズムシンメトリー界隈 https://t.co/aTiex2hpFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす15978rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T05:14:52.000Z",
+        "description": "ユメステ星章97%↑ ウニ レ17.19 🫧ウニ弟子@morimiya812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "morimiya812"
+              }
+            ]
+          }
+        },
+        "id": "1843882731681525764",
+        "name": "ありすです🫧",
+        "pinned_tweet_id": "1967532689067778515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937569312241516545/VE6LaQ9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 293,
+          "like_count": 15233,
+          "listed_count": 0,
+          "media_count": 2171,
+          "tweet_count": 9664
+        },
+        "username": "alice_0197319",
+        "verified": false
+      }
+    ]
+  }
+}

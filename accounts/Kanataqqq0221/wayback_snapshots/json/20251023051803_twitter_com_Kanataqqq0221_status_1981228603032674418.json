@@ -1,0 +1,719 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980974816153788417",
+        "3_1980974815587540992"
+      ],
+      "media_source_tweet_id": [
+        "1980974819417203110",
+        "1980974819417203110"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1981228603032674418",
+    "created_at": "2025-10-23T05:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981228603032674418"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "妃咲",
+          "probability": 0.8447,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 32,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "竜華キサキ"
+        },
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "蔚蓝档案"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176338259871330304",
+          "start": 3,
+          "username": "UKYEJFT"
+        },
+        {
+          "end": 29,
+          "id": "2208688342",
+          "start": 16,
+          "username": "jiuqiqiqiqim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RTk9SX8E2g",
+          "end": 90,
+          "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+          "media_key": "3_1980974816153788417",
+          "start": 67,
+          "url": "https://t.co/RTk9SX8E2g"
+        },
+        {
+          "display_url": "pic.x.com/RTk9SX8E2g",
+          "end": 90,
+          "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+          "media_key": "3_1980974815587540992",
+          "start": 67,
+          "url": "https://t.co/RTk9SX8E2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981228603032674418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980974819417203110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UKYEJFT: 妃咲\n@jiuqiqiqiqim\n \n#BlueArchive \n#竜華キサキ \n#蔚蓝档案 \n#ブルアカ https://t.co/RTk9SX8E2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980974816153788417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33WGYHXYAE3rhq.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980974815587540992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33WGWAXIAACe9z.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980974816153788417",
+            "3_1980974815587540992"
+          ],
+          "media_source_tweet_id": [
+            "1980974819417203110",
+            "1980974819417203110"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1981228603032674418",
+        "created_at": "2025-10-23T05:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981228603032674418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "妃咲",
+              "probability": 0.8447,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "竜華キサキ"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176338259871330304",
+              "start": 3,
+              "username": "UKYEJFT"
+            },
+            {
+              "end": 29,
+              "id": "2208688342",
+              "start": 16,
+              "username": "jiuqiqiqiqim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTk9SX8E2g",
+              "end": 90,
+              "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+              "media_key": "3_1980974816153788417",
+              "start": 67,
+              "url": "https://t.co/RTk9SX8E2g"
+            },
+            {
+              "display_url": "pic.x.com/RTk9SX8E2g",
+              "end": 90,
+              "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+              "media_key": "3_1980974815587540992",
+              "start": 67,
+              "url": "https://t.co/RTk9SX8E2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981228603032674418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980974819417203110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UKYEJFT: 妃咲\n@jiuqiqiqiqim\n \n#BlueArchive \n#竜華キサキ \n#蔚蓝档案 \n#ブルアカ https://t.co/RTk9SX8E2g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980974816153788417",
+            "3_1980974815587540992"
+          ]
+        },
+        "author_id": "1176338259871330304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1980974819417203110",
+        "created_at": "2025-10-22T12:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980974819417203110"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "妃咲",
+              "probability": 0.8842,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "竜華キサキ"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2208688342",
+              "start": 3,
+              "username": "jiuqiqiqiqim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTk9SX8E2g",
+              "end": 77,
+              "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+              "media_key": "3_1980974816153788417",
+              "start": 54,
+              "url": "https://t.co/RTk9SX8E2g"
+            },
+            {
+              "display_url": "pic.x.com/RTk9SX8E2g",
+              "end": 77,
+              "expanded_url": "https://x.com/UKYEJFT/status/1980974819417203110/photo/1",
+              "media_key": "3_1980974815587540992",
+              "start": 54,
+              "url": "https://t.co/RTk9SX8E2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980974819417203110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 960,
+          "impression_count": 52163,
+          "like_count": 4217,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "妃咲\n@jiuqiqiqiqim\n \n#BlueArchive \n#竜華キサキ \n#蔚蓝档案 \n#ブルアカ https://t.co/RTk9SX8E2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中丨於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T03:31:20.000Z",
+        "description": "成都摄影飞鱼-photographer📸，发布皆为本人拍摄，约拍合作互勉私信~不接任何推广",
+        "id": "1176338259871330304",
+        "name": "会flying的fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534782001265332225/ay87Oi_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28089,
+          "following_count": 125,
+          "like_count": 351,
+          "listed_count": 160,
+          "media_count": 323,
+          "tweet_count": 388
+        },
+        "username": "UKYEJFT",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-05T11:33:54.000Z",
+        "description": "俺是九柒 🇨🇳 定制私 谢谢喜欢喵 无漏点和创可贴内容 无🔞不线下 不礼貌拉黑 支持我在 微店：https://t.co/8UNjpIqOV7 盒岛：https://t.co/1qE1DeanrG patreon：https://t.co/plOyen3wuC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/qv=OFBkH",
+                "end": 71,
+                "expanded_url": "https://k.youshop10.com/qv=OFBkH",
+                "start": 48,
+                "url": "https://t.co/8UNjpIqOV7"
+              },
+              {
+                "display_url": "hedaoapp.com/31751Z",
+                "end": 98,
+                "expanded_url": "http://www.hedaoapp.com/31751Z",
+                "start": 75,
+                "url": "https://t.co/1qE1DeanrG"
+              },
+              {
+                "display_url": "patreon.com/jiuqiqiqi",
+                "end": 130,
+                "expanded_url": "https://patreon.com/jiuqiqiqi",
+                "start": 107,
+                "url": "https://t.co/plOyen3wuC"
+              }
+            ]
+          }
+        },
+        "id": "2208688342",
+        "location": "🚪168",
+        "name": "九柒喵aaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928052449262096384/VuIhykcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64951,
+          "following_count": 52,
+          "like_count": 142,
+          "listed_count": 352,
+          "media_count": 144,
+          "tweet_count": 266
+        },
+        "username": "jiuqiqiqiqim",
+        "verified": false
+      }
+    ]
+  }
+}

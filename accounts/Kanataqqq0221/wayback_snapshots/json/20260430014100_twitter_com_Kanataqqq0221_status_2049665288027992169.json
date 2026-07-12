@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2049495561632690573",
+    "created_at": "2026-04-30T01:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049665288027992169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049665288027992169",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049495561632690573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 ❔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2049495561632690573",
+        "created_at": "2026-04-30T01:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049665288027992169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049665288027992169",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049495561632690573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 ❔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688556439865090048",
+        "conversation_id": "2049495561632690573",
+        "created_at": "2026-04-29T14:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049495561632690573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049495561632690573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推上的某个互fo，你要求的事我真办不了。 五一那天酒店水床和情趣房没有了， 房间最多入住四个活物 ，你一个人点八个地雷妹的确有点办不到，我上哪去找那么多又打舞萌又割手手的初中萝莉。香薰蜡烛皮鞭项圈手套大水aime卡这些要你自己准备 ，杜蕾斯买的鸣潮联名款，我给你发私信不理我，就只能在这说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 256,
+          "like_count": 2112,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "Vocaloid丨音ゲー好き丨OD\n男的，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，我不为此账号任何言论负责，切勿当真",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "月誓",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 427,
+          "like_count": 6332,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1610
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

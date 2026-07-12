@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979893438582566912"
+      ],
+      "media_source_tweet_id": [
+        "1979904114143232055"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1980457245713527141",
+    "created_at": "2025-10-21T02:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980457245713527141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1805233560116498432",
+          "start": 3,
+          "username": "hinadayooo_ty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TROnPjX2li",
+          "end": 54,
+          "expanded_url": "https://x.com/hinadayooo_ty/status/1979904114143232055/photo/1",
+          "media_key": "3_1979893438582566912",
+          "start": 31,
+          "url": "https://t.co/TROnPjX2li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980457245713527141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 681
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979904114143232055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hinadayooo_ty: ノーブラ✖️パーカー💕 https://t.co/TROnPjX2li"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979893438582566912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3n-l6vXMAAn6Vi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979893438582566912"
+          ],
+          "media_source_tweet_id": [
+            "1979904114143232055"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1980457245713527141",
+        "created_at": "2025-10-21T02:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980457245713527141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1805233560116498432",
+              "start": 3,
+              "username": "hinadayooo_ty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TROnPjX2li",
+              "end": 54,
+              "expanded_url": "https://x.com/hinadayooo_ty/status/1979904114143232055/photo/1",
+              "media_key": "3_1979893438582566912",
+              "start": 31,
+              "url": "https://t.co/TROnPjX2li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980457245713527141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 681
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979904114143232055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hinadayooo_ty: ノーブラ✖️パーカー💕 https://t.co/TROnPjX2li"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979893438582566912"
+          ]
+        },
+        "author_id": "1805233560116498432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1979904114143232055",
+        "created_at": "2025-10-19T13:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979904114143232055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TROnPjX2li",
+              "end": 35,
+              "expanded_url": "https://x.com/hinadayooo_ty/status/1979904114143232055/photo/1",
+              "media_key": "3_1979893438582566912",
+              "start": 12,
+              "url": "https://t.co/TROnPjX2li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979904114143232055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3729,
+          "impression_count": 444670,
+          "like_count": 27314,
+          "quote_count": 21,
+          "reply_count": 104,
+          "retweet_count": 681
+        },
+        "reply_settings": "everyone",
+        "text": "ノーブラ✖️パーカー💕 https://t.co/TROnPjX2li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 75
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T13:37:09.000Z",
+        "description": "ただいま、新生ひなだよ。\nちょっと色々あって落ち込んでたけど、少し大人になって戻ってきた🌷\n避難垢だよ🌷→@en_hinadayooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "en_hinadayooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/bBp3CtfqE6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/bBp3CtfqE6",
+                "start": 0,
+                "url": "https://t.co/jzJAJzRdAq"
+              }
+            ]
+          }
+        },
+        "id": "1805233560116498432",
+        "location": "💕🔞はこちら",
+        "name": "Hina🌷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949040387928252416/ri4z9t5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148801,
+          "following_count": 34,
+          "like_count": 4399,
+          "listed_count": 408,
+          "media_count": 85,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/jzJAJzRdAq",
+        "username": "hinadayooo_ty",
+        "verified": true
+      }
+    ]
+  }
+}

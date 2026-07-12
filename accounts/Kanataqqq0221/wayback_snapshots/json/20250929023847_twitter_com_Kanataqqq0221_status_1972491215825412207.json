@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972491207587864576",
+        "3_1972491207550128128"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972491215825412207",
+    "created_at": "2025-09-29T02:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T03:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972491215825412207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9s347J7Azk",
+          "end": 51,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1972491215825412207/photo/1",
+          "media_key": "3_1972491207587864576",
+          "start": 28,
+          "url": "https://t.co/9s347J7Azk"
+        },
+        {
+          "display_url": "pic.x.com/9s347J7Azk",
+          "end": 51,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1972491215825412207/photo/1",
+          "media_key": "3_1972491207550128128",
+          "start": 28,
+          "url": "https://t.co/9s347J7Azk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972491215825412207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位覺得黑的還是白的好🥺\n所以為什麼沒有人看咱的X啊！ https://t.co/9s347J7Azk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972491207587864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-yTXbbIAA_mmV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1972491207550128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-yTXSbUAAY28V.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972491207587864576",
+            "3_1972491207550128128"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972491215825412207",
+        "created_at": "2025-09-29T02:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972491215825412207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9s347J7Azk",
+              "end": 51,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1972491215825412207/photo/1",
+              "media_key": "3_1972491207587864576",
+              "start": 28,
+              "url": "https://t.co/9s347J7Azk"
+            },
+            {
+              "display_url": "pic.x.com/9s347J7Azk",
+              "end": 51,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1972491215825412207/photo/1",
+              "media_key": "3_1972491207550128128",
+              "start": 28,
+              "url": "https://t.co/9s347J7Azk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972491215825412207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位覺得黑的還是白的好🥺\n所以為什麼沒有人看咱的X啊！ https://t.co/9s347J7Azk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす15978rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "Kanataqかなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062982520032092160",
+        "3_2062982520048852992",
+        "13_2062982971045670912",
+        "3_2062982520040574976"
+      ],
+      "media_source_tweet_id": [
+        "2062983181385744768",
+        "2062983181385744768",
+        "2062983181385744768",
+        "2062983181385744768"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063092799298548171",
+    "created_at": "2026-06-06T02:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063092799298548171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474198081864626179",
+          "start": 3,
+          "username": "CTS_TOAST"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRpJkY6lh9",
+          "end": 138,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+          "media_key": "3_2062982520032092160",
+          "start": 115,
+          "url": "https://t.co/eRpJkY6lh9"
+        },
+        {
+          "display_url": "pic.x.com/eRpJkY6lh9",
+          "end": 138,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+          "media_key": "3_2062982520048852992",
+          "start": 115,
+          "url": "https://t.co/eRpJkY6lh9"
+        },
+        {
+          "display_url": "pic.x.com/eRpJkY6lh9",
+          "end": 138,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+          "media_key": "13_2062982971045670912",
+          "start": 115,
+          "url": "https://t.co/eRpJkY6lh9"
+        },
+        {
+          "display_url": "pic.x.com/eRpJkY6lh9",
+          "end": 138,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+          "media_key": "3_2062982520040574976",
+          "start": 115,
+          "url": "https://t.co/eRpJkY6lh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063092799298548171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062983181385744768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CTS_TOAST: ⭐️⭐️第20張神牌 星神確定⭐️⭐️\nSolips MAS 初AP!!!\n從總次數110次多拼到340才AP也是很有心得了 \n獎勵自己下禮拜五去打鐘塔🫪🫪\nMaybe把祝鏡神打完再回去打白QZ😭😭 https://t.co/eRpJkY6lh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062982520032092160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEvq_xaYAAD6C3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1946,
+        "media_key": "3_2062982520048852992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEvq_1aIAAq9xv.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 125840,
+        "height": 1280,
+        "media_key": "13_2062982971045670912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062982971045670912/img/2DUCr7MZ_zD7pwmq.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062982971045670912/vid/avc1/320x568/um2URiLWLD-57wOa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062982971045670912/vid/avc1/480x852/OEh7ZD2Vvcn3nhXa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062982971045670912/vid/avc1/720x1280/yTioCkX-xGoL84Rj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062982971045670912/pl/7ij_Cu7SmtxiwR-a.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 322,
+        "media_key": "3_2062982520040574976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEvq_zb0AAdL8E.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062982520032092160",
+            "3_2062982520048852992",
+            "13_2062982971045670912",
+            "3_2062982520040574976"
+          ],
+          "media_source_tweet_id": [
+            "2062983181385744768",
+            "2062983181385744768",
+            "2062983181385744768",
+            "2062983181385744768"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063092799298548171",
+        "created_at": "2026-06-06T02:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063092799298548171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474198081864626179",
+              "start": 3,
+              "username": "CTS_TOAST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 138,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520032092160",
+              "start": 115,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 138,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520048852992",
+              "start": 115,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 138,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "13_2062982971045670912",
+              "start": 115,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 138,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520040574976",
+              "start": 115,
+              "url": "https://t.co/eRpJkY6lh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063092799298548171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062983181385744768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CTS_TOAST: ⭐️⭐️第20張神牌 星神確定⭐️⭐️\nSolips MAS 初AP!!!\n從總次數110次多拼到340才AP也是很有心得了 \n獎勵自己下禮拜五去打鐘塔🫪🫪\nMaybe把祝鏡神打完再回去打白QZ😭😭 https://t.co/eRpJkY6lh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062982520032092160",
+            "3_2062982520048852992",
+            "13_2062982971045670912",
+            "3_2062982520040574976"
+          ]
+        },
+        "author_id": "1474198081864626179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062983181385744768",
+        "created_at": "2026-06-05T19:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062983181385744768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 123,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520032092160",
+              "start": 100,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 123,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520048852992",
+              "start": 100,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 123,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "13_2062982971045670912",
+              "start": 100,
+              "url": "https://t.co/eRpJkY6lh9"
+            },
+            {
+              "display_url": "pic.x.com/eRpJkY6lh9",
+              "end": 123,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2062983181385744768/video/1",
+              "media_key": "3_2062982520040574976",
+              "start": 100,
+              "url": "https://t.co/eRpJkY6lh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062983181385744768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "⭐️⭐️第20張神牌 星神確定⭐️⭐️\nSolips MAS 初AP!!!\n從總次數110次多拼到340才AP也是很有心得了 \n獎勵自己下禮拜五去打鐘塔🫪🫪\nMaybe把祝鏡神打完再回去打白QZ😭😭 https://t.co/eRpJkY6lh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 289,
+          "like_count": 2530,
+          "listed_count": 4,
+          "media_count": 327,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T01:59:58.000Z",
+        "description": "台湾🇹🇼音ゲー玩家/20y/太鼓 23,24,25赤十/maimai Lv.13～14全AP 20神10舞舞 舞神 残り2/Chunithm AVG16.87/オンゲキ R17/WACCA XIII/移動端:Arknights,雀魂,Pikmin/努力健身中/一個全工半讀沒什麼時間的人/其他想到再+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@toast-720?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@toast-720?si=sFZV1q_8mYllheBM",
+                "start": 0,
+                "url": "https://t.co/FO76BUjkIQ"
+              }
+            ]
+          }
+        },
+        "id": "1474198081864626179",
+        "location": "New Taipei City, Taiwan",
+        "name": "吐司🍞",
+        "pinned_tweet_id": "2058259833238032528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151569203036161/FkI635QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 891,
+          "like_count": 11418,
+          "listed_count": 3,
+          "media_count": 1313,
+          "tweet_count": 3208
+        },
+        "url": "https://t.co/FO76BUjkIQ",
+        "username": "CTS_TOAST",
+        "verified": false
+      }
+    ]
+  }
+}

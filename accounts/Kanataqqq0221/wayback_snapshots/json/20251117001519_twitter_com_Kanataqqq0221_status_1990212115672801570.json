@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990212107879813120"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1990212115672801570",
+    "created_at": "2025-11-17T00:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990212115672801570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WdvHgf8yP",
+          "end": 31,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1990212115672801570/photo/1",
+          "media_key": "3_1990212107879813120",
+          "start": 8,
+          "url": "https://t.co/3WdvHgf8yP"
+        },
+        {
+          "display_url": "x.com/suzumiyasuzume…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/suzumiyasuzume/status/1987559809319940360",
+          "start": 32,
+          "url": "https://t.co/cZ1TYHJYyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990212115672801570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987559809319940360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤🤤🤤严肃品鉴 https://t.co/3WdvHgf8yP https://t.co/cZ1TYHJYyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990212107879813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G56nXhXbkAA0pZV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 300,
+        "media_key": "16_1987559799035514880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5U7G09b0AArL0W.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5U7G09b0AArL0W.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990212107879813120"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1990212115672801570",
+        "created_at": "2025-11-17T00:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990212115672801570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WdvHgf8yP",
+              "end": 31,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1990212115672801570/photo/1",
+              "media_key": "3_1990212107879813120",
+              "start": 8,
+              "url": "https://t.co/3WdvHgf8yP"
+            },
+            {
+              "display_url": "x.com/suzumiyasuzume…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/suzumiyasuzume/status/1987559809319940360",
+              "start": 32,
+              "url": "https://t.co/cZ1TYHJYyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990212115672801570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987559809319940360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤🤤🤤严肃品鉴 https://t.co/3WdvHgf8yP https://t.co/cZ1TYHJYyD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1987559799035514880"
+          ]
+        },
+        "author_id": "1746469344325021697",
+        "conversation_id": "1987559809319940360",
+        "created_at": "2025-11-09T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987559809319940360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "rt求求你们了，这真的很令人不安！, 视频播放量 40、弹幕量 0、点赞数 9、投硬币枚数 2、收藏人数 0、转发人数 1, 视频作者 没有未来的Suzume酱, 作者简介 ，相关视频：",
+              "display_url": "bilibili.com/video/BV12vkRB…",
+              "end": 46,
+              "expanded_url": "https://www.bilibili.com/video/BV12vkRBKEjM/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1987559851938156544/Eopo1yQE?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1987559851938156544/Eopo1yQE?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "求求你们不要再喝我“袜子”了_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV12vkRBKEjM/",
+              "url": "https://t.co/12sOrPROMA"
+            },
+            {
+              "display_url": "pic.x.com/SBuSe5PhnD",
+              "end": 70,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1987559809319940360/photo/1",
+              "media_key": "16_1987559799035514880",
+              "start": 47,
+              "url": "https://t.co/SBuSe5PhnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987559809319940360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 199787,
+          "like_count": 608,
+          "quote_count": 15,
+          "reply_count": 47,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们不要再喝我袜子了，这真的很令人不安！\nhttps://t.co/12sOrPROMA https://t.co/SBuSe5PhnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12360,
+          "following_count": 717,
+          "like_count": 750,
+          "listed_count": 20,
+          "media_count": 79,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980817358999679129",
+    "created_at": "2025-10-22T02:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980817358999679129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengtunsidaimu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mengtunsidaimu/status/1980511570322247860",
+          "start": 13,
+          "url": "https://t.co/1lBhN2TlxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980817358999679129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980511570322247860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什麼標準的理科男長相。？ https://t.co/1lBhN2TlxM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1980511567843147776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wwxxrXwAA904S.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980817358999679129",
+        "created_at": "2025-10-22T02:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980817358999679129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunsidaimu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mengtunsidaimu/status/1980511570322247860",
+              "start": 13,
+              "url": "https://t.co/1lBhN2TlxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980817358999679129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980511570322247860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼標準的理科男長相。？ https://t.co/1lBhN2TlxM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980511567843147776"
+          ]
+        },
+        "author_id": "1583772353183371265",
+        "conversation_id": "1980511570322247860",
+        "created_at": "2025-10-21T05:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980511570322247860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QSX87GB09",
+              "end": 37,
+              "expanded_url": "https://x.com/mengtunsidaimu/status/1980511570322247860/photo/1",
+              "media_key": "3_1980511567843147776",
+              "start": 14,
+              "url": "https://t.co/3QSX87GB09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980511570322247860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 260751,
+          "like_count": 1281,
+          "quote_count": 24,
+          "reply_count": 181,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "中国最让父母有安全感的长相 https://t.co/3QSX87GB09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T10:49:07.000Z",
+        "description": "萌豚共青团/台独顽固分子🇹🇼/苟汉奸称号持续持有/粉红兔友请绕行/大範圍貼貼歡迎私信/尽力回fo/炸蛆爱好者/  键政注意 炸蛆注意  🌺涨fo希望🌺                 一部の鳥たちはけっして鳥籠に閉ざされることはできない、その羽に自由の光が輝いている",
+        "id": "1583772353183371265",
+        "location": "IP屬地：中南海",
+        "name": "枫糖🍬喵酱薯条🇺🇦",
+        "pinned_tweet_id": "1709195657653923935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644570092632682496/qOdtEISh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 2089,
+          "like_count": 12412,
+          "listed_count": 66,
+          "media_count": 867,
+          "tweet_count": 3830
+        },
+        "username": "mengtunsidaimu",
+        "verified": true
+      }
+    ]
+  }
+}

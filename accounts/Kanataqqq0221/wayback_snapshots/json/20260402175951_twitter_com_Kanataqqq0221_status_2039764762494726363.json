@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2039703338212876757",
+    "created_at": "2026-04-02T17:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039764762494726363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039764762494726363",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039764054458376212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko 官方绝对知道目前这个游戏在圈内是什么地位，感觉像是已经开始官方也开始越来越像社区的环境一样腐烂了\n如果是做出这样的行为那这个游戏还是早点似了好\n直接爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2039703338212876757",
+        "created_at": "2026-04-02T17:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039764762494726363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039764762494726363",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039764054458376212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko 官方绝对知道目前这个游戏在圈内是什么地位，感觉像是已经开始官方也开始越来越像社区的环境一样腐烂了\n如果是做出这样的行为那这个游戏还是早点似了好\n直接爆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735728536827334657",
+        "conversation_id": "2039703338212876757",
+        "created_at": "2026-04-02T17:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039764054458376212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039764054458376212",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039763269641273360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 官方不对社区进行管理\n社区神人多了后想管管不了\n无脑粉丝维护说官方啥也没错，错的是神人。\n然后不粘锅走了\n\n然后就负面循环越来越讨厌这个圈子，甚至这个游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 195,
+          "like_count": 1459,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語/中文/EN OK 喜欢玩各种音游的普通玩家。 maimai 樱堇晓橙白熊华超檄将持有 你可以称呼我为riko或者璃子。全球各地旅游中。",
+        "id": "1735728536827334657",
+        "location": "旅行中",
+        "name": "樱坂璃子Riko🌰",
+        "pinned_tweet_id": "2037937593929941223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872164389077610496/row4F8WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 387,
+          "like_count": 2860,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1073
+        },
+        "username": "SakurasakaRiko",
+        "verified": false
+      }
+    ]
+  }
+}

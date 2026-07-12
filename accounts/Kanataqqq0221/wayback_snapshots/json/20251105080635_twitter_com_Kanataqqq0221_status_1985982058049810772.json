@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985982050579750912"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1985982058049810772",
+    "created_at": "2025-11-05T08:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985982058049810772"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "SEKISHIちゃん",
+          "probability": 0.8329,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e0TAMWspxZ",
+          "end": 36,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1985982058049810772/photo/1",
+          "media_key": "3_1985982050579750912",
+          "start": 13,
+          "url": "https://t.co/e0TAMWspxZ"
+        },
+        {
+          "display_url": "x.com/sukiya_jp/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/sukiya_jp/status/1985515493672042605",
+          "start": 37,
+          "url": "https://t.co/d4NLnpij1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985982058049810772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985515493672042605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "SEKISHIちゃん❤️ https://t.co/e0TAMWspxZ https://t.co/d4NLnpij1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1985982050579750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-gJx8boAAxOqe.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1985515488584302592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4330TEagAA0HU2.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985982050579750912"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1985982058049810772",
+        "created_at": "2025-11-05T08:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985982058049810772"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "SEKISHIちゃん",
+              "probability": 0.8329,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0TAMWspxZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1985982058049810772/photo/1",
+              "media_key": "3_1985982050579750912",
+              "start": 13,
+              "url": "https://t.co/e0TAMWspxZ"
+            },
+            {
+              "display_url": "x.com/sukiya_jp/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/sukiya_jp/status/1985515493672042605",
+              "start": 37,
+              "url": "https://t.co/d4NLnpij1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985982058049810772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985515493672042605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SEKISHIちゃん❤️ https://t.co/e0TAMWspxZ https://t.co/d4NLnpij1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985515488584302592"
+          ]
+        },
+        "author_id": "1074577629360021504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985515493672042605",
+        "created_at": "2025-11-04T01:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985515493672042605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "すき家"
+            },
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "いい推しの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBdIRzpgSL",
+              "end": 85,
+              "expanded_url": "https://x.com/sukiya_jp/status/1985515493672042605/photo/1",
+              "media_key": "3_1985515488584302592",
+              "start": 62,
+              "url": "https://t.co/UBdIRzpgSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985515493672042605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38908,
+          "impression_count": 93088721,
+          "like_count": 121907,
+          "quote_count": 25000,
+          "reply_count": 1184,
+          "retweet_count": 22685
+        },
+        "reply_settings": "everyone",
+        "text": "「推しとすき家に行ける画像」貼っておきますね( ◜ω◝ )つ🖼️\n \nぜひ活用してください🫶\n \n#すき家 #いい推しの日 https://t.co/UBdIRzpgSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 64,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T08:10:46.000Z",
+        "description": "すき家公式アカウントです。フェアやキャンペーン情報をお届けします。 個別返信は行っておりません。店舗や商品に関するご意見・お問い合わせは、恐れ入りますが下記ページよりお願い致します。 →https://t.co/ntzQ4qvUlz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sukiya.jp/auth/inquiry",
+                "end": 116,
+                "expanded_url": "http://sukiya.jp/auth/inquiry",
+                "start": 93,
+                "url": "https://t.co/ntzQ4qvUlz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sukiya.jp",
+                "end": 23,
+                "expanded_url": "https://www.sukiya.jp/",
+                "start": 0,
+                "url": "https://t.co/CPphcGcND2"
+              }
+            ]
+          }
+        },
+        "id": "1074577629360021504",
+        "location": "東京 港区",
+        "name": "すき家【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809014667253329922/9OtYYkpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067323,
+          "following_count": 6,
+          "like_count": 585,
+          "listed_count": 2188,
+          "media_count": 19401,
+          "tweet_count": 1650535
+        },
+        "url": "https://t.co/CPphcGcND2",
+        "username": "sukiya_jp",
+        "verified": true
+      }
+    ]
+  }
+}

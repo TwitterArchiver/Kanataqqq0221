@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980238348045213697"
+      ],
+      "media_source_tweet_id": [
+        "1980238351254081876"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980456103281586453",
+    "created_at": "2025-10-21T02:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980456103281586453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1184751778459291648",
+          "start": 3,
+          "username": "bingyusukii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TpBEBqwen9",
+          "end": 48,
+          "expanded_url": "https://x.com/bingyusukii/status/1980238351254081876/photo/1",
+          "media_key": "3_1980238348045213697",
+          "start": 25,
+          "url": "https://t.co/TpBEBqwen9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980456103281586453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980238351254081876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bingyusukii: 什么叫超大杯？ https://t.co/TpBEBqwen9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_1980238348045213697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3s4SSnXYAEcK_c.jpg",
+        "width": 2052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980238348045213697"
+          ],
+          "media_source_tweet_id": [
+            "1980238351254081876"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980456103281586453",
+        "created_at": "2025-10-21T02:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980456103281586453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1184751778459291648",
+              "start": 3,
+              "username": "bingyusukii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpBEBqwen9",
+              "end": 48,
+              "expanded_url": "https://x.com/bingyusukii/status/1980238351254081876/photo/1",
+              "media_key": "3_1980238348045213697",
+              "start": 25,
+              "url": "https://t.co/TpBEBqwen9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980456103281586453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980238351254081876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bingyusukii: 什么叫超大杯？ https://t.co/TpBEBqwen9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980238348045213697"
+          ]
+        },
+        "author_id": "1184751778459291648",
+        "conversation_id": "1980238351254081876",
+        "created_at": "2025-10-20T11:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980238351254081876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpBEBqwen9",
+              "end": 31,
+              "expanded_url": "https://x.com/bingyusukii/status/1980238351254081876/photo/1",
+              "media_key": "3_1980238348045213697",
+              "start": 8,
+              "url": "https://t.co/TpBEBqwen9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980238351254081876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 71300,
+          "like_count": 2641,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫超大杯？ https://t.co/TpBEBqwen9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 70
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-17T08:43:50.000Z",
+        "description": "他者即地狱\n玩cosplay玩的",
+        "id": "1184751778459291648",
+        "location": "冥河下水道",
+        "name": "冰雨雨",
+        "pinned_tweet_id": "1898058514461081673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935631099436093440/kW4o0bL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29967,
+          "following_count": 296,
+          "like_count": 3863,
+          "listed_count": 118,
+          "media_count": 327,
+          "tweet_count": 1497
+        },
+        "username": "bingyusukii",
+        "verified": false
+      }
+    ]
+  }
+}

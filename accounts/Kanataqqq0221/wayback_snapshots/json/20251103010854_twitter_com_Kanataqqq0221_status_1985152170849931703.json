@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1984668547596107855",
+    "created_at": "2025-11-03T01:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T02:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985152170849931703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "370743613",
+          "start": 0,
+          "username": "guy_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985152170849931703",
+    "in_reply_to_user_id": "370743613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984668547596107855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guy_kun 哎哟我草小伙子大驾光临啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984668540226715657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r1hakbQAk-alD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1984668540239245312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r1hanacAAdYzI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1984668540226715649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r1hakbQAET4xG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1984668547596107855",
+        "created_at": "2025-11-03T01:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985152170849931703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "370743613",
+              "start": 0,
+              "username": "guy_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985152170849931703",
+        "in_reply_to_user_id": "370743613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984668547596107855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guy_kun 哎哟我草小伙子大驾光临啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984668540226715657",
+            "3_1984668540239245312",
+            "3_1984668540226715649"
+          ]
+        },
+        "author_id": "370743613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984668547596107855",
+        "created_at": "2025-11-01T17:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984668547596107855"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "上海",
+              "probability": 0.6349,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0kmBOen16",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/1984668547596107855/photo/1",
+              "media_key": "3_1984668540226715657",
+              "start": 3,
+              "url": "https://t.co/b0kmBOen16"
+            },
+            {
+              "display_url": "pic.x.com/b0kmBOen16",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/1984668547596107855/photo/1",
+              "media_key": "3_1984668540239245312",
+              "start": 3,
+              "url": "https://t.co/b0kmBOen16"
+            },
+            {
+              "display_url": "pic.x.com/b0kmBOen16",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/1984668547596107855/photo/1",
+              "media_key": "3_1984668540226715649",
+              "start": 3,
+              "url": "https://t.co/b0kmBOen16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984668547596107855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35566,
+          "like_count": 527,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "上海 https://t.co/b0kmBOen16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 58,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "location": "日本 東京",
+        "name": "Guy",
+        "pinned_tweet_id": "1917994909279363206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22624,
+          "following_count": 1104,
+          "like_count": 53532,
+          "listed_count": 50,
+          "media_count": 6202,
+          "tweet_count": 43328
+        },
+        "username": "guy_kun",
+        "verified": true
+      }
+    ]
+  }
+}

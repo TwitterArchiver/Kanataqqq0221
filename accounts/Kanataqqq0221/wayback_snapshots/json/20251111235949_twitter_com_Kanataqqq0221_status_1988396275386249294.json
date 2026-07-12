@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981615189167616428",
+    "created_at": "2025-11-11T23:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T00:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988396275386249294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864660924164132865",
+          "start": 0,
+          "username": "nuruhyou_arnold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988396275386249294",
+    "in_reply_to_user_id": "1864660924164132865",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988194747832557849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuruhyou_arnold UwU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981615189167616428",
+        "created_at": "2025-11-11T23:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T00:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988396275386249294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864660924164132865",
+              "start": 0,
+              "username": "nuruhyou_arnold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988396275386249294",
+        "in_reply_to_user_id": "1864660924164132865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988194747832557849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuruhyou_arnold UwU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864660924164132865",
+        "conversation_id": "1981615189167616428",
+        "created_at": "2025-11-11T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988194747832557849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988194747832557849",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981615189167616428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 ハロー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:19:52.000Z",
+        "description": "音ゲー愛好者 | ユビート、IIDX、maimai でらっくす | 書道勉強中",
+        "id": "1864660924164132865",
+        "name": "温氷_アーノルド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982224241991778305/NjNFPh2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 499,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 88
+        },
+        "username": "nuruhyou_arnold",
+        "verified": false
+      }
+    ]
+  }
+}

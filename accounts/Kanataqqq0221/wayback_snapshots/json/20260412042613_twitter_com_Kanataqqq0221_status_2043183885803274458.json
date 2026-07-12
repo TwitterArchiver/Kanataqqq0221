@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2042979959896183111",
+    "created_at": "2026-04-12T04:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043183885803274458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872738838193618944",
+          "start": 0,
+          "username": "lngmbito132117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043183885803274458",
+    "in_reply_to_user_id": "1872738838193618944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043008635337609290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngmbito132117 哇呀呀…谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2042979959896183111",
+        "created_at": "2026-04-12T04:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043183885803274458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872738838193618944",
+              "start": 0,
+              "username": "lngmbito132117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043183885803274458",
+        "in_reply_to_user_id": "1872738838193618944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043008635337609290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngmbito132117 哇呀呀…谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872738838193618944",
+        "conversation_id": "2042979959896183111",
+        "created_at": "2026-04-11T16:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043008635337609290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043008635337609290",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042979959896183111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 萌！妆进步好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 221,
+          "like_count": 1718,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T20:18:40.000Z",
+        "description": "白桃です！中国人です、日本語はまだ勉強中 中国語はok！お会いできてうれしいです！",
+        "id": "1872738838193618944",
+        "location": "🇨🇳中国人/转载禁止",
+        "name": "鈴木白桃",
+        "pinned_tweet_id": "2037061533382193229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872747274935345152/NAn2D7bN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 611,
+          "like_count": 4050,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 136
+        },
+        "username": "lngmbito132117",
+        "verified": false
+      }
+    ]
+  }
+}

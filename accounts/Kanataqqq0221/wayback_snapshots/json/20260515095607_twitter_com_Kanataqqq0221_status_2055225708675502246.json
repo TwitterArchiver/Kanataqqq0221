@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2053679902776565891",
+    "created_at": "2026-05-15T09:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055225708675502246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012867962596884480",
+          "start": 0,
+          "username": "Oblivious64756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055225708675502246",
+    "in_reply_to_user_id": "2012867962596884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055214795968926157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oblivious64756 天水围有可能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055214790000447488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWW9mcbEAAixyi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2053679902776565891",
+        "created_at": "2026-05-15T09:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055225708675502246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012867962596884480",
+              "start": 0,
+              "username": "Oblivious64756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055225708675502246",
+        "in_reply_to_user_id": "2012867962596884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055214795968926157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oblivious64756 天水围有可能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055214790000447488"
+          ]
+        },
+        "author_id": "2012867962596884480",
+        "conversation_id": "2053679902776565891",
+        "created_at": "2026-05-15T09:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055214795968926157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJX1zlXRvo",
+              "end": 47,
+              "expanded_url": "https://x.com/Oblivious64756/status/2055214795968926157/photo/1",
+              "media_key": "3_2055214790000447488",
+              "start": 24,
+              "url": "https://t.co/ZJX1zlXRvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055214795968926157",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053679902776565891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 在這會遇到悟嗎😨 https://t.co/ZJX1zlXRvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 265,
+          "like_count": 2324,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T12:41:51.000Z",
+        "description": "這是一個自我介紹～",
+        "id": "2012867962596884480",
+        "location": "Houston, TX",
+        "name": "Oblivious",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032041773166698496/78iXaajg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 439,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 99
+        },
+        "username": "Oblivious64756",
+        "verified": false
+      }
+    ]
+  }
+}

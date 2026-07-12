@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021521300456714240"
+      ],
+      "media_source_tweet_id": [
+        "2021521310615310697"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021736786129785102",
+    "created_at": "2026-02-12T00:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T01:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021736786129785102"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 18,
+          "tag": "CHUNITHM_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1713091300478918656",
+          "start": 3,
+          "username": "AranQuartzal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oUmhU2Zsiq",
+          "end": 66,
+          "expanded_url": "https://x.com/AranQuartzal/status/2021521310615310697/photo/1",
+          "media_key": "3_2021521300456714240",
+          "start": 43,
+          "url": "https://t.co/oUmhU2Zsiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021736786129785102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021521310615310697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AranQuartzal: #CHUNITHM_art \n好多隻迷你涅加爾🐐 https://t.co/oUmhU2Zsiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021521300456714240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3i6YubsAAmv-C.jpg",
+        "width": 1627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021521300456714240"
+          ],
+          "media_source_tweet_id": [
+            "2021521310615310697"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021736786129785102",
+        "created_at": "2026-02-12T00:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021736786129785102"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 18,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1713091300478918656",
+              "start": 3,
+              "username": "AranQuartzal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUmhU2Zsiq",
+              "end": 66,
+              "expanded_url": "https://x.com/AranQuartzal/status/2021521310615310697/photo/1",
+              "media_key": "3_2021521300456714240",
+              "start": 43,
+              "url": "https://t.co/oUmhU2Zsiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021736786129785102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021521310615310697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AranQuartzal: #CHUNITHM_art \n好多隻迷你涅加爾🐐 https://t.co/oUmhU2Zsiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021521300456714240"
+          ]
+        },
+        "author_id": "1713091300478918656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021521310615310697",
+        "created_at": "2026-02-11T09:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021521310615310697"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUmhU2Zsiq",
+              "end": 48,
+              "expanded_url": "https://x.com/AranQuartzal/status/2021521310615310697/photo/1",
+              "media_key": "3_2021521300456714240",
+              "start": 25,
+              "url": "https://t.co/oUmhU2Zsiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021521310615310697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1392,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#CHUNITHM_art \n好多隻迷你涅加爾🐐 https://t.co/oUmhU2Zsiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16097丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 135,
+          "like_count": 545,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T07:16:59.000Z",
+        "description": "中文/English 我都亂畫 偶爾捏捏黏土\naugh 🐡🐡🐡🐡\n畫過太多沒良心的澀圖 所以舊手機被天罰了 💀💀💀\n這帳號不會再有高質文\n大家可以退追了",
+        "id": "1713091300478918656",
+        "name": "AranQuetz 🥭🐡",
+        "pinned_tweet_id": "2012808154115912116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713091516280061952/jN2G8BML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 68,
+          "like_count": 22659,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 787
+        },
+        "username": "AranQuartzal",
+        "verified": false
+      }
+    ]
+  }
+}

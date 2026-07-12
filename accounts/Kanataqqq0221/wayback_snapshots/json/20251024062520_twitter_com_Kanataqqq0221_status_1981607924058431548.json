@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981607924058431548",
+    "created_at": "2025-10-24T06:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981607924058431548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercury200801/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mercury200801/status/1980491203184644506",
+          "start": 9,
+          "url": "https://t.co/eHmzQirdTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981607924058431548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980491203184644506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女明星天下第一好 https://t.co/eHmzQirdTR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981607924058431548",
+        "created_at": "2025-10-24T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981607924058431548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercury200801/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mercury200801/status/1980491203184644506",
+              "start": 9,
+              "url": "https://t.co/eHmzQirdTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981607924058431548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980491203184644506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女明星天下第一好 https://t.co/eHmzQirdTR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "562068778",
+        "conversation_id": "1980491203184644506",
+        "created_at": "2025-10-21T04:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980491203184644506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980491203184644506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马上20000粉丝了\n一等奖  一个200元🧧（从🚪哥中抽）\n二等奖  两个100元🧧（从🚪哥中抽）\n三等奖  四个30元🧧\n四等奖  两个免费200🚪\n五等奖  六个免费30🚪\n除一等奖和二等奖从已过🚪的人中抽取    其余奖项全民都可参与\n参与方式：转发这条帖子与主页置顶帖子（在此条帖子下评论：女明星天下第一好)\n如果已过🚪的抽中免费🚪（可以折现70%）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19995,
+          "like_count": 131,
+          "quote_count": 3,
+          "reply_count": 209,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "马上20000粉丝了\n一等奖  一个200元🧧（从🚪哥中抽）\n二等奖  两个100元🧧（从🚪哥中抽）\n三等奖  四个30元🧧\n四等奖  两个免费200🚪\n五等奖  六个免费30🚪\n除一等奖和二等奖从已过🚪的人中抽取    其余奖项全民都可参与\n参与方式：转发这条帖子与主页置顶帖子（在此条帖子下评论：女明星天下第一好)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-24T14:27:56.000Z",
+        "description": "一个与众不同的🚪姐（关注有福利）",
+        "id": "562068778",
+        "location": "江苏  徐州",
+        "name": "女明星",
+        "pinned_tweet_id": "1963404437184999854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785272155636469760/HtlhDDFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19866,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "username": "Mercury200801",
+        "verified": true
+      }
+    ]
+  }
+}

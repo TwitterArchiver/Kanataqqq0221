@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2039861390408831443",
+    "created_at": "2026-04-03T03:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039902998076576158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644155900133376",
+          "start": 0,
+          "username": "Jewelzzz21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039902998076576158",
+    "in_reply_to_user_id": "2038644155900133376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039902811971096731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewelzzz21 ☺️☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2039861390408831443",
+        "created_at": "2026-04-03T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039902998076576158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644155900133376",
+              "start": 0,
+              "username": "Jewelzzz21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039902998076576158",
+        "in_reply_to_user_id": "2038644155900133376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039902811971096731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewelzzz21 ☺️☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038644155900133376",
+        "conversation_id": "2039861390408831443",
+        "created_at": "2026-04-03T03:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039902811971096731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039902811971096731",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039861390408831443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 おめでとう🎊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 196,
+          "like_count": 1460,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:48:04.000Z",
+        "description": "这里是江陵Jewel/infj/07🌈/广州/舟/舞萌\n碎碎念博主 偶尔当擦边博主\n你喜欢我=我喜欢你 \n当朋友圈发 很高兴认识你",
+        "id": "2038644155900133376",
+        "name": "Jewel",
+        "pinned_tweet_id": "2038645930912821621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645209190567936/zftA-uoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 86,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 54
+        },
+        "username": "Jewelzzz21",
+        "verified": false
+      }
+    ]
+  }
+}

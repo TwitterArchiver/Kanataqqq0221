@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2049783827908981230",
+    "created_at": "2026-04-30T23:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049992030450028816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021888357786177536",
+          "start": 0,
+          "username": "bai_qian63563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049992030450028816",
+    "in_reply_to_user_id": "2021888357786177536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049783827908981230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_qian63563 大头照"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049783674732994560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJLZFba4AA_wUQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049783674732957696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJLZFbaUAAmrQR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049783674707795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJLZFVaYAAsPB1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049783674707849216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJLZFVbMAAUbkI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2049783827908981230",
+        "created_at": "2026-04-30T23:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049992030450028816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021888357786177536",
+              "start": 0,
+              "username": "bai_qian63563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049992030450028816",
+        "in_reply_to_user_id": "2021888357786177536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049783827908981230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_qian63563 大头照"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049783674732994560",
+            "3_2049783674732957696",
+            "3_2049783674707795968",
+            "3_2049783674707849216"
+          ]
+        },
+        "author_id": "2021888357786177536",
+        "conversation_id": "2049783827908981230",
+        "created_at": "2026-04-30T09:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049783827908981230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HU2jtUrp1U",
+              "end": 27,
+              "expanded_url": "https://x.com/bai_qian63563/status/2049783827908981230/photo/1",
+              "media_key": "3_2049783674732994560",
+              "start": 4,
+              "url": "https://t.co/HU2jtUrp1U"
+            },
+            {
+              "display_url": "pic.x.com/HU2jtUrp1U",
+              "end": 27,
+              "expanded_url": "https://x.com/bai_qian63563/status/2049783827908981230/photo/1",
+              "media_key": "3_2049783674732957696",
+              "start": 4,
+              "url": "https://t.co/HU2jtUrp1U"
+            },
+            {
+              "display_url": "pic.x.com/HU2jtUrp1U",
+              "end": 27,
+              "expanded_url": "https://x.com/bai_qian63563/status/2049783827908981230/photo/1",
+              "media_key": "3_2049783674707795968",
+              "start": 4,
+              "url": "https://t.co/HU2jtUrp1U"
+            },
+            {
+              "display_url": "pic.x.com/HU2jtUrp1U",
+              "end": 27,
+              "expanded_url": "https://x.com/bai_qian63563/status/2049783827908981230/photo/1",
+              "media_key": "3_2049783674707849216",
+              "start": 4,
+              "url": "https://t.co/HU2jtUrp1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049783827908981230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海洋館 https://t.co/HU2jtUrp1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 256,
+          "like_count": 2139,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T10:05:38.000Z",
+        "description": "＝白千 丨17歳丨私は絵を描くことが好きです(›´ω`‹ )丨日本語苦手、英語&中國語OK😭 | 互fo大歡迎！",
+        "id": "2021888357786177536",
+        "name": "白千",
+        "pinned_tweet_id": "2023738783993131456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043134794868092928/J-7qPaJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 67,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 234
+        },
+        "username": "bai_qian63563",
+        "verified": false
+      }
+    ]
+  }
+}

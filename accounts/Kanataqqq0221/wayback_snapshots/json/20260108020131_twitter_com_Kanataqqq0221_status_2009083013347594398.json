@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842552919016849408"
+      ],
+      "media_source_tweet_id": [
+        "1842552986364694830"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2009083013347594398",
+    "created_at": "2026-01-08T02:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009083013347594398"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "中国",
+          "probability": 0.8125,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805486373186793472",
+          "start": 3,
+          "username": "reizisokk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xg92LZpV9B",
+          "end": 58,
+          "expanded_url": "https://x.com/i/status/1842552986364694830/video/1",
+          "media_key": "7_1842552919016849408",
+          "start": 35,
+          "url": "https://t.co/xg92LZpV9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009083013347594398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008740611516743788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reizisokk: 中国「我々のアニメは世界に通用する。」\nhttps://t.co/xg92LZpV9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35053,
+        "height": 720,
+        "media_key": "7_1842552919016849408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842552919016849408/pu/img/_PjPb9Q9KnK08i29.jpg",
+        "public_metrics": {
+          "view_count": 10467328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842552919016849408/pu/vid/avc1/480x270/279r3FQR_wxOsWch.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842552919016849408/pu/vid/avc1/640x360/9iL85pO9n61B_Xuo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842552919016849408/pu/vid/avc1/1280x720/OSodtbKpLzxfUFpC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842552919016849408/pu/pl/dVIlzpsKInr4VM4T.m3u8?tag=12&v=639"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842552919016849408"
+          ],
+          "media_source_tweet_id": [
+            "1842552986364694830"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2009083013347594398",
+        "created_at": "2026-01-08T02:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009083013347594398"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "中国",
+              "probability": 0.8125,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805486373186793472",
+              "start": 3,
+              "username": "reizisokk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xg92LZpV9B",
+              "end": 58,
+              "expanded_url": "https://x.com/i/status/1842552986364694830/video/1",
+              "media_key": "7_1842552919016849408",
+              "start": 35,
+              "url": "https://t.co/xg92LZpV9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009083013347594398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008740611516743788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reizisokk: 中国「我々のアニメは世界に通用する。」\nhttps://t.co/xg92LZpV9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842552919016849408"
+          ],
+          "media_source_tweet_id": [
+            "1842552986364694830"
+          ]
+        },
+        "author_id": "1805486373186793472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2008740611516743788",
+        "created_at": "2026-01-07T03:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008740611516743788"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8251,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xg92LZpV9B",
+              "end": 43,
+              "expanded_url": "https://x.com/i/status/1842552986364694830/video/1",
+              "media_key": "7_1842552919016849408",
+              "start": 20,
+              "url": "https://t.co/xg92LZpV9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008740611516743788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2415,
+          "impression_count": 3182636,
+          "like_count": 8139,
+          "quote_count": 379,
+          "reply_count": 890,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "中国「我々のアニメは世界に通用する。」\nhttps://t.co/xg92LZpV9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 96,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:21:14.000Z",
+        "description": "#日本が大好き です。支持政党は特にありません。先人が守ってきた平和で美しい日本を維持したい。そんな気持ちでポストしてるのでよろしくお願いします！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "日本が大好き"
+              }
+            ]
+          }
+        },
+        "id": "1805486373186793472",
+        "name": "令和ちゃん🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807477813475528704/Vsct4eLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9317,
+          "following_count": 309,
+          "like_count": 2,
+          "listed_count": 27,
+          "media_count": 25,
+          "tweet_count": 25
+        },
+        "username": "reizisokk",
+        "verified": true
+      }
+    ]
+  }
+}

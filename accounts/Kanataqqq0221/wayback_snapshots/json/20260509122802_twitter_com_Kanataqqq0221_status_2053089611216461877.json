@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2052678331192225875",
+    "created_at": "2026-05-09T12:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053089611216461877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011483546654031873",
+          "start": 0,
+          "username": "Anomaly1145"
+        },
+        {
+          "end": 26,
+          "id": "1762825784002318336",
+          "start": 13,
+          "username": "Luozheng0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053089611216461877",
+    "in_reply_to_user_id": "2011483546654031873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052780176895778893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anomaly1145 @Luozheng0122 你是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2052678331192225875",
+        "created_at": "2026-05-09T12:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053089611216461877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011483546654031873",
+              "start": 0,
+              "username": "Anomaly1145"
+            },
+            {
+              "end": 26,
+              "id": "1762825784002318336",
+              "start": 13,
+              "username": "Luozheng0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053089611216461877",
+        "in_reply_to_user_id": "2011483546654031873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052780176895778893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anomaly1145 @Luozheng0122 你是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011483546654031873",
+        "conversation_id": "2052678331192225875",
+        "created_at": "2026-05-08T15:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052780176895778893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762825784002318336",
+              "start": 0,
+              "username": "Luozheng0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052780176895778893",
+        "in_reply_to_user_id": "1762825784002318336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052678331192225875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luozheng0122 可爱喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 263,
+          "like_count": 2261,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T17:00:37.000Z",
+        "description": "",
+        "id": "2011483546654031873",
+        "location": "江西南昌",
+        "name": "Anomaly.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012082668167675905/VYSPOi4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 280,
+          "like_count": 4885,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 212
+        },
+        "username": "Anomaly1145",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T13:03:22.000Z",
+        "description": "洛铮/猫又奈緒子🇨🇳22歲，女性😘artist/cosplayer/音ゲームplayer💕皇城セツナ推し 💗中文/English/日本語ok‼️無断転載禁止❌AI🚫意味のないDMは返信しません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OtTkGnm",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OtTkGnm",
+                "start": 0,
+                "url": "https://t.co/aAXffwrKQJ"
+              }
+            ]
+          }
+        },
+        "id": "1762825784002318336",
+        "location": "奏阪学園",
+        "name": "NekoMata_LZ",
+        "pinned_tweet_id": "2038602454938571049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044543308584914944/tYFab_VN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4770,
+          "following_count": 343,
+          "like_count": 7853,
+          "listed_count": 11,
+          "media_count": 450,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/aAXffwrKQJ",
+        "username": "Luozheng0122",
+        "verified": false
+      }
+    ]
+  }
+}

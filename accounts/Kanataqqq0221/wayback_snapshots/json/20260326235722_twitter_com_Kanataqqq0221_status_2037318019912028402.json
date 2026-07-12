@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2037318019912028402",
+    "created_at": "2026-03-26T23:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037318019912028402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crysta1lized/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/crysta1lized/status/2037194375198105793",
+          "start": 3,
+          "url": "https://t.co/5dbrttRhYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037318019912028402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037194375198105793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸 https://t.co/5dbrttRhYe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2037194299130179584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWRa-oa8AAPPkM.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2037194299658629120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWRbAmacAAES5F.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037194299306369026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWRa_SbYAIrONI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2037194299675455488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWRbAqbMAANKCt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2037318019912028402",
+        "created_at": "2026-03-26T23:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037318019912028402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crysta1lized/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/crysta1lized/status/2037194375198105793",
+              "start": 3,
+              "url": "https://t.co/5dbrttRhYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037318019912028402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037194375198105793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸 https://t.co/5dbrttRhYe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037194299130179584",
+            "3_2037194299658629120",
+            "3_2037194299306369026",
+            "3_2037194299675455488"
+          ]
+        },
+        "author_id": "1942892567861108736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037194375198105793",
+        "created_at": "2026-03-26T15:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037194375198105793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXEVmQd1hd",
+              "end": 42,
+              "expanded_url": "https://x.com/Crysta1lized/status/2037194375198105793/photo/1",
+              "media_key": "3_2037194299130179584",
+              "start": 19,
+              "url": "https://t.co/XXEVmQd1hd"
+            },
+            {
+              "display_url": "pic.x.com/XXEVmQd1hd",
+              "end": 42,
+              "expanded_url": "https://x.com/Crysta1lized/status/2037194375198105793/photo/1",
+              "media_key": "3_2037194299658629120",
+              "start": 19,
+              "url": "https://t.co/XXEVmQd1hd"
+            },
+            {
+              "display_url": "pic.x.com/XXEVmQd1hd",
+              "end": 42,
+              "expanded_url": "https://x.com/Crysta1lized/status/2037194375198105793/photo/1",
+              "media_key": "3_2037194299306369026",
+              "start": 19,
+              "url": "https://t.co/XXEVmQd1hd"
+            },
+            {
+              "display_url": "pic.x.com/XXEVmQd1hd",
+              "end": 42,
+              "expanded_url": "https://x.com/Crysta1lized/status/2037194375198105793/photo/1",
+              "media_key": "3_2037194299675455488",
+              "start": 19,
+              "url": "https://t.co/XXEVmQd1hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037194375198105793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "個人屬性圖\n請follow我謝謝喵🥺 https://t.co/XXEVmQd1hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 176,
+          "like_count": 1258,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T10:24:34.000Z",
+        "description": "Chinese Rhythm game player\nmaimai 16427ra\n17years boy\n中國音遊玩家\n舞萌DX中國服16427ra 其他音樂遊戲也有涉獵\n十七歲/生心男\n主要活動和社交範圍都在牆內QQ和b站 牆外很少看 外語苦手 賬號純清水 沒有你們想看的\n更多屬性在置頂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/eNNNPYP",
+                "end": 23,
+                "expanded_url": "https://b23.tv/eNNNPYP",
+                "start": 0,
+                "url": "https://t.co/eMoQi2z1D7"
+              }
+            ]
+          }
+        },
+        "id": "1942892567861108736",
+        "location": "中华人民共和国 北京市",
+        "name": "祈雨愿晴",
+        "pinned_tweet_id": "2037193881201291578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965314789309382660/qPpP2gQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 133,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/eMoQi2z1D7",
+        "username": "Crysta1lized",
+        "verified": false
+      }
+    ]
+  }
+}

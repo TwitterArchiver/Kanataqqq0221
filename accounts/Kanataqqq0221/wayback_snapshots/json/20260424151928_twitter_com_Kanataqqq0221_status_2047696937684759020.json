@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2047612243958005902",
+    "created_at": "2026-04-24T15:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047696937684759020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047229696379846656",
+          "start": 0,
+          "username": "Khip87dk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047696937684759020",
+    "in_reply_to_user_id": "2047229696379846656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047612243958005902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Khip87dk 好帅qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047612227642142720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqUeOpbMAA2oIq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047612230913658880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqUea1akAAgPHx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047612227654746113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqUeOsbgAE75-Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047612227625357312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqUeOlbEAAQ-DD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2047612243958005902",
+        "created_at": "2026-04-24T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047696937684759020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047229696379846656",
+              "start": 0,
+              "username": "Khip87dk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047696937684759020",
+        "in_reply_to_user_id": "2047229696379846656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047612243958005902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Khip87dk 好帅qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047612227642142720",
+            "3_2047612230913658880",
+            "3_2047612227654746113",
+            "3_2047612227625357312"
+          ]
+        },
+        "author_id": "2047229696379846656",
+        "conversation_id": "2047612243958005902",
+        "created_at": "2026-04-24T09:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047612243958005902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAXflQM1oY",
+              "end": 43,
+              "expanded_url": "https://x.com/Khip87dk/status/2047612243958005902/photo/1",
+              "media_key": "3_2047612227642142720",
+              "start": 20,
+              "url": "https://t.co/dAXflQM1oY"
+            },
+            {
+              "display_url": "pic.x.com/dAXflQM1oY",
+              "end": 43,
+              "expanded_url": "https://x.com/Khip87dk/status/2047612243958005902/photo/1",
+              "media_key": "3_2047612230913658880",
+              "start": 20,
+              "url": "https://t.co/dAXflQM1oY"
+            },
+            {
+              "display_url": "pic.x.com/dAXflQM1oY",
+              "end": 43,
+              "expanded_url": "https://x.com/Khip87dk/status/2047612243958005902/photo/1",
+              "media_key": "3_2047612227654746113",
+              "start": 20,
+              "url": "https://t.co/dAXflQM1oY"
+            },
+            {
+              "display_url": "pic.x.com/dAXflQM1oY",
+              "end": 43,
+              "expanded_url": "https://x.com/Khip87dk/status/2047612243958005902/photo/1",
+              "media_key": "3_2047612227625357312",
+              "start": 20,
+              "url": "https://t.co/dAXflQM1oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047612243958005902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我腿好粗啊我真服了，梨形身材我恨死你了 https://t.co/dAXflQM1oY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 250,
+          "like_count": 1985,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T08:27:23.000Z",
+        "description": "@DesireLovet1qi的二世…號被封了7天。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "DesireLovet1qi"
+              }
+            ]
+          }
+        },
+        "id": "2047229696379846656",
+        "name": "愛歌（二世互關尋回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047232829290110976/8O28n2ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 51,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "username": "Khip87dk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972247843005243392"
+      ],
+      "media_source_tweet_id": [
+        "1972247851620344102"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972890574945681676",
+    "created_at": "2025-09-30T05:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972890574945681676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1588864898247036933",
+          "start": 3,
+          "username": "shina_eno5017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yLyr5NKXmF",
+          "end": 57,
+          "expanded_url": "https://x.com/shina_eno5017/status/1972247851620344102/photo/1",
+          "media_key": "3_1972247843005243392",
+          "start": 34,
+          "url": "https://t.co/yLyr5NKXmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972890574945681676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972247851620344102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shina_eno5017: そんなの効くわけないじゃんw https://t.co/yLyr5NKXmF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972247843005243392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17U9rtboAAAl7U.jpg",
+        "width": 1562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972247843005243392"
+          ],
+          "media_source_tweet_id": [
+            "1972247851620344102"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972890574945681676",
+        "created_at": "2025-09-30T05:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972890574945681676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1588864898247036933",
+              "start": 3,
+              "username": "shina_eno5017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLyr5NKXmF",
+              "end": 57,
+              "expanded_url": "https://x.com/shina_eno5017/status/1972247851620344102/photo/1",
+              "media_key": "3_1972247843005243392",
+              "start": 34,
+              "url": "https://t.co/yLyr5NKXmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972890574945681676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972247851620344102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shina_eno5017: そんなの効くわけないじゃんw https://t.co/yLyr5NKXmF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972247843005243392"
+          ]
+        },
+        "author_id": "1588864898247036933",
+        "conversation_id": "1972247851620344102",
+        "created_at": "2025-09-28T10:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972247851620344102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLyr5NKXmF",
+              "end": 38,
+              "expanded_url": "https://x.com/shina_eno5017/status/1972247851620344102/photo/1",
+              "media_key": "3_1972247843005243392",
+              "start": 15,
+              "url": "https://t.co/yLyr5NKXmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972247851620344102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 67895,
+          "like_count": 6235,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "そんなの効くわけないじゃんw https://t.co/yLyr5NKXmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T12:04:58.000Z",
+        "description": "本物です FANBOX（https://t.co/HZpBuzkpPk）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shinaeno3.fanbox.cc",
+                "end": 35,
+                "expanded_url": "https://shinaeno3.fanbox.cc/",
+                "start": 12,
+                "url": "https://t.co/HZpBuzkpPk"
+              }
+            ]
+          }
+        },
+        "id": "1588864898247036933",
+        "name": "椎名えの2 @FANBOX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935298616274354176/95L9ehR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8503,
+          "following_count": 58,
+          "like_count": 534,
+          "listed_count": 24,
+          "media_count": 38,
+          "tweet_count": 68
+        },
+        "username": "shina_eno5017",
+        "verified": false
+      }
+    ]
+  }
+}

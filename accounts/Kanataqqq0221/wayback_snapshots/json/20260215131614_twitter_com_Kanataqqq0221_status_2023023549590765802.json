@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022916540967072254",
+    "created_at": "2026-02-15T13:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023023549590765802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021888357786177536",
+          "start": 0,
+          "username": "bai_qian63563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023023549590765802",
+    "in_reply_to_user_id": "2021888357786177536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023022836278018238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_qian63563 要走半個小時（）賊遠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022916540967072254",
+        "created_at": "2026-02-15T13:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023023549590765802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021888357786177536",
+              "start": 0,
+              "username": "bai_qian63563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023023549590765802",
+        "in_reply_to_user_id": "2021888357786177536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023022836278018238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_qian63563 要走半個小時（）賊遠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021888357786177536",
+        "conversation_id": "2022916540967072254",
+        "created_at": "2026-02-15T13:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023022836278018238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023022836278018238",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022978242693693561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 126,
+          "like_count": 666,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T10:05:38.000Z",
+        "description": "＝白千 丨17歳丨日本語はあまり得意ではなく、英語と中国語が得意です😭 互fo大歡迎！",
+        "id": "2021888357786177536",
+        "name": "白千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021888527810592768/qq_Yg5Sb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "bai_qian63563",
+        "verified": false
+      }
+    ]
+  }
+}

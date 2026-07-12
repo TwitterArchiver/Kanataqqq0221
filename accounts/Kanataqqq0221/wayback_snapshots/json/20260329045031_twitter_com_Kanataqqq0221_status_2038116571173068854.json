@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038116465623330817"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038116571173068854",
+    "created_at": "2026-03-29T04:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038116571173068854"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3v6afdwuSy",
+          "end": 55,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2038116571173068854/video/1",
+          "media_key": "13_2038116465623330817",
+          "start": 32,
+          "url": "https://t.co/3v6afdwuSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038116571173068854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全扛Zitronectar的那個交互然後AP了\n#maimai https://t.co/3v6afdwuSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25766,
+        "height": 1280,
+        "media_key": "13_2038116465623330817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038116465623330817/img/QcbxJRf70qA9xKGU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038116465623330817/vid/avc1/320x568/daPlI0eBo3xzqfh6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038116465623330817/vid/avc1/480x852/FRWBRTG6_NO_jlcg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038116465623330817/vid/avc1/720x1280/gJsJdxCcbsSBcqA6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038116465623330817/pl/xNXhM3cSrnMOIYJL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038116465623330817"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038116571173068854",
+        "created_at": "2026-03-29T04:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038116571173068854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3v6afdwuSy",
+              "end": 55,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2038116571173068854/video/1",
+              "media_key": "13_2038116465623330817",
+              "start": 32,
+              "url": "https://t.co/3v6afdwuSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038116571173068854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全扛Zitronectar的那個交互然後AP了\n#maimai https://t.co/3v6afdwuSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 180,
+          "like_count": 1286,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

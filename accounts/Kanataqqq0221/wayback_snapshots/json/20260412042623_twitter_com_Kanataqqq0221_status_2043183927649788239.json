@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2042979959896183111",
+    "created_at": "2026-04-12T04:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043183927649788239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1814690783049752580",
+          "start": 0,
+          "username": "Hi7om1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043183927649788239",
+    "in_reply_to_user_id": "1814690783049752580",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043020564877709341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hi7om1 Wwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2042979959896183111",
+        "created_at": "2026-04-12T04:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043183927649788239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1814690783049752580",
+              "start": 0,
+              "username": "Hi7om1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043183927649788239",
+        "in_reply_to_user_id": "1814690783049752580",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043020564877709341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hi7om1 Wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814690783049752580",
+        "conversation_id": "2042979959896183111",
+        "created_at": "2026-04-11T17:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043020564877709341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043020564877709341",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042979959896183111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 这么可爱教我化妆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 221,
+          "like_count": 1718,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:56:22.000Z",
+        "description": "=見奈/夜桜｜♀｜18↑｜💬中文＞日本語＞＞English\n🎮音ゲーム(maimai､osu mania4k）🎵VOCALOID•UTAU(鳴花ヒメ､defoko)trance(SHIKI)\n正体はチョコ苺アイス",
+        "id": "1814690783049752580",
+        "location": "永遠亭",
+        "name": "瞳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025297934859075586/IvQljL3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 39
+        },
+        "username": "Hi7om1",
+        "verified": false
+      }
+    ]
+  }
+}

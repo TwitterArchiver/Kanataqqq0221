@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979855668690505728"
+      ],
+      "media_source_tweet_id": [
+        "1979855698642247876"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980457700837453931",
+    "created_at": "2025-10-21T02:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980457700837453931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "796678859810684928",
+          "start": 3,
+          "username": "miumiu66612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TQltOU2MCJ",
+          "end": 49,
+          "expanded_url": "https://x.com/miumiu66612/status/1979855698642247876/photo/1",
+          "media_key": "3_1979855668690505728",
+          "start": 26,
+          "url": "https://t.co/TQltOU2MCJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980457700837453931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979855698642247876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miumiu66612: 懺悔しますか？🤍 https://t.co/TQltOU2MCJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3643,
+        "media_key": "3_1979855668690505728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ncPa7XUAAoNm3.jpg",
+        "width": 2944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979855668690505728"
+          ],
+          "media_source_tweet_id": [
+            "1979855698642247876"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980457700837453931",
+        "created_at": "2025-10-21T02:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980457700837453931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "796678859810684928",
+              "start": 3,
+              "username": "miumiu66612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQltOU2MCJ",
+              "end": 49,
+              "expanded_url": "https://x.com/miumiu66612/status/1979855698642247876/photo/1",
+              "media_key": "3_1979855668690505728",
+              "start": 26,
+              "url": "https://t.co/TQltOU2MCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980457700837453931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979855698642247876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miumiu66612: 懺悔しますか？🤍 https://t.co/TQltOU2MCJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979855668690505728"
+          ]
+        },
+        "author_id": "796678859810684928",
+        "conversation_id": "1979855698642247876",
+        "created_at": "2025-10-19T10:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979855698642247876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQltOU2MCJ",
+              "end": 32,
+              "expanded_url": "https://x.com/miumiu66612/status/1979855698642247876/photo/1",
+              "media_key": "3_1979855668690505728",
+              "start": 9,
+              "url": "https://t.co/TQltOU2MCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979855698642247876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2668,
+          "impression_count": 347334,
+          "like_count": 16492,
+          "quote_count": 10,
+          "reply_count": 82,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "懺悔しますか？🤍 https://t.co/TQltOU2MCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 76
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T11:40:16.000Z",
+        "description": "🤍パチカスゲーマー🎮配信＆コスプレイヤーしてます❕ 推しマ▶︎🤍🥛／ファンネ▶︎#みゅぅず 💗📩お仕事▶︎ miumiu666122@gmail.com 🤍🔞な写真や動画💗💦▶︎【https://t.co/e29vS7HjVs】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "みゅぅず"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/uchapi",
+                "end": 113,
+                "expanded_url": "https://lit.link/uchapi",
+                "start": 90,
+                "url": "https://t.co/e29vS7HjVs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/uchapi",
+                "end": 23,
+                "expanded_url": "https://lit.link/uchapi",
+                "start": 0,
+                "url": "https://t.co/e29vS7HjVs"
+              }
+            ]
+          }
+        },
+        "id": "796678859810684928",
+        "location": "ファンクラブや他SNSはコチラ♡▶▷▶ ",
+        "name": "惣流みゅぅらんぐれー🤍🥛@ファンティア毎日投稿中！",
+        "pinned_tweet_id": "1958076769925492774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847224834939559936/UuTDB4gC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134352,
+          "following_count": 877,
+          "like_count": 42485,
+          "listed_count": 587,
+          "media_count": 546,
+          "tweet_count": 27110
+        },
+        "url": "https://t.co/e29vS7HjVs",
+        "username": "miumiu66612",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029462799831973889"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029462811949318309",
+    "created_at": "2026-03-05T07:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029462811949318309"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 2,
+          "tag": "maimai_art"
+        },
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "maimaiでらっくす"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "maimai"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "みるく"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaYqyVf0pK",
+          "end": 63,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2029462811949318309/photo/1",
+          "media_key": "3_2029462799831973889",
+          "start": 40,
+          "url": "https://t.co/xaYqyVf0pK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029462811949318309",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍦\n#maimai_art #maimaiでらっくす #maimai #みるく https://t.co/xaYqyVf0pK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029462799831973889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoZqfTawAEQdm0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029462799831973889"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029462811949318309",
+        "created_at": "2026-03-05T07:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029462811949318309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 2,
+              "tag": "maimai_art"
+            },
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "maimaiでらっくす"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "maimai"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "みるく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaYqyVf0pK",
+              "end": 63,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2029462811949318309/photo/1",
+              "media_key": "3_2029462799831973889",
+              "start": 40,
+              "url": "https://t.co/xaYqyVf0pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029462811949318309",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍦\n#maimai_art #maimaiでらっくす #maimai #みるく https://t.co/xaYqyVf0pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 144,
+          "like_count": 828,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

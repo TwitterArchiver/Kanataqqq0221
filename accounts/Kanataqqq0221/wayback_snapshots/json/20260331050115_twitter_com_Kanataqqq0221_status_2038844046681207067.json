@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038692800737485218",
+    "created_at": "2026-03-31T05:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038844046681207067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1097515527277240320",
+          "start": 0,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038844046681207067",
+    "in_reply_to_user_id": "1097515527277240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038692800737485218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYR487 這首好聽ww我記得之前還聽過一個remix版的也超級好聽（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038692790201434112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErkSo4bQAAUUfk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038692790197227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErkSo3bEAAgw-Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038692800737485218",
+        "created_at": "2026-03-31T05:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038844046681207067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1097515527277240320",
+              "start": 0,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038844046681207067",
+        "in_reply_to_user_id": "1097515527277240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038692800737485218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYR487 這首好聽ww我記得之前還聽過一個remix版的也超級好聽（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038692790201434112",
+            "3_2038692790197227520"
+          ]
+        },
+        "author_id": "1097515527277240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038692800737485218",
+        "created_at": "2026-03-30T19:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038692800737485218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIxZi4SIIg",
+              "end": 62,
+              "expanded_url": "https://x.com/LYR487/status/2038692800737485218/photo/1",
+              "media_key": "3_2038692790201434112",
+              "start": 39,
+              "url": "https://t.co/UIxZi4SIIg"
+            },
+            {
+              "display_url": "pic.x.com/UIxZi4SIIg",
+              "end": 62,
+              "expanded_url": "https://x.com/LYR487/status/2038692800737485218/photo/1",
+              "media_key": "3_2038692790197227520",
+              "start": 39,
+              "url": "https://t.co/UIxZi4SIIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038692800737485218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近分數上很少有刷分的\n反倒是DX分跟部分BREAK挺猛的\n這首能3落？？？ https://t.co/UIxZi4SIIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 192,
+          "like_count": 1382,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ブルアカ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 4822,
+          "like_count": 161424,
+          "listed_count": 3,
+          "media_count": 1587,
+          "tweet_count": 66996
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

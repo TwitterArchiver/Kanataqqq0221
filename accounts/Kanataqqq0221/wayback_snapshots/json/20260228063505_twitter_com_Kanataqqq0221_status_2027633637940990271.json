@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2027633637940990271",
+    "created_at": "2026-02-28T06:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027633637940990271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874729816592912384",
+          "start": 3,
+          "username": "k_miyu__u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027633637940990271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026939222796685467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_miyu__u: 好きな人と、\n会いたい\n声聞きたい\n一緒に寝たい\nずっと一緒にいたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2027633637940990271",
+        "created_at": "2026-02-28T06:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027633637940990271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874729816592912384",
+              "start": 3,
+              "username": "k_miyu__u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633637940990271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026939222796685467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_miyu__u: 好きな人と、\n会いたい\n声聞きたい\n一緒に寝たい\nずっと一緒にいたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874729816592912384",
+        "conversation_id": "2026939222796685467",
+        "created_at": "2026-02-26T08:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026939222796685467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026939222796685467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 44953,
+          "like_count": 2119,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人と、\n会いたい\n声聞きたい\n一緒に寝たい\nずっと一緒にいたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 130,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:10:01.000Z",
+        "description": "恋愛についての独り言",
+        "id": "1874729816592912384",
+        "location": "🖤",
+        "name": "みゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976558271285891072/ItlZ3URZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12321,
+          "following_count": 1,
+          "like_count": 714,
+          "listed_count": 32,
+          "media_count": 0,
+          "tweet_count": 620
+        },
+        "username": "k_miyu__u",
+        "verified": false
+      }
+    ]
+  }
+}

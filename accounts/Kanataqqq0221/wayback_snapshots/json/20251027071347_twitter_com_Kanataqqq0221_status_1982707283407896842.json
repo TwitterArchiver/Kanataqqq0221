@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981387265541919205",
+    "created_at": "2025-10-27T07:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982707283407896842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982707283407896842",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981387265541919205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo 想看万穗✌️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1981385591490019328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39LspfXAAA7oM1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981387265541919205",
+        "created_at": "2025-10-27T07:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982707283407896842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982707283407896842",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981387265541919205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo 想看万穗✌️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981385591490019328"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "conversation_id": "1981387265541919205",
+        "created_at": "2025-10-23T15:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981387265541919205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2d1NAUgya",
+              "end": 63,
+              "expanded_url": "https://x.com/chuanxiduo/status/1981387265541919205/photo/1",
+              "media_key": "3_1981385591490019328",
+              "start": 40,
+              "url": "https://t.co/o2d1NAUgya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981387265541919205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 67909,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "下个月初去深圳玩，可以找我提前阅时间点，主要是主角和调焦，挑好服装，我带过去🎉 https://t.co/o2d1NAUgya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 54,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "🍧二次元抽象s\n🏡常驻苏州，有妙妙屋\n✈️不定期外省出游 \n🍰分享自己的汉服cos穿搭足控日常\n🍭电煲：https://t.co/SJO57ytPgP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me//sss521",
+                "end": 75,
+                "expanded_url": "http://t.me//sss521",
+                "start": 52,
+                "url": "https://t.co/SJO57ytPgP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71kTWo"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "电报粉丝群:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "1981387265541919205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80779,
+          "following_count": 180,
+          "like_count": 3907,
+          "listed_count": 265,
+          "media_count": 296,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/kXKI71kTWo",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

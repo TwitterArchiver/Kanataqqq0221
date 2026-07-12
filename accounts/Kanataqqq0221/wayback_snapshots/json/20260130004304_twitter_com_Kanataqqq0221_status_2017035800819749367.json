@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2016530175161417972",
+    "created_at": "2026-01-30T00:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017035800819749367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017035800819749367",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016530175161417972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 这个拉面无敌好吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2016530159088840704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wnfuNaMAAeuPG.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2016530159235399682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wnfuwWgAIdLMt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2016530159088947200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wnfuNb0AAbkhT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2016530159239618562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wnfuxW4AIEfwD.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2016530175161417972",
+        "created_at": "2026-01-30T00:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017035800819749367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017035800819749367",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016530175161417972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 这个拉面无敌好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016530159088840704",
+            "3_2016530159235399682",
+            "3_2016530159088947200",
+            "3_2016530159239618562"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016530175161417972",
+        "created_at": "2026-01-28T15:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016530175161417972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGo3YkJMkb",
+              "end": 77,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2016530175161417972/photo/1",
+              "media_key": "3_2016530159088840704",
+              "start": 54,
+              "url": "https://t.co/dGo3YkJMkb"
+            },
+            {
+              "display_url": "pic.x.com/dGo3YkJMkb",
+              "end": 77,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2016530175161417972/photo/1",
+              "media_key": "3_2016530159235399682",
+              "start": 54,
+              "url": "https://t.co/dGo3YkJMkb"
+            },
+            {
+              "display_url": "pic.x.com/dGo3YkJMkb",
+              "end": 77,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2016530175161417972/photo/1",
+              "media_key": "3_2016530159088947200",
+              "start": 54,
+              "url": "https://t.co/dGo3YkJMkb"
+            },
+            {
+              "display_url": "pic.x.com/dGo3YkJMkb",
+              "end": 77,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2016530175161417972/photo/1",
+              "media_key": "3_2016530159239618562",
+              "start": 54,
+              "url": "https://t.co/dGo3YkJMkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016530175161417972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4473,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚本来打算一人食\n结果在商场偶遇一台痛车\n立即拼台一起去吃饭了\n最后走时还把车车停在一起合影并加了微信😊 https://t.co/dGo3YkJMkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 117,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / 打舞萌的 / 全网首台maimaiでらっくす痛四轮车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live / 扩列私信就行 / 欢迎蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4488,
+          "following_count": 1247,
+          "like_count": 18223,
+          "listed_count": 31,
+          "media_count": 10222,
+          "tweet_count": 47857
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

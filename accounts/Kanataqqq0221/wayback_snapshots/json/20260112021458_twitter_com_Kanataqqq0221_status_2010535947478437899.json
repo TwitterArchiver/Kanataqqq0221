@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010535939349643264",
+        "3_2010535939303456768"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2010535947478437899",
+    "created_at": "2026-01-12T02:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010535947478437899"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "maimai"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "みるく"
+        },
+        {
+          "end": 34,
+          "start": 26,
+          "tag": "cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JSpLwBXzn",
+          "end": 58,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2010535947478437899/photo/1",
+          "media_key": "3_2010535939349643264",
+          "start": 35,
+          "url": "https://t.co/9JSpLwBXzn"
+        },
+        {
+          "display_url": "pic.x.com/9JSpLwBXzn",
+          "end": 58,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2010535947478437899/photo/1",
+          "media_key": "3_2010535939303456768",
+          "start": 35,
+          "url": "https://t.co/9JSpLwBXzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010535947478437899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "みるく🥛🐱\nwwwwww\n#maimai #みるく #cosplay https://t.co/9JSpLwBXzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2010535939349643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bbyNkXgAAV2EL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2010535939303456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bbyNZWwAAcdGT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010535939349643264",
+            "3_2010535939303456768"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2010535947478437899",
+        "created_at": "2026-01-12T02:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010535947478437899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "maimai"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "みるく"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JSpLwBXzn",
+              "end": 58,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2010535947478437899/photo/1",
+              "media_key": "3_2010535939349643264",
+              "start": 35,
+              "url": "https://t.co/9JSpLwBXzn"
+            },
+            {
+              "display_url": "pic.x.com/9JSpLwBXzn",
+              "end": 58,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2010535947478437899/photo/1",
+              "media_key": "3_2010535939303456768",
+              "start": 35,
+              "url": "https://t.co/9JSpLwBXzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010535947478437899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "みるく🥛🐱\nwwwwww\n#maimai #みるく #cosplay https://t.co/9JSpLwBXzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 97,
+          "like_count": 401,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

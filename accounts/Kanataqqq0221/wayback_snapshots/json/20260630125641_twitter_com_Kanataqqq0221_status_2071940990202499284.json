@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2071940990202499284",
+    "created_at": "2026-06-30T12:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071940990202499284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "456712967",
+          "start": 3,
+          "username": "bluewave94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071940990202499284",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071495331620286848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluewave94: 리듬게임 오래하는 사람은 실력 좋은 사람이 아니라 즐기는 사람임. 왜냐하면 대회 나가도 될 정도의 실력인데 벽에 막히고 좌절해서 그만둔 사람 정말 많았고 중위권도 될까말까한 실력인데 그냥 리듬게임 하고 곡 듣는게 너무너무…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2071940990202499284",
+        "created_at": "2026-06-30T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071940990202499284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "456712967",
+              "start": 3,
+              "username": "bluewave94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940990202499284",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071495331620286848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluewave94: 리듬게임 오래하는 사람은 실력 좋은 사람이 아니라 즐기는 사람임. 왜냐하면 대회 나가도 될 정도의 실력인데 벽에 막히고 좌절해서 그만둔 사람 정말 많았고 중위권도 될까말까한 실력인데 그냥 리듬게임 하고 곡 듣는게 너무너무…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "456712967",
+        "conversation_id": "2071495331620286848",
+        "created_at": "2026-06-29T07:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071495331620286848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071495331620286848",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 89755,
+          "like_count": 1080,
+          "quote_count": 160,
+          "reply_count": 10,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "리듬게임 오래하는 사람은 실력 좋은 사람이 아니라 즐기는 사람임. 왜냐하면 대회 나가도 될 정도의 실력인데 벽에 막히고 좌절해서 그만둔 사람 정말 많았고 중위권도 될까말까한 실력인데 그냥 리듬게임 하고 곡 듣는게 너무너무 좋아서 실력 상관없이 5년 10년 장기 투숙하는 사람도 엄청 많아"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 364,
+          "like_count": 2801,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-06T15:32:24.000Z",
+        "description": "그냥 게임을 좋아하는 사람입니다.\n\nhttps://t.co/pOoFrHtE4V",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bluewave94.bsky.social",
+                "end": 43,
+                "expanded_url": "http://bluewave94.bsky.social",
+                "start": 20,
+                "url": "https://t.co/pOoFrHtE4V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/bluewave94/",
+                "end": 23,
+                "expanded_url": "http://steamcommunity.com/id/bluewave94/",
+                "start": 0,
+                "url": "https://t.co/5xKCvFG9Ah"
+              }
+            ]
+          }
+        },
+        "id": "456712967",
+        "location": "SW-4222-3610-1738",
+        "name": "bluewave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003012875569508352/bXoFkR55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 300,
+          "like_count": 3963,
+          "listed_count": 2,
+          "media_count": 13200,
+          "tweet_count": 79123
+        },
+        "url": "https://t.co/5xKCvFG9Ah",
+        "username": "bluewave94",
+        "verified": false
+      }
+    ]
+  }
+}

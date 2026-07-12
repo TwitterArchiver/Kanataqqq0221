@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035236154279436290"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2035236175729107109",
+    "created_at": "2026-03-21T06:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035236175729107109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021888357786177536",
+          "start": 0,
+          "username": "bai_qian63563"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXCcUqlitk",
+          "end": 42,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2035236175729107109/photo/1",
+          "media_key": "3_2035236154279436290",
+          "start": 19,
+          "url": "https://t.co/cXCcUqlitk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035236175729107109",
+    "in_reply_to_user_id": "2021888357786177536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@bai_qian63563 吃吃滨 https://t.co/cXCcUqlitk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2035236154279436290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6cf8nboAIUph4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035236154279436290"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035236175729107109",
+        "created_at": "2026-03-21T06:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035236175729107109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021888357786177536",
+              "start": 0,
+              "username": "bai_qian63563"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXCcUqlitk",
+              "end": 42,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2035236175729107109/photo/1",
+              "media_key": "3_2035236154279436290",
+              "start": 19,
+              "url": "https://t.co/cXCcUqlitk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035236175729107109",
+        "in_reply_to_user_id": "2021888357786177536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@bai_qian63563 吃吃滨 https://t.co/cXCcUqlitk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 170,
+          "like_count": 1201,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T10:05:38.000Z",
+        "description": "＝白千 丨17歳丨私は絵を描くことが好きです(›´ω`‹ )丨日本語苦手、英語&中國語OK😭 | 互fo大歡迎！",
+        "id": "2021888357786177536",
+        "name": "白千",
+        "pinned_tweet_id": "2023738783993131456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021888527810592768/qq_Yg5Sb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 189
+        },
+        "username": "bai_qian63563",
+        "verified": false
+      }
+    ]
+  }
+}

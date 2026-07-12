@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2009446711731868062",
+    "created_at": "2026-01-09T02:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T03:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009446711731868062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kitten_zukan/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kitten_zukan/status/2009057966096367803",
+          "start": 2,
+          "url": "https://t.co/u0aqDXCfB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009446711731868062",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009057966096367803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👿 https://t.co/u0aqDXCfB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2008878280968175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-D4Jy4bAAAh6MN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2009446711731868062",
+        "created_at": "2026-01-09T02:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009446711731868062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kitten_zukan/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kitten_zukan/status/2009057966096367803",
+              "start": 2,
+              "url": "https://t.co/u0aqDXCfB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009446711731868062",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009057966096367803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👿 https://t.co/u0aqDXCfB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008878280968175616"
+          ]
+        },
+        "author_id": "1739880218347937792",
+        "conversation_id": "2009057966096367803",
+        "created_at": "2026-01-08T00:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009057966096367803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrciVdg91c",
+              "end": 25,
+              "expanded_url": "https://x.com/kitten_zukan/status/2009057966096367803/photo/1",
+              "media_key": "3_2008878280968175616",
+              "start": 2,
+              "url": "https://t.co/NrciVdg91c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009057966096367803",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 66367,
+          "like_count": 6303,
+          "quote_count": 29,
+          "reply_count": 16,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "😡 https://t.co/NrciVdg91c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 97,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T05:25:51.000Z",
+        "description": "仔猫大量発生中につきご注意ください ฅ^.ˬ.^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kitten_zukan/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kitten_zukan/",
+                "start": 0,
+                "url": "https://t.co/wVbDtKSAWz"
+              }
+            ]
+          }
+        },
+        "id": "1739880218347937792",
+        "location": "Cat Tower",
+        "name": "こねこ図鑑",
+        "pinned_tweet_id": "2009057966096367803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808122021513224192/uvEjL6Qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35829,
+          "following_count": 5397,
+          "like_count": 14364,
+          "listed_count": 147,
+          "media_count": 3923,
+          "tweet_count": 4297
+        },
+        "url": "https://t.co/wVbDtKSAWz",
+        "username": "kitten_zukan",
+        "verified": true
+      }
+    ]
+  }
+}

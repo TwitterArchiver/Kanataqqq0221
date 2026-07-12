@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030919798419603456"
+      ],
+      "media_source_tweet_id": [
+        "2030919806179000345"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2030920173088374820",
+    "created_at": "2026-03-09T08:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030920173088374820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1814690783049752580",
+          "start": 3,
+          "username": "Hi7om1"
+        },
+        {
+          "end": 28,
+          "id": "1971027114582474752",
+          "start": 14,
+          "username": "Kanataqqq0221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILgdz72D73",
+          "end": 63,
+          "expanded_url": "https://x.com/Hi7om1/status/2030919806179000345/photo/1",
+          "media_key": "3_2030919798419603456",
+          "start": 40,
+          "url": "https://t.co/ILgdz72D73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030920173088374820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030919806179000345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hi7om1: 來自@Kanataqqq0221 的無償🥺🥺女神我好愛 https://t.co/ILgdz72D73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030919798419603456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9Gy-AbwAA9mbU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030919798419603456"
+          ],
+          "media_source_tweet_id": [
+            "2030919806179000345"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2030920173088374820",
+        "created_at": "2026-03-09T08:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030920173088374820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814690783049752580",
+              "start": 3,
+              "username": "Hi7om1"
+            },
+            {
+              "end": 28,
+              "id": "1971027114582474752",
+              "start": 14,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILgdz72D73",
+              "end": 63,
+              "expanded_url": "https://x.com/Hi7om1/status/2030919806179000345/photo/1",
+              "media_key": "3_2030919798419603456",
+              "start": 40,
+              "url": "https://t.co/ILgdz72D73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030920173088374820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030919806179000345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hi7om1: 來自@Kanataqqq0221 的無償🥺🥺女神我好愛 https://t.co/ILgdz72D73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030919798419603456"
+          ]
+        },
+        "author_id": "1814690783049752580",
+        "conversation_id": "2030919806179000345",
+        "created_at": "2026-03-09T08:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030919806179000345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971027114582474752",
+              "start": 2,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILgdz72D73",
+              "end": 51,
+              "expanded_url": "https://x.com/Hi7om1/status/2030919806179000345/photo/1",
+              "media_key": "3_2030919798419603456",
+              "start": 28,
+              "url": "https://t.co/ILgdz72D73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030919806179000345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "來自@Kanataqqq0221 的無償🥺🥺女神我好愛 https://t.co/ILgdz72D73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 157,
+          "like_count": 942,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:56:22.000Z",
+        "description": "=見奈/夜桜｜♀｜18↑｜💬中文＞日本語＞＞English🎮音ゲーム(maimai､osu mania4k）🎵VOCALOID•UTAU(鳴花ヒメ､defoko)trance(SHIKI)",
+        "id": "1814690783049752580",
+        "location": "永遠亭",
+        "name": "瞳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025297934859075586/IvQljL3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 48,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 24
+        },
+        "username": "Hi7om1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981609411132154109",
+    "created_at": "2025-10-24T06:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981609411132154109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knd_8964/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/knd_8964/status/1981208973966790675",
+          "start": 7,
+          "url": "https://t.co/gpiLZ2OQ6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981609411132154109",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981208973966790675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "SEGAfw https://t.co/gpiLZ2OQ6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_1981208963417866240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36rDipXgAAyXW8.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981609411132154109",
+        "created_at": "2025-10-24T06:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981609411132154109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knd_8964/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/knd_8964/status/1981208973966790675",
+              "start": 7,
+              "url": "https://t.co/gpiLZ2OQ6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981609411132154109",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981208973966790675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SEGAfw https://t.co/gpiLZ2OQ6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981208963417866240"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1981208973966790675",
+        "created_at": "2025-10-23T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981208973966790675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9Rhgs8tHp",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1981208973966790675/photo/1",
+              "media_key": "3_1981208963417866240",
+              "start": 0,
+              "url": "https://t.co/o9Rhgs8tHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981208973966790675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5104,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o9Rhgs8tHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3940,
+          "following_count": 4378,
+          "like_count": 88087,
+          "listed_count": 13,
+          "media_count": 4198,
+          "tweet_count": 12071
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

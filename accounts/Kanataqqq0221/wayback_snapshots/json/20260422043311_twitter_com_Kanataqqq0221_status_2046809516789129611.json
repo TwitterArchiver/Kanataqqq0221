@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2046739356103397517",
+    "created_at": "2026-04-22T04:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046809516789129611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1097515527277240320",
+          "start": 0,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046809516789129611",
+    "in_reply_to_user_id": "1097515527277240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046804579334176814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYR487 原來如此）感覺超代的話13往上的好多歌都很看手法和技巧🤔但是像mythos那些就相對來說比較容易看懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2046739356103397517",
+        "created_at": "2026-04-22T04:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046809516789129611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1097515527277240320",
+              "start": 0,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046809516789129611",
+        "in_reply_to_user_id": "1097515527277240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046804579334176814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYR487 原來如此）感覺超代的話13往上的好多歌都很看手法和技巧🤔但是像mythos那些就相對來說比較容易看懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097515527277240320",
+        "conversation_id": "2046739356103397517",
+        "created_at": "2026-04-22T04:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046804579334176814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046804579334176814",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046779925773062225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 檄將我是覺得他相較之下沒有像是超將那麼多的學習成本（至少超代的系統Z是真的很吃研究）\n而譜面本身也沒有到底力要求很高\n所以我把它放在最底下（話雖如此我其實也沒有檄將確定就是了，人中之龍的那首&amp;火炎地獄還沒練）\n反倒是我正在練習檄舞舞就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 237,
+          "like_count": 1894,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ブルアカ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 4845,
+          "like_count": 163483,
+          "listed_count": 3,
+          "media_count": 1595,
+          "tweet_count": 67364
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021387069965402363",
+    "created_at": "2026-02-11T01:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021392030090588362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777344951556456448",
+          "start": 0,
+          "username": "AyakoHimy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021392030090588362",
+    "in_reply_to_user_id": "1777344951556456448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021387069965402363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyakoHimy 🐦\n💡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021387053137788928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1o0KfaAAAiu9f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021387069965402363",
+        "created_at": "2026-02-11T01:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021392030090588362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777344951556456448",
+              "start": 0,
+              "username": "AyakoHimy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021392030090588362",
+        "in_reply_to_user_id": "1777344951556456448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021387069965402363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyakoHimy 🐦\n💡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021387053137788928"
+          ]
+        },
+        "author_id": "1777344951556456448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2021387069965402363",
+        "created_at": "2026-02-11T00:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021387069965402363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onw0icYEJa",
+              "end": 43,
+              "expanded_url": "https://x.com/AyakoHimy/status/2021387069965402363/photo/1",
+              "media_key": "3_2021387053137788928",
+              "start": 20,
+              "url": "https://t.co/onw0icYEJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021387069965402363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この写真を携帯で見つけました。wwww https://t.co/onw0icYEJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 131,
+          "like_count": 506,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T14:37:27.000Z",
+        "description": "24/06 21/01 私はフリーランスの作曲家兼画家です\n\nこの文章を読んでくださっているあなたと、ぜひ音楽でコラボレーションしたいです。\n\nここでは誰も私を知らないので、他のソーシャル メディア プラットフォームよりも自然に自分の日常生活や仕事をシェアしています。",
+        "id": "1777344951556456448",
+        "name": "ayako himy",
+        "pinned_tweet_id": "2015734311144833070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020935666553819136/6LrX2e11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 51,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 808
+        },
+        "username": "AyakoHimy",
+        "verified": false
+      }
+    ]
+  }
+}

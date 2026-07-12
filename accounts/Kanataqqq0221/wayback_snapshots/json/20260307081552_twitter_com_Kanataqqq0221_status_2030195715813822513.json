@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030195708238909441"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2030195715813822513",
+    "created_at": "2026-03-07T08:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030195715813822513"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 42,
+          "tag": "originalcharacters"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1814690783049752580",
+          "start": 0,
+          "username": "Hi7om1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YcomNQhImp",
+          "end": 85,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2030195715813822513/photo/1",
+          "media_key": "3_2030195708238909441",
+          "start": 62,
+          "url": "https://t.co/YcomNQhImp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030195715813822513",
+    "in_reply_to_user_id": "1814690783049752580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Hi7om1 女神我喜歡你🥺❤️\n*是收到的無償wwwwwwww小析志好可愛ww\n#originalcharacters https://t.co/YcomNQhImp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2030195708238909441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCy0PX4aUAErjlR.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030195708238909441"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2030195715813822513",
+        "created_at": "2026-03-07T08:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030195715813822513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 42,
+              "tag": "originalcharacters"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1814690783049752580",
+              "start": 0,
+              "username": "Hi7om1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcomNQhImp",
+              "end": 85,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2030195715813822513/photo/1",
+              "media_key": "3_2030195708238909441",
+              "start": 62,
+              "url": "https://t.co/YcomNQhImp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030195715813822513",
+        "in_reply_to_user_id": "1814690783049752580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Hi7om1 女神我喜歡你🥺❤️\n*是收到的無償wwwwwwww小析志好可愛ww\n#originalcharacters https://t.co/YcomNQhImp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 150,
+          "like_count": 862,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:56:22.000Z",
+        "description": "=見奈/夜桜｜♀｜18↑｜💬中文＞日本語＞＞English🎮音ゲーム(maimai､osu mania4k）🎵VOCALOID•UTAU(鳴花ヒメ､defoko)trance(SHIKI)",
+        "id": "1814690783049752580",
+        "location": "永遠亭",
+        "name": "瞳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025297934859075586/IvQljL3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 48,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "username": "Hi7om1",
+        "verified": false
+      }
+    ]
+  }
+}

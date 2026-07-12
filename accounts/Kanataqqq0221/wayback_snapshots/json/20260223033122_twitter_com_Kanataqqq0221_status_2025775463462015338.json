@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025775398416756736",
+        "3_2025775398391611392"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2025775463462015338",
+    "created_at": "2026-02-23T03:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025775463462015338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yg2p6AW8BL",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2025775463462015338/video/1",
+          "media_key": "13_2025775398416756736",
+          "start": 22,
+          "url": "https://t.co/yg2p6AW8BL"
+        },
+        {
+          "display_url": "pic.x.com/yg2p6AW8BL",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2025775463462015338/video/1",
+          "media_key": "3_2025775398391611392",
+          "start": 22,
+          "url": "https://t.co/yg2p6AW8BL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025775463462015338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶不素地雷女捏🥺\n沒有建模沒有實力之物⬇️ https://t.co/yg2p6AW8BL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3700,
+        "height": 960,
+        "media_key": "13_2025775398416756736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025775398416756736/img/yYwNVmnlA-VmoMSk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025775398416756736/vid/avc1/320x426/XmRdWbkZYLu6AsLJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025775398416756736/vid/avc1/480x640/LzrwnIdr2bwhfFPe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025775398416756736/vid/avc1/720x960/yJ20dYZOVQ1Zmt-R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025775398416756736/pl/Q1oWe5043lB0ufS9.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2025775398391611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz__efbgAA0TDT.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025775398416756736",
+            "3_2025775398391611392"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2025775463462015338",
+        "created_at": "2026-02-23T03:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025775463462015338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yg2p6AW8BL",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2025775463462015338/video/1",
+              "media_key": "13_2025775398416756736",
+              "start": 22,
+              "url": "https://t.co/yg2p6AW8BL"
+            },
+            {
+              "display_url": "pic.x.com/yg2p6AW8BL",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2025775463462015338/video/1",
+              "media_key": "3_2025775398391611392",
+              "start": 22,
+              "url": "https://t.co/yg2p6AW8BL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025775463462015338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶不素地雷女捏🥺\n沒有建模沒有實力之物⬇️ https://t.co/yg2p6AW8BL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 132,
+          "like_count": 774,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

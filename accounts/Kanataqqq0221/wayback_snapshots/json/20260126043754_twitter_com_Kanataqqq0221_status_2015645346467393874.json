@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2015644086225801447",
+    "created_at": "2026-01-26T04:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015645346467393874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015645346467393874",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015644881746849821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我明白事情最後群主不敢出面作解釋甚至在背後依舊有攻擊大家的嫌疑……可是我作為最開始被造謠的一方，從來沒有人可以為我發聲。(;_;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2015644086225801447",
+        "created_at": "2026-01-26T04:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015645346467393874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015645346467393874",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015644881746849821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明白事情最後群主不敢出面作解釋甚至在背後依舊有攻擊大家的嫌疑……可是我作為最開始被造謠的一方，從來沒有人可以為我發聲。(;_;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2015644086225801447",
+        "created_at": "2026-01-26T04:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015644881746849821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015644881746849821",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015644086225801447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是與朋友調侃兩句就會被戴上小團體的帽子——甚至在被踢出後群主引導全群的人辱罵、到評論區騷擾我與我的朋友…口口聲聲沒有歧視男孩子們的意思結果馬上開始引導性別對立……大家真的還記得最初玩音ゲー的初衷嗎…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦 生心皆女取向正常丨音ゲー愛好者www 丨广深港通勤丨maimaiでらつくす16062rating丨精神不安定喵QvQ互fo请随意啦www丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 108,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

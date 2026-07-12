@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2040014665103949886",
+    "created_at": "2026-04-03T11:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040029073695735907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2942764381",
+          "start": 0,
+          "username": "mcbd_kiritu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040029073695735907",
+    "in_reply_to_user_id": "2942764381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040028957240963190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcbd_kiritu 三文鱼就是神…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040028946100867072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-jhJfbUAAMmm-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2040014665103949886",
+        "created_at": "2026-04-03T11:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040029073695735907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2942764381",
+              "start": 0,
+              "username": "mcbd_kiritu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040029073695735907",
+        "in_reply_to_user_id": "2942764381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040028957240963190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcbd_kiritu 三文鱼就是神…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040028946100867072"
+          ]
+        },
+        "author_id": "2942764381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040014665103949886",
+        "created_at": "2026-04-03T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040028957240963190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mhyGY2SGb",
+              "end": 56,
+              "expanded_url": "https://x.com/mcbd_kiritu/status/2040028957240963190/photo/1",
+              "media_key": "3_2040028946100867072",
+              "start": 33,
+              "url": "https://t.co/7mhyGY2SGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040028957240963190",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040014665103949886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 大量三文鱼~\n我也去吃了wwwww https://t.co/7mhyGY2SGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 196,
+          "like_count": 1478,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-25T10:22:15.000Z",
+        "description": "混沌系缺爱(´ρ`) •拍扁滴蜡熊•美食推主（X 不会射影的摄嘤师•ACG都能聊得来•（绝赞老阿姨*❓•（自拍超级无敌高P ！🈚【图片仅供参考 请以实物为准】）））想要被狠狠调教•喜欢沙士的都是friend(*ﾟ∀ﾟ*) •ingress agent🍀•绳艺捆绑什么的喜欢 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "id": "2942764381",
+        "location": "香港",
+        "name": "呜喵再次花光光~",
+        "pinned_tweet_id": "1991820219573317953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004747286895886337/MY0E1YWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10468,
+          "following_count": 954,
+          "like_count": 31204,
+          "listed_count": 33,
+          "media_count": 2000,
+          "tweet_count": 11989
+        },
+        "username": "mcbd_kiritu",
+        "verified": false
+      }
+    ]
+  }
+}

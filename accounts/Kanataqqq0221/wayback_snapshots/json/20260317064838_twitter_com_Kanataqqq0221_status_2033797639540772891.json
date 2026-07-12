@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2033654926719783216",
+    "created_at": "2026-03-17T06:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033797639540772891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1097515527277240320",
+          "start": 0,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033797639540772891",
+    "in_reply_to_user_id": "1097515527277240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033654926719783216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYR487 這首超好聽的說\n可是結尾真的超級難……\n感覺比rex更適合當完美挑戰曲（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033654924274503681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDj-YP0bEAETkKb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2033654926719783216",
+        "created_at": "2026-03-17T06:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033797639540772891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1097515527277240320",
+              "start": 0,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033797639540772891",
+        "in_reply_to_user_id": "1097515527277240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033654926719783216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYR487 這首超好聽的說\n可是結尾真的超級難……\n感覺比rex更適合當完美挑戰曲（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033654924274503681"
+          ]
+        },
+        "author_id": "1097515527277240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033654926719783216",
+        "created_at": "2026-03-16T21:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T22:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033654926719783216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CT0g4ejaHk",
+              "end": 47,
+              "expanded_url": "https://x.com/LYR487/status/2033654926719783216/photo/1",
+              "media_key": "3_2033654924274503681",
+              "start": 24,
+              "url": "https://t.co/CT0g4ejaHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033654926719783216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸你真的不是14+嗎\n騙人的吧怎麼可能只有.5 https://t.co/CT0g4ejaHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 169,
+          "like_count": 1125,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ブルアカ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 4814,
+          "like_count": 159816,
+          "listed_count": 3,
+          "media_count": 1579,
+          "tweet_count": 66749
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

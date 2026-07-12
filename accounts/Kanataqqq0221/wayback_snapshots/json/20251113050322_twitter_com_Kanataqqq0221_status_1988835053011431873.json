@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988835042530091008"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988835053011431873",
+    "created_at": "2025-11-13T05:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988835053011431873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSYs9aHrTq",
+          "end": 23,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1988835053011431873/photo/1",
+          "media_key": "3_1988835042530091008",
+          "start": 0,
+          "url": "https://t.co/QSYs9aHrTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988835053011431873",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/QSYs9aHrTq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988835042530091008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nC7xLa4AAnFxG.jpg",
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988835042530091008"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988835053011431873",
+        "created_at": "2025-11-13T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988835053011431873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSYs9aHrTq",
+              "end": 23,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1988835053011431873/photo/1",
+              "media_key": "3_1988835042530091008",
+              "start": 0,
+              "url": "https://t.co/QSYs9aHrTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988835053011431873",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QSYs9aHrTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 73,
+          "like_count": 317,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

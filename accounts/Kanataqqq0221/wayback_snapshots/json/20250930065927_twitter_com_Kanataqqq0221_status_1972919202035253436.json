@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972640353418387456"
+      ],
+      "media_source_tweet_id": [
+        "1972640360208957710"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972919202035253436",
+    "created_at": "2025-09-30T06:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972919202035253436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1400448290580099076",
+          "start": 3,
+          "username": "nodg671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZFt9PXwFTd",
+          "end": 65,
+          "expanded_url": "https://x.com/nodg671/status/1972640360208957710/photo/1",
+          "media_key": "3_1972640353418387456",
+          "start": 42,
+          "url": "https://t.co/ZFt9PXwFTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972919202035253436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 585
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972640360208957710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nodg671: 捕まって手も足も出ないけど強がってるまりちゃんかわいいね https://t.co/ZFt9PXwFTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972640353418387456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2A58y8aoAAF4mw.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972640353418387456"
+          ],
+          "media_source_tweet_id": [
+            "1972640360208957710"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972919202035253436",
+        "created_at": "2025-09-30T06:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972919202035253436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1400448290580099076",
+              "start": 3,
+              "username": "nodg671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFt9PXwFTd",
+              "end": 65,
+              "expanded_url": "https://x.com/nodg671/status/1972640360208957710/photo/1",
+              "media_key": "3_1972640353418387456",
+              "start": 42,
+              "url": "https://t.co/ZFt9PXwFTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972919202035253436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972640360208957710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nodg671: 捕まって手も足も出ないけど強がってるまりちゃんかわいいね https://t.co/ZFt9PXwFTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972640353418387456"
+          ]
+        },
+        "author_id": "1400448290580099076",
+        "conversation_id": "1972640360208957710",
+        "created_at": "2025-09-29T12:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972640360208957710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFt9PXwFTd",
+              "end": 52,
+              "expanded_url": "https://x.com/nodg671/status/1972640360208957710/photo/1",
+              "media_key": "3_1972640353418387456",
+              "start": 29,
+              "url": "https://t.co/ZFt9PXwFTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972640360208957710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 200864,
+          "like_count": 7846,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "捕まって手も足も出ないけど強がってるまりちゃんかわいいね https://t.co/ZFt9PXwFTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-03T13:44:49.000Z",
+        "description": "♦︎東方Projectのマンガとかイラスト描いてます/霧雨魔理沙好き ♦︎MMD動画主くすり屋さん激推し /メッセージ箱→https://t.co/2bwbB1u0rm ※無断転載禁止 AI学習禁止 アイコンはご自由に",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/erzmwodhr…",
+                "end": 84,
+                "expanded_url": "https://wavebox.me/wave/erzmwodhr0j9kt99/",
+                "start": 61,
+                "url": "https://t.co/2bwbB1u0rm"
+              }
+            ]
+          }
+        },
+        "id": "1400448290580099076",
+        "name": "ノドグロ＠原稿",
+        "pinned_tweet_id": "1952312955078316346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877513654880579585/EXPfI4zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29965,
+          "following_count": 460,
+          "like_count": 13276,
+          "listed_count": 102,
+          "media_count": 522,
+          "tweet_count": 6904
+        },
+        "username": "nodg671",
+        "verified": false
+      }
+    ]
+  }
+}

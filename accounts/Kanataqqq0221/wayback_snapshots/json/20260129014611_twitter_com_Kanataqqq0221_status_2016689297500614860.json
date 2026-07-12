@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016165202639937536"
+      ],
+      "media_source_tweet_id": [
+        "2016165224274133220"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2016689297500614860",
+    "created_at": "2026-01-29T01:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T02:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016689297500614860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1034996976029380608",
+          "start": 3,
+          "username": "CryptoDoggyCN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/shDtNO9TB0",
+          "end": 111,
+          "expanded_url": "https://x.com/CryptoDoggyCN/status/2016165224274133220/photo/1",
+          "media_key": "3_2016165202639937536",
+          "start": 88,
+          "url": "https://t.co/shDtNO9TB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016689297500614860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016165224274133220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryptoDoggyCN: 今天发现高德地图旗下还有个高德淘金APP\n\n上面领任务到各地方拍照片，就有几块到几十块的奖励\n\n适合喜欢到处溜达的，有人据说一天能撸上百 https://t.co/shDtNO9TB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016165202639937536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rbkdfbYAAGN3d.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016165202639937536"
+          ],
+          "media_source_tweet_id": [
+            "2016165224274133220"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2016689297500614860",
+        "created_at": "2026-01-29T01:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T02:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016689297500614860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1034996976029380608",
+              "start": 3,
+              "username": "CryptoDoggyCN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shDtNO9TB0",
+              "end": 111,
+              "expanded_url": "https://x.com/CryptoDoggyCN/status/2016165224274133220/photo/1",
+              "media_key": "3_2016165202639937536",
+              "start": 88,
+              "url": "https://t.co/shDtNO9TB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016689297500614860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016165224274133220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryptoDoggyCN: 今天发现高德地图旗下还有个高德淘金APP\n\n上面领任务到各地方拍照片，就有几块到几十块的奖励\n\n适合喜欢到处溜达的，有人据说一天能撸上百 https://t.co/shDtNO9TB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016165202639937536"
+          ]
+        },
+        "author_id": "1034996976029380608",
+        "conversation_id": "2016165224274133220",
+        "created_at": "2026-01-27T15:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016165224274133220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shDtNO9TB0",
+              "end": 92,
+              "expanded_url": "https://x.com/CryptoDoggyCN/status/2016165224274133220/photo/1",
+              "media_key": "3_2016165202639937536",
+              "start": 69,
+              "url": "https://t.co/shDtNO9TB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016165224274133220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 1131114,
+          "like_count": 1497,
+          "quote_count": 3,
+          "reply_count": 118,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "今天发现高德地图旗下还有个高德淘金APP\n\n上面领任务到各地方拍照片，就有几块到几十块的奖励\n\n适合喜欢到处溜达的，有人据说一天能撸上百 https://t.co/shDtNO9TB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 117,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-30T02:51:23.000Z",
+        "description": "Sperm Capital 创始人 | AKA安全出入金之王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gogoweb3",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/gogoweb3",
+                "start": 0,
+                "url": "https://t.co/lvNaWleKL8"
+              }
+            ]
+          }
+        },
+        "id": "1034996976029380608",
+        "location": "赛博狗窝",
+        "name": "Crypto Doggy 叫我狗总",
+        "pinned_tweet_id": "1868301319108542940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732298405337247744/qpgNtRU2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105788,
+          "following_count": 700,
+          "like_count": 1436,
+          "listed_count": 835,
+          "media_count": 1390,
+          "tweet_count": 5638
+        },
+        "url": "https://t.co/lvNaWleKL8",
+        "username": "CryptoDoggyCN",
+        "verified": true
+      }
+    ]
+  }
+}

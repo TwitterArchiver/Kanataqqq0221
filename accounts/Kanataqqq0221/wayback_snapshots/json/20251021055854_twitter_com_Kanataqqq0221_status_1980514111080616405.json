@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980243247113924608"
+      ],
+      "media_source_tweet_id": [
+        "1980243256157020178"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980514111080616405",
+    "created_at": "2025-10-21T05:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980514111080616405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1337528117640929280",
+          "start": 3,
+          "username": "izayoiYU_esi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sn42iMUYXg",
+          "end": 51,
+          "expanded_url": "https://x.com/izayoiYU_esi/status/1980243256157020178/photo/1",
+          "media_key": "3_1980243247113924608",
+          "start": 28,
+          "url": "https://t.co/Sn42iMUYXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980514111080616405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 868
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980243256157020178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @izayoiYU_esi: やはり健全だったわ https://t.co/Sn42iMUYXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1980243247113924608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3s8vdEXcAARLFj.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980243247113924608"
+          ],
+          "media_source_tweet_id": [
+            "1980243256157020178"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980514111080616405",
+        "created_at": "2025-10-21T05:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980514111080616405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1337528117640929280",
+              "start": 3,
+              "username": "izayoiYU_esi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sn42iMUYXg",
+              "end": 51,
+              "expanded_url": "https://x.com/izayoiYU_esi/status/1980243256157020178/photo/1",
+              "media_key": "3_1980243247113924608",
+              "start": 28,
+              "url": "https://t.co/Sn42iMUYXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980514111080616405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 868
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980243256157020178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @izayoiYU_esi: やはり健全だったわ https://t.co/Sn42iMUYXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980243247113924608"
+          ]
+        },
+        "author_id": "1337528117640929280",
+        "conversation_id": "1980243256157020178",
+        "created_at": "2025-10-20T12:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980243256157020178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sn42iMUYXg",
+              "end": 33,
+              "expanded_url": "https://x.com/izayoiYU_esi/status/1980243256157020178/photo/1",
+              "media_key": "3_1980243247113924608",
+              "start": 10,
+              "url": "https://t.co/Sn42iMUYXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980243256157020178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4829,
+          "impression_count": 300547,
+          "like_count": 29959,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 868
+        },
+        "reply_settings": "everyone",
+        "text": "やはり健全だったわ https://t.co/Sn42iMUYXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 78
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T22:42:17.000Z",
+        "description": "Illustrator✐☡ ⋆* izayoiYUです！ fanBOX→（https://t.co/grDEWjecva）アイコン神絵師(@mynkaoi) 師匠(@Turara2158)我が弟子(@mi_no_0122) 僕が尊敬且つ絵柄を参考にしてる 神絵師様→@nanananaaannaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "mynkaoi"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Turara2158"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mi_no_0122"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "nanananaaannaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "izayoiyu.fanbox.cc",
+                "end": 60,
+                "expanded_url": "https://izayoiyu.fanbox.cc",
+                "start": 37,
+                "url": "https://t.co/grDEWjecva"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/izayoiYU_es…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/izayoiYU_esi/",
+                "start": 0,
+                "url": "https://t.co/3zUVFTEpzN"
+              }
+            ]
+          }
+        },
+        "id": "1337528117640929280",
+        "location": "僕の描いたホロの絵は全然アイコンに使ってもらっても大丈夫です",
+        "name": "izayoi YU（c106 土曜日 東地区 “ユ”ブロック－44a(東4ホール)）",
+        "pinned_tweet_id": "1842781937276182878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942563835346313216/tQBGVPCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122249,
+          "following_count": 271,
+          "like_count": 27671,
+          "listed_count": 318,
+          "media_count": 1978,
+          "tweet_count": 26149
+        },
+        "url": "https://t.co/3zUVFTEpzN",
+        "username": "izayoiYU_esi",
+        "verified": true
+      }
+    ]
+  }
+}

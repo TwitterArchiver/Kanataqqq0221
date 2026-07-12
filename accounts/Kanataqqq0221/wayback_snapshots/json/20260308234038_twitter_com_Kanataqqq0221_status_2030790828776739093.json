@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2030748647877660940",
+    "created_at": "2026-03-08T23:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030790828776739093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1097515527277240320",
+          "start": 0,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030790828776739093",
+    "in_reply_to_user_id": "1097515527277240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030748647877660940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYR487 這個也太強了 感覺7wonders的譜面超級累的說"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030748590268891136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC6rFV8aQAARw1S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 594,
+        "media_key": "3_2030748590201851904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC6rFVsbUAAlisS.jpg",
+        "width": 1056
+      },
+      {
+        "duration_ms": 14229,
+        "height": 1280,
+        "media_key": "7_2030748602478604288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030748602478604288/pu/img/S9zEOgFx2XBvKKxv.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030748602478604288/pu/vid/avc1/320x568/sHE2gzlzJVZ9DahW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030748602478604288/pu/vid/avc1/480x852/lKKJeltO5wx8iYiX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030748602478604288/pu/vid/avc1/720x1280/LRiVS7Nw4MPLzsO3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030748602478604288/pu/pl/x9QXsWPszbkLtr7P.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2030748647877660940",
+        "created_at": "2026-03-08T23:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030790828776739093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1097515527277240320",
+              "start": 0,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030790828776739093",
+        "in_reply_to_user_id": "1097515527277240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030748647877660940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYR487 這個也太強了 感覺7wonders的譜面超級累的說"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030748590268891136",
+            "3_2030748590201851904",
+            "7_2030748602478604288"
+          ]
+        },
+        "author_id": "1097515527277240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030748647877660940",
+        "created_at": "2026-03-08T20:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030748647877660940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TS4D38sE8T",
+              "end": 183,
+              "expanded_url": "https://x.com/LYR487/status/2030748647877660940/video/1",
+              "media_key": "3_2030748590268891136",
+              "start": 160,
+              "url": "https://t.co/TS4D38sE8T"
+            },
+            {
+              "display_url": "pic.x.com/TS4D38sE8T",
+              "end": 183,
+              "expanded_url": "https://x.com/LYR487/status/2030748647877660940/video/1",
+              "media_key": "3_2030748590201851904",
+              "start": 160,
+              "url": "https://t.co/TS4D38sE8T"
+            },
+            {
+              "display_url": "pic.x.com/TS4D38sE8T",
+              "end": 183,
+              "expanded_url": "https://x.com/LYR487/status/2030748647877660940/video/1",
+              "media_key": "7_2030748602478604288",
+              "start": 160,
+              "url": "https://t.co/TS4D38sE8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030748647877660940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？？？？？？？\n等一下？？？？\n不是不是\n我在玩CiRCLE代將speed run？\n\n7 Wonders Master  初SSS\n啊？？？？？？？？？\n我打完我都傻眼了，前幾天打都還在瘋狂刷鍵然後依舊刷不穩\n啊今天打5次就有了\n太神啦\n\n感覺有機會在CiRCLE+改版的瞬間拿到CiRCLE代的將牌喔？？\n拼！ https://t.co/TS4D38sE8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 155,
+          "like_count": 911,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ブルアカ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 4810,
+          "like_count": 159067,
+          "listed_count": 3,
+          "media_count": 1576,
+          "tweet_count": 66664
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

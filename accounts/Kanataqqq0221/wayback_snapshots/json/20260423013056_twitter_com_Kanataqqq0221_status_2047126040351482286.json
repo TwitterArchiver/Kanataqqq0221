@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2046812263374569787",
+    "created_at": "2026-04-23T01:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047126040351482286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463403514592333829",
+          "start": 0,
+          "username": "Y1103S86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047126040351482286",
+    "in_reply_to_user_id": "1463403514592333829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046880214131892370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y1103S86 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2046812263374569787",
+        "created_at": "2026-04-23T01:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047126040351482286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463403514592333829",
+              "start": 0,
+              "username": "Y1103S86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047126040351482286",
+        "in_reply_to_user_id": "1463403514592333829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046880214131892370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y1103S86 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463403514592333829",
+        "conversation_id": "2046812263374569787",
+        "created_at": "2026-04-22T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046880214131892370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046880214131892370",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046812263374569787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 我给你米画我的黄图可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 239,
+          "like_count": 1911,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T07:06:37.000Z",
+        "description": "一个之前存在过的人 不会再混之前的任何圈子\nDom /有老婆\n🚪198 私聊只回复正常问题口令红包（我也没逼你过）",
+        "id": "1463403514592333829",
+        "location": "🚪198 288 568 ",
+        "name": "姜川",
+        "pinned_tweet_id": "2039998755735543937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044326930129006592/pH2Dijaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6679,
+          "following_count": 218,
+          "like_count": 2134,
+          "listed_count": 14,
+          "media_count": 291,
+          "tweet_count": 2212
+        },
+        "username": "Y1103S86",
+        "verified": false
+      }
+    ]
+  }
+}

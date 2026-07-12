@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2043538692720177619",
+    "created_at": "2026-04-13T05:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043559747409100958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741762886522056704",
+          "start": 0,
+          "username": "Iris0258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043559747409100958",
+    "in_reply_to_user_id": "1741762886522056704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043550384241913964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris0258 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2043538692720177619",
+        "created_at": "2026-04-13T05:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043559747409100958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741762886522056704",
+              "start": 0,
+              "username": "Iris0258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043559747409100958",
+        "in_reply_to_user_id": "1741762886522056704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043550384241913964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris0258 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741762886522056704",
+        "conversation_id": "2043538692720177619",
+        "created_at": "2026-04-13T04:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043550384241913964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043550384241913964",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043538692720177619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 226,
+          "like_count": 1766,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T10:07:01.000Z",
+        "description": "🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris02581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris02581",
+                "start": 0,
+                "url": "https://t.co/99pYGDdwDd"
+              }
+            ]
+          }
+        },
+        "id": "1741762886522056704",
+        "location": "哈尔滨",
+        "name": "Iris",
+        "pinned_tweet_id": "1894951398200221835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746005497658916864/eByYkFd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 404,
+          "like_count": 13110,
+          "listed_count": 1,
+          "media_count": 808,
+          "tweet_count": 5948
+        },
+        "url": "https://t.co/99pYGDdwDd",
+        "username": "Iris0258",
+        "verified": false
+      }
+    ]
+  }
+}

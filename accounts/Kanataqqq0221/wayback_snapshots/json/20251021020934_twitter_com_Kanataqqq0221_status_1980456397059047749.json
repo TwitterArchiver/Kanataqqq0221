@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980122472650272768"
+      ],
+      "media_source_tweet_id": [
+        "1980122484424020017"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980456397059047749",
+    "created_at": "2025-10-21T02:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980456397059047749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457271727575027712",
+          "start": 3,
+          "username": "Mm0nCo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8qG2j8mgl",
+          "end": 45,
+          "expanded_url": "https://x.com/Mm0nCo/status/1980122484424020017/photo/1",
+          "media_key": "3_1980122472650272768",
+          "start": 22,
+          "url": "https://t.co/J8qG2j8mgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980456397059047749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980122484424020017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mm0nCo: 雨天借宿在学生家里 https://t.co/J8qG2j8mgl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1980122472650272768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rO5dIWcAAH8YK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980122472650272768"
+          ],
+          "media_source_tweet_id": [
+            "1980122484424020017"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980456397059047749",
+        "created_at": "2025-10-21T02:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980456397059047749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457271727575027712",
+              "start": 3,
+              "username": "Mm0nCo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8qG2j8mgl",
+              "end": 45,
+              "expanded_url": "https://x.com/Mm0nCo/status/1980122484424020017/photo/1",
+              "media_key": "3_1980122472650272768",
+              "start": 22,
+              "url": "https://t.co/J8qG2j8mgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980456397059047749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980122484424020017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mm0nCo: 雨天借宿在学生家里 https://t.co/J8qG2j8mgl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980122472650272768"
+          ]
+        },
+        "author_id": "1457271727575027712",
+        "conversation_id": "1980122484424020017",
+        "created_at": "2025-10-20T04:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980122484424020017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8qG2j8mgl",
+              "end": 33,
+              "expanded_url": "https://x.com/Mm0nCo/status/1980122484424020017/photo/1",
+              "media_key": "3_1980122472650272768",
+              "start": 10,
+              "url": "https://t.co/J8qG2j8mgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980122484424020017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 839,
+          "impression_count": 812288,
+          "like_count": 7042,
+          "quote_count": 0,
+          "reply_count": 138,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "雨天借宿在学生家里 https://t.co/J8qG2j8mgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 72
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T09:00:36.000Z",
+        "description": "",
+        "id": "1457271727575027712",
+        "location": "Jiangsu",
+        "name": "0512公交车",
+        "pinned_tweet_id": "1980175969790124485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612464605149933570/V0U764Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26830,
+          "following_count": 250,
+          "like_count": 52,
+          "listed_count": 48,
+          "media_count": 192,
+          "tweet_count": 389
+        },
+        "username": "Mm0nCo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2014408902335705111",
+    "created_at": "2026-02-06T01:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T02:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019581251301306839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502506015350087680",
+          "start": 0,
+          "username": "LSark1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019581251301306839",
+    "in_reply_to_user_id": "1502506015350087680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014408902335705111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSark1120 主人啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2014408121788379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Sdg5PbsAAcTkX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2014408121792528386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Sdg5QbAAIsgeh.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2014408902335705111",
+        "created_at": "2026-02-06T01:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019581251301306839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502506015350087680",
+              "start": 0,
+              "username": "LSark1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019581251301306839",
+        "in_reply_to_user_id": "1502506015350087680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014408902335705111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSark1120 主人啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014408121788379136",
+            "3_2014408121792528386"
+          ]
+        },
+        "author_id": "1502506015350087680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014408902335705111",
+        "created_at": "2026-01-22T18:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014408902335705111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zL4kEphRGG",
+              "end": 145,
+              "expanded_url": "https://x.com/LSark1120/status/2014408902335705111/photo/1",
+              "media_key": "3_2014408121788379136",
+              "start": 122,
+              "url": "https://t.co/zL4kEphRGG"
+            },
+            {
+              "display_url": "pic.x.com/zL4kEphRGG",
+              "end": 145,
+              "expanded_url": "https://x.com/LSark1120/status/2014408902335705111/photo/1",
+              "media_key": "3_2014408121792528386",
+              "start": 122,
+              "url": "https://t.co/zL4kEphRGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014408902335705111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晓神确认\n真超檄橙晓 再加一个堇 都神牌确认了\n算是阶段性总结了，从没想过我这个菜逼能够取得这么高的成就\n从以前的牌子都遥不可及，到现在一张一张神牌的确认，也是一点一点在进步\n可惜白潘和白茄还是不会打\n2022.10.1——2026.1.23 https://t.co/zL4kEphRGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 126,
+          "like_count": 471,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T04:45:39.000Z",
+        "description": "你好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/g1OEToG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/g1OEToG",
+                "start": 0,
+                "url": "https://t.co/mkENe6xwEv"
+              }
+            ]
+          }
+        },
+        "id": "1502506015350087680",
+        "location": "在你心里❤️",
+        "name": "泠殇_Eric",
+        "pinned_tweet_id": "1686053477649387520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753029449581572096/rbEOn5HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 426,
+          "like_count": 3931,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/mkENe6xwEv",
+        "username": "LSark1120",
+        "verified": false
+      }
+    ]
+  }
+}

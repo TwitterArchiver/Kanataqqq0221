@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1970879445071548606",
+    "created_at": "2025-09-25T02:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T03:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971034284942295428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1895032388482367488",
+          "start": 0,
+          "username": "_owo_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971034284942295428",
+    "in_reply_to_user_id": "1895032388482367488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970879445071548606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_owo_1022 可愛い🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970879431565803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1n4Zp2agAALc9l.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1970879445071548606",
+        "created_at": "2025-09-25T02:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T03:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971034284942295428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1895032388482367488",
+              "start": 0,
+              "username": "_owo_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971034284942295428",
+        "in_reply_to_user_id": "1895032388482367488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970879445071548606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_owo_1022 可愛い🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970879431565803520"
+          ]
+        },
+        "author_id": "1895032388482367488",
+        "conversation_id": "1970879445071548606",
+        "created_at": "2025-09-24T15:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970879445071548606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcNLtDUSfU",
+              "end": 35,
+              "expanded_url": "https://x.com/_owo_1022/status/1970879445071548606/photo/1",
+              "media_key": "3_1970879431565803520",
+              "start": 12,
+              "url": "https://t.co/vcNLtDUSfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970879445071548606",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6486,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/vcNLtDUSfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "",
+        "id": "1971027114582474752",
+        "name": "Kanataqかなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T08:45:19.000Z",
+        "description": "maimai虹レです。🗝→@_owo_2201 相方→ @vegas_maimai_Ar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "_owo_2201"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "vegas_maimai_Ar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zb99bgei67ezg6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/zb99bgei67ezg6g?t=AqB0uL&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/vFNUMkDx6Q"
+              }
+            ]
+          }
+        },
+        "id": "1895032388482367488",
+        "location": "愛知県",
+        "name": "かえーで",
+        "pinned_tweet_id": "1944963750336807263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969178831752962048/Zc9HEssi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 818,
+          "like_count": 6817,
+          "listed_count": 2,
+          "media_count": 1068,
+          "tweet_count": 10311
+        },
+        "url": "https://t.co/vFNUMkDx6Q",
+        "username": "_owo_1022",
+        "verified": false
+      }
+    ]
+  }
+}

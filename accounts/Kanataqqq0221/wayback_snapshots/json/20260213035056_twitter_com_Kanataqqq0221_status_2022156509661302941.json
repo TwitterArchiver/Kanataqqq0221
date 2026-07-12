@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2022156509661302941",
+    "created_at": "2026-02-13T03:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022156509661302941"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "CHUNITHM",
+          "probability": 0.6548,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3641455974",
+          "start": 3,
+          "username": "DEADRKGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022156509661302941",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021926904656482660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEADRKGK: CHUNITHM's original characters have stories with deep extensive lore, but besides that...\n...This train has a \"story\" you can…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2021924574825443328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9RsC0acAAeAx0.jpg",
+        "width": 1272
+      },
+      {
+        "height": 621,
+        "media_key": "3_2021924589329420288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9Rs42bkAAqG34.jpg",
+        "width": 1234
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2021925271444893697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9SUl7bsAE12Oa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 300,
+        "media_key": "3_2021925519022075913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9SjAObsAkM0Rf.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2022156509661302941",
+        "created_at": "2026-02-13T03:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022156509661302941"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.6548,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3641455974",
+              "start": 3,
+              "username": "DEADRKGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022156509661302941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021926904656482660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEADRKGK: CHUNITHM's original characters have stories with deep extensive lore, but besides that...\n...This train has a \"story\" you can…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021924574825443328",
+            "3_2021924589329420288",
+            "3_2021925271444893697",
+            "3_2021925519022075913"
+          ]
+        },
+        "author_id": "3641455974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2021926904656482660",
+        "created_at": "2026-02-12T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021926904656482660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.5041,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.5123,
+              "start": 132,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Keikyū",
+              "probability": 0.5048,
+              "start": 163,
+              "type": "Person"
+            },
+            {
+              "end": 205,
+              "normalized_text": "Shizuno Tsukui",
+              "probability": 0.7594,
+              "start": 192,
+              "type": "Person"
+            },
+            {
+              "end": 233,
+              "normalized_text": "KATTOBI KEIKYU",
+              "probability": 0.4684,
+              "start": 220,
+              "type": "Other"
+            },
+            {
+              "end": 277,
+              "normalized_text": "Lore",
+              "probability": 0.3054,
+              "start": 274,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncz4675ZCF",
+              "end": 303,
+              "expanded_url": "https://x.com/DEADRKGK/status/2021926904656482660/photo/1",
+              "media_key": "3_2021924574825443328",
+              "start": 280,
+              "url": "https://t.co/ncz4675ZCF"
+            },
+            {
+              "display_url": "pic.x.com/ncz4675ZCF",
+              "end": 303,
+              "expanded_url": "https://x.com/DEADRKGK/status/2021926904656482660/photo/1",
+              "media_key": "3_2021924589329420288",
+              "start": 280,
+              "url": "https://t.co/ncz4675ZCF"
+            },
+            {
+              "display_url": "pic.x.com/ncz4675ZCF",
+              "end": 303,
+              "expanded_url": "https://x.com/DEADRKGK/status/2021926904656482660/photo/1",
+              "media_key": "3_2021925271444893697",
+              "start": 280,
+              "url": "https://t.co/ncz4675ZCF"
+            },
+            {
+              "display_url": "pic.x.com/ncz4675ZCF",
+              "end": 303,
+              "expanded_url": "https://x.com/DEADRKGK/status/2021926904656482660/photo/1",
+              "media_key": "3_2021925519022075913",
+              "start": 280,
+              "url": "https://t.co/ncz4675ZCF"
+            },
+            {
+              "display_url": "x.com/bfdia6ispeak/s…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/bfdia6ispeak/status/2021532378041290919",
+              "start": 304,
+              "url": "https://t.co/pLzeD7Qkcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021926904656482660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 10766,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021532378041290919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "CHUNITHM's original characters have stories with deep extensive lore, but besides that...\n...This train has a \"story\" you can read!\nCHUNITHM collaborated with the Keikyū train line, giving us Shizuno Tsukui and her song KATTOBI KEIKYU RIDER, and... The train in-game! Train Lore. https://t.co/ncz4675ZCF https://t.co/pLzeD7Qkcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 122,
+          "like_count": 589,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-21T20:58:18.000Z",
+        "description": "DEAD, 28 — Disabled \"resurrected\" artist who's learned to love creating again — OCs, Fanart (ウニ🗡️🦐メタヴ) #NIKKE CC — 18+ ART ➡️ @DEADR18 — ENG/ 私は日本語が下手です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 103,
+                "tag": "NIKKE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 126,
+                "username": "DEADR18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DEADRKGK.COM",
+                "end": 23,
+                "expanded_url": "http://DEADRKGK.COM",
+                "start": 0,
+                "url": "https://t.co/dMQLG0ZnNE"
+              }
+            ]
+          }
+        },
+        "id": "3641455974",
+        "location": "CHUNITHM ENG TL team member",
+        "name": "DEAD",
+        "pinned_tweet_id": "2022130064301994198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866182258111172608/edkHECVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 409,
+          "like_count": 4572,
+          "listed_count": 4,
+          "media_count": 1609,
+          "tweet_count": 4575
+        },
+        "url": "https://t.co/dMQLG0ZnNE",
+        "username": "DEADRKGK",
+        "verified": false
+      }
+    ]
+  }
+}

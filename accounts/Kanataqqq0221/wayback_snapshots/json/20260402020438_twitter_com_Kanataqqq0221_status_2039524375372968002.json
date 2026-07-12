@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2039280367526654463",
+    "created_at": "2026-04-02T02:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039524375372968002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039524375372968002",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039280367526654463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThujaS 诶难道这个不是双指谱吗）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34227,
+        "height": 720,
+        "media_key": "7_2039280258709684224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039280258709684224/pu/img/XpdrvPyvXrEZjnlp.jpg",
+        "public_metrics": {
+          "view_count": 180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039280258709684224/pu/vid/avc1/480x270/8XZ9joiX4oH5qlMx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039280258709684224/pu/vid/avc1/640x360/sMBevdTNu2Z-slBQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039280258709684224/pu/vid/avc1/1280x720/OUSD6KV3CdmjfLbl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039280258709684224/pu/pl/qHgoIDromFIA9fGq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2039280367526654463",
+        "created_at": "2026-04-02T02:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039524375372968002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039524375372968002",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039280367526654463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThujaS 诶难道这个不是双指谱吗）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039280258709684224"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "conversation_id": "2039280367526654463",
+        "created_at": "2026-04-01T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039280367526654463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjV6F7ZoVM",
+              "end": 36,
+              "expanded_url": "https://x.com/iamThujaS/status/2039280367526654463/video/1",
+              "media_key": "7_2039280258709684224",
+              "start": 13,
+              "url": "https://t.co/UjV6F7ZoVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039280367526654463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发奇想使用双指正攻（？ https://t.co/UjV6F7ZoVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 194,
+          "like_count": 1408,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "依旧正宗劳保，依旧做题蛆//冲出地狱，只为让各位粉红王座反贼之黑顺直o圈伪娘非二元地雷系性压抑南拳女拳扫福瑞币圈赌狗随机吃上一口新鲜大份/依旧平等歧视三观不正之神人，依旧刀刀烈火刀刀爆/@theRealThujaS唯一小号，@ThujaSlover为支黑假扮号。默认一切到处瞎鉴证追着骂的不论立场司爹司马//求转帖QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "theRealThujaS"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2039212552987738310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 608,
+          "like_count": 3335,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThujaS",
+        "verified": true
+      }
+    ]
+  }
+}

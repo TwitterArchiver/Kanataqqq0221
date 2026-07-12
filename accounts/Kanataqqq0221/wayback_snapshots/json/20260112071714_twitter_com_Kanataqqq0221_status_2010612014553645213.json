@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2010612014553645213",
+    "created_at": "2026-01-12T07:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010612014553645213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaw/status/20…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/miaw/status/2010381186288214362",
+          "start": 2,
+          "url": "https://t.co/pZQlG86Jea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010612014553645213",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010381186288214362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐱 https://t.co/pZQlG86Jea"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7848,
+        "height": 1280,
+        "media_key": "13_2010181927081521152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010181927081521152/img/fV2BwFyNA45ydGW0.jpg",
+        "public_metrics": {
+          "view_count": 15850
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010181927081521152/vid/avc1/320x568/TSMml0agzAPsABma.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010181927081521152/vid/avc1/480x852/84_7sdvKIVsB6IHC.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010181927081521152/vid/avc1/720x1280/3C9iwZscZG7i3uh5.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010181927081521152/pl/BNbsvrTNRmpzA-qG.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2010612014553645213",
+        "created_at": "2026-01-12T07:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010612014553645213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaw/status/20…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/miaw/status/2010381186288214362",
+              "start": 2,
+              "url": "https://t.co/pZQlG86Jea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010612014553645213",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381186288214362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐱 https://t.co/pZQlG86Jea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010181927081521152"
+          ]
+        },
+        "author_id": "7176332",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010381186288214362",
+        "created_at": "2026-01-11T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010381186288214362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iW25bs1JW",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/2010381186288214362/video/1",
+              "media_key": "13_2010181927081521152",
+              "start": 0,
+              "url": "https://t.co/8iW25bs1JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010381186288214362",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 69419,
+          "like_count": 3920,
+          "quote_count": 34,
+          "reply_count": 15,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8iW25bs1JW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 97,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88491,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 241,
+          "media_count": 1776,
+          "tweet_count": 1802
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2059089706206605366",
+    "created_at": "2026-05-26T01:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059089706206605366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanataqqq0221/…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/kanataqqq0221/status/2029721775060439205",
+          "start": 79,
+          "url": "https://t.co/yv2DZDk5vr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059089706206605366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029721775060439205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【重要通知】\n在此基础上即便有很多现实中以及墙内的朋友知道我的推号，但是我不希望有任何人以截图的形式传播我的推文内容到墙内给别人。\n仍然是那句话，推止于推。 https://t.co/yv2DZDk5vr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2029721766877388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsFMWua4AAjcl2.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2059089706206605366",
+        "created_at": "2026-05-26T01:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059089706206605366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanataqqq0221/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/kanataqqq0221/status/2029721775060439205",
+              "start": 79,
+              "url": "https://t.co/yv2DZDk5vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059089706206605366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029721775060439205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【重要通知】\n在此基础上即便有很多现实中以及墙内的朋友知道我的推号，但是我不希望有任何人以截图的形式传播我的推文内容到墙内给别人。\n仍然是那句话，推止于推。 https://t.co/yv2DZDk5vr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029721766877388800"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029721775060439205",
+        "created_at": "2026-03-06T00:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029721775060439205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIvK76QVNW",
+              "end": 48,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2029721775060439205/photo/1",
+              "media_key": "3_2029721766877388800",
+              "start": 25,
+              "url": "https://t.co/jIvK76QVNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029721775060439205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6656,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n這是一個自我介紹🧡\n歡迎和我互fo🥺\n愛你們 https://t.co/jIvK76QVNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 114,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 267,
+          "like_count": 2343,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

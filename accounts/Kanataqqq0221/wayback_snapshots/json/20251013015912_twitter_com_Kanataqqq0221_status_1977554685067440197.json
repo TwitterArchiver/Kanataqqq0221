@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976961306382258176"
+      ],
+      "media_source_tweet_id": [
+        "1976961470354407877"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1977554685067440197",
+    "created_at": "2025-10-13T01:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T02:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977554685067440197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4001820198",
+          "start": 3,
+          "username": "sola_iris"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGk4pLUzj6",
+          "end": 43,
+          "expanded_url": "https://x.com/sola_iris/status/1976961470354407877/photo/1",
+          "media_key": "3_1976961306382258176",
+          "start": 20,
+          "url": "https://t.co/iGk4pLUzj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977554685067440197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1215
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976961470354407877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sola_iris: ほたるん https://t.co/iGk4pLUzj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2144,
+        "media_key": "3_1976961306382258176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-T1XGbUAANrdt.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976961306382258176"
+          ],
+          "media_source_tweet_id": [
+            "1976961470354407877"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1977554685067440197",
+        "created_at": "2025-10-13T01:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977554685067440197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4001820198",
+              "start": 3,
+              "username": "sola_iris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGk4pLUzj6",
+              "end": 43,
+              "expanded_url": "https://x.com/sola_iris/status/1976961470354407877/photo/1",
+              "media_key": "3_1976961306382258176",
+              "start": 20,
+              "url": "https://t.co/iGk4pLUzj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977554685067440197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1215
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976961470354407877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sola_iris: ほたるん https://t.co/iGk4pLUzj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976961306382258176"
+          ]
+        },
+        "author_id": "4001820198",
+        "conversation_id": "1976961470354407877",
+        "created_at": "2025-10-11T10:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976961470354407877"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ほたるん",
+              "probability": 0.4326,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGk4pLUzj6",
+              "end": 28,
+              "expanded_url": "https://x.com/sola_iris/status/1976961470354407877/photo/1",
+              "media_key": "3_1976961306382258176",
+              "start": 5,
+              "url": "https://t.co/iGk4pLUzj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976961470354407877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4421,
+          "impression_count": 279468,
+          "like_count": 26985,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 1215
+        },
+        "reply_settings": "everyone",
+        "text": "ほたるん https://t.co/iGk4pLUzj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-24T11:48:27.000Z",
+        "description": "AIで遊ぶ垢 原神/スタレメイン\n金曜日は消しゴムの日！\n環境 SDとWAN2.2、PSで手直し\nI only know Japanese, so GPT-chan helps me translate!\n🅿atre0n→https://t.co/436uTlbh9J\n🚫Account→@sola_iris_r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "sola_iris_r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/ByMAi",
+                "end": 134,
+                "expanded_url": "https://x.gd/ByMAi",
+                "start": 111,
+                "url": "https://t.co/436uTlbh9J"
+              }
+            ]
+          }
+        },
+        "id": "4001820198",
+        "name": "エンジ/Enji_sola",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905607502630453253/moOuEBz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81085,
+          "following_count": 327,
+          "like_count": 4305,
+          "listed_count": 308,
+          "media_count": 487,
+          "tweet_count": 3443
+        },
+        "username": "sola_iris",
+        "verified": true
+      }
+    ]
+  }
+}

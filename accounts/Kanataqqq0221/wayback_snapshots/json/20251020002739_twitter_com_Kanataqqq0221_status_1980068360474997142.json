@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980068360474997142",
+    "created_at": "2025-10-20T00:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980068360474997142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xssj9464/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xssj9464/status/1979502910389326154",
+          "start": 6,
+          "url": "https://t.co/wWJa48Ccz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980068360474997142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979502910389326154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点恶心了 https://t.co/wWJa48Ccz5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1979502901509705728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ibZqxXUAAYX20.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980068360474997142",
+        "created_at": "2025-10-20T00:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980068360474997142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xssj9464/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xssj9464/status/1979502910389326154",
+              "start": 6,
+              "url": "https://t.co/wWJa48Ccz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980068360474997142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979502910389326154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点恶心了 https://t.co/wWJa48Ccz5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979502901509705728"
+          ]
+        },
+        "author_id": "1822003489373089792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979502910389326154",
+        "created_at": "2025-10-18T11:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979502910389326154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FinuRoTpV5",
+              "end": 35,
+              "expanded_url": "https://x.com/xssj9464/status/1979502910389326154/photo/1",
+              "media_key": "3_1979502901509705728",
+              "start": 12,
+              "url": "https://t.co/FinuRoTpV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979502910389326154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 1349641,
+          "like_count": 5908,
+          "quote_count": 60,
+          "reply_count": 388,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心就这样被对待 https://t.co/FinuRoTpV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 59
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "开心最重要 感谢关注",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "sad",
+        "pinned_tweet_id": "1979766553865490680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973529929401892864/22HNxfHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 186,
+          "like_count": 3937,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 2665
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

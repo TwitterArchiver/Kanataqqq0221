@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2048260871353438237",
+    "created_at": "2026-04-26T07:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048309637678801070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        },
+        {
+          "end": 32,
+          "id": "1817762587788169216",
+          "start": 16,
+          "username": "HuangMouRen0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048309637678801070",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048260871353438237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB @HuangMouRen0408 啊这个好可爱口呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048260868610400256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGziaGjbIAAexxJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2048260871353438237",
+        "created_at": "2026-04-26T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048309637678801070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            },
+            {
+              "end": 32,
+              "id": "1817762587788169216",
+              "start": 16,
+              "username": "HuangMouRen0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048309637678801070",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048260871353438237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB @HuangMouRen0408 啊这个好可爱口呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048260868610400256"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "2048260871353438237",
+        "created_at": "2026-04-26T04:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260871353438237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4vTtypgh9",
+              "end": 64,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/2048260871353438237/photo/1",
+              "media_key": "3_2048260868610400256",
+              "start": 41,
+              "url": "https://t.co/J4vTtypgh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048260871353438237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 25336,
+          "like_count": 1299,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "#CHUNITHM_art\nMelodiniq CLEAR!!!\nここでお別れー https://t.co/J4vTtypgh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 254,
+          "like_count": 2023,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "✦ 𝑮𝑬𝑻 𝑻𝑯𝑬 𝑹𝑬𝑮𝑹𝑬𝑻 𝑶𝑽𝑬𝑹.                                    \n連絡先： trypanblue.tpb@gmail.com                   \nBOOTH: https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 138,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 115,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "name": "锥",
+        "pinned_tweet_id": "2032280205113643290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 803,
+          "like_count": 6524,
+          "listed_count": 35,
+          "media_count": 229,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T03:22:36.000Z",
+        "description": "🇨🇳叫我黄某人/HMR0408就好！除了中文外其他都是用翻译器发的，最喜欢的角色是九条枫，发的画打码的是约的稿没打的基本都是自己画的",
+        "id": "1817762587788169216",
+        "location": "幻想乡",
+        "name": "黄某人",
+        "pinned_tweet_id": "1973288238640160835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032115157980364804/G5pCT9db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 348,
+          "like_count": 4723,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1448
+        },
+        "username": "HuangMouRen0408",
+        "verified": false
+      }
+    ]
+  }
+}

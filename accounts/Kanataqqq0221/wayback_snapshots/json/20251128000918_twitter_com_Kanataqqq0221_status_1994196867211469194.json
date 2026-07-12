@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994196858181439489"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1994196867211469194",
+    "created_at": "2025-11-28T00:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T01:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994196867211469194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1634356196697341953",
+          "start": 8,
+          "username": "TORLI114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INz7FLHvMq",
+          "end": 44,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1994196867211469194/photo/1",
+          "media_key": "3_1994196858181439489",
+          "start": 21,
+          "url": "https://t.co/INz7FLHvMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994196867211469194",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "( ^ω^ )\n@TORLI114514 https://t.co/INz7FLHvMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994196858181439489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zPehAa0AE1MxV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994196858181439489"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1994196867211469194",
+        "created_at": "2025-11-28T00:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994196867211469194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1634356196697341953",
+              "start": 8,
+              "username": "TORLI114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INz7FLHvMq",
+              "end": 44,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1994196867211469194/photo/1",
+              "media_key": "3_1994196858181439489",
+              "start": 21,
+              "url": "https://t.co/INz7FLHvMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994196867211469194",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "( ^ω^ )\n@TORLI114514 https://t.co/INz7FLHvMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 83,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 109,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "username": "TORLI114514",
+        "verified": false
+      }
+    ]
+  }
+}

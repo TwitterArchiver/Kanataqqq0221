@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1992246710245175692",
+    "created_at": "2025-11-24T06:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T07:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992845373506048479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992845373506048479",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992246710245175692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB 小星好可爱😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2163,
+        "media_key": "3_1992246707556659200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Xh0zzbMAA69rO.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1992246710245175692",
+        "created_at": "2025-11-24T06:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992845373506048479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992845373506048479",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992246710245175692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB 小星好可爱😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992246707556659200"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "1992246710245175692",
+        "created_at": "2025-11-22T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992246710245175692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ONGEKI_art"
+            },
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "井ノ原小星生誕祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL0CosUeKq",
+              "end": 54,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/1992246710245175692/photo/1",
+              "media_key": "3_1992246707556659200",
+              "start": 31,
+              "url": "https://t.co/IL0CosUeKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992246710245175692",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 14594,
+          "like_count": 774,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "#ONGEKI_art 🎈💚\n#井ノ原小星生誕祭2025 🎂 https://t.co/IL0CosUeKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 84,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "Email: trypanblue.tpb@gmail.com            \nBOOTH @錐の自販機  https://t.co/qbHrRQbaX0     \nVgen(cms) https://t.co/Bpw8BGbyI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 81,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 58,
+                "url": "https://t.co/qbHrRQbaX0"
+              },
+              {
+                "display_url": "vgen.co/TrypanBlue_TPB",
+                "end": 120,
+                "expanded_url": "http://vgen.co/TrypanBlue_TPB",
+                "start": 97,
+                "url": "https://t.co/Bpw8BGbyI4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOgpm"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "location": "裏@Lanthanum_CSL",
+        "name": "锥✦C107 1日目 東ナ-25ab",
+        "pinned_tweet_id": "1986741711461315052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 733,
+          "like_count": 5741,
+          "listed_count": 27,
+          "media_count": 202,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/n4kKQKOgpm",
+        "username": "TrypanBlue_TPB",
+        "verified": false
+      }
+    ]
+  }
+}

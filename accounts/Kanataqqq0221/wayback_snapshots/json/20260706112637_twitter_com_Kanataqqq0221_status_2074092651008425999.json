@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074066082315501570"
+      ],
+      "media_source_tweet_id": [
+        "2074066122341769266"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2074092651008425999",
+    "created_at": "2026-07-06T11:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074092651008425999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2006891438332952576",
+          "start": 3,
+          "username": "Kanataqqq9178"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zEFLWoeVkN",
+          "end": 62,
+          "expanded_url": "https://x.com/Kanataqqq9178/status/2074066122341769266/photo/1",
+          "media_key": "3_2074066082315501570",
+          "start": 39,
+          "url": "https://t.co/zEFLWoeVkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074092651008425999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074066122341769266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanataqqq9178: 决定码一下然后再发（）\n昨晚拍的qwq https://t.co/zEFLWoeVkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074066082315501570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiQHO0aAAIRMwg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074066082315501570"
+          ],
+          "media_source_tweet_id": [
+            "2074066122341769266"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2074092651008425999",
+        "created_at": "2026-07-06T11:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074092651008425999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2006891438332952576",
+              "start": 3,
+              "username": "Kanataqqq9178"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEFLWoeVkN",
+              "end": 62,
+              "expanded_url": "https://x.com/Kanataqqq9178/status/2074066122341769266/photo/1",
+              "media_key": "3_2074066082315501570",
+              "start": 39,
+              "url": "https://t.co/zEFLWoeVkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074092651008425999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074066122341769266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanataqqq9178: 决定码一下然后再发（）\n昨晚拍的qwq https://t.co/zEFLWoeVkN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074066082315501570"
+          ]
+        },
+        "author_id": "2006891438332952576",
+        "conversation_id": "2074066122341769266",
+        "created_at": "2026-07-06T09:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074066122341769266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEFLWoeVkN",
+              "end": 43,
+              "expanded_url": "https://x.com/Kanataqqq9178/status/2074066122341769266/photo/1",
+              "media_key": "3_2074066082315501570",
+              "start": 20,
+              "url": "https://t.co/zEFLWoeVkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066122341769266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "决定码一下然后再发（）\n昨晚拍的qwq https://t.co/zEFLWoeVkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 371,
+          "like_count": 2892,
+          "listed_count": 5,
+          "media_count": 377,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T00:53:13.000Z",
+        "description": "🔞垢です()//私底下是一名音ゲーマ\n主要活動帳號@Kanataqqq0221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Kanataqqq0221"
+              }
+            ]
+          }
+        },
+        "id": "2006891438332952576",
+        "location": "親手為你掘好的墳墓",
+        "name": "Kam1zuk1神月🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043484978034716672/2l-LE1aE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Kanataqqq9178",
+        "verified": false
+      }
+    ]
+  }
+}

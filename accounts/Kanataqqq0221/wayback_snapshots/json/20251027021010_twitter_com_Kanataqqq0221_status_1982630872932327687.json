@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970161048939532288"
+      ],
+      "media_source_tweet_id": [
+        "1970161074096980134"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982630872932327687",
+    "created_at": "2025-10-27T02:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982630872932327687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "sasakureFC"
+        },
+        {
+          "end": 41,
+          "start": 30,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1074857836360937472",
+          "start": 3,
+          "username": "lobe_saclia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdmpRN39Iv",
+          "end": 71,
+          "expanded_url": "https://x.com/lobe_saclia/status/1970161074096980134/photo/1",
+          "media_key": "3_1970161048939532288",
+          "start": 48,
+          "url": "https://t.co/tdmpRN39Iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982630872932327687",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1058
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970161074096980134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lobe_saclia: #sasakureFC \n#maimai_art \nrpt… https://t.co/tdmpRN39Iv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970161048939532288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1drCSBaEAADapj.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970161048939532288"
+          ],
+          "media_source_tweet_id": [
+            "1970161074096980134"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982630872932327687",
+        "created_at": "2025-10-27T02:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982630872932327687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "sasakureFC"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1074857836360937472",
+              "start": 3,
+              "username": "lobe_saclia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdmpRN39Iv",
+              "end": 71,
+              "expanded_url": "https://x.com/lobe_saclia/status/1970161074096980134/photo/1",
+              "media_key": "3_1970161048939532288",
+              "start": 48,
+              "url": "https://t.co/tdmpRN39Iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982630872932327687",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1058
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970161074096980134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lobe_saclia: #sasakureFC \n#maimai_art \nrpt… https://t.co/tdmpRN39Iv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970161048939532288"
+          ]
+        },
+        "author_id": "1074857836360937472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970161074096980134",
+        "created_at": "2025-09-22T16:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970161074096980134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "sasakureFC"
+            },
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdmpRN39Iv",
+              "end": 54,
+              "expanded_url": "https://x.com/lobe_saclia/status/1970161074096980134/photo/1",
+              "media_key": "3_1970161048939532288",
+              "start": 31,
+              "url": "https://t.co/tdmpRN39Iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970161074096980134",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1331,
+          "impression_count": 186230,
+          "like_count": 10552,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 1058
+        },
+        "reply_settings": "everyone",
+        "text": "#sasakureFC \n#maimai_art \nrpt… https://t.co/tdmpRN39Iv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-18T02:44:12.000Z",
+        "description": "📫:lobesaclia@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19920821",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19920821",
+                "start": 0,
+                "url": "https://t.co/9r7aMt3J7E"
+              }
+            ]
+          }
+        },
+        "id": "1074857836360937472",
+        "name": "Saclia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428552018696708101/w7diCYe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112034,
+          "following_count": 526,
+          "like_count": 755,
+          "listed_count": 865,
+          "media_count": 155,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/9r7aMt3J7E",
+        "username": "lobe_saclia",
+        "verified": false
+      }
+    ]
+  }
+}

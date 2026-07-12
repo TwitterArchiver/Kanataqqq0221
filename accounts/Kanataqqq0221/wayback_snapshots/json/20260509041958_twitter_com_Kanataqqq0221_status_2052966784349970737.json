@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2052713372710224121",
+    "created_at": "2026-05-09T04:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052966784349970737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        },
+        {
+          "end": 23,
+          "id": "1097515527277240320",
+          "start": 16,
+          "username": "LYR487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052966784349970737",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052713372710224121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB @LYR487 主人😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052370846279413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt8aSfaMAAy2Uq.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2052713372710224121",
+        "created_at": "2026-05-09T04:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052966784349970737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            },
+            {
+              "end": 23,
+              "id": "1097515527277240320",
+              "start": 16,
+              "username": "LYR487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052966784349970737",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052713372710224121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB @LYR487 主人😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052370846279413760"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "2052713372710224121",
+        "created_at": "2026-05-08T11:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052713372710224121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5k7GXRlWZ",
+              "end": 33,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/2052713372710224121/photo/1",
+              "media_key": "3_2052370846279413760",
+              "start": 10,
+              "url": "https://t.co/D5k7GXRlWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713372710224121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 19317,
+          "like_count": 2258,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作 https://t.co/D5k7GXRlWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 263,
+          "like_count": 2254,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "✦ 𝑮𝑬𝑻 𝑻𝑯𝑬 𝑹𝑬𝑮𝑹𝑬𝑻 𝑶𝑽𝑬𝑹.                                    \n連絡先： trypanblue.tpb@gmail.com                   \nBOOTH: https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 138,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 115,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "name": "锥✦百日絵描き中",
+        "pinned_tweet_id": "2014564102065291685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5951,
+          "following_count": 813,
+          "like_count": 6680,
+          "listed_count": 34,
+          "media_count": 238,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-18T15:17:47.000Z",
+        "description": "大學生，台灣TR團（Maimai）副團長\n Maimai、ユメステ、日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCPMw6…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCPMw6hDfwq1YZSECDnGdDCg",
+                "start": 0,
+                "url": "https://t.co/DI3Ec0E5Ef"
+              }
+            ]
+          }
+        },
+        "id": "1097515527277240320",
+        "location": "Taiwan",
+        "name": "LYR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640796600921657344/YjRbwOuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 4863,
+          "like_count": 164977,
+          "listed_count": 3,
+          "media_count": 1606,
+          "tweet_count": 67662
+        },
+        "url": "https://t.co/DI3Ec0E5Ef",
+        "username": "LYR487",
+        "verified": false
+      }
+    ]
+  }
+}

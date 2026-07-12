@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042286661485412352"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042286689620803606",
+    "created_at": "2026-04-09T17:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042286689620803606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jjwWN9JBnM",
+          "end": 99,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2042286689620803606/photo/1",
+          "media_key": "3_2042286661485412352",
+          "start": 76,
+          "url": "https://t.co/jjwWN9JBnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042286689620803606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20t\n結果還是一點用都沒有\n甚至一直連著畫了好久的稿子\n好難受⋯⋯到底誰可以救救我⋯⋯\n吃一頓吐一頓\n咱到底要什麼時候才能真正像正常人一樣生活呢⋯⋯ https://t.co/jjwWN9JBnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042286661485412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeo5etbQAAQOyU.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042286661485412352"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042286689620803606",
+        "created_at": "2026-04-09T17:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042286689620803606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjwWN9JBnM",
+              "end": 99,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2042286689620803606/photo/1",
+              "media_key": "3_2042286661485412352",
+              "start": 76,
+              "url": "https://t.co/jjwWN9JBnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042286689620803606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20t\n結果還是一點用都沒有\n甚至一直連著畫了好久的稿子\n好難受⋯⋯到底誰可以救救我⋯⋯\n吃一頓吐一頓\n咱到底要什麼時候才能真正像正常人一樣生活呢⋯⋯ https://t.co/jjwWN9JBnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 216,
+          "like_count": 1668,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

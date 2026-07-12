@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2072697035141320770",
+    "created_at": "2026-07-02T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072697035141320770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072697035141320770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近状况比较差\n先是熬夜做33结果发烧瘫了三天\n想着一直咳嗽咳得很厉害所以去医院查了肺功能\n结果报告单全红，完全惨不忍睹\n查出来咳嗽变异哮喘\n医生不建议之后再有剧烈运动（包括打舞萌）\n不过还是会偷偷跑出去摸两把，但是打完之后会一直咳\n而且这几天一直失眠，躺在床上两三个小时才勉强睡着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2072697035141320770",
+        "created_at": "2026-07-02T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072697035141320770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072697035141320770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近状况比较差\n先是熬夜做33结果发烧瘫了三天\n想着一直咳嗽咳得很厉害所以去医院查了肺功能\n结果报告单全红，完全惨不忍睹\n查出来咳嗽变异哮喘\n医生不建议之后再有剧烈运动（包括打舞萌）\n不过还是会偷偷跑出去摸两把，但是打完之后会一直咳\n而且这几天一直失眠，躺在床上两三个小时才勉强睡着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 363,
+          "like_count": 2813,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

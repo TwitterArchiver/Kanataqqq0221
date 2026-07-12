@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022632983711437092",
+    "created_at": "2026-02-15T08:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022952299862331734"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Amber",
+          "probability": 0.5312,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "Black Bazaar",
+          "probability": 0.6039,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Kervan",
+          "probability": 0.3594,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Afar",
+          "probability": 0.3518,
+          "start": 89,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776096283802996737",
+          "start": 0,
+          "username": "yottan20001202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022952299862331734",
+    "in_reply_to_user_id": "776096283802996737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022632983711437092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yottan20001202 False Amber\n(from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)Wwwwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_2022632975154982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHV-XsasAAJUzk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022632983711437092",
+        "created_at": "2026-02-15T08:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022952299862331734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Amber",
+              "probability": 0.5312,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Black Bazaar",
+              "probability": 0.6039,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Kervan",
+              "probability": 0.3594,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Afar",
+              "probability": 0.3518,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776096283802996737",
+              "start": 0,
+              "username": "yottan20001202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022952299862331734",
+        "in_reply_to_user_id": "776096283802996737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022632983711437092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yottan20001202 False Amber\n(from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)Wwwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022632975154982912"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "2022632983711437092",
+        "created_at": "2026-02-14T11:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022632983711437092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTJZkkEjGE",
+              "end": 45,
+              "expanded_url": "https://x.com/yottan20001202/status/2022632983711437092/photo/1",
+              "media_key": "3_2022632975154982912",
+              "start": 22,
+              "url": "https://t.co/aTJZkkEjGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022632983711437092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20816,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "1曲だけ長すぎなんだわwwwwwwwwww https://t.co/aTJZkkEjGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 123,
+          "like_count": 652,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／KoP4th.5thスコアアタック1位(4th単独303%)／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52297,
+          "following_count": 817,
+          "like_count": 24734,
+          "listed_count": 92,
+          "media_count": 13659,
+          "tweet_count": 65082
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060942133989941248",
+        "3_2060942133918601216",
+        "3_2060942133960622080"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060942144685441032",
+    "created_at": "2026-05-31T04:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060942144685441032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMAXPfk4qH",
+          "end": 28,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+          "media_key": "3_2060942133989941248",
+          "start": 5,
+          "url": "https://t.co/rMAXPfk4qH"
+        },
+        {
+          "display_url": "pic.x.com/rMAXPfk4qH",
+          "end": 28,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+          "media_key": "3_2060942133918601216",
+          "start": 5,
+          "url": "https://t.co/rMAXPfk4qH"
+        },
+        {
+          "display_url": "pic.x.com/rMAXPfk4qH",
+          "end": 28,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+          "media_key": "3_2060942133960622080",
+          "start": 5,
+          "url": "https://t.co/rMAXPfk4qH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060942144685441032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干你娘。 https://t.co/rMAXPfk4qH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060942133989941248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnv85cbIAAivbN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060942133918601216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnv85LakAA-14j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060942133960622080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnv85VbwAAZbo2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060942133989941248",
+            "3_2060942133918601216",
+            "3_2060942133960622080"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060942144685441032",
+        "created_at": "2026-05-31T04:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060942144685441032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMAXPfk4qH",
+              "end": 28,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+              "media_key": "3_2060942133989941248",
+              "start": 5,
+              "url": "https://t.co/rMAXPfk4qH"
+            },
+            {
+              "display_url": "pic.x.com/rMAXPfk4qH",
+              "end": 28,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+              "media_key": "3_2060942133918601216",
+              "start": 5,
+              "url": "https://t.co/rMAXPfk4qH"
+            },
+            {
+              "display_url": "pic.x.com/rMAXPfk4qH",
+              "end": 28,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2060942144685441032/photo/1",
+              "media_key": "3_2060942133960622080",
+              "start": 5,
+              "url": "https://t.co/rMAXPfk4qH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060942144685441032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干你娘。 https://t.co/rMAXPfk4qH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 279,
+          "like_count": 2439,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

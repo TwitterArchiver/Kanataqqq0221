@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2023911745560211845",
+    "created_at": "2026-02-18T00:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023918913449574573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "731051862577709058",
+          "start": 0,
+          "username": "hazki_re_uni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023918913449574573",
+    "in_reply_to_user_id": "731051862577709058",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023918295670522149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hazki_re_uni OwO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2023911745560211845",
+        "created_at": "2026-02-18T00:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023918913449574573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "731051862577709058",
+              "start": 0,
+              "username": "hazki_re_uni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023918913449574573",
+        "in_reply_to_user_id": "731051862577709058",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023918295670522149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hazki_re_uni OwO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "731051862577709058",
+        "conversation_id": "2023911745560211845",
+        "created_at": "2026-02-18T00:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023918295670522149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023918295670522149",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023911745560211845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 おはよう！✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 127,
+          "like_count": 713,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-13T09:22:01.000Z",
+        "description": "■ 成人済 /♀┆■ 音楽レーベル：Diverse System ┆ ■ 音ゲー：maimai / CHUNITHM  etc.┆その他：■ 東方project  etc.",
+        "id": "731051862577709058",
+        "location": "福岡県",
+        "name": "羽月(ハヅキ)",
+        "pinned_tweet_id": "2011769483694915931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000882061134200832/0CC1JkK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 1120,
+          "like_count": 559702,
+          "listed_count": 9,
+          "media_count": 8165,
+          "tweet_count": 154895
+        },
+        "username": "hazki_re_uni",
+        "verified": false
+      }
+    ]
+  }
+}

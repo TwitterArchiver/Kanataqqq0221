@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022201422033662000",
+    "created_at": "2026-02-13T08:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022227076380864744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022227076380864744",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022201422033662000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 吃濱壽司！！🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022201422033662000",
+        "created_at": "2026-02-13T08:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022227076380864744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022227076380864744",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022201422033662000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 吃濱壽司！！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843975943419047936",
+        "conversation_id": "2022201422033662000",
+        "created_at": "2026-02-13T06:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022201422033662000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022201422033662000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好久都沒吃過壽司🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 122,
+          "like_count": 614,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "發日常普通高中生 I碎碎念  I 睇NBA（以前）\n玩的遊戲：原神,櫻校等\n語言：Cantonese/Chinese/OK\n日本語を勉強している\n小號鎖推（@chaikh222）l  政治🚫🚫🚫\n（哪天我不在了要不是被差人抓了要不是VPN炸了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "chaikh222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/leader…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/leaderxiu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BLOftAc4ro"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去（淡推中…）",
+        "pinned_tweet_id": "2001314477996658707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012440912094482432/J1yoaxA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 574,
+          "like_count": 74958,
+          "listed_count": 5,
+          "media_count": 341,
+          "tweet_count": 4792
+        },
+        "url": "https://t.co/BLOftAc4ro",
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

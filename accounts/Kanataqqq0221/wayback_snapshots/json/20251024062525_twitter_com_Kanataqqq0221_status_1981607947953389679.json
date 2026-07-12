@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963404428402434048",
+        "3_1963404428415045634"
+      ],
+      "media_source_tweet_id": [
+        "1963404437184999854",
+        "1963404437184999854"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981607947953389679",
+    "created_at": "2025-10-24T06:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981607947953389679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "562068778",
+          "start": 3,
+          "username": "Mercury200801"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPwGwLdqTf",
+          "end": 42,
+          "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+          "media_key": "3_1963404428402434048",
+          "start": 19,
+          "url": "https://t.co/BPwGwLdqTf"
+        },
+        {
+          "display_url": "pic.x.com/BPwGwLdqTf",
+          "end": 42,
+          "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+          "media_key": "3_1963404428415045634",
+          "start": 19,
+          "url": "https://t.co/BPwGwLdqTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981607947953389679",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963404437184999854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercury200801: https://t.co/BPwGwLdqTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_1963404428402434048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz9p7NFbIAAd-RR.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1297,
+        "media_key": "3_1963404428415045634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz9p7NIbkAIhicb.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963404428402434048",
+            "3_1963404428415045634"
+          ],
+          "media_source_tweet_id": [
+            "1963404437184999854",
+            "1963404437184999854"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981607947953389679",
+        "created_at": "2025-10-24T06:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981607947953389679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "562068778",
+              "start": 3,
+              "username": "Mercury200801"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPwGwLdqTf",
+              "end": 42,
+              "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+              "media_key": "3_1963404428402434048",
+              "start": 19,
+              "url": "https://t.co/BPwGwLdqTf"
+            },
+            {
+              "display_url": "pic.x.com/BPwGwLdqTf",
+              "end": 42,
+              "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+              "media_key": "3_1963404428415045634",
+              "start": 19,
+              "url": "https://t.co/BPwGwLdqTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981607947953389679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963404437184999854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercury200801: https://t.co/BPwGwLdqTf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963404428402434048",
+            "3_1963404428415045634"
+          ]
+        },
+        "author_id": "562068778",
+        "conversation_id": "1963404437184999854",
+        "created_at": "2025-09-04T00:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T01:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963404437184999854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPwGwLdqTf",
+              "end": 23,
+              "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+              "media_key": "3_1963404428402434048",
+              "start": 0,
+              "url": "https://t.co/BPwGwLdqTf"
+            },
+            {
+              "display_url": "pic.x.com/BPwGwLdqTf",
+              "end": 23,
+              "expanded_url": "https://x.com/Mercury200801/status/1963404437184999854/photo/1",
+              "media_key": "3_1963404428415045634",
+              "start": 0,
+              "url": "https://t.co/BPwGwLdqTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963404437184999854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 63853,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BPwGwLdqTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-24T14:27:56.000Z",
+        "description": "一个与众不同的🚪姐（关注有福利）",
+        "id": "562068778",
+        "location": "江苏  徐州",
+        "name": "女明星",
+        "pinned_tweet_id": "1963404437184999854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785272155636469760/HtlhDDFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19866,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "username": "Mercury200801",
+        "verified": true
+      }
+    ]
+  }
+}

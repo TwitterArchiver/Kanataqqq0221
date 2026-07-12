@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047503446128156672"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2047503460564934768",
+    "created_at": "2026-04-24T02:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047503460564934768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vAIPfNwWeW",
+          "end": 25,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2047503460564934768/photo/1",
+          "media_key": "3_2047503446128156672",
+          "start": 2,
+          "url": "https://t.co/vAIPfNwWeW"
+        },
+        {
+          "display_url": "x.com/alistai3395529…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/alistai33955292/status/2046968971438780557",
+          "start": 26,
+          "url": "https://t.co/QdcYlgjSru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047503460564934768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046968971438780557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😱 https://t.co/vAIPfNwWeW https://t.co/QdcYlgjSru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047503446128156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoxiT7bYAA2pMA.jpg",
+        "width": 993
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046968968066514944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLbl_aQAAF5_V.jpg",
+        "width": 993
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046968966820864000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLbhWbIAA57De.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047503446128156672"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2047503460564934768",
+        "created_at": "2026-04-24T02:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047503460564934768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAIPfNwWeW",
+              "end": 25,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2047503460564934768/photo/1",
+              "media_key": "3_2047503446128156672",
+              "start": 2,
+              "url": "https://t.co/vAIPfNwWeW"
+            },
+            {
+              "display_url": "x.com/alistai3395529…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/alistai33955292/status/2046968971438780557",
+              "start": 26,
+              "url": "https://t.co/QdcYlgjSru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047503460564934768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046968971438780557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😱 https://t.co/vAIPfNwWeW https://t.co/QdcYlgjSru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046968968066514944",
+            "3_2046968966820864000"
+          ]
+        },
+        "author_id": "1505767450385690625",
+        "conversation_id": "2046968971438780557",
+        "created_at": "2026-04-22T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046968971438780557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mfBe5ak4m",
+              "end": 29,
+              "expanded_url": "https://x.com/Alistai33955292/status/2046968971438780557/photo/1",
+              "media_key": "3_2046968968066514944",
+              "start": 6,
+              "url": "https://t.co/0mfBe5ak4m"
+            },
+            {
+              "display_url": "pic.x.com/0mfBe5ak4m",
+              "end": 29,
+              "expanded_url": "https://x.com/Alistai33955292/status/2046968971438780557/photo/1",
+              "media_key": "3_2046968966820864000",
+              "start": 6,
+              "url": "https://t.co/0mfBe5ak4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046968971438780557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穷鬼游荡。 https://t.co/0mfBe5ak4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 240,
+          "like_count": 1947,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs丨希望爱我的我爱的人永远幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 564,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      }
+    ]
+  }
+}

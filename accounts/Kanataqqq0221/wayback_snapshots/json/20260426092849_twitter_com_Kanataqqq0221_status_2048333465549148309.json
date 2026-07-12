@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2048272191570194486",
+    "created_at": "2026-04-26T09:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048333465549148309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463403514592333829",
+          "start": 0,
+          "username": "Y1103S86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048333465549148309",
+    "in_reply_to_user_id": "1463403514592333829",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048272191570194486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y1103S86 ❓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048272188323844097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzss_xa0AE8pmN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2048272191570194486",
+        "created_at": "2026-04-26T09:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048333465549148309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463403514592333829",
+              "start": 0,
+              "username": "Y1103S86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048333465549148309",
+        "in_reply_to_user_id": "1463403514592333829",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048272191570194486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y1103S86 ❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048272188323844097"
+          ]
+        },
+        "author_id": "1463403514592333829",
+        "conversation_id": "2048272191570194486",
+        "created_at": "2026-04-26T05:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048272191570194486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eFQINsN53",
+              "end": 41,
+              "expanded_url": "https://x.com/Y1103S86/status/2048272191570194486/photo/1",
+              "media_key": "3_2048272188323844097",
+              "start": 18,
+              "url": "https://t.co/8eFQINsN53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048272191570194486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你倒是拍舒服了 我的眼睛可就遭殃了 https://t.co/8eFQINsN53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 254,
+          "like_count": 2031,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T07:06:37.000Z",
+        "description": "一个之前存在过的人 不会再混之前的任何圈子\nDom /有老婆\n🚪198 私聊只回复正常问题口令红包（我也没逼你过）",
+        "id": "1463403514592333829",
+        "location": "🚪198 288 568 ",
+        "name": "姜川",
+        "pinned_tweet_id": "2039998755735543937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048271688870359040/YkeZZJQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6791,
+          "following_count": 219,
+          "like_count": 2140,
+          "listed_count": 14,
+          "media_count": 294,
+          "tweet_count": 2229
+        },
+        "username": "Y1103S86",
+        "verified": false
+      }
+    ]
+  }
+}

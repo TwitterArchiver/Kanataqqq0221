@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995314220859359232"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1995314230179119292",
+    "created_at": "2025-12-01T02:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995314230179119292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFtR9nQSDL",
+          "end": 23,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1995314230179119292/photo/1",
+          "media_key": "3_1995314220859359232",
+          "start": 0,
+          "url": "https://t.co/UFtR9nQSDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995314230179119292",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/UFtR9nQSDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995314220859359232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DHtlWbgAAfF-R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995314220859359232"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1995314230179119292",
+        "created_at": "2025-12-01T02:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995314230179119292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFtR9nQSDL",
+              "end": 23,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1995314230179119292/photo/1",
+              "media_key": "3_1995314220859359232",
+              "start": 0,
+              "url": "https://t.co/UFtR9nQSDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995314230179119292",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UFtR9nQSDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

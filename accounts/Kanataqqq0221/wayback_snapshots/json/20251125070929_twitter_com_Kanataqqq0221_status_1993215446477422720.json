@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1992649504013853008",
+    "created_at": "2025-11-25T07:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993215446477422720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851403302938071040",
+          "start": 0,
+          "username": "UMP91147621"
+        },
+        {
+          "end": 23,
+          "id": "1839658906538442753",
+          "start": 13,
+          "username": "mizusumi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993215446477422720",
+    "in_reply_to_user_id": "1851403302938071040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992887351358730694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UMP91147621 @mizusumi_ 虚空舞萌来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6579,
+        "height": 1278,
+        "media_key": "7_1992887332022915072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992887332022915072/pu/img/4aKei-ZgavBeRr_J.jpg",
+        "public_metrics": {
+          "view_count": 5264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992887332022915072/pu/vid/avc1/320x692/pUQ6JRmAaD8QpuRn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992887332022915072/pu/vid/avc1/480x1038/273uWuqk3pjguFtc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992887332022915072/pu/vid/avc1/590x1278/wn_5qWwRedpcjcsL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992887332022915072/pu/pl/uDYH2N2k31OvCugt.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1992649504013853008",
+        "created_at": "2025-11-25T07:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993215446477422720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851403302938071040",
+              "start": 0,
+              "username": "UMP91147621"
+            },
+            {
+              "end": 23,
+              "id": "1839658906538442753",
+              "start": 13,
+              "username": "mizusumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993215446477422720",
+        "in_reply_to_user_id": "1851403302938071040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992887351358730694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UMP91147621 @mizusumi_ 虚空舞萌来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992887332022915072"
+          ]
+        },
+        "author_id": "1851403302938071040",
+        "conversation_id": "1992649504013853008",
+        "created_at": "2025-11-24T09:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992887351358730694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839658906538442753",
+              "start": 0,
+              "username": "mizusumi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YOqAV49zo",
+              "end": 43,
+              "expanded_url": "https://x.com/UMP91147621/status/1992887351358730694/video/1",
+              "media_key": "7_1992887332022915072",
+              "start": 20,
+              "url": "https://t.co/6YOqAV49zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992887351358730694",
+        "in_reply_to_user_id": "1839658906538442753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8966,
+          "like_count": 58,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992649504013853008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizusumi_ 请问这是什么症状 https://t.co/6YOqAV49zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T23:18:50.000Z",
+        "description": "日本に留学中     社会学部     \n99組/虹ヶ咲     🔖👑/🦒🍅     まゆち/もえぴ         \n歴史/言語/政治/哲学/書道/甲冑/城/戦国",
+        "id": "1851403302938071040",
+        "location": "東京 新宿区",
+        "name": "大ばナナ",
+        "pinned_tweet_id": "1949770867963207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851406388716863488/CrgWRYEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1743,
+          "like_count": 27741,
+          "listed_count": 9,
+          "media_count": 3270,
+          "tweet_count": 23532
+        },
+        "username": "UMP91147621",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T13:31:01.000Z",
+        "description": "✨みずすみ | 出生于中国🇨🇳 | 理性阴湿鬼🤫 | 不太会社交却妄想力爆棚🧠 | 绘画是我的宇宙🎨 | 躲在角落偷偷观察型👀 | 不谈政治❌ | 欢迎所有人🚪 | 一起聊聊艺术与日常吧〜！里垢→@mizusumi123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "mizusumi123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizusumi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizusumi",
+                "start": 0,
+                "url": "https://t.co/OdsrQVbmce"
+              }
+            ]
+          }
+        },
+        "id": "1839658906538442753",
+        "name": "溪墨",
+        "pinned_tweet_id": "1961455391017243112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969702445904474112/sLYwDxch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 244,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/OdsrQVbmce",
+        "username": "mizusumi_",
+        "verified": false
+      }
+    ]
+  }
+}

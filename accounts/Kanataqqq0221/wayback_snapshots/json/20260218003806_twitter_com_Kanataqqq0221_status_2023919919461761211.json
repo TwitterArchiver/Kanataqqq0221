@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2023834392905609388",
+    "created_at": "2026-02-18T00:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023919919461761211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777344951556456448",
+          "start": 0,
+          "username": "AyakoHimy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023919919461761211",
+    "in_reply_to_user_id": "1777344951556456448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023834392905609388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyakoHimy どうかすべてがうまくいきますように(＞人＜;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2023834392905609388",
+        "created_at": "2026-02-18T00:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023919919461761211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777344951556456448",
+              "start": 0,
+              "username": "AyakoHimy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023919919461761211",
+        "in_reply_to_user_id": "1777344951556456448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023834392905609388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyakoHimy どうかすべてがうまくいきますように(＞人＜;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777344951556456448",
+        "conversation_id": "2023834392905609388",
+        "created_at": "2026-02-17T18:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023834392905609388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023834392905609388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母は先ほど急性虫垂炎で入院しました。大丈夫だといいのですが。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 127,
+          "like_count": 714,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T14:37:27.000Z",
+        "description": "24/06 21/01 私はフリーランスの作曲家兼画家です\n\nこの文章を読んでくださっているあなたと、ぜひ音楽でコラボレーションしたいです。\n\nここでは誰も私を知らないので、他のソーシャル メディア プラットフォームよりも自然に自分の日常生活や仕事をシェアしています。",
+        "id": "1777344951556456448",
+        "name": "ayako himy",
+        "pinned_tweet_id": "2015734311144833070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022891768249987072/0Ppo8nbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 55,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1082
+        },
+        "username": "AyakoHimy",
+        "verified": false
+      }
+    ]
+  }
+}

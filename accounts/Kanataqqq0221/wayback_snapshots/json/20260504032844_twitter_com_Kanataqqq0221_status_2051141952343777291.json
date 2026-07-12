@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2050960449928315319",
+    "created_at": "2026-05-04T03:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051141952343777291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        },
+        {
+          "end": 20,
+          "id": "1588883867477233664",
+          "start": 9,
+          "username": "NANYIla233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051141952343777291",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051112315324616938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ @NANYIla233 想要这个（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2050960449928315319",
+        "created_at": "2026-05-04T03:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051141952343777291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            },
+            {
+              "end": 20,
+              "id": "1588883867477233664",
+              "start": 9,
+              "username": "NANYIla233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051141952343777291",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051112315324616938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ @NANYIla233 想要这个（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2050960449928315319",
+        "created_at": "2026-05-04T01:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051112315324616938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588883867477233664",
+              "start": 0,
+              "username": "NANYIla233"
+            },
+            {
+              "end": 26,
+              "id": "1971027114582474752",
+              "start": 12,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051112315324616938",
+        "in_reply_to_user_id": "1588883867477233664",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050960449928315319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NANYIla233 @Kanataqqq0221"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 262,
+          "like_count": 2181,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "我没钱，不要在我这里求得金钱。我就一傻逼。",
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "空白（负能量大王）",
+        "pinned_tweet_id": "2035888462847771098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 585,
+          "like_count": 12252,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 11114
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:21:18.000Z",
+        "description": "30岁后再消失就好了/@nanyiby800906/@a7837229l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "nanyiby800906"
+              },
+              {
+                "end": 36,
+                "start": 26,
+                "username": "a7837229l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/a7837229l",
+                "end": 23,
+                "expanded_url": "https://t.me/a7837229l",
+                "start": 0,
+                "url": "https://t.co/5DFbZcmyI4"
+              }
+            ]
+          }
+        },
+        "id": "1588883867477233664",
+        "location": "地球的某个角落",
+        "name": "NANYI",
+        "pinned_tweet_id": "1971483399971041372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034056412360544261/YzU3wwig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 1321,
+          "like_count": 88220,
+          "listed_count": 1,
+          "media_count": 1572,
+          "tweet_count": 8525
+        },
+        "url": "https://t.co/5DFbZcmyI4",
+        "username": "NANYIla233",
+        "verified": false
+      }
+    ]
+  }
+}

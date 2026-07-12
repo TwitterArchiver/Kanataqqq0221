@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023973925575946240"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023973932995371497",
+    "created_at": "2026-02-18T04:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023973932995371497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1852615097824251904",
+          "start": 2,
+          "username": "Suimikax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oySWJGWFda",
+          "end": 35,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2023973932995371497/photo/1",
+          "media_key": "3_2023973925575946240",
+          "start": 12,
+          "url": "https://t.co/oySWJGWFda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023973932995371497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面！@Suimikax https://t.co/oySWJGWFda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2023973925575946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaZj9SbcAA63tf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023973925575946240"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023973932995371497",
+        "created_at": "2026-02-18T04:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023973932995371497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1852615097824251904",
+              "start": 2,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oySWJGWFda",
+              "end": 35,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2023973932995371497/photo/1",
+              "media_key": "3_2023973925575946240",
+              "start": 12,
+              "url": "https://t.co/oySWJGWFda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023973932995371497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面！@Suimikax https://t.co/oySWJGWFda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 127,
+          "like_count": 718,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "蜜桃桃｜中華民國100年生女高，啥也不是｜小桃子@Taaaaaaut｜妈咪@HappyHejsDay｜铲屎官@bungeihaku8964｜小石榴@X16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Taaaaaaut"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "bungeihaku8964"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "X16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "location": "Admiralty",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "1997160942749339786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017885436799229952/Yv2DbpAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 105,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1293
+        },
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

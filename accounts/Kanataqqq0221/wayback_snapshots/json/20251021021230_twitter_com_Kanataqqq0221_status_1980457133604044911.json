@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980191011138629632"
+      ],
+      "media_source_tweet_id": [
+        "1980191034056524040"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980457133604044911",
+    "created_at": "2025-10-21T02:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980457133604044911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1780581415765278721",
+          "start": 3,
+          "username": "Akari_Mikatsuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KxpLEw7PXy",
+          "end": 54,
+          "expanded_url": "https://x.com/Akari_Mikatsuki/status/1980191034056524040/photo/1",
+          "media_key": "3_1980191011138629632",
+          "start": 31,
+          "url": "https://t.co/KxpLEw7PXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980457133604044911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980191034056524040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akari_Mikatsuki: 做个有格调的女孩子 https://t.co/KxpLEw7PXy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980191011138629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sNO65W8AA9AAh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980191011138629632"
+          ],
+          "media_source_tweet_id": [
+            "1980191034056524040"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980457133604044911",
+        "created_at": "2025-10-21T02:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980457133604044911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1780581415765278721",
+              "start": 3,
+              "username": "Akari_Mikatsuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxpLEw7PXy",
+              "end": 54,
+              "expanded_url": "https://x.com/Akari_Mikatsuki/status/1980191034056524040/photo/1",
+              "media_key": "3_1980191011138629632",
+              "start": 31,
+              "url": "https://t.co/KxpLEw7PXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980457133604044911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980191034056524040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akari_Mikatsuki: 做个有格调的女孩子 https://t.co/KxpLEw7PXy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980191011138629632"
+          ]
+        },
+        "author_id": "1780581415765278721",
+        "conversation_id": "1980191034056524040",
+        "created_at": "2025-10-20T08:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980191034056524040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxpLEw7PXy",
+              "end": 33,
+              "expanded_url": "https://x.com/Akari_Mikatsuki/status/1980191034056524040/photo/1",
+              "media_key": "3_1980191011138629632",
+              "start": 10,
+              "url": "https://t.co/KxpLEw7PXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980191034056524040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 23491,
+          "like_count": 1035,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "做个有格调的女孩子 https://t.co/KxpLEw7PXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 74
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:58:42.000Z",
+        "description": "168/50，脚码39，足控/tk控\n出图包/原味/定制视频 (◦˙▽˙◦)\n🚪50 过门有小惊喜\nDie Liebste❤️:@Haruna_504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Haruna_504"
+              }
+            ]
+          }
+        },
+        "id": "1780581415765278721",
+        "name": "明璃",
+        "pinned_tweet_id": "1944727862768193918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970742235248709632/hXz45o9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9687,
+          "following_count": 251,
+          "like_count": 135,
+          "listed_count": 63,
+          "media_count": 49,
+          "tweet_count": 198
+        },
+        "username": "Akari_Mikatsuki",
+        "verified": false
+      }
+    ]
+  }
+}

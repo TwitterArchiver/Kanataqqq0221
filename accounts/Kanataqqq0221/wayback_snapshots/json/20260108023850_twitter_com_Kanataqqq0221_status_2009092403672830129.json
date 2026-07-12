@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008857370173095936"
+      ],
+      "media_source_tweet_id": [
+        "2008857410941940128"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2009092403672830129",
+    "created_at": "2026-01-08T02:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009092403672830129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950548412140494848",
+          "start": 3,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xe7TLhCMaL",
+          "end": 57,
+          "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2008857410941940128/photo/1",
+          "media_key": "3_2008857370173095936",
+          "start": 34,
+          "url": "https://t.co/xe7TLhCMaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009092403672830129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008857410941940128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K7qWcfzcdAPW5Y9: 2010年十大网络流行语 https://t.co/xe7TLhCMaL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2008857370173095936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DlIoGXwAABg8s.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008857370173095936"
+          ],
+          "media_source_tweet_id": [
+            "2008857410941940128"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2009092403672830129",
+        "created_at": "2026-01-08T02:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009092403672830129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950548412140494848",
+              "start": 3,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xe7TLhCMaL",
+              "end": 57,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2008857410941940128/photo/1",
+              "media_key": "3_2008857370173095936",
+              "start": 34,
+              "url": "https://t.co/xe7TLhCMaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009092403672830129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008857410941940128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K7qWcfzcdAPW5Y9: 2010年十大网络流行语 https://t.co/xe7TLhCMaL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008857370173095936"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2008857410941940128",
+        "created_at": "2026-01-07T11:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008857410941940128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xe7TLhCMaL",
+              "end": 36,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2008857410941940128/photo/1",
+              "media_key": "3_2008857370173095936",
+              "start": 13,
+              "url": "https://t.co/xe7TLhCMaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008857410941940128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 70747,
+          "like_count": 561,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "2010年十大网络流行语 https://t.co/xe7TLhCMaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 96,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，防失联请关注Telegram群：浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSHsuy"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10167,
+          "following_count": 172,
+          "like_count": 377,
+          "listed_count": 29,
+          "media_count": 357,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/eL54RSHsuy",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

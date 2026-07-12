@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988573884858462615",
+    "created_at": "2025-11-13T00:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T01:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988760941060931997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988760941060931997",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988573884858462615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 群里可以堵桥吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_1988573881637249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jVaNCboAAQQjB.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988573884858462615",
+        "created_at": "2025-11-13T00:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988760941060931997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988760941060931997",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988573884858462615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 群里可以堵桥吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988573881637249024"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "conversation_id": "1988573884858462615",
+        "created_at": "2025-11-12T11:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988573884858462615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5mXszcrSm",
+              "end": 38,
+              "expanded_url": "https://x.com/notThujaS/status/1988573884858462615/photo/1",
+              "media_key": "3_1988573881637249024",
+              "start": 15,
+              "url": "https://t.co/d5mXszcrSm"
+            },
+            {
+              "display_url": "x.com/nidiejiaobaba/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/nidiejiaobaba/status/1988565455137607721",
+              "start": 39,
+              "url": "https://t.co/GZuK2f7jJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988573884858462615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2417,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988565455137607721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为有人着急了，所以放出来罢 https://t.co/d5mXszcrSm https://t.co/GZuK2f7jJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 73,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳正宗劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我会随机回关的。2000fo直播杜桥延期，最近太忙太忙了😭///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1987411293545111607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978461994652213248/lb6jtsni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 840,
+          "like_count": 5836,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 3349
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

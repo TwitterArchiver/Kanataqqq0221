@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2060669102755385634",
+    "created_at": "2026-05-30T10:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060669102755385634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torli114514/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/torli114514/status/1988376483937874217",
+          "start": 6,
+          "url": "https://t.co/Ljv74ba342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060669102755385634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988376483937874217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝来一口 https://t.co/Ljv74ba342"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_1988376461674438656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gh22XaYAAUM91.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2060669102755385634",
+        "created_at": "2026-05-30T10:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060669102755385634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torli114514/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/torli114514/status/1988376483937874217",
+              "start": 6,
+              "url": "https://t.co/Ljv74ba342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060669102755385634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988376483937874217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝来一口 https://t.co/Ljv74ba342"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988376461674438656"
+          ]
+        },
+        "author_id": "1634356196697341953",
+        "conversation_id": "1988376483937874217",
+        "created_at": "2025-11-11T22:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988376483937874217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VP0oiRCzTu",
+              "end": 116,
+              "expanded_url": "https://x.com/TORLI114514/status/1988376483937874217/photo/1",
+              "media_key": "3_1988376461674438656",
+              "start": 93,
+              "url": "https://t.co/VP0oiRCzTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988376483937874217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 710,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n水鸟\n推特纯随意发发\n目前在新加坡上学\n放假在广州\n新加坡机厅有概率捕抓我\n只有一张神牌堇神所以我mai并不强\n享受生活快乐游戏\n\n大概率不会读私信\n给我v50一键获取联系方式。 https://t.co/VP0oiRCzTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 272,
+          "like_count": 2420,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 118,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "TORLI114514",
+        "verified": false
+      }
+    ]
+  }
+}

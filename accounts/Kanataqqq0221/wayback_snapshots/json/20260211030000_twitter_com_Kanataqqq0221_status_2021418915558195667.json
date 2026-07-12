@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021416150580724009",
+    "created_at": "2026-02-11T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021418915558195667"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "ーめつちゃん",
+          "probability": 0.2842,
+          "start": 5,
+          "type": "Person"
+        },
+        {
+          "end": 47,
+          "normalized_text": "舞萌",
+          "probability": 0.5404,
+          "start": 46,
+          "type": "Person"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021418915558195667",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021416150580724009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "実際は、はーめつちゃんは、中國人です wwwwwwwwwwwwwwでも！「maimai」と「舞萌」の関係、知らないです(´；ω；`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021416150580724009",
+        "created_at": "2026-02-11T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021418915558195667"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ーめつちゃん",
+              "probability": 0.2842,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "舞萌",
+              "probability": 0.5404,
+              "start": 46,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021418915558195667",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021416150580724009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "実際は、はーめつちゃんは、中國人です wwwwwwwwwwwwwwでも！「maimai」と「舞萌」の関係、知らないです(´；ω；`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021416150580724009",
+        "created_at": "2026-02-11T02:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021416150580724009"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "舞萌DX",
+              "probability": 0.3483,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "舞萌",
+              "probability": 0.5055,
+              "start": 67,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021416150580724009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あ、気がつく「maimaiでらっくす」が中国語では「舞萌DX」（mai-moe-DX？）って読むんだって🤔でも、「maimai」と「舞萌」の間、何か関係する？ wwwwwwwwwwwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16062丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 132,
+          "like_count": 514,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

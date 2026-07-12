@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029931753184563491",
+    "created_at": "2026-03-07T13:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030267398214050299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005977436262109184",
+          "start": 0,
+          "username": "ZhiDuan67339"
+        },
+        {
+          "end": 22,
+          "id": "1835724410902265856",
+          "start": 14,
+          "username": "Xxs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030267398214050299",
+    "in_reply_to_user_id": "2005977436262109184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029931753184563491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhiDuan67339 @Xxs8964 互fowww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029931753184563491",
+        "created_at": "2026-03-07T13:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030267398214050299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005977436262109184",
+              "start": 0,
+              "username": "ZhiDuan67339"
+            },
+            {
+              "end": 22,
+              "id": "1835724410902265856",
+              "start": 14,
+              "username": "Xxs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030267398214050299",
+        "in_reply_to_user_id": "2005977436262109184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029931753184563491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiDuan67339 @Xxs8964 互fowww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005977436262109184",
+        "conversation_id": "2029931753184563491",
+        "created_at": "2026-03-06T14:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029931753184563491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029931753184563491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "✙这里素 阿栒✙\n想和我互fo的大胆来呀(,,•́ . •̀,,)\n我喜欢聊天ww\n我割手 但是不od^ω^\n（买不到药qwq）\n无任何政治立场 我喜欢吃瓜\n吵架无条件站亲友！\n注：有精神病和心理疾病烦我被骂别怪我\n不约不聊骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 151,
+          "like_count": 869,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T12:21:20.000Z",
+        "description": "自伤/心理疾病/音游痴/生心女/温良人/负能量爆炸",
+        "id": "2005977436262109184",
+        "name": "阿阿阿阿栒",
+        "pinned_tweet_id": "2029931753184563491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029600180639784960/TG5lPOzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "ZhiDuan67339",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\nlgbtq友好\n加我不需要🚪 \n但是加我家猫需要🚪5r\n把我帖子转墙内你全家被压路机压成尸块",
+        "id": "1835724410902265856",
+        "name": "✟高性能小学生✟",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747869092810752/I5TdE8mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 682,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1164
+        },
+        "username": "Xxs8964",
+        "verified": false
+      }
+    ]
+  }
+}

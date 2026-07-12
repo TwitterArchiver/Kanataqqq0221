@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2057515987185082382",
+    "created_at": "2026-05-22T04:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057681770045452446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057681770045452446",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057515987185082382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 可爱龙w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14673,
+        "height": 1280,
+        "media_key": "13_2057515880851070977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057515880851070977/img/0dslcFiA1D5ERu24.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057515880851070977/vid/avc1/320x568/HVCJ-3_P9moivQXP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057515880851070977/vid/avc1/480x852/qHp2DuvnrRMUmlhe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057515880851070977/vid/avc1/720x1280/LTmDI2lhJd5YBMBq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057515880851070977/pl/3SXkR3tVMR4Y_nOb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2057515987185082382",
+        "created_at": "2026-05-22T04:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057681770045452446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057681770045452446",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057515987185082382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 可爱龙w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057515880851070977"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2057515987185082382",
+        "created_at": "2026-05-21T17:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057515987185082382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Gyl5R7dn0",
+              "end": 41,
+              "expanded_url": "https://x.com/longlongp97w/status/2057515987185082382/video/1",
+              "media_key": "13_2057515880851070977",
+              "start": 18,
+              "url": "https://t.co/5Gyl5R7dn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057515987185082382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dy那边1000粉女仆装来啦！！！ https://t.co/5Gyl5R7dn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 114,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 267,
+          "like_count": 2310,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，龙喜欢被夸🥰,然后我不是同！想多找互关呀，提问箱：https://t.co/oCgXhmsRO0\n小号：@longrc7x  #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "碎碎念"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "longrc7x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 106,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050705580327587841/0FGws5YT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 210,
+          "like_count": 10795,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1971126839902089254",
+    "created_at": "2025-11-11T23:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T00:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988395781448233172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634356196697341953",
+          "start": 0,
+          "username": "TORLI114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988395781448233172",
+    "in_reply_to_user_id": "1634356196697341953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988382172684972467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TORLI114514 干什么😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1971126839902089254",
+        "created_at": "2025-11-11T23:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T00:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988395781448233172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634356196697341953",
+              "start": 0,
+              "username": "TORLI114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988395781448233172",
+        "in_reply_to_user_id": "1634356196697341953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988382172684972467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TORLI114514 干什么😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634356196697341953",
+        "conversation_id": "1971126839902089254",
+        "created_at": "2025-11-11T23:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T00:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988382172684972467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988382172684972467",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971126839902089254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 109,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "username": "TORLI114514",
+        "verified": false
+      }
+    ]
+  }
+}

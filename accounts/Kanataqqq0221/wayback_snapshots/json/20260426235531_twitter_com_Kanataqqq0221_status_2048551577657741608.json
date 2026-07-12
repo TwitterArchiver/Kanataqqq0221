@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2048406664488042952",
+    "created_at": "2026-04-26T23:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048551577657741608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463403514592333829",
+          "start": 0,
+          "username": "Y1103S86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048551577657741608",
+    "in_reply_to_user_id": "1463403514592333829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048406664488042952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y1103S86 在班上刷手机刷到这个差点没给我手机吓掉😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048406661950496768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1nAZEaYAAOaoU.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2048406664488042952",
+        "created_at": "2026-04-26T23:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048551577657741608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463403514592333829",
+              "start": 0,
+              "username": "Y1103S86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048551577657741608",
+        "in_reply_to_user_id": "1463403514592333829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048406664488042952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y1103S86 在班上刷手机刷到这个差点没给我手机吓掉😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048406661950496768"
+          ]
+        },
+        "author_id": "1463403514592333829",
+        "conversation_id": "2048406664488042952",
+        "created_at": "2026-04-26T14:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048406664488042952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "直男"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "露出"
+            },
+            {
+              "end": 10,
+              "start": 8,
+              "tag": "m"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "公狗"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "原神cos"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "小草神"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrqV6MnbYR",
+              "end": 51,
+              "expanded_url": "https://x.com/Y1103S86/status/2048406664488042952/photo/1",
+              "media_key": "3_2048406661950496768",
+              "start": 28,
+              "url": "https://t.co/HrqV6MnbYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406664488042952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#直男 #露出 #m #公狗 \n＃原神cos\n#小草神 https://t.co/HrqV6MnbYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 255,
+          "like_count": 2044,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T07:06:37.000Z",
+        "description": "一个之前存在过的人 不会再混之前的任何圈子\nDom /有老婆\n🚪198 私聊只回复正常问题口令红包（我也没逼你过）",
+        "id": "1463403514592333829",
+        "location": "🚪198 288 568 ",
+        "name": "姜川",
+        "pinned_tweet_id": "2039998755735543937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048271688870359040/YkeZZJQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6827,
+          "following_count": 219,
+          "like_count": 2142,
+          "listed_count": 14,
+          "media_count": 300,
+          "tweet_count": 2236
+        },
+        "username": "Y1103S86",
+        "verified": false
+      }
+    ]
+  }
+}

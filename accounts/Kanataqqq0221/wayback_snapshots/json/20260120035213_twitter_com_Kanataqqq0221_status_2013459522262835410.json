@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013459509436440576"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2013459522262835410",
+    "created_at": "2026-01-20T03:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013459522262835410"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 0,
+          "tag": "maimai_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNIFia8zNF",
+          "end": 35,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2013459522262835410/photo/1",
+          "media_key": "3_2013459509436440576",
+          "start": 12,
+          "url": "https://t.co/uNIFia8zNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013459522262835410",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#maimai_art https://t.co/uNIFia8zNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013459509436440576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E-wY2XYAAqzUa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013459509436440576"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2013459522262835410",
+        "created_at": "2026-01-20T03:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013459522262835410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNIFia8zNF",
+              "end": 35,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2013459522262835410/photo/1",
+              "media_key": "3_2013459509436440576",
+              "start": 12,
+              "url": "https://t.co/uNIFia8zNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013459522262835410",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/uNIFia8zNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦 生心皆女取向正常丨音ゲー愛好者www 丨广深港通勤丨maimaiでらつくす16062rating丨精神不安定喵QvQ互fo请随意啦www丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 99,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979388028863832065"
+      ],
+      "media_source_tweet_id": [
+        "1979388048199864681"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980062481688277370",
+    "created_at": "2025-10-20T00:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980062481688277370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1588432153880064001",
+          "start": 3,
+          "username": "tmszhjh88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32Pwz7mq0V",
+          "end": 58,
+          "expanded_url": "https://x.com/tmszhjh88/status/1979388048199864681/photo/1",
+          "media_key": "3_1979388028863832065",
+          "start": 35,
+          "url": "https://t.co/32Pwz7mq0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980062481688277370",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84886
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979388048199864681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmszhjh88: Let the love go out https://t.co/32Pwz7mq0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_1979388028863832065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gy7M0W4AETt_k.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979388028863832065"
+          ],
+          "media_source_tweet_id": [
+            "1979388048199864681"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980062481688277370",
+        "created_at": "2025-10-20T00:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980062481688277370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1588432153880064001",
+              "start": 3,
+              "username": "tmszhjh88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Pwz7mq0V",
+              "end": 58,
+              "expanded_url": "https://x.com/tmszhjh88/status/1979388048199864681/photo/1",
+              "media_key": "3_1979388028863832065",
+              "start": 35,
+              "url": "https://t.co/32Pwz7mq0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980062481688277370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84886
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979388048199864681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmszhjh88: Let the love go out https://t.co/32Pwz7mq0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979388028863832065"
+          ]
+        },
+        "author_id": "1588432153880064001",
+        "conversation_id": "1979388048199864681",
+        "created_at": "2025-10-18T03:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979388048199864681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Pwz7mq0V",
+              "end": 43,
+              "expanded_url": "https://x.com/tmszhjh88/status/1979388048199864681/photo/1",
+              "media_key": "3_1979388028863832065",
+              "start": 20,
+              "url": "https://t.co/32Pwz7mq0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979388048199864681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26024,
+          "impression_count": 11931341,
+          "like_count": 700144,
+          "quote_count": 2628,
+          "reply_count": 830,
+          "retweet_count": 84886
+        },
+        "reply_settings": "everyone",
+        "text": "Let the love go out https://t.co/32Pwz7mq0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 49
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T07:31:16.000Z",
+        "description": "One cat, two cats, three cats, meow meow meow",
+        "id": "1588432153880064001",
+        "name": "Kathleen",
+        "pinned_tweet_id": "1825095298206834825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968663074258468864/l-wxj68u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28946,
+          "following_count": 7955,
+          "like_count": 35136,
+          "listed_count": 136,
+          "media_count": 16680,
+          "tweet_count": 18640
+        },
+        "username": "tmszhjh88",
+        "verified": false
+      }
+    ]
+  }
+}

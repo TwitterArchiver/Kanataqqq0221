@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2040774697990881483",
+    "created_at": "2026-04-05T14:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040799577394315412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644155900133376",
+          "start": 0,
+          "username": "Jewelzzz21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040799577394315412",
+    "in_reply_to_user_id": "2038644155900133376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040774697990881483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewelzzz21 我测了这么帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2040774688595685377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJJxExasAEcPhG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2040774697990881483",
+        "created_at": "2026-04-05T14:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040799577394315412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644155900133376",
+              "start": 0,
+              "username": "Jewelzzz21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040799577394315412",
+        "in_reply_to_user_id": "2038644155900133376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040774697990881483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewelzzz21 我测了这么帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040774688595685377"
+          ]
+        },
+        "author_id": "2038644155900133376",
+        "conversation_id": "2040774697990881483",
+        "created_at": "2026-04-05T12:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040774697990881483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFy3psmgIP",
+              "end": 38,
+              "expanded_url": "https://x.com/Jewelzzz21/status/2040774697990881483/photo/1",
+              "media_key": "3_2040774688595685377",
+              "start": 15,
+              "url": "https://t.co/CFy3psmgIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040774697990881483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么离我这么远 我又不是坏人 https://t.co/CFy3psmgIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 197,
+          "like_count": 1509,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:48:04.000Z",
+        "description": "这里是Jesper/infj/07🌈/广州/舟/舞萌\n碎碎念博主 偶尔当擦边博主\n你喜欢我=我喜欢你 止于线上\n➕V🚪88 如果你愿意的话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jeweltvt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jeweltvt",
+                "start": 0,
+                "url": "https://t.co/pgTv4G5nqb"
+              }
+            ]
+          }
+        },
+        "id": "2038644155900133376",
+        "location": "交换眼泪的距离",
+        "name": "Jesper",
+        "pinned_tweet_id": "2039958871368945822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645209190567936/zftA-uoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 219,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/pgTv4G5nqb",
+        "username": "Jewelzzz21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1978464084354818306",
+    "created_at": "2025-10-16T06:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T07:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978716914152017957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978716914152017957",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978464084354818306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 堵桥来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978464069456924672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TqlrzakAAi_Gu.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1978464084354818306",
+        "created_at": "2025-10-16T06:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978716914152017957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978716914152017957",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978464084354818306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 堵桥来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978464069456924672"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "conversation_id": "1978464084354818306",
+        "created_at": "2025-10-15T14:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978464084354818306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6D8d8djQu",
+              "end": 50,
+              "expanded_url": "https://x.com/notThujaS/status/1978464084354818306/photo/1",
+              "media_key": "3_1978464069456924672",
+              "start": 27,
+              "url": "https://t.co/Z6D8d8djQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978464084354818306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3447,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "露一半脸，不然你们都觉得我是个门酱2.0😡\n\n堵桥来 https://t.co/Z6D8d8djQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "正宗劳保/07 12 1/其实很少玩三角洲/搬💩大赛一等奖\n🇨🇳\n尊重每一个正常的LGBTQ+，极度鄙视每一个约炮滥交三观不正的LGBTQ+⭕️性权利不是性自由，有人就是在消耗普通人对性少数群体的最后善意 🙌讨论事情时别评价我，因为我是出生乌鲁鲁。\n😶会悄悄回关。骂人的保护好你的浮木🤓500fo爆照",
+        "id": "1896061942785310720",
+        "location": "GTI热河省分部",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1974762222539968969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978461994652213248/lb6jtsni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 475,
+          "like_count": 2840,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 2331
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

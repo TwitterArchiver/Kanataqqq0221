@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1992649065923002368"
+      ],
+      "media_source_tweet_id": [
+        "1992649504013853008"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1993219422845354072",
+    "created_at": "2025-11-25T07:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993219422845354072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839658906538442753",
+          "start": 3,
+          "username": "mizusumi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/buJUZ2anlR",
+          "end": 64,
+          "expanded_url": "https://x.com/mizusumi_/status/1992649504013853008/video/1",
+          "media_key": "13_1992649065923002368",
+          "start": 41,
+          "url": "https://t.co/buJUZ2anlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993219422845354072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992649504013853008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizusumi_: 这是N55大闹上海六院急救室的视频\n现场录制的补档 https://t.co/buJUZ2anlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 292301,
+        "height": 1280,
+        "media_key": "13_1992649065923002368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992649065923002368/img/tTCBs-5czcyNrmhR.jpg",
+        "public_metrics": {
+          "view_count": 48841
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992649065923002368/vid/avc1/320x626/pjLhGAh8fLjIqZiF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992649065923002368/vid/avc1/480x938/O79uQPtK4Ug2WFNZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992649065923002368/vid/avc1/654x1280/nHzDP2-P-kzX80t9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992649065923002368/pl/j_df_p0QYHtYr3xi.m3u8?v=1c3"
+          }
+        ],
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992649065923002368"
+          ],
+          "media_source_tweet_id": [
+            "1992649504013853008"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1993219422845354072",
+        "created_at": "2025-11-25T07:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993219422845354072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839658906538442753",
+              "start": 3,
+              "username": "mizusumi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/buJUZ2anlR",
+              "end": 64,
+              "expanded_url": "https://x.com/mizusumi_/status/1992649504013853008/video/1",
+              "media_key": "13_1992649065923002368",
+              "start": 41,
+              "url": "https://t.co/buJUZ2anlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993219422845354072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992649504013853008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizusumi_: 这是N55大闹上海六院急救室的视频\n现场录制的补档 https://t.co/buJUZ2anlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992649065923002368"
+          ]
+        },
+        "author_id": "1839658906538442753",
+        "conversation_id": "1992649504013853008",
+        "created_at": "2025-11-23T17:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992649504013853008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/buJUZ2anlR",
+              "end": 49,
+              "expanded_url": "https://x.com/mizusumi_/status/1992649504013853008/video/1",
+              "media_key": "13_1992649065923002368",
+              "start": 26,
+              "url": "https://t.co/buJUZ2anlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992649504013853008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 113231,
+          "like_count": 498,
+          "quote_count": 23,
+          "reply_count": 91,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "这是N55大闹上海六院急救室的视频\n现场录制的补档 https://t.co/buJUZ2anlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T13:31:01.000Z",
+        "description": "✨みずすみ | 出生于中国🇨🇳 | 理性阴湿鬼🤫 | 不太会社交却妄想力爆棚🧠 | 绘画是我的宇宙🎨 | 躲在角落偷偷观察型👀 | 不谈政治❌ | 欢迎所有人🚪 | 一起聊聊艺术与日常吧〜！里垢→@mizusumi123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "mizusumi123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizusumi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizusumi",
+                "start": 0,
+                "url": "https://t.co/OdsrQVbmce"
+              }
+            ]
+          }
+        },
+        "id": "1839658906538442753",
+        "name": "溪墨",
+        "pinned_tweet_id": "1961455391017243112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969702445904474112/sLYwDxch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 244,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/OdsrQVbmce",
+        "username": "mizusumi_",
+        "verified": false
+      }
+    ]
+  }
+}

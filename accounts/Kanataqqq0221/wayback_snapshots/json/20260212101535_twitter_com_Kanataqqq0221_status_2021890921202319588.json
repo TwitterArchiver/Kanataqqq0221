@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021890907931652099",
+        "3_2021890907940044801"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021890921202319588",
+    "created_at": "2026-02-12T10:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021890921202319588"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "Pachiちゃん",
+          "probability": 0.716,
+          "start": 5,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uTLQBA1NSH",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2021890921202319588/photo/1",
+          "media_key": "3_2021890907931652099",
+          "start": 22,
+          "url": "https://t.co/uTLQBA1NSH"
+        },
+        {
+          "display_url": "pic.x.com/uTLQBA1NSH",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2021890921202319588/photo/1",
+          "media_key": "3_2021890907940044801",
+          "start": 22,
+          "url": "https://t.co/uTLQBA1NSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021890921202319588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "-189\nPachiちゃん大好き😘😘😘💛🧡 https://t.co/uTLQBA1NSH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2021890907931652099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8zEX3bsAMSEDz.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2021890907940044801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8zEX5bwAEjv8x.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021890907931652099",
+            "3_2021890907940044801"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021890921202319588",
+        "created_at": "2026-02-12T10:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021890921202319588"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Pachiちゃん",
+              "probability": 0.716,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTLQBA1NSH",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2021890921202319588/photo/1",
+              "media_key": "3_2021890907931652099",
+              "start": 22,
+              "url": "https://t.co/uTLQBA1NSH"
+            },
+            {
+              "display_url": "pic.x.com/uTLQBA1NSH",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2021890921202319588/photo/1",
+              "media_key": "3_2021890907940044801",
+              "start": 22,
+              "url": "https://t.co/uTLQBA1NSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021890921202319588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-189\nPachiちゃん大好き😘😘😘💛🧡 https://t.co/uTLQBA1NSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16097丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 121,
+          "like_count": 569,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

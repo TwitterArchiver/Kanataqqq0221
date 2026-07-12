@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2008371086451146838",
+    "created_at": "2026-01-06T02:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008371086451146838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lesbideo25/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/lesbideo25/status/2007731066371748105",
+          "start": 6,
+          "url": "https://t.co/R1BOEhaWSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008371086451146838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007731066371748105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要這個（） https://t.co/R1BOEhaWSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2007731058729725955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zkwrAasAMTNTU.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2008371086451146838",
+        "created_at": "2026-01-06T02:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008371086451146838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lesbideo25/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lesbideo25/status/2007731066371748105",
+              "start": 6,
+              "url": "https://t.co/R1BOEhaWSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008371086451146838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007731066371748105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要這個（） https://t.co/R1BOEhaWSX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007731058729725955"
+          ]
+        },
+        "author_id": "1860951699797721088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007731066371748105",
+        "created_at": "2026-01-04T08:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007731066371748105"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "台湾",
+              "probability": 0.9379,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fp1QdqZgGS",
+              "end": 38,
+              "expanded_url": "https://x.com/Lesbideo25/status/2007731066371748105/photo/1",
+              "media_key": "3_2007731058729725955",
+              "start": 15,
+              "url": "https://t.co/fp1QdqZgGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007731066371748105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8836,
+          "impression_count": 6795531,
+          "like_count": 89051,
+          "quote_count": 2272,
+          "reply_count": 72,
+          "retweet_count": 7528
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "台湾の看板がマジで終わってる https://t.co/fp1QdqZgGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 94,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T07:40:45.000Z",
+        "description": "このアカ凍結したらtwitter引退\n🗝 ＠bn6xt \nsub @lesbideo14 \n❤251❤ ＠kami__519\n✨アイコン✨ @yurisapi0601",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "bn6xt"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "lesbideo14"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "kami__519"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "yurisapi0601"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lite.tiktok.com/t/ZSHKUAxNqwkw…",
+                "end": 23,
+                "expanded_url": "https://lite.tiktok.com/t/ZSHKUAxNqwkwX-Yf5sy/",
+                "start": 0,
+                "url": "https://t.co/Z5X8Azl3t1"
+              }
+            ]
+          }
+        },
+        "id": "1860951699797721088",
+        "location": "↓tiktokliteのリンク踏んでください↓",
+        "name": "べにま",
+        "pinned_tweet_id": "2006865493874057580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006865420658368512/otM9CYiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 220,
+          "like_count": 5829,
+          "listed_count": 11,
+          "media_count": 343,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/Z5X8Azl3t1",
+        "username": "Lesbideo25",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976919759187771392"
+      ],
+      "media_source_tweet_id": [
+        "1976919767886991445"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1977632392216285427",
+    "created_at": "2025-10-13T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977632392216285427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1285113556749266944",
+          "start": 3,
+          "username": "shusuchii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADZxHBT48p",
+          "end": 38,
+          "expanded_url": "https://x.com/shusuchii/status/1976919767886991445/photo/1",
+          "media_key": "3_1976919759187771392",
+          "start": 15,
+          "url": "https://t.co/ADZxHBT48p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977632392216285427",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1688
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976919767886991445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shusuchii: https://t.co/ADZxHBT48p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976919759187771392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29uC_vWgAACsNv.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976919759187771392"
+          ],
+          "media_source_tweet_id": [
+            "1976919767886991445"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1977632392216285427",
+        "created_at": "2025-10-13T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977632392216285427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1285113556749266944",
+              "start": 3,
+              "username": "shusuchii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADZxHBT48p",
+              "end": 38,
+              "expanded_url": "https://x.com/shusuchii/status/1976919767886991445/photo/1",
+              "media_key": "3_1976919759187771392",
+              "start": 15,
+              "url": "https://t.co/ADZxHBT48p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977632392216285427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1688
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976919767886991445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shusuchii: https://t.co/ADZxHBT48p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976919759187771392"
+          ]
+        },
+        "author_id": "1285113556749266944",
+        "conversation_id": "1976919767886991445",
+        "created_at": "2025-10-11T07:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976919767886991445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADZxHBT48p",
+              "end": 23,
+              "expanded_url": "https://x.com/shusuchii/status/1976919767886991445/photo/1",
+              "media_key": "3_1976919759187771392",
+              "start": 0,
+              "url": "https://t.co/ADZxHBT48p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976919767886991445",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3928,
+          "impression_count": 246315,
+          "like_count": 27127,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 1688
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ADZxHBT48p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T07:25:31.000Z",
+        "description": "ɪ'ᴍ ꜱʜᴜ | ᴇɴ /ᴊᴘ｜ᴍᴀɪɴ ʜɪꜰᴜᴍɪ / 🪶🐾 ｜ᴠɢᴇɴ: https://t.co/bChvvcDCxv |📩 ᴄᴍ / お仕事 : shushu440920@gmail.com/ᴘꜰᴘ: ちりこ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Shusuchii",
+                "end": 64,
+                "expanded_url": "https://vgen.co/Shusuchii",
+                "start": 41,
+                "url": "https://t.co/bChvvcDCxv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Ko-fi.com/shu0920",
+                "end": 23,
+                "expanded_url": "http://Ko-fi.com/shu0920",
+                "start": 0,
+                "url": "https://t.co/95jrgrIJ5a"
+              }
+            ]
+          }
+        },
+        "id": "1285113556749266944",
+        "location": "Mumei",
+        "name": "𝗦𝗛𝗨🐈‍⬛",
+        "pinned_tweet_id": "1977177553048945120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975822424890585088/9pxkBiSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50326,
+          "following_count": 240,
+          "like_count": 17024,
+          "listed_count": 247,
+          "media_count": 1752,
+          "tweet_count": 12500
+        },
+        "url": "https://t.co/95jrgrIJ5a",
+        "username": "shusuchii",
+        "verified": true
+      }
+    ]
+  }
+}

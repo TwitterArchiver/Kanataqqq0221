@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979974387320094720"
+      ],
+      "media_source_tweet_id": [
+        "1979974395801272795"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980459807162466635",
+    "created_at": "2025-10-21T02:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980459807162466635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1823879767634141185",
+          "start": 3,
+          "username": "oioioi525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JogHLBOaW1",
+          "end": 40,
+          "expanded_url": "https://x.com/oioioi525/status/1979974395801272795/photo/1",
+          "media_key": "3_1979974387320094720",
+          "start": 17,
+          "url": "https://t.co/JogHLBOaW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980459807162466635",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979974395801272795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oioioi525: 🐳 https://t.co/JogHLBOaW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979974387320094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3pINwSWAAAa9Me.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979974387320094720"
+          ],
+          "media_source_tweet_id": [
+            "1979974395801272795"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980459807162466635",
+        "created_at": "2025-10-21T02:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980459807162466635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1823879767634141185",
+              "start": 3,
+              "username": "oioioi525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JogHLBOaW1",
+              "end": 40,
+              "expanded_url": "https://x.com/oioioi525/status/1979974395801272795/photo/1",
+              "media_key": "3_1979974387320094720",
+              "start": 17,
+              "url": "https://t.co/JogHLBOaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980459807162466635",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979974395801272795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oioioi525: 🐳 https://t.co/JogHLBOaW1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979974387320094720"
+          ]
+        },
+        "author_id": "1823879767634141185",
+        "conversation_id": "1979974395801272795",
+        "created_at": "2025-10-19T18:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979974395801272795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JogHLBOaW1",
+              "end": 25,
+              "expanded_url": "https://x.com/oioioi525/status/1979974395801272795/photo/1",
+              "media_key": "3_1979974387320094720",
+              "start": 2,
+              "url": "https://t.co/JogHLBOaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979974395801272795",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1386,
+          "impression_count": 93006,
+          "like_count": 8252,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "🐳 https://t.co/JogHLBOaW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 77
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T00:30:05.000Z",
+        "description": "fanbox∶https://t.co/Riisyc9Y7p\npatreon:https://t.co/c8fX4AfjUv\n岛盒↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ran3.fanbox.cc",
+                "end": 30,
+                "expanded_url": "https://ran3.fanbox.cc/",
+                "start": 7,
+                "url": "https://t.co/Riisyc9Y7p"
+              },
+              {
+                "display_url": "patreon.com/c/oioioi525",
+                "end": 62,
+                "expanded_url": "https://www.patreon.com/c/oioioi525",
+                "start": 39,
+                "url": "https://t.co/c8fX4AfjUv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/43524R",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/43524R",
+                "start": 0,
+                "url": "https://t.co/GmLuuarzO9"
+              }
+            ]
+          }
+        },
+        "id": "1823879767634141185",
+        "name": "ran3",
+        "pinned_tweet_id": "1975383708241961433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975935320190590976/D-XGVDoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85343,
+          "following_count": 1097,
+          "like_count": 3520,
+          "listed_count": 358,
+          "media_count": 240,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/GmLuuarzO9",
+        "username": "oioioi525",
+        "verified": true
+      }
+    ]
+  }
+}

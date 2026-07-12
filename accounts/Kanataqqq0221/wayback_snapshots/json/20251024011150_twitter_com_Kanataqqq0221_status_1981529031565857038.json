@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981204905055736014",
+    "created_at": "2025-10-24T01:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981529031565857038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637920427484823557",
+          "start": 0,
+          "username": "JerimieNai47172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981529031565857038",
+    "in_reply_to_user_id": "1637920427484823557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981204905055736014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JerimieNai47172 偷拍的你也是个神人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981204877960261632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36nVvIXsAAOrfm.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981204905055736014",
+        "created_at": "2025-10-24T01:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981529031565857038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637920427484823557",
+              "start": 0,
+              "username": "JerimieNai47172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981529031565857038",
+        "in_reply_to_user_id": "1637920427484823557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981204905055736014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JerimieNai47172 偷拍的你也是个神人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981204877960261632"
+          ]
+        },
+        "author_id": "1637920427484823557",
+        "conversation_id": "1981204905055736014",
+        "created_at": "2025-10-23T03:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981204905055736014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hMljLqNSq",
+              "end": 35,
+              "expanded_url": "https://x.com/JerimieNai47172/status/1981204905055736014/photo/1",
+              "media_key": "3_1981204877960261632",
+              "start": 12,
+              "url": "https://t.co/1hMljLqNSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981204905055736014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 721,
+          "impression_count": 1086102,
+          "like_count": 5580,
+          "quote_count": 7,
+          "reply_count": 354,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "出来遛娃穿个奶罩不行吗 https://t.co/1hMljLqNSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T20:53:59.000Z",
+        "description": "`_____我主号 @alec_griff44624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "alec_griff44624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qhhxfcxo.ypjlbmm.org",
+                "end": 23,
+                "expanded_url": "http://qhhxfcxo.ypjlbmm.org",
+                "start": 0,
+                "url": "https://t.co/OhSlsVXxvT"
+              }
+            ]
+          }
+        },
+        "id": "1637920427484823557",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "有点莓脾气",
+        "pinned_tweet_id": "1925453090498433171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851136707753635840/csgk7od2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 145,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/OhSlsVXxvT",
+        "username": "JerimieNai47172",
+        "verified": false
+      }
+    ]
+  }
+}

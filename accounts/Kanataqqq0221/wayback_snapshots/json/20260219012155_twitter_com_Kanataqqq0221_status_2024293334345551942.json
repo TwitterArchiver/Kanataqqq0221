@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2024121150620811488",
+    "created_at": "2026-02-19T01:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024293334345551942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554488290803208192",
+          "start": 0,
+          "username": "SamakeCofe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024293334345551942",
+    "in_reply_to_user_id": "1554488290803208192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024183865552892170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamakeCofe 我记得是蔓越莓+车厘子的特调气泡水，超级好喝🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2024121150620811488",
+        "created_at": "2026-02-19T01:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024293334345551942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554488290803208192",
+              "start": 0,
+              "username": "SamakeCofe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024293334345551942",
+        "in_reply_to_user_id": "1554488290803208192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024183865552892170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamakeCofe 我记得是蔓越莓+车厘子的特调气泡水，超级好喝🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554488290803208192",
+        "conversation_id": "2024121150620811488",
+        "created_at": "2026-02-18T18:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024183865552892170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024183865552892170",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024121150620811488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 p1是什么感觉好好喝……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 129,
+          "like_count": 732,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:24:42.000Z",
+        "description": "🇨🇳/rhythm games/X非必要不常用/QQ需要请私信/日本語でのコミュニケーションには必要に応じて機械翻訳を使用します/Machine translation may be used when communicating in English",
+        "id": "1554488290803208192",
+        "location": "梦中做的另外一个梦",
+        "name": "SamakeCofe_YzYg",
+        "pinned_tweet_id": "1768366296029372703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695400876155047936/s81q-vod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 545,
+          "like_count": 6238,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1497
+        },
+        "username": "SamakeCofe",
+        "verified": false
+      }
+    ]
+  }
+}

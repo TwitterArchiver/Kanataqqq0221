@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2019566036010627580",
+    "created_at": "2026-02-06T00:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T01:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019566036010627580"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "maimaiでらっくす"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "maimai"
+        },
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "rhythmgame"
+        },
+        {
+          "end": 58,
+          "start": 49,
+          "tag": "maimaidx"
+        },
+        {
+          "end": 69,
+          "start": 59,
+          "tag": "columbina"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568630739662696448",
+          "start": 3,
+          "username": "trg_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019566036010627580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018556477179601167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trg_maimai: #maimaiでらっくす #maimai #rhythmgame #maimaidx #columbina \n\n日本利用压电瓷砖将脚步转化为电能。这些 瓷砖捕捉来自你脚步的动能。当你行走时, 你的重量和动作会对瓷砖产生压力。瓷砖会 轻微弯曲,从而…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24609,
+        "height": 960,
+        "media_key": "13_2018556384137388032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018556384137388032/img/TsCRFCYCBemOOTGv.jpg",
+        "public_metrics": {
+          "view_count": 23036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018556384137388032/vid/avc1/320x690/ZyMSPT9N8oU3DIMh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018556384137388032/vid/avc1/444x960/ihNZZk2XT_w06kpe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018556384137388032/pl/zLk7JUZPUbnXsoDX.m3u8?v=cfc"
+          }
+        ],
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2019566036010627580",
+        "created_at": "2026-02-06T00:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019566036010627580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "maimaiでらっくす"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "maimai"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "rhythmgame"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "maimaidx"
+            },
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "columbina"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568630739662696448",
+              "start": 3,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019566036010627580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018556477179601167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trg_maimai: #maimaiでらっくす #maimai #rhythmgame #maimaidx #columbina \n\n日本利用压电瓷砖将脚步转化为电能。这些 瓷砖捕捉来自你脚步的动能。当你行走时, 你的重量和动作会对瓷砖产生压力。瓷砖会 轻微弯曲,从而…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018556384137388032"
+          ]
+        },
+        "author_id": "1568630739662696448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2018556477179601167",
+        "created_at": "2026-02-03T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018556477179601167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "maimaiでらっくす"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "maimai"
+            },
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "rhythmgame"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "maimaidx"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "columbina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNTg0hzDnR",
+              "end": 179,
+              "expanded_url": "https://x.com/trg_maimai/status/2018556477179601167/video/1",
+              "media_key": "13_2018556384137388032",
+              "start": 156,
+              "url": "https://t.co/UNTg0hzDnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018556477179601167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 0,
+                "tag": "maimaiでらっくす"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "maimai"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "tag": "rhythmgame"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "tag": "maimaidx"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "tag": "columbina"
+              }
+            ]
+          },
+          "text": "#maimaiでらっくす #maimai #rhythmgame #maimaidx #columbina \n\n日本利用压电瓷砖将脚步转化为电能。这些 瓷砖捕捉来自你脚步的动能。当你行走时, 你的重量和动作会对瓷砖产生压力。瓷砖会 轻微弯曲,从而产生机械应力。瓷砖内部的 压电材料将这种应力转化为电能。每一步都 会产生少量电荷,而数百万步结合在一起就 能产生足够的电力来驱动LED灯、数字显示 屏感器。在像涩谷车站这样繁忙的地方,每 天大约有240万个脚步为这一系统作出贡 献。这些电能可以被储存或立即使用,从而 减少对传统电力来源的依赖,并支持可持续 的城市基础设施。这种方法将日常运动转化 为实用的可再生能源。\n\nJapan is using piezoelectric tiles to convert footsteps into electricity. These tiles capture the kinetic energy from your steps. As you walk, your weight and movement put pressure on the tiles. The tiles bend slightly, creating mechanical stress. The piezoelectric material inside the tiles converts this stress into electrical energy. Each step generates a small amount of charge, and millions of steps combined can produce enough electricity to power LED lights and digital display sensors. In busy areas like Shibuya Station, approximately 2.4 million footsteps contribute to this system every day. This electricity can be stored or used immediately, reducing reliance on traditional power sources and supporting sustainable urban infrastructure. This method transforms everyday movement into a practical source of renewable energy. \n\n日本では、圧電タイルを利用して足音を電気エネルギーに変換しています。これらのタイルは、歩行によって生じる運動エネルギーを捉えます。人が歩くと、体重や動きによってタイルに圧力がかかります。その結果、タイルはわずかに曲がり、機械的な応力が生じます。タイル内部の圧電材料が、この応力を電気エネルギーへと変換します。一歩ごとに少量の電荷が発生し、何百万もの歩数が積み重なることで、LEDライトやデジタル表示、各種センサーを動かすのに十分な電力を生み出すことができます。渋谷駅のような人通りの多い場所では、1日に約240万歩がこのシステムに貢献しています。生成された電力は蓄電することも、その場で使用することも可能で、従来の電力源への依存を減らし、持続可能な都市インフラを支えます。この方法は、日常的な人の動きを実用的な再生可能エネルギーへと変換するものです。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 63331,
+          "like_count": 1415,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "#maimaiでらっくす #maimai #rhythmgame #maimaidx #columbina \n\n日本利用压电瓷砖将脚步转化为电能。这些 瓷砖捕捉来自你脚步的动能。当你行走时, 你的重量和动作会对瓷砖产生压力。瓷砖会 轻微弯曲,从而产生机械应力。瓷砖内部的 压电材料将这种应力转化为电能。每一步都 https://t.co/UNTg0hzDnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 126,
+          "like_count": 469,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13317,
+          "following_count": 448,
+          "like_count": 5458,
+          "listed_count": 10,
+          "media_count": 650,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019201394801274882",
+        "13_2019201394411188224"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019201490318238179",
+    "created_at": "2026-02-05T00:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T01:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019201490318238179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Yk36q0nXo",
+          "end": 159,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2019201490318238179/video/1",
+          "media_key": "3_2019201394801274882",
+          "start": 136,
+          "url": "https://t.co/5Yk36q0nXo"
+        },
+        {
+          "display_url": "pic.x.com/5Yk36q0nXo",
+          "end": 159,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2019201490318238179/video/1",
+          "media_key": "13_2019201394411188224",
+          "start": 136,
+          "url": "https://t.co/5Yk36q0nXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019201490318238179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "otorii INNOVATED -[i]3- 100.4464 SSS\n私が100.5以上のスコアを獲得する機会を失ってしまったのは、もしかしたら肩の引き攣りの問題が原因かもしれません。私は当初、SSSのスコアを飛び越えて、いきなりSSS+に進めると思っていたんです。 https://t.co/5Yk36q0nXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019201394801274882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWk-GsacAIDsKU.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 33933,
+        "height": 1280,
+        "media_key": "13_2019201394411188224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019201394411188224/img/W61D4DZ3ix8Izh4Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019201394411188224/vid/avc1/320x568/DEntr0GfVM2UjY2q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019201394411188224/vid/avc1/480x852/fFlnTmV7B7HCInNe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019201394411188224/vid/avc1/720x1280/u8nPyqdbCqjJyW4N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019201394411188224/pl/JRTYnYcEy18rvj7p.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019201394801274882",
+            "13_2019201394411188224"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019201490318238179",
+        "created_at": "2026-02-05T00:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019201490318238179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Yk36q0nXo",
+              "end": 159,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2019201490318238179/video/1",
+              "media_key": "3_2019201394801274882",
+              "start": 136,
+              "url": "https://t.co/5Yk36q0nXo"
+            },
+            {
+              "display_url": "pic.x.com/5Yk36q0nXo",
+              "end": 159,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2019201490318238179/video/1",
+              "media_key": "13_2019201394411188224",
+              "start": 136,
+              "url": "https://t.co/5Yk36q0nXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019201490318238179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "otorii INNOVATED -[i]3- 100.4464 SSS\n私が100.5以上のスコアを獲得する機会を失ってしまったのは、もしかしたら肩の引き攣りの問題が原因かもしれません。私は当初、SSSのスコアを飛び越えて、いきなりSSS+に進めると思っていたんです。 https://t.co/5Yk36q0nXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 122,
+          "like_count": 460,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

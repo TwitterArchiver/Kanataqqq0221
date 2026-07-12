@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2051007269677224420",
+    "created_at": "2026-05-04T03:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051141908559523905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502506015350087680",
+          "start": 0,
+          "username": "LSark1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051141908559523905",
+    "in_reply_to_user_id": "1502506015350087680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051115452076843305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSark1120 好呀bb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2051007269677224420",
+        "created_at": "2026-05-04T03:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051141908559523905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502506015350087680",
+              "start": 0,
+              "username": "LSark1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051141908559523905",
+        "in_reply_to_user_id": "1502506015350087680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051115452076843305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSark1120 好呀bb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502506015350087680",
+        "conversation_id": "2051007269677224420",
+        "created_at": "2026-05-04T01:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051115452076843305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051115452076843305",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051007269677224420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 能不能画我们俩的🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 262,
+          "like_count": 2181,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T04:45:39.000Z",
+        "description": "你好\n中文/English OK 日本語を勉強している",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/g1OEToG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/g1OEToG",
+                "start": 0,
+                "url": "https://t.co/mkENe6xwEv"
+              }
+            ]
+          }
+        },
+        "id": "1502506015350087680",
+        "location": "在你心里❤️",
+        "name": "泠殇_Eric",
+        "pinned_tweet_id": "1686053477649387520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753029449581572096/rbEOn5HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 451,
+          "like_count": 4155,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/mkENe6xwEv",
+        "username": "LSark1120",
+        "verified": false
+      }
+    ]
+  }
+}

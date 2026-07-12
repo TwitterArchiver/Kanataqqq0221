@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980198889312428032"
+      ],
+      "media_source_tweet_id": [
+        "1980198902331810249"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980458175041294830",
+    "created_at": "2025-10-21T02:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980458175041294830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855548787785437184",
+          "start": 3,
+          "username": "kodoku220909"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FcVSYBonIm",
+          "end": 41,
+          "expanded_url": "https://x.com/kodoku220909/status/1980198902331810249/photo/1",
+          "media_key": "3_1980198889312428032",
+          "start": 18,
+          "url": "https://t.co/FcVSYBonIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980458175041294830",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980198902331810249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kodoku220909: https://t.co/FcVSYBonIm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1980198889312428032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sUZfYXIAAI3ml.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980198889312428032"
+          ],
+          "media_source_tweet_id": [
+            "1980198902331810249"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980458175041294830",
+        "created_at": "2025-10-21T02:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980458175041294830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855548787785437184",
+              "start": 3,
+              "username": "kodoku220909"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcVSYBonIm",
+              "end": 41,
+              "expanded_url": "https://x.com/kodoku220909/status/1980198902331810249/photo/1",
+              "media_key": "3_1980198889312428032",
+              "start": 18,
+              "url": "https://t.co/FcVSYBonIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980458175041294830",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980198902331810249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kodoku220909: https://t.co/FcVSYBonIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980198889312428032"
+          ]
+        },
+        "author_id": "1855548787785437184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980198902331810249",
+        "created_at": "2025-10-20T09:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980198902331810249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcVSYBonIm",
+              "end": 23,
+              "expanded_url": "https://x.com/kodoku220909/status/1980198902331810249/photo/1",
+              "media_key": "3_1980198889312428032",
+              "start": 0,
+              "url": "https://t.co/FcVSYBonIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980198902331810249",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 39737,
+          "like_count": 4061,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FcVSYBonIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 77
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T09:51:40.000Z",
+        "description": "https://t.co/M1Lmr1faAY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kodoku0322?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kodoku0322?si=gUzTDUxR_KR6Zdr1",
+                "start": 0,
+                "url": "https://t.co/M1Lmr1faAY"
+              }
+            ]
+          }
+        },
+        "id": "1855548787785437184",
+        "location": "Midjourney",
+        "name": "kodoku",
+        "pinned_tweet_id": "1980198902331810249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909111931367247872/2RgH_r1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40736,
+          "following_count": 5,
+          "like_count": 763,
+          "listed_count": 247,
+          "media_count": 68,
+          "tweet_count": 78
+        },
+        "username": "kodoku220909",
+        "verified": true
+      }
+    ]
+  }
+}

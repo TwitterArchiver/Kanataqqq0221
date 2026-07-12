@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2045587211891171404",
+    "created_at": "2026-04-18T20:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T21:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045593535337111637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667752579596685313",
+          "start": 0,
+          "username": "Overexhaustion9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045593535337111637",
+    "in_reply_to_user_id": "1667752579596685313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045593423441518884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overexhaustion9 木嘿嘿嘿谢谢你owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2045587211891171404",
+        "created_at": "2026-04-18T20:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045593535337111637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667752579596685313",
+              "start": 0,
+              "username": "Overexhaustion9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045593535337111637",
+        "in_reply_to_user_id": "1667752579596685313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045593423441518884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overexhaustion9 木嘿嘿嘿谢谢你owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667752579596685313",
+        "conversation_id": "2045587211891171404",
+        "created_at": "2026-04-18T20:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045593423441518884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045593423441518884",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045587211891171404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 233,
+          "like_count": 1829,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T04:36:33.000Z",
+        "description": "黒塗り世界宛て書簡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r076370",
+                "end": 23,
+                "expanded_url": "http://ngl.link/r076370",
+                "start": 0,
+                "url": "https://t.co/RBoflnR8rw"
+              }
+            ]
+          }
+        },
+        "id": "1667752579596685313",
+        "location": "xxxxxxxx",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029636100592123904/KCIwFdx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 364,
+          "like_count": 3712,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/RBoflnR8rw",
+        "username": "Overexhaustion9",
+        "verified": false
+      }
+    ]
+  }
+}

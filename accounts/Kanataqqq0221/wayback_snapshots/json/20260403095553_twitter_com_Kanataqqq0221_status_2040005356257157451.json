@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039931875008110592"
+      ],
+      "media_source_tweet_id": [
+        "2039932246745026670"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2040005356257157451",
+    "created_at": "2026-04-03T09:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040005356257157451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1735728536827334657",
+          "start": 3,
+          "username": "SakurasakaRiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AcLiYCT86j",
+          "end": 91,
+          "expanded_url": "https://x.com/SakurasakaRiko/status/2039932246745026670/photo/1",
+          "media_key": "3_2039931875008110592",
+          "start": 68,
+          "url": "https://t.co/AcLiYCT86j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040005356257157451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039932246745026670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurasakaRiko: maimai，急找w6\n有没有离得近的（机厅）\n有大佬合舞舞吗\n蹲一个舞萌搭子\n有w3开地雷吗 https://t.co/AcLiYCT86j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2039931875008110592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9LO3fa4AAvXfC.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039931875008110592"
+          ],
+          "media_source_tweet_id": [
+            "2039932246745026670"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2040005356257157451",
+        "created_at": "2026-04-03T09:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040005356257157451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1735728536827334657",
+              "start": 3,
+              "username": "SakurasakaRiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcLiYCT86j",
+              "end": 91,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2039932246745026670/photo/1",
+              "media_key": "3_2039931875008110592",
+              "start": 68,
+              "url": "https://t.co/AcLiYCT86j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040005356257157451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039932246745026670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurasakaRiko: maimai，急找w6\n有没有离得近的（机厅）\n有大佬合舞舞吗\n蹲一个舞萌搭子\n有w3开地雷吗 https://t.co/AcLiYCT86j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039931875008110592"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2039932246745026670",
+        "created_at": "2026-04-03T05:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039932246745026670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcLiYCT86j",
+              "end": 71,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2039932246745026670/photo/1",
+              "media_key": "3_2039931875008110592",
+              "start": 48,
+              "url": "https://t.co/AcLiYCT86j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039932246745026670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "maimai，急找w6\n有没有离得近的（机厅）\n有大佬合舞舞吗\n蹲一个舞萌搭子\n有w3开地雷吗 https://t.co/AcLiYCT86j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 196,
+          "like_count": 1474,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語/中文/EN OK 喜欢玩各种音游的普通玩家。 maimai 樱桃堇晓橙白熊华超檄辉将持有，真神确认。你可以称呼我为riko或者璃子。全球各地旅游中。",
+        "id": "1735728536827334657",
+        "location": "旅行中",
+        "name": "樱坂璃子Riko🌰",
+        "pinned_tweet_id": "2037937593929941223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872164389077610496/row4F8WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 391,
+          "like_count": 2908,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1098
+        },
+        "username": "SakurasakaRiko",
+        "verified": false
+      }
+    ]
+  }
+}

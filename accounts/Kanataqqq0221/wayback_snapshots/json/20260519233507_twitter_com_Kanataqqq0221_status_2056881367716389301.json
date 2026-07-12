@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056881359474597888"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2056881367716389301",
+    "created_at": "2026-05-19T23:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T00:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056881367716389301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 48,
+          "tag": "Kam1zuk1_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1634356196697341953",
+          "start": 12,
+          "username": "TORLI114514"
+        },
+        {
+          "end": 46,
+          "id": "1346780611260735488",
+          "start": 36,
+          "username": "mofuuneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/symFtaUdPm",
+          "end": 85,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2056881367716389301/photo/1",
+          "media_key": "3_2056881359474597888",
+          "start": 62,
+          "url": "https://t.co/symFtaUdPm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056881367716389301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ToRLiさんLOVE🧡@TORLI114514 \nIllust by @mofuuneko \n#Kam1zuk1_art https://t.co/symFtaUdPm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056881359474597888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuCstibIAAu2G0.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056881359474597888"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2056881367716389301",
+        "created_at": "2026-05-19T23:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056881367716389301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "Kam1zuk1_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1634356196697341953",
+              "start": 12,
+              "username": "TORLI114514"
+            },
+            {
+              "end": 46,
+              "id": "1346780611260735488",
+              "start": 36,
+              "username": "mofuuneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/symFtaUdPm",
+              "end": 85,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2056881367716389301/photo/1",
+              "media_key": "3_2056881359474597888",
+              "start": 62,
+              "url": "https://t.co/symFtaUdPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056881367716389301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ToRLiさんLOVE🧡@TORLI114514 \nIllust by @mofuuneko \n#Kam1zuk1_art https://t.co/symFtaUdPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 264,
+          "like_count": 2328,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 118,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "TORLI114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T11:28:26.000Z",
+        "description": "♡𝕀𝕝𝕝𝕦𝕤𝕥𝕣𝕒𝕥𝕠𝕣・絵描き♡ ￤猫耳、ふわふわ女の子が好き🐱☁️ ￤Instagram▷https://t.co/yQBErdDWuH￤ Pixiv ▷https://t.co/KF2Moh88kR￤サブ▷@nemumineko_oxo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "nemumineko_oxo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/nemunyan._",
+                "end": 70,
+                "expanded_url": "https://www.instagram.com/nemunyan._",
+                "start": 47,
+                "url": "https://t.co/yQBErdDWuH"
+              },
+              {
+                "display_url": "pixiv.net/users/78673041",
+                "end": 102,
+                "expanded_url": "https://www.pixiv.net/users/78673041",
+                "start": 79,
+                "url": "https://t.co/KF2Moh88kR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofuuneko.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://mofuuneko.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/5fv4P24m19"
+              }
+            ]
+          }
+        },
+        "id": "1346780611260735488",
+        "location": "無断転載/自作発言/AI学習禁止",
+        "name": "眠夢ちゃ🎀",
+        "pinned_tweet_id": "2045400364678254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041791651866406912/tUTpDgAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7785,
+          "following_count": 666,
+          "like_count": 9512,
+          "listed_count": 55,
+          "media_count": 216,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/5fv4P24m19",
+        "username": "mofuuneko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038179335144919040",
+    "created_at": "2026-03-29T12:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038237503732462028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2942764381",
+          "start": 0,
+          "username": "mcbd_kiritu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038237503732462028",
+    "in_reply_to_user_id": "2942764381",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038231538350146045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcbd_kiritu 🥺🧡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038179335144919040",
+        "created_at": "2026-03-29T12:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038237503732462028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2942764381",
+              "start": 0,
+              "username": "mcbd_kiritu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038237503732462028",
+        "in_reply_to_user_id": "2942764381",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038231538350146045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcbd_kiritu 🥺🧡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2942764381",
+        "conversation_id": "2038179335144919040",
+        "created_at": "2026-03-29T12:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038231538350146045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038231538350146045",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038179335144919040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 好强(((ﾟдﾟ)))"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 180,
+          "like_count": 1294,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-25T10:22:15.000Z",
+        "description": "混沌系缺爱(´ρ`) •拍扁滴蜡熊•美食推主（X 不会射影的摄嘤师•ACG都能聊得来•绝赞老阿姨*❓•自拍超级无敌高P ！🈚【图片仅供参考 请以实物为准】•喜欢沙士的都是friend(*ﾟ∀ﾟ*) •ingress agent🍀•绳艺捆绑什么的喜欢 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ \n ) ) )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beituan.xlog.app",
+                "end": 23,
+                "expanded_url": "https://beituan.xlog.app/",
+                "start": 0,
+                "url": "https://t.co/yL1epAOTIf"
+              }
+            ]
+          }
+        },
+        "id": "2942764381",
+        "location": "香港",
+        "name": "呜喵再次花光光~",
+        "pinned_tweet_id": "1991820219573317953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004747286895886337/MY0E1YWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10484,
+          "following_count": 952,
+          "like_count": 30914,
+          "listed_count": 33,
+          "media_count": 1992,
+          "tweet_count": 11952
+        },
+        "url": "https://t.co/yL1epAOTIf",
+        "username": "mcbd_kiritu",
+        "verified": false
+      }
+    ]
+  }
+}

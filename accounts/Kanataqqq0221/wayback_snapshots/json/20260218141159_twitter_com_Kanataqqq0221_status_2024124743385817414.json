@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024124720153874433",
+        "3_2024124720149663744",
+        "3_2024124720086708224",
+        "3_2024124720149659648"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024124743385817414",
+    "created_at": "2026-02-18T14:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024124743385817414"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "maimai",
+          "probability": 0.479,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 10,
+          "tag": "maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZIkIWYPA1",
+          "end": 41,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+          "media_key": "3_2024124720153874433",
+          "start": 18,
+          "url": "https://t.co/HZIkIWYPA1"
+        },
+        {
+          "display_url": "pic.x.com/HZIkIWYPA1",
+          "end": 41,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+          "media_key": "3_2024124720149663744",
+          "start": 18,
+          "url": "https://t.co/HZIkIWYPA1"
+        },
+        {
+          "display_url": "pic.x.com/HZIkIWYPA1",
+          "end": 41,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+          "media_key": "3_2024124720086708224",
+          "start": 18,
+          "url": "https://t.co/HZIkIWYPA1"
+        },
+        {
+          "display_url": "pic.x.com/HZIkIWYPA1",
+          "end": 41,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+          "media_key": "3_2024124720149659648",
+          "start": 18,
+          "url": "https://t.co/HZIkIWYPA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024124743385817414",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "FxxK YOU😂\n#maimai https://t.co/HZIkIWYPA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024124720153874433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcitW3b0AEZvSU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024124720149663744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcitW2bkAACR5K.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024124720086708224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcitWna8AABzfp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024124720149659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcitW2bgAAOGTE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024124720153874433",
+            "3_2024124720149663744",
+            "3_2024124720086708224",
+            "3_2024124720149659648"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024124743385817414",
+        "created_at": "2026-02-18T14:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024124743385817414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "maimai",
+              "probability": 0.479,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZIkIWYPA1",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+              "media_key": "3_2024124720153874433",
+              "start": 18,
+              "url": "https://t.co/HZIkIWYPA1"
+            },
+            {
+              "display_url": "pic.x.com/HZIkIWYPA1",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+              "media_key": "3_2024124720149663744",
+              "start": 18,
+              "url": "https://t.co/HZIkIWYPA1"
+            },
+            {
+              "display_url": "pic.x.com/HZIkIWYPA1",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+              "media_key": "3_2024124720086708224",
+              "start": 18,
+              "url": "https://t.co/HZIkIWYPA1"
+            },
+            {
+              "display_url": "pic.x.com/HZIkIWYPA1",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2024124743385817414/photo/1",
+              "media_key": "3_2024124720149659648",
+              "start": 18,
+              "url": "https://t.co/HZIkIWYPA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024124743385817414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FxxK YOU😂\n#maimai https://t.co/HZIkIWYPA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 129,
+          "like_count": 730,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

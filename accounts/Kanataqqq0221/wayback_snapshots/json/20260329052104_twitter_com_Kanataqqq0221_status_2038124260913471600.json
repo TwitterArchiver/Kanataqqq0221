@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038124249790271489",
+        "3_2038124249593061377"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038124260913471600",
+    "created_at": "2026-03-29T05:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038124260913471600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MB6F2iiTiF",
+          "end": 66,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2038124260913471600/photo/1",
+          "media_key": "3_2038124249790271489",
+          "start": 43,
+          "url": "https://t.co/MB6F2iiTiF"
+        },
+        {
+          "display_url": "pic.x.com/MB6F2iiTiF",
+          "end": 66,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2038124260913471600/photo/1",
+          "media_key": "3_2038124249593061377",
+          "start": 43,
+          "url": "https://t.co/MB6F2iiTiF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038124260913471600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日我在旺角新之打買賣！\n歡迎大家來搵我玩👊🧡\n：今天穿的是SDVX裡面雙子的短袖w https://t.co/MB6F2iiTiF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038124249790271489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjfNOzb0AEQAjZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038124249593061377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjfNOEaoAEvkko.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038124249790271489",
+            "3_2038124249593061377"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038124260913471600",
+        "created_at": "2026-03-29T05:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038124260913471600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MB6F2iiTiF",
+              "end": 66,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2038124260913471600/photo/1",
+              "media_key": "3_2038124249790271489",
+              "start": 43,
+              "url": "https://t.co/MB6F2iiTiF"
+            },
+            {
+              "display_url": "pic.x.com/MB6F2iiTiF",
+              "end": 66,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2038124260913471600/photo/1",
+              "media_key": "3_2038124249593061377",
+              "start": 43,
+              "url": "https://t.co/MB6F2iiTiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038124260913471600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日我在旺角新之打買賣！\n歡迎大家來搵我玩👊🧡\n：今天穿的是SDVX裡面雙子的短袖w https://t.co/MB6F2iiTiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 180,
+          "like_count": 1286,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

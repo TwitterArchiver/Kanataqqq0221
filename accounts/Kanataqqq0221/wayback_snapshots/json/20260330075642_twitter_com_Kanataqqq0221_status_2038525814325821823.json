@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038525814325821823",
+    "created_at": "2026-03-30T07:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038525814325821823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chizumao25/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/chizumao25/status/2038319619463913902",
+          "start": 8,
+          "url": "https://t.co/wbuThpG2BW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038525814325821823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038319619463913902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "かわいい！！！ https://t.co/wbuThpG2BW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2038319612195115008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmQ40eaEAAqX2p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038525814325821823",
+        "created_at": "2026-03-30T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038525814325821823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chizumao25/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/chizumao25/status/2038319619463913902",
+              "start": 8,
+              "url": "https://t.co/wbuThpG2BW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038525814325821823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038319619463913902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "かわいい！！！ https://t.co/wbuThpG2BW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038319612195115008"
+          ]
+        },
+        "author_id": "1453381985473163273",
+        "conversation_id": "2038319619463913902",
+        "created_at": "2026-03-29T18:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038319619463913902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBuihqKR4n",
+              "end": 23,
+              "expanded_url": "https://x.com/chizumao25/status/2038319619463913902/photo/1",
+              "media_key": "3_2038319612195115008",
+              "start": 0,
+              "url": "https://t.co/sBuihqKR4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038319619463913902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 714,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sBuihqKR4n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 189,
+          "like_count": 1348,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T15:24:15.000Z",
+        "description": "cosplayer. ⋆౨ৎ˚⟡˖ ꉂ(˵˃ ᗜ ˂˵) other socials are below ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/chizurumao",
+                "end": 23,
+                "expanded_url": "https://link.me/chizurumao",
+                "start": 0,
+                "url": "https://t.co/9mu0JAg0Et"
+              }
+            ]
+          }
+        },
+        "id": "1453381985473163273",
+        "name": "Ｍ▽Ｏ",
+        "pinned_tweet_id": "1830897305387692425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014454936583774208/RDNx_Oaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 256,
+          "like_count": 15881,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/9mu0JAg0Et",
+        "username": "chizumao25",
+        "verified": false
+      }
+    ]
+  }
+}

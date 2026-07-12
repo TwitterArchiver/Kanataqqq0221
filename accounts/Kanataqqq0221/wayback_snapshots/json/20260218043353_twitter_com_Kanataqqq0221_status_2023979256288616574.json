@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2023979256288616574",
+    "created_at": "2026-02-18T04:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023979256288616574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2401396237",
+          "start": 3,
+          "username": "syorakuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023979256288616574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023725614893547704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syorakuka: 推しの笑顔で、人は心が癒される\n推しの笑顔で、人は優しくなれる\n推しの笑顔で、人は強くになれる\n推しの笑顔は、人の心を動かせる\n推しの笑顔は、最高、最強の精神安定剤\n推しの笑顔は、人の心を、世界を救える\n推しの笑顔って、見ると自然と笑顔になる\n\n推…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2023979256288616574",
+        "created_at": "2026-02-18T04:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023979256288616574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2401396237",
+              "start": 3,
+              "username": "syorakuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023979256288616574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023725614893547704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syorakuka: 推しの笑顔で、人は心が癒される\n推しの笑顔で、人は優しくなれる\n推しの笑顔で、人は強くになれる\n推しの笑顔は、人の心を動かせる\n推しの笑顔は、最高、最強の精神安定剤\n推しの笑顔は、人の心を、世界を救える\n推しの笑顔って、見ると自然と笑顔になる\n\n推…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2401396237",
+        "conversation_id": "2023725614893547704",
+        "created_at": "2026-02-17T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023725614893547704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023725614893547704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 139527,
+          "like_count": 4887,
+          "quote_count": 110,
+          "reply_count": 16,
+          "retweet_count": 1300
+        },
+        "reply_settings": "everyone",
+        "text": "推しの笑顔で、人は心が癒される\n推しの笑顔で、人は優しくなれる\n推しの笑顔で、人は強くになれる\n推しの笑顔は、人の心を動かせる\n推しの笑顔は、最高、最強の精神安定剤\n推しの笑顔は、人の心を、世界を救える\n推しの笑顔って、見ると自然と笑顔になる\n\n推しが笑ってる これ以上 幸せなことはない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 129,
+          "like_count": 719,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-21T11:02:56.000Z",
+        "description": "推し活は、あなたを救う！☆書道家☆心理士\n筆と言葉で、推しとファンとの心を紡ぐ\n無断転載・商用利用・二次加工禁止。フォロワーさんはID記載で保存/アイコン/ヘッダーOK！\n推しを推すなら、あなたのペースであなたらしく！\n推し活note　↓　↓\nhttps://t.co/tclD6wNLAc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/syorakuka",
+                "end": 145,
+                "expanded_url": "https://note.com/syorakuka",
+                "start": 122,
+                "url": "https://t.co/tclD6wNLAc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syorakuka8",
+                "end": 23,
+                "expanded_url": "https://lit.link/syorakuka8",
+                "start": 0,
+                "url": "https://t.co/Z4YmJ3pu9B"
+              }
+            ]
+          }
+        },
+        "id": "2401396237",
+        "location": "　☆埼玉県 ",
+        "name": "書楽遊人　しろ",
+        "pinned_tweet_id": "1185514767894511616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429654461245399042/Jcrf8IFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64082,
+          "following_count": 321,
+          "like_count": 168189,
+          "listed_count": 169,
+          "media_count": 6808,
+          "tweet_count": 39103
+        },
+        "url": "https://t.co/Z4YmJ3pu9B",
+        "username": "syorakuka",
+        "verified": true
+      }
+    ]
+  }
+}

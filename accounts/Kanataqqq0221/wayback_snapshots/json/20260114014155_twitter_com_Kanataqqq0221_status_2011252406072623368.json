@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010525153873260544"
+      ],
+      "media_source_tweet_id": [
+        "2010525171367780696"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2011252406072623368",
+    "created_at": "2026-01-14T01:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011252406072623368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "613474927",
+          "start": 3,
+          "username": "PunchingCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/90PXTHuFj6",
+          "end": 40,
+          "expanded_url": "https://x.com/PunchingCat/status/2010525171367780696/video/1",
+          "media_key": "7_2010525153873260544",
+          "start": 17,
+          "url": "https://t.co/90PXTHuFj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011252406072623368",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010525171367780696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PunchingCat: https://t.co/90PXTHuFj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8312,
+        "height": 1024,
+        "media_key": "7_2010525153873260544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010525153873260544/pu/img/DbN3lXuxc7UwKD-p.jpg",
+        "public_metrics": {
+          "view_count": 17774
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010525153873260544/pu/vid/avc1/320x568/D5AkZBNPatDbQN-8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010525153873260544/pu/vid/avc1/480x852/2n8IkXQjrYL9uLVi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010525153873260544/pu/vid/avc1/576x1024/bHTunB1ELWhIaKnL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010525153873260544/pu/pl/XFa4IuBJs9d1rboE.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010525153873260544"
+          ],
+          "media_source_tweet_id": [
+            "2010525171367780696"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2011252406072623368",
+        "created_at": "2026-01-14T01:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011252406072623368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "613474927",
+              "start": 3,
+              "username": "PunchingCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90PXTHuFj6",
+              "end": 40,
+              "expanded_url": "https://x.com/PunchingCat/status/2010525171367780696/video/1",
+              "media_key": "7_2010525153873260544",
+              "start": 17,
+              "url": "https://t.co/90PXTHuFj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011252406072623368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010525171367780696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PunchingCat: https://t.co/90PXTHuFj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010525153873260544"
+          ]
+        },
+        "author_id": "613474927",
+        "conversation_id": "2010525171367780696",
+        "created_at": "2026-01-12T01:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010525171367780696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90PXTHuFj6",
+              "end": 23,
+              "expanded_url": "https://x.com/PunchingCat/status/2010525171367780696/video/1",
+              "media_key": "7_2010525153873260544",
+              "start": 0,
+              "url": "https://t.co/90PXTHuFj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010525171367780696",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 68873,
+          "like_count": 4535,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/90PXTHuFj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 97,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T14:15:13.000Z",
+        "description": "random cats from my camera roll to your 𝕏 feed :3 | dm for credit/removal • *i own no content posted*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punchingcat.com",
+                "end": 23,
+                "expanded_url": "http://punchingcat.com",
+                "start": 0,
+                "url": "https://t.co/v4U8STUOKB"
+              }
+            ]
+          }
+        },
+        "id": "613474927",
+        "location": "litter box",
+        "name": "Punch Cat",
+        "pinned_tweet_id": "1953235387960430999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828145724963561472/CzV0LTLP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330505,
+          "following_count": 137,
+          "like_count": 5223,
+          "listed_count": 2533,
+          "media_count": 102548,
+          "tweet_count": 112395
+        },
+        "url": "https://t.co/v4U8STUOKB",
+        "username": "PunchingCat",
+        "verified": true
+      }
+    ]
+  }
+}

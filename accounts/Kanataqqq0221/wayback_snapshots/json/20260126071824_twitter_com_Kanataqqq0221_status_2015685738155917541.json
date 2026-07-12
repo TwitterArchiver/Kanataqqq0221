@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015262614100877312"
+      ],
+      "media_source_tweet_id": [
+        "2015262672003174667"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2015685738155917541",
+    "created_at": "2026-01-26T07:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015685738155917541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830201889899716608",
+          "start": 3,
+          "username": "knd_1117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Jjo8eYf3J",
+          "end": 37,
+          "expanded_url": "https://x.com/knd_1117/status/2015262672003174667/video/1",
+          "media_key": "13_2015262614100877312",
+          "start": 14,
+          "url": "https://t.co/6Jjo8eYf3J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015685738155917541",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015262672003174667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_1117: https://t.co/6Jjo8eYf3J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10233,
+        "height": 1280,
+        "media_key": "13_2015262614100877312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015262614100877312/img/SDx_xEi8zacotSiv.jpg",
+        "public_metrics": {
+          "view_count": 20720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015262614100877312/vid/avc1/320x568/bjrnhYXaTAUtDwuA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015262614100877312/vid/avc1/480x852/dywwAhIitYdiApwE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015262614100877312/vid/avc1/720x1280/DHcOIHjwHNdMphum.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015262614100877312/pl/qj8BOuNj8Am-Lgft.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015262614100877312"
+          ],
+          "media_source_tweet_id": [
+            "2015262672003174667"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2015685738155917541",
+        "created_at": "2026-01-26T07:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015685738155917541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830201889899716608",
+              "start": 3,
+              "username": "knd_1117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Jjo8eYf3J",
+              "end": 37,
+              "expanded_url": "https://x.com/knd_1117/status/2015262672003174667/video/1",
+              "media_key": "13_2015262614100877312",
+              "start": 14,
+              "url": "https://t.co/6Jjo8eYf3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015685738155917541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015262672003174667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_1117: https://t.co/6Jjo8eYf3J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015262614100877312"
+          ]
+        },
+        "author_id": "830201889899716608",
+        "conversation_id": "2015262672003174667",
+        "created_at": "2026-01-25T03:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015262672003174667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Jjo8eYf3J",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_1117/status/2015262672003174667/video/1",
+              "media_key": "13_2015262614100877312",
+              "start": 0,
+              "url": "https://t.co/6Jjo8eYf3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015262672003174667",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 55607,
+          "like_count": 1298,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6Jjo8eYf3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨坐标深圳丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2010535227052192177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 113,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T23:48:49.000Z",
+        "description": "∑α/MK 日常とか@maskal_113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "maskal_113"
+              }
+            ]
+          }
+        },
+        "id": "830201889899716608",
+        "location": "長野 飯田市",
+        "name": "かねだ",
+        "pinned_tweet_id": "1886990669023207532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012423460702789632/r1mEUMWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1121,
+          "like_count": 52182,
+          "listed_count": 25,
+          "media_count": 7522,
+          "tweet_count": 30245
+        },
+        "username": "knd_1117",
+        "verified": false
+      }
+    ]
+  }
+}

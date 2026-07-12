@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008755331971567617"
+      ],
+      "media_source_tweet_id": [
+        "2008755363714039989"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2009093323018113498",
+    "created_at": "2026-01-08T02:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009093323018113498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1924849800165363713",
+          "start": 3,
+          "username": "loveanimal111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9ubEv7SUd",
+          "end": 42,
+          "expanded_url": "https://x.com/loveanimal111/status/2008755363714039989/video/1",
+          "media_key": "7_2008755331971567617",
+          "start": 19,
+          "url": "https://t.co/Q9ubEv7SUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009093323018113498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5520
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008755363714039989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveanimal111: https://t.co/Q9ubEv7SUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10285,
+        "height": 1280,
+        "media_key": "7_2008755331971567617",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008755331971567617/pu/img/9ITPyMEoOyxGj6jQ.jpg",
+        "public_metrics": {
+          "view_count": 1102778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008755331971567617/pu/vid/avc1/320x568/lGOIIB7ZOaoRv6fE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008755331971567617/pu/vid/avc1/480x852/YyYDJQvJjQOZBkCr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008755331971567617/pu/vid/avc1/720x1280/kJpDbW87Y8_Dwjwn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008755331971567617/pu/pl/LXN8gKtIdsQNajrU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008755331971567617"
+          ],
+          "media_source_tweet_id": [
+            "2008755363714039989"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2009093323018113498",
+        "created_at": "2026-01-08T02:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009093323018113498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1924849800165363713",
+              "start": 3,
+              "username": "loveanimal111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9ubEv7SUd",
+              "end": 42,
+              "expanded_url": "https://x.com/loveanimal111/status/2008755363714039989/video/1",
+              "media_key": "7_2008755331971567617",
+              "start": 19,
+              "url": "https://t.co/Q9ubEv7SUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009093323018113498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008755363714039989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveanimal111: https://t.co/Q9ubEv7SUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008755331971567617"
+          ]
+        },
+        "author_id": "1924849800165363713",
+        "conversation_id": "2008755363714039989",
+        "created_at": "2026-01-07T04:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008755363714039989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9ubEv7SUd",
+              "end": 23,
+              "expanded_url": "https://x.com/loveanimal111/status/2008755363714039989/video/1",
+              "media_key": "7_2008755331971567617",
+              "start": 0,
+              "url": "https://t.co/Q9ubEv7SUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008755363714039989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5421,
+          "impression_count": 2436830,
+          "like_count": 56835,
+          "quote_count": 355,
+          "reply_count": 139,
+          "retweet_count": 5520
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q9ubEv7SUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨音ゲー愛好者www 丨maimaiでらつくす16049rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 96,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T15:29:44.000Z",
+        "description": "🐶 Dog lover | Daily fun content, tips, and info about raising dogs 🐾\nFollow us and stay close to man’s best friend! ❤️",
+        "id": "1924849800165363713",
+        "name": "love aniamals",
+        "pinned_tweet_id": "2007222939004121234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929626815368196096/f5pK9lop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73582,
+          "following_count": 21,
+          "like_count": 13152,
+          "listed_count": 109,
+          "media_count": 1251,
+          "tweet_count": 2803
+        },
+        "username": "loveanimal111",
+        "verified": true
+      }
+    ]
+  }
+}

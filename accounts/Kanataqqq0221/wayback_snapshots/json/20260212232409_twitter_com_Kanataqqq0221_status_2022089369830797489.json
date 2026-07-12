@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022082851311861857",
+    "created_at": "2026-02-12T23:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T00:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022089369830797489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "731051862577709058",
+          "start": 0,
+          "username": "hazki_re_uni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022089369830797489",
+    "in_reply_to_user_id": "731051862577709058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022083009177067905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hazki_re_uni ああwwwwwwwwwwwこれ本当にかわいい！！！w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2022083006329163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_hx-KakAAtorq.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022082851311861857",
+        "created_at": "2026-02-12T23:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022089369830797489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "731051862577709058",
+              "start": 0,
+              "username": "hazki_re_uni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022089369830797489",
+        "in_reply_to_user_id": "731051862577709058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022083009177067905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hazki_re_uni ああwwwwwwwwwwwこれ本当にかわいい！！！w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022083006329163776"
+          ]
+        },
+        "author_id": "731051862577709058",
+        "conversation_id": "2022082851311861857",
+        "created_at": "2026-02-12T22:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022083009177067905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4Y9OQXHiX",
+              "end": 45,
+              "expanded_url": "https://x.com/hazki_re_uni/status/2022083009177067905/photo/1",
+              "media_key": "3_2022083006329163776",
+              "start": 22,
+              "url": "https://t.co/e4Y9OQXHiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022083009177067905",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022082851311861857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 おはよう！🍀 https://t.co/e4Y9OQXHiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 122,
+          "like_count": 583,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-13T09:22:01.000Z",
+        "description": "■ 成人済 /♀┆■ 音楽レーベル：Diverse System ┆ ■ 音ゲー：maimai / CHUNITHM  etc.┆その他：■ 東方project  etc.",
+        "id": "731051862577709058",
+        "location": "福岡県",
+        "name": "羽月(ハヅキ)",
+        "pinned_tweet_id": "2011769483694915931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000882061134200832/0CC1JkK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1118,
+          "like_count": 559378,
+          "listed_count": 9,
+          "media_count": 8180,
+          "tweet_count": 154740
+        },
+        "username": "hazki_re_uni",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2058767218570334278",
+    "created_at": "2026-05-25T04:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058767218570334278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanataqqq0221/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/kanataqqq0221/status/2058766949027586486",
+          "start": 35,
+          "url": "https://t.co/iqAmCNGlIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058767218570334278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058766949027586486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到之后直接光速约了，以前都是去连锁店，这次应该是第一次去这种工作室 https://t.co/iqAmCNGlIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2058766942996226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1oHibYAAiAiA.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2058767218570334278",
+        "created_at": "2026-05-25T04:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058767218570334278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanataqqq0221/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kanataqqq0221/status/2058766949027586486",
+              "start": 35,
+              "url": "https://t.co/iqAmCNGlIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767218570334278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766949027586486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到之后直接光速约了，以前都是去连锁店，这次应该是第一次去这种工作室 https://t.co/iqAmCNGlIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058766942996226048"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2058766949027586486",
+        "created_at": "2026-05-25T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058766949027586486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wLm53p1sQ",
+              "end": 87,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2058766949027586486/photo/1",
+              "media_key": "3_2058766942996226048",
+              "start": 64,
+              "url": "https://t.co/3wLm53p1sQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058766949027586486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？？？？你的意思是这个价格能包括染发然后再剪头么？。？？？\n这个我真的高低得去试试了（之前染的红发已经快掉完了+准备换发型） https://t.co/3wLm53p1sQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 114,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 265,
+          "like_count": 2332,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

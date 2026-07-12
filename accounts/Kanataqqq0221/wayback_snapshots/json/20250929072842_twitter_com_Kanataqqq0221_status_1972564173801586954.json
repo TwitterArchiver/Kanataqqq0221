@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972564173801586954",
+    "created_at": "2025-09-29T07:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T08:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972564173801586954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mocaht8/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mocaht8/status/1972277611062542573",
+          "start": 11,
+          "url": "https://t.co/t7svEpsQlB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972564173801586954",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972277611062542573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😽😽😽😽😽😽😻😻😻😻 https://t.co/t7svEpsQlB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1972068497628004352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G14x2aHbAAA3-rV.jpg",
+        "width": 3298
+      },
+      {
+        "height": 3954,
+        "media_key": "3_1972069759505313792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G14y_2-asAAzY32.jpg",
+        "width": 3094
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1972069817982320640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G14zDQ0bAAAq38_.jpg",
+        "width": 2930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972564173801586954",
+        "created_at": "2025-09-29T07:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972564173801586954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mocaht8/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mocaht8/status/1972277611062542573",
+              "start": 11,
+              "url": "https://t.co/t7svEpsQlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972564173801586954",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972277611062542573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😽😽😽😽😽😽😻😻😻😻 https://t.co/t7svEpsQlB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972068497628004352",
+            "3_1972069759505313792",
+            "3_1972069817982320640"
+          ]
+        },
+        "author_id": "1835973340999368704",
+        "conversation_id": "1972277611062542573",
+        "created_at": "2025-09-28T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972277611062542573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqEWJV9YX4",
+              "end": 23,
+              "expanded_url": "https://x.com/mocaht8/status/1972277611062542573/photo/1",
+              "media_key": "3_1972068497628004352",
+              "start": 0,
+              "url": "https://t.co/DqEWJV9YX4"
+            },
+            {
+              "display_url": "pic.x.com/DqEWJV9YX4",
+              "end": 23,
+              "expanded_url": "https://x.com/mocaht8/status/1972277611062542573/photo/1",
+              "media_key": "3_1972069759505313792",
+              "start": 0,
+              "url": "https://t.co/DqEWJV9YX4"
+            },
+            {
+              "display_url": "pic.x.com/DqEWJV9YX4",
+              "end": 23,
+              "expanded_url": "https://x.com/mocaht8/status/1972277611062542573/photo/1",
+              "media_key": "3_1972069817982320640",
+              "start": 0,
+              "url": "https://t.co/DqEWJV9YX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972277611062542573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7349,
+          "impression_count": 437759,
+          "like_count": 34068,
+          "quote_count": 17,
+          "reply_count": 30,
+          "retweet_count": 1885
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DqEWJV9YX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T09:25:43.000Z",
+        "description": "pixivのアカウント　\nhttps://t.co/EfJNsT7qSx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/114376195",
+                "end": 36,
+                "expanded_url": "https://www.pixiv.net/users/114376195",
+                "start": 13,
+                "url": "https://t.co/EfJNsT7qSx"
+              }
+            ]
+          }
+        },
+        "id": "1835973340999368704",
+        "name": "なんでもいい",
+        "pinned_tweet_id": "1972067370488496244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901823415646052352/VuFglxm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193116,
+          "following_count": 98,
+          "like_count": 10401,
+          "listed_count": 614,
+          "media_count": 644,
+          "tweet_count": 660
+        },
+        "username": "mocaht8",
+        "verified": true
+      }
+    ]
+  }
+}

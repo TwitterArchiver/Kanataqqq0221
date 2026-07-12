@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2025903760653135984",
+    "created_at": "2026-02-24T16:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026339953421271163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817762587788169216",
+          "start": 0,
+          "username": "HuangMouRen0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026339953421271163",
+    "in_reply_to_user_id": "1817762587788169216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025903760653135984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangMouRen0408 请输入文本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025903751513673728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB10unIakAAW81Y.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2025903760653135984",
+        "created_at": "2026-02-24T16:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026339953421271163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817762587788169216",
+              "start": 0,
+              "username": "HuangMouRen0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026339953421271163",
+        "in_reply_to_user_id": "1817762587788169216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025903760653135984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangMouRen0408 请输入文本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025903751513673728"
+          ]
+        },
+        "author_id": "1817762587788169216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025903760653135984",
+        "created_at": "2026-02-23T12:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025903760653135984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxbDBf0TC1",
+              "end": 34,
+              "expanded_url": "https://x.com/HuangMouRen0408/status/2025903760653135984/photo/1",
+              "media_key": "3_2025903751513673728",
+              "start": 11,
+              "url": "https://t.co/wxbDBf0TC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025903760653135984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此オンゲキ非彼音擊。 https://t.co/wxbDBf0TC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 133,
+          "like_count": 781,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T03:22:36.000Z",
+        "description": "🇨🇳叫我黄某人/HMR0408就好！除了中文外其他都是用翻译器发的，最喜欢的角色是九条枫，发的画打码的是约的稿没打的基本都是自己画的",
+        "id": "1817762587788169216",
+        "location": "幻想乡",
+        "name": "黄某人",
+        "pinned_tweet_id": "1973288238640160835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024074640797450240/H2wIG3Fk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 285,
+          "like_count": 3071,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 676
+        },
+        "username": "HuangMouRen0408",
+        "verified": false
+      }
+    ]
+  }
+}

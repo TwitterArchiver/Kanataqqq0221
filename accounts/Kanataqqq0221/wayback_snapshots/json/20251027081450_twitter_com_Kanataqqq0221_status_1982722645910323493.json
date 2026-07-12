@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981247084146626560"
+      ],
+      "media_source_tweet_id": [
+        "1981247092292235629"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1982722645910323493",
+    "created_at": "2025-10-27T08:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982722645910323493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561502065892794368",
+          "start": 3,
+          "username": "Mi_teii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xblwpq4AN1",
+          "end": 36,
+          "expanded_url": "https://x.com/Mi_teii/status/1981247092292235629/photo/1",
+          "media_key": "3_1981247084146626560",
+          "start": 13,
+          "url": "https://t.co/Xblwpq4AN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982722645910323493",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981247092292235629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mi_teii: https://t.co/Xblwpq4AN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981247084146626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37NudbWkAALqNl.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981247084146626560"
+          ],
+          "media_source_tweet_id": [
+            "1981247092292235629"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1982722645910323493",
+        "created_at": "2025-10-27T08:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982722645910323493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561502065892794368",
+              "start": 3,
+              "username": "Mi_teii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xblwpq4AN1",
+              "end": 36,
+              "expanded_url": "https://x.com/Mi_teii/status/1981247092292235629/photo/1",
+              "media_key": "3_1981247084146626560",
+              "start": 13,
+              "url": "https://t.co/Xblwpq4AN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982722645910323493",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981247092292235629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mi_teii: https://t.co/Xblwpq4AN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981247084146626560"
+          ]
+        },
+        "author_id": "1561502065892794368",
+        "conversation_id": "1981247092292235629",
+        "created_at": "2025-10-23T06:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981247092292235629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xblwpq4AN1",
+              "end": 23,
+              "expanded_url": "https://x.com/Mi_teii/status/1981247092292235629/photo/1",
+              "media_key": "3_1981247084146626560",
+              "start": 0,
+              "url": "https://t.co/Xblwpq4AN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981247092292235629",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 45513,
+          "like_count": 2973,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xblwpq4AN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T23:55:22.000Z",
+        "description": "舞のファンアートメインのインターネットお絵描きマン AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/Mi_teii",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/Mi_teii",
+                "start": 0,
+                "url": "https://t.co/TgyB4kh3os"
+              }
+            ]
+          }
+        },
+        "id": "1561502065892794368",
+        "location": "北海道",
+        "name": "てぃー",
+        "pinned_tweet_id": "1836045020048265336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971819666575446018/oEmW6fn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 57,
+          "like_count": 3935,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/TgyB4kh3os",
+        "username": "Mi_teii",
+        "verified": false
+      }
+    ]
+  }
+}

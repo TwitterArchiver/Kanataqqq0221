@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038164886925254762",
+    "created_at": "2026-03-29T12:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038236986881024116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502506015350087680",
+          "start": 0,
+          "username": "LSark1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038236986881024116",
+    "in_reply_to_user_id": "1502506015350087680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038164886925254762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSark1120 宝宝你好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2038164872429756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkEJx7a4AA0Z6Z.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038164886925254762",
+        "created_at": "2026-03-29T12:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038236986881024116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502506015350087680",
+              "start": 0,
+              "username": "LSark1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038236986881024116",
+        "in_reply_to_user_id": "1502506015350087680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038164886925254762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSark1120 宝宝你好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038164872429756416"
+          ]
+        },
+        "author_id": "1502506015350087680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038164886925254762",
+        "created_at": "2026-03-29T08:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038164886925254762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoGXUa4ae3",
+              "end": 23,
+              "expanded_url": "https://x.com/LSark1120/status/2038164886925254762/photo/1",
+              "media_key": "3_2038164872429756416",
+              "start": 0,
+              "url": "https://t.co/DoGXUa4ae3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038164886925254762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DoGXUa4ae3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 179,
+          "like_count": 1292,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T04:45:39.000Z",
+        "description": "你好\n中文/English OK 日本語を勉強している",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/g1OEToG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/g1OEToG",
+                "start": 0,
+                "url": "https://t.co/mkENe6xwEv"
+              }
+            ]
+          }
+        },
+        "id": "1502506015350087680",
+        "location": "在你心里❤️",
+        "name": "泠殇_Eric",
+        "pinned_tweet_id": "1686053477649387520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753029449581572096/rbEOn5HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 442,
+          "like_count": 4066,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/mkENe6xwEv",
+        "username": "LSark1120",
+        "verified": false
+      }
+    ]
+  }
+}

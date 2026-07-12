@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2041884401123115224",
+    "created_at": "2026-04-08T18:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041944622843490423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022600379473760257",
+          "start": 0,
+          "username": "im_chenjihan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041944622843490423",
+    "in_reply_to_user_id": "2022600379473760257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041944372678369695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_chenjihan 噢不😭不過我平時都待在深圳 如果想找我出隨時都歡迎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2041884401123115224",
+        "created_at": "2026-04-08T18:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041944622843490423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022600379473760257",
+              "start": 0,
+              "username": "im_chenjihan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041944622843490423",
+        "in_reply_to_user_id": "2022600379473760257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041944372678369695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_chenjihan 噢不😭不過我平時都待在深圳 如果想找我出隨時都歡迎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022600379473760257",
+        "conversation_id": "2041884401123115224",
+        "created_at": "2026-04-08T18:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041944372678369695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041944372678369695",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041884401123115224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 可惜了 时间对不上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 209,
+          "like_count": 1642,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T09:14:50.000Z",
+        "description": "喜欢打音游(maimai phigros djmax) 喜欢很多人找我聊天 喜欢每天碎碎念 负面情绪大靠近我需要谨慎 是男的是男的是男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chenjihan.com",
+                "end": 23,
+                "expanded_url": "http://chenjihan.com",
+                "start": 0,
+                "url": "https://t.co/5hwAplaewX"
+              }
+            ]
+          }
+        },
+        "id": "2022600379473760257",
+        "name": "陈悸涵beta0.1",
+        "pinned_tweet_id": "2041558366137545098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022600480019615747/HZFoEyOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/5hwAplaewX",
+        "username": "im_chenjihan",
+        "verified": false
+      }
+    ]
+  }
+}

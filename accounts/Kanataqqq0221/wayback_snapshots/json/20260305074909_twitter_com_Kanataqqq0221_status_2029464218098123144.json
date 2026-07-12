@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029462811949318309",
+    "created_at": "2026-03-05T07:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029464218098123144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819958701186592768",
+          "start": 0,
+          "username": "Haruto_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029464218098123144",
+    "in_reply_to_user_id": "1819958701186592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029464135852077110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruto_maimai 🥺ありがとうwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029462811949318309",
+        "created_at": "2026-03-05T07:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029464218098123144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819958701186592768",
+              "start": 0,
+              "username": "Haruto_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029464218098123144",
+        "in_reply_to_user_id": "1819958701186592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029464135852077110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruto_maimai 🥺ありがとうwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819958701186592768",
+        "conversation_id": "2029462811949318309",
+        "created_at": "2026-03-05T07:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029464135852077110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029464135852077110",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029462811949318309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 可愛いです！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 144,
+          "like_count": 829,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T04:50:14.000Z",
+        "description": "高校生/音ゲー大好き！maimai、プロセカ、太鼓の達人、Phigros、モンストなどやってます！\nよろしくお願いします！\nアイコンを描いてくださった人さんみ(@AlphaSanmi)さん弟(@maina_7724)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "AlphaSanmi"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "maina_7724"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/j13yeayxfbfgvt…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/j13yeayxfbfgvtk?t=yDrl8j&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/7CDG1Mh6Yy"
+              }
+            ]
+          }
+        },
+        "id": "1819958701186592768",
+        "location": "ほっかいどうちほー",
+        "name": "はると",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020074640463507456/jim4MZ0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 4544,
+          "like_count": 59994,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 36016
+        },
+        "url": "https://t.co/7CDG1Mh6Yy",
+        "username": "Haruto_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

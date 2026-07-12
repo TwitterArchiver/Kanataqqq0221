@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1987747621168144514",
+    "created_at": "2025-11-11T00:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988034914198180328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550096292499443713",
+          "start": 0,
+          "username": "VB3nWpB1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988034914198180328",
+    "in_reply_to_user_id": "1550096292499443713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987954824739279191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VB3nWpB1 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1987747621168144514",
+        "created_at": "2025-11-11T00:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988034914198180328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550096292499443713",
+              "start": 0,
+              "username": "VB3nWpB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988034914198180328",
+        "in_reply_to_user_id": "1550096292499443713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987954824739279191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VB3nWpB1 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550096292499443713",
+        "conversation_id": "1987747621168144514",
+        "created_at": "2025-11-10T18:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987954824739279191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987954824739279191",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987747621168144514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 じつにすばらしいです最高好き"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 67,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T12:33:31.000Z",
+        "description": "双将狙いです その過程で他のプレートも狙ってます たすけて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/renally_sg?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/renally_sg?igsh=MWM5bG5zYWRxZmhsbw==&utm_source=ig_contact_invite",
+                "start": 0,
+                "url": "https://t.co/dACCgb501g"
+              }
+            ]
+          }
+        },
+        "id": "1550096292499443713",
+        "location": "大宮でよくヤってる",
+        "name": "Agnes☆SG",
+        "pinned_tweet_id": "1975593402696933409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959346246076039168/JSPTTxUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 227,
+          "like_count": 4439,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/dACCgb501g",
+        "username": "VB3nWpB1",
+        "verified": false
+      }
+    ]
+  }
+}

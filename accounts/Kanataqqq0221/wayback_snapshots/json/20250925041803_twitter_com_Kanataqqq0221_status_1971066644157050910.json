@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1971066644157050910",
+    "created_at": "2025-09-25T04:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971066644157050910"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 7,
+          "normalized_text": "Otohime様",
+          "probability": 0.3222,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rinn_otohime/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/rinn_otohime/status/1970521012086485383",
+          "start": 26,
+          "url": "https://t.co/gQGVCIaovH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971066644157050910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970521012086485383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Otohime様最高ですTwT wwwwwwwww https://t.co/gQGVCIaovH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_1970520866774769664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iySb6a4AA5usb.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1971066644157050910",
+        "created_at": "2025-09-25T04:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971066644157050910"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Otohime様",
+              "probability": 0.3222,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rinn_otohime/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/rinn_otohime/status/1970521012086485383",
+              "start": 26,
+              "url": "https://t.co/gQGVCIaovH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971066644157050910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970521012086485383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Otohime様最高ですTwT wwwwwwwww https://t.co/gQGVCIaovH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970520866774769664"
+          ]
+        },
+        "author_id": "2606689165",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970521012086485383",
+        "created_at": "2025-09-23T16:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970521012086485383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilfXwWdwPC",
+              "end": 25,
+              "expanded_url": "https://x.com/RInn_otohime/status/1970521012086485383/photo/1",
+              "media_key": "3_1970520866774769664",
+              "start": 2,
+              "url": "https://t.co/ilfXwWdwPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970521012086485383",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1302,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "💰 https://t.co/ilfXwWdwPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす15978rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "Kanataqかなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-06T03:33:10.000Z",
+        "description": "廃墟にいますキャンペーン2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14294363",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14294363",
+                "start": 0,
+                "url": "https://t.co/S0l7kFa2DE"
+              }
+            ]
+          }
+        },
+        "id": "2606689165",
+        "location": "乙姫様の隣 since2016.12.15",
+        "name": "りんね",
+        "pinned_tweet_id": "1958544622134968634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966085685963796483/yJRHVfXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 3144,
+          "like_count": 5028,
+          "listed_count": 38,
+          "media_count": 6765,
+          "tweet_count": 288845
+        },
+        "url": "https://t.co/S0l7kFa2DE",
+        "username": "RInn_otohime",
+        "verified": false
+      }
+    ]
+  }
+}

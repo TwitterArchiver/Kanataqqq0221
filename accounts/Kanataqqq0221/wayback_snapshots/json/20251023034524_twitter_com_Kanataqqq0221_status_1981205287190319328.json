@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980966051539280265",
+    "created_at": "2025-10-23T03:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T04:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981205287190319328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2289474925",
+          "start": 0,
+          "username": "LAUR1200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981205287190319328",
+    "in_reply_to_user_id": "2289474925",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980966051539280265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LAUR1200 🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2520,
+        "media_key": "3_1980966041669734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33OHonWEAAN21W.jpg",
+        "width": 2122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980966051539280265",
+        "created_at": "2025-10-23T03:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981205287190319328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2289474925",
+              "start": 0,
+              "username": "LAUR1200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981205287190319328",
+        "in_reply_to_user_id": "2289474925",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980966051539280265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAUR1200 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980966041669734400"
+          ]
+        },
+        "author_id": "2289474925",
+        "conversation_id": "1980966051539280265",
+        "created_at": "2025-10-22T11:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980966051539280265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY3rFrG4ZS",
+              "end": 40,
+              "expanded_url": "https://x.com/LAUR1200/status/1980966051539280265/photo/1",
+              "media_key": "3_1980966041669734400",
+              "start": 17,
+              "url": "https://t.co/XY3rFrG4ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980966051539280265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28663,
+          "like_count": 1437,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "新譜に合わせて髪色変えた‼️‼️ https://t.co/XY3rFrG4ZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中丨於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-13T10:36:00.000Z",
+        "description": "🇯🇵/HARDCORE TANO*C所属 / 作曲してます。色んな音ゲーに曲が収録されてます Spotify ⇒ https://t.co/YDeNArhesM Youtube ⇒ https://t.co/pPSNfEBEsM Contact ⇒ laurchan.official@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spoti.fi/3cTlkDf",
+                "end": 80,
+                "expanded_url": "http://spoti.fi/3cTlkDf",
+                "start": 57,
+                "url": "https://t.co/YDeNArhesM"
+              },
+              {
+                "display_url": "youtube.com/@laur1200",
+                "end": 114,
+                "expanded_url": "http://youtube.com/@laur1200",
+                "start": 91,
+                "url": "https://t.co/pPSNfEBEsM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laurchan.com",
+                "end": 23,
+                "expanded_url": "https://laurchan.com/",
+                "start": 0,
+                "url": "https://t.co/HB2A9yCM1b"
+              }
+            ]
+          }
+        },
+        "id": "2289474925",
+        "location": "お仕事以外のDMには返信出来ません。",
+        "name": "Laur 😈秋M3 V-10ab",
+        "pinned_tweet_id": "1979851972170953008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979861033473785856/YrSvUGnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115923,
+          "following_count": 578,
+          "like_count": 16017,
+          "listed_count": 415,
+          "media_count": 3151,
+          "tweet_count": 19963
+        },
+        "url": "https://t.co/HB2A9yCM1b",
+        "username": "LAUR1200",
+        "verified": true
+      }
+    ]
+  }
+}

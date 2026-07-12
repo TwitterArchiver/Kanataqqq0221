@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2063091601250091256",
+    "created_at": "2026-06-06T04:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063116257789161939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021888357786177536",
+          "start": 0,
+          "username": "bai_qian63563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063116257789161939",
+    "in_reply_to_user_id": "2021888357786177536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063091601250091256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_qian63563 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2063091601250091256",
+        "created_at": "2026-06-06T04:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063116257789161939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021888357786177536",
+              "start": 0,
+              "username": "bai_qian63563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063116257789161939",
+        "in_reply_to_user_id": "2021888357786177536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063091601250091256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_qian63563 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021888357786177536",
+        "conversation_id": "2063091601250091256",
+        "created_at": "2026-06-06T02:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063091601250091256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063091601250091256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇如果我画maimai的同人会有人看吗 最近想画milk的私设！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 289,
+          "like_count": 2531,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T10:05:38.000Z",
+        "description": "＝白千 丨17歳丨私は絵を描くことが好きです(›´ω`‹ )丨日本語苦手、英語&中國語OK😭 | 互fo大歡迎！",
+        "id": "2021888357786177536",
+        "location": "月球🌙",
+        "name": "白千",
+        "pinned_tweet_id": "2060879046481953013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043134794868092928/J-7qPaJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 95,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 277
+        },
+        "username": "bai_qian63563",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008098940210880512"
+      ],
+      "media_source_tweet_id": [
+        "2008098943843115213"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2008367969508659616",
+    "created_at": "2026-01-06T02:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008367969508659616"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "SDVX"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991073640033751040",
+          "start": 3,
+          "username": "ayakashi908"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i3Nnhf8v3O",
+          "end": 46,
+          "expanded_url": "https://x.com/ayakashi908/status/2008098943843115213/photo/1",
+          "media_key": "3_2008098940210880512",
+          "start": 23,
+          "url": "https://t.co/i3Nnhf8v3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008367969508659616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008098943843115213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayakashi908: #SDVX https://t.co/i3Nnhf8v3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3343,
+        "media_key": "3_2008098940210880512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94zWMUboAART23.jpg",
+        "width": 2805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008098940210880512"
+          ],
+          "media_source_tweet_id": [
+            "2008098943843115213"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2008367969508659616",
+        "created_at": "2026-01-06T02:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008367969508659616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "SDVX"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991073640033751040",
+              "start": 3,
+              "username": "ayakashi908"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3Nnhf8v3O",
+              "end": 46,
+              "expanded_url": "https://x.com/ayakashi908/status/2008098943843115213/photo/1",
+              "media_key": "3_2008098940210880512",
+              "start": 23,
+              "url": "https://t.co/i3Nnhf8v3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008367969508659616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008098943843115213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayakashi908: #SDVX https://t.co/i3Nnhf8v3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008098940210880512"
+          ]
+        },
+        "author_id": "1991073640033751040",
+        "conversation_id": "2008098943843115213",
+        "created_at": "2026-01-05T08:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008098943843115213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "SDVX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3Nnhf8v3O",
+              "end": 29,
+              "expanded_url": "https://x.com/ayakashi908/status/2008098943843115213/photo/1",
+              "media_key": "3_2008098940210880512",
+              "start": 6,
+              "url": "https://t.co/i3Nnhf8v3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008098943843115213",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 5399,
+          "like_count": 467,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "#SDVX https://t.co/i3Nnhf8v3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008045230361358336/UbzJyySU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 94,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T09:19:07.000Z",
+        "description": "",
+        "id": "1991073640033751040",
+        "name": "AYAKASHI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991077667786072064/fnPcwVjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 8,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 54
+        },
+        "username": "ayakashi908",
+        "verified": true
+      }
+    ]
+  }
+}

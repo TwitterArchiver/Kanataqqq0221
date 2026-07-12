@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1987411293545111607",
+    "created_at": "2025-11-11T00:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988037324987658361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988037324987658361",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987411293545111607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 乌鲁鲁能不能和我互fo🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1987411293545111607",
+        "created_at": "2025-11-11T00:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988037324987658361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988037324987658361",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987411293545111607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 乌鲁鲁能不能和我互fo🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "1987411293545111607",
+        "created_at": "2025-11-09T06:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987411293545111607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987411293545111607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8325,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "首先：我是顺直。我的每一个帖子都是从顺直的角度出发的\n其次：我不是粉红，不是任何阵营的，别乱给我扣帽子。\n再其次：想骂我就在这个号骂，无论如何不准跑我大号底下。这是底线。这本来就是我发泄情绪用的号，当然显得我很傲慢很无礼。\n最后：如果我错了或者骂人了，好好跟我说话，我会好好道歉的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 67,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳正宗劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我会随机回关的。2000fo直播杜桥延期，最近太忙太忙了😭///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1987411293545111607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978461994652213248/lb6jtsni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 821,
+          "like_count": 5592,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 3247
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

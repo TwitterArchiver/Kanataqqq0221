@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1976797449756066129",
+    "created_at": "2025-10-13T00:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T01:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977533500212556170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1180950855161434113",
+          "start": 0,
+          "username": "SD_drip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977533500212556170",
+    "in_reply_to_user_id": "1180950855161434113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976797449756066129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SD_drip 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976797444923858944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G27-zXmWIAAaZmc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1976797449756066129",
+        "created_at": "2025-10-13T00:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977533500212556170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1180950855161434113",
+              "start": 0,
+              "username": "SD_drip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977533500212556170",
+        "in_reply_to_user_id": "1180950855161434113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976797449756066129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SD_drip 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976797444923858944"
+          ]
+        },
+        "author_id": "1180950855161434113",
+        "conversation_id": "1976797449756066129",
+        "created_at": "2025-10-10T23:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976797449756066129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjL5aVHfA9",
+              "end": 56,
+              "expanded_url": "https://x.com/SD_drip/status/1976797449756066129/photo/1",
+              "media_key": "3_1976797444923858944",
+              "start": 33,
+              "url": "https://t.co/kjL5aVHfA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976797449756066129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3827,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一直想找个机会戴隐形眼镜结果发现不戴镜框的自己像虾仁饭所以放弃了 https://t.co/kjL5aVHfA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-06T21:00:13.000Z",
+        "description": "Jvnk0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@psr7id6d29?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@psr7id6d29?si=lA9JyqwyLxfsT4fa",
+                "start": 0,
+                "url": "https://t.co/KvlGm7TevH"
+              }
+            ]
+          }
+        },
+        "id": "1180950855161434113",
+        "location": "England, United Kingdom",
+        "name": "すいてき",
+        "pinned_tweet_id": "1866246669039202641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976797723329232896/jbVxpxo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12035,
+          "following_count": 959,
+          "like_count": 3720,
+          "listed_count": 26,
+          "media_count": 1177,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/KvlGm7TevH",
+        "username": "SD_drip",
+        "verified": false
+      }
+    ]
+  }
+}

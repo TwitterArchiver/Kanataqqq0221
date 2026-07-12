@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072694008607117312",
+        "3_2072694008816832512",
+        "3_2072694008623833088",
+        "3_2072694008598736897"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072694038109823248",
+    "created_at": "2026-07-02T14:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072694038109823248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1cgcx6HaZ3",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+          "media_key": "3_2072694008607117312",
+          "start": 10,
+          "url": "https://t.co/1cgcx6HaZ3"
+        },
+        {
+          "display_url": "pic.x.com/1cgcx6HaZ3",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+          "media_key": "3_2072694008816832512",
+          "start": 10,
+          "url": "https://t.co/1cgcx6HaZ3"
+        },
+        {
+          "display_url": "pic.x.com/1cgcx6HaZ3",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+          "media_key": "3_2072694008623833088",
+          "start": 10,
+          "url": "https://t.co/1cgcx6HaZ3"
+        },
+        {
+          "display_url": "pic.x.com/1cgcx6HaZ3",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+          "media_key": "3_2072694008598736897",
+          "start": 10,
+          "url": "https://t.co/1cgcx6HaZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072694038109823248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有万达广场附近的吗 https://t.co/1cgcx6HaZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2072694008607117312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwOB8bkAA68Fz.jpg",
+        "width": 768
+      },
+      {
+        "height": 711,
+        "media_key": "3_2072694008816832512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwOCubkAAzHs4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2072694008623833088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwOCAaoAAdkBf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2072694008598736897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwOB6bsAElxSx.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072694008607117312",
+            "3_2072694008816832512",
+            "3_2072694008623833088",
+            "3_2072694008598736897"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072694038109823248",
+        "created_at": "2026-07-02T14:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072694038109823248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1cgcx6HaZ3",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+              "media_key": "3_2072694008607117312",
+              "start": 10,
+              "url": "https://t.co/1cgcx6HaZ3"
+            },
+            {
+              "display_url": "pic.x.com/1cgcx6HaZ3",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+              "media_key": "3_2072694008816832512",
+              "start": 10,
+              "url": "https://t.co/1cgcx6HaZ3"
+            },
+            {
+              "display_url": "pic.x.com/1cgcx6HaZ3",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+              "media_key": "3_2072694008623833088",
+              "start": 10,
+              "url": "https://t.co/1cgcx6HaZ3"
+            },
+            {
+              "display_url": "pic.x.com/1cgcx6HaZ3",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2072694038109823248/photo/1",
+              "media_key": "3_2072694008598736897",
+              "start": 10,
+              "url": "https://t.co/1cgcx6HaZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072694038109823248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有万达广场附近的吗 https://t.co/1cgcx6HaZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 363,
+          "like_count": 2812,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

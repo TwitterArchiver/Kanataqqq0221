@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971040608690266433",
+    "created_at": "2025-09-25T02:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T03:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971040608690266433"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "ガールズバンドクライ First Riff",
+          "probability": 0.2389,
+          "start": 38,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960963450575970309",
+          "start": 3,
+          "username": "gbc_firstriff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971040608690266433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4648
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970453129939603504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gbc_firstriff: ◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎤ガールズバンドクライ First Riff🎸\n公式Xアカウントが本日開設🎊\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢\nゲームに関する情報をお届け‼\nぜひフォローをよろしくお願いします✨\nさらにティザーPVが公開…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42538,
+        "height": 720,
+        "media_key": "13_1970453089816825856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970453089816825856/img/QWOui4eIDf5ssW0T.jpg",
+        "public_metrics": {
+          "view_count": 150679
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970453089816825856/vid/avc1/480x270/oFavc-7JO2H23-3D.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970453089816825856/vid/avc1/640x360/vSk1FyOb-jq82Q8h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970453089816825856/vid/avc1/1280x720/Ko03ktqYhidEy31m.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970453089816825856/pl/TBtYl2z4wPjMNmTn.m3u8?tag=14&v=42b"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971040608690266433",
+        "created_at": "2025-09-25T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971040608690266433"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "ガールズバンドクライ First Riff",
+              "probability": 0.2389,
+              "start": 38,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960963450575970309",
+              "start": 3,
+              "username": "gbc_firstriff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971040608690266433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4648
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970453129939603504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gbc_firstriff: ◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎤ガールズバンドクライ First Riff🎸\n公式Xアカウントが本日開設🎊\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢\nゲームに関する情報をお届け‼\nぜひフォローをよろしくお願いします✨\nさらにティザーPVが公開…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970453089816825856"
+          ]
+        },
+        "author_id": "1960963450575970309",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970453129939603504",
+        "created_at": "2025-09-23T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970453129939603504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "ガールズバンドクライ First Riff",
+              "probability": 0.2432,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "ガルリフ"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/saPiYUJ40f",
+              "end": 158,
+              "expanded_url": "https://x.com/gbc_firstriff/status/1970453129939603504/video/1",
+              "media_key": "13_1970453089816825856",
+              "start": 135,
+              "url": "https://t.co/saPiYUJ40f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970453129939603504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1124,
+          "impression_count": 844701,
+          "like_count": 12602,
+          "quote_count": 618,
+          "reply_count": 39,
+          "retweet_count": 4648
+        },
+        "reply_settings": "everyone",
+        "text": "◤￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎤ガールズバンドクライ First Riff🎸\n公式Xアカウントが本日開設🎊\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿◢\nゲームに関する情報をお届け‼\nぜひフォローをよろしくお願いします✨\nさらにティザーPVが公開🎉\n\n#ガルリフ #ガルクラ https://t.co/saPiYUJ40f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす15978rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "Kanataqかなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:14:10.000Z",
+        "description": "ゲーム「ガールズバンドクライ First Riff」公式アカウント！\n新作オリジナルゲーム「ガルリフ」鋭意制作中！\n#ガルリフ #ガルクラ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "ガルリフ"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "ガルクラ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gbc-firstriff.com",
+                "end": 23,
+                "expanded_url": "https://gbc-firstriff.com/",
+                "start": 0,
+                "url": "https://t.co/G2Bth6JvPc"
+              }
+            ]
+          }
+        },
+        "id": "1960963450575970309",
+        "location": "川崎市",
+        "name": "ガールズバンドクライ First Riff【公式】",
+        "pinned_tweet_id": "1970453129939603504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970446101951193089/Jon-bxwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17527,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 50,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/G2Bth6JvPc",
+        "username": "gbc_firstriff",
+        "verified": false
+      }
+    ]
+  }
+}

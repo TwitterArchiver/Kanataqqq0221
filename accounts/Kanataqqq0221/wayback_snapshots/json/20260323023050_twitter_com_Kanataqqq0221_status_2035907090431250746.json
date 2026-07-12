@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2035609896058782191",
+    "created_at": "2026-03-23T02:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035907090431250746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1268618125655842816",
+          "start": 0,
+          "username": "haruna_249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035907090431250746",
+    "in_reply_to_user_id": "1268618125655842816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035878900862230919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruna_249 wwww╰(*´︶`*)╯♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2035609896058782191",
+        "created_at": "2026-03-23T02:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035907090431250746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1268618125655842816",
+              "start": 0,
+              "username": "haruna_249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035907090431250746",
+        "in_reply_to_user_id": "1268618125655842816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035878900862230919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruna_249 wwww╰(*´︶`*)╯♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268618125655842816",
+        "conversation_id": "2035609896058782191",
+        "created_at": "2026-03-23T00:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035878900862230919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035878900862230919",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035609896058782191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 かわいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 172,
+          "like_count": 1224,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T18:58:34.000Z",
+        "description": "ゲキチュウマイやってるオンゲー弱者",
+        "id": "1268618125655842816",
+        "location": "日本",
+        "name": "ウサギ運転士っっっっっっ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762462405169430530/x2HD0TbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 3429,
+          "like_count": 5545,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2020
+        },
+        "username": "haruna_249",
+        "verified": false
+      }
+    ]
+  }
+}

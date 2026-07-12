@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025182847016075264"
+      ],
+      "media_source_tweet_id": [
+        "2025182948010656030"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2025451424239558660",
+    "created_at": "2026-02-22T06:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025451424239558660"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839221017786597376",
+          "start": 3,
+          "username": "p1ant02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xq8oMHPMHD",
+          "end": 53,
+          "expanded_url": "https://x.com/p1ant02/status/2025182948010656030/photo/1",
+          "media_key": "3_2025182847016075264",
+          "start": 30,
+          "url": "https://t.co/xq8oMHPMHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025451424239558660",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025182948010656030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1ant02: 고란신3\n#maimai_art https://t.co/xq8oMHPMHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2025182847016075264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrlEcmbgAAkoXz.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025182847016075264"
+          ],
+          "media_source_tweet_id": [
+            "2025182948010656030"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2025451424239558660",
+        "created_at": "2026-02-22T06:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025451424239558660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839221017786597376",
+              "start": 3,
+              "username": "p1ant02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xq8oMHPMHD",
+              "end": 53,
+              "expanded_url": "https://x.com/p1ant02/status/2025182948010656030/photo/1",
+              "media_key": "3_2025182847016075264",
+              "start": 30,
+              "url": "https://t.co/xq8oMHPMHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025451424239558660",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025182948010656030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1ant02: 고란신3\n#maimai_art https://t.co/xq8oMHPMHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025182847016075264"
+          ]
+        },
+        "author_id": "1839221017786597376",
+        "conversation_id": "2025182948010656030",
+        "created_at": "2026-02-21T12:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025182948010656030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 5,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xq8oMHPMHD",
+              "end": 40,
+              "expanded_url": "https://x.com/p1ant02/status/2025182948010656030/photo/1",
+              "media_key": "3_2025182847016075264",
+              "start": 17,
+              "url": "https://t.co/xq8oMHPMHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025182948010656030",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 11792,
+          "like_count": 908,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "고란신3\n#maimai_art https://t.co/xq8oMHPMHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 132,
+          "like_count": 770,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T08:30:44.000Z",
+        "description": "소통짤털을해보자꾸나",
+        "id": "1839221017786597376",
+        "name": "단쵸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017532959478452225/Ux2e5Bs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 20,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 158
+        },
+        "username": "p1ant02",
+        "verified": false
+      }
+    ]
+  }
+}

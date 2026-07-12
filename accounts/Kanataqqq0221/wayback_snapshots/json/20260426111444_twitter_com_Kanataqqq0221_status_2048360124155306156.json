@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2048295890927174008",
+    "created_at": "2026-04-26T11:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048360124155306156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1508169517884911616",
+          "start": 0,
+          "username": "orienszeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048360124155306156",
+    "in_reply_to_user_id": "1508169517884911616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048295890927174008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orienszeng 好快得出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048295882983096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0CQNQaQAAx0w0.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2048295890927174008",
+        "created_at": "2026-04-26T11:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048360124155306156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508169517884911616",
+              "start": 0,
+              "username": "orienszeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048360124155306156",
+        "in_reply_to_user_id": "1508169517884911616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048295890927174008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orienszeng 好快得出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048295882983096320"
+          ]
+        },
+        "author_id": "1508169517884911616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2048295890927174008",
+        "created_at": "2026-04-26T06:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048295890927174008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "Linked_VERSE"
+            },
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "chunithm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/242BsYf4x3",
+              "end": 67,
+              "expanded_url": "https://x.com/orienszeng/status/2048295890927174008/photo/1",
+              "media_key": "3_2048295882983096320",
+              "start": 44,
+              "url": "https://t.co/242BsYf4x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048295890927174008",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2384,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#Linked_VERSE\n#kigurumi\n#chunithm\nMelodiniq https://t.co/242BsYf4x3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 254,
+          "like_count": 2032,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T19:50:25.000Z",
+        "description": "我的挚爱@Asuka000728",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Asuka000728"
+              }
+            ]
+          }
+        },
+        "id": "1508169517884911616",
+        "location": "监测站直布罗陀",
+        "name": "七彩罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999200425489350656/VcHYFA3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 393,
+          "like_count": 1829,
+          "listed_count": 15,
+          "media_count": 88,
+          "tweet_count": 232
+        },
+        "username": "orienszeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043979625722982401"
+      ],
+      "media_source_tweet_id": [
+        "2043979632681296049"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044224861938299248",
+    "created_at": "2026-04-15T01:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044224861938299248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497823201656983552",
+          "start": 3,
+          "username": "kong233333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S88ZnfhUpY",
+          "end": 54,
+          "expanded_url": "https://x.com/kong233333/status/2043979632681296049/photo/1",
+          "media_key": "3_2043979625722982401",
+          "start": 31,
+          "url": "https://t.co/S88ZnfhUpY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044224861938299248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043979632681296049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kong233333: 舞萌DX2025 晓极 达成 https://t.co/S88ZnfhUpY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2043979625722982401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2so99asAEPzoy.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043979625722982401"
+          ],
+          "media_source_tweet_id": [
+            "2043979632681296049"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044224861938299248",
+        "created_at": "2026-04-15T01:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044224861938299248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497823201656983552",
+              "start": 3,
+              "username": "kong233333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S88ZnfhUpY",
+              "end": 54,
+              "expanded_url": "https://x.com/kong233333/status/2043979632681296049/photo/1",
+              "media_key": "3_2043979625722982401",
+              "start": 31,
+              "url": "https://t.co/S88ZnfhUpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044224861938299248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043979632681296049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kong233333: 舞萌DX2025 晓极 达成 https://t.co/S88ZnfhUpY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043979625722982401"
+          ]
+        },
+        "author_id": "1497823201656983552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043979632681296049",
+        "created_at": "2026-04-14T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043979632681296049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S88ZnfhUpY",
+              "end": 38,
+              "expanded_url": "https://x.com/kong233333/status/2043979632681296049/photo/1",
+              "media_key": "3_2043979625722982401",
+              "start": 15,
+              "url": "https://t.co/S88ZnfhUpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043979632681296049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌DX2025 晓极 达成 https://t.co/S88ZnfhUpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 227,
+          "like_count": 1787,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T06:37:44.000Z",
+        "description": "avatar by @TrypanBlue_TPB|rhythm game player|MaiMaidx中国版 15442 |CN🇨🇳|小号@Yakumo_itsumi|看重合度回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "TrypanBlue_TPB"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Yakumo_itsumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "233355607.xyz",
+                "end": 23,
+                "expanded_url": "https://233355607.xyz",
+                "start": 0,
+                "url": "https://t.co/CKB7F952fS"
+              }
+            ]
+          }
+        },
+        "id": "1497823201656983552",
+        "location": "Millennium High School，Kivotos",
+        "name": "233355607",
+        "pinned_tweet_id": "1982142091636416749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911124433776893953/EIMT2gnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 401,
+          "like_count": 239,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/CKB7F952fS",
+        "username": "kong233333",
+        "verified": false
+      }
+    ]
+  }
+}

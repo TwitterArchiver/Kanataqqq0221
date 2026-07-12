@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029379414581231844",
+    "created_at": "2026-03-05T02:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029379414581231844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanataqqq0221/…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/kanataqqq0221/status/2029378665604390992",
+          "start": 113,
+          "url": "https://t.co/w2LPLfdaXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029379414581231844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029378665604390992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想跟大家一起做朋友，一起開開心心的出去打maimai，可是為什麼一定要變成現在這樣…？\n我從來都不知道我哪點做得好讓某些人在即便知道我有喜歡的人時還要來同我瘋狂宣洩愛意……我真的承受不住這份感情……明明最開始不是這樣的…… https://t.co/w2LPLfdaXD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029379414581231844",
+        "created_at": "2026-03-05T02:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029379414581231844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanataqqq0221/…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/kanataqqq0221/status/2029378665604390992",
+              "start": 113,
+              "url": "https://t.co/w2LPLfdaXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029379414581231844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029378665604390992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想跟大家一起做朋友，一起開開心心的出去打maimai，可是為什麼一定要變成現在這樣…？\n我從來都不知道我哪點做得好讓某些人在即便知道我有喜歡的人時還要來同我瘋狂宣洩愛意……我真的承受不住這份感情……明明最開始不是這樣的…… https://t.co/w2LPLfdaXD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029378665604390992",
+        "created_at": "2026-03-05T02:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029378665604390992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029378665604390992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不指望我有多麼的受歡迎——明明只是做正常的列表或是朋友就好了不是嗎？為什麼一定要這麼對我……明明我也只是一個普通人……明明我也只想好好的正常地生活下去\n承受著過多的愛意，只會壓到我喘不過氣來……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 142,
+          "like_count": 817,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

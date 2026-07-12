@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2070024723430608975",
+    "created_at": "2026-06-26T06:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070396036477243773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961292839020892161",
+          "start": 0,
+          "username": "DotreamCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070396036477243773",
+    "in_reply_to_user_id": "1961292839020892161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070031638025887933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DotreamCN 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2070024723430608975",
+        "created_at": "2026-06-26T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070396036477243773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961292839020892161",
+              "start": 0,
+              "username": "DotreamCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070396036477243773",
+        "in_reply_to_user_id": "1961292839020892161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070031638025887933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DotreamCN 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961292839020892161",
+        "conversation_id": "2070024723430608975",
+        "created_at": "2026-06-25T06:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070031638025887933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070031638025887933",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070024723430608975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 Welcome!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 362,
+          "like_count": 2766,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T05:00:56.000Z",
+        "description": "Official account of Dotream",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dotreamexpo.com",
+                "end": 23,
+                "expanded_url": "https://www.dotreamexpo.com",
+                "start": 0,
+                "url": "https://t.co/2NeL558gV7"
+              }
+            ]
+          }
+        },
+        "id": "1961292839020892161",
+        "name": "缀梦Dotream",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049204912601636864/VGAKJQj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 2,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/2NeL558gV7",
+        "username": "DotreamCN",
+        "verified": false
+      }
+    ]
+  }
+}

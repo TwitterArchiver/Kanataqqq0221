@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2042519578304221292",
+    "created_at": "2026-04-10T13:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042600924254998682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1267489240256000002",
+          "start": 0,
+          "username": "THEBLACKSTAR_HY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042600924254998682",
+    "in_reply_to_user_id": "1267489240256000002",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042600605437563066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@THEBLACKSTAR_HY （"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2042519578304221292",
+        "created_at": "2026-04-10T13:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042600924254998682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1267489240256000002",
+              "start": 0,
+              "username": "THEBLACKSTAR_HY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042600924254998682",
+        "in_reply_to_user_id": "1267489240256000002",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042600605437563066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@THEBLACKSTAR_HY （"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267489240256000002",
+        "conversation_id": "2042519578304221292",
+        "created_at": "2026-04-10T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042600605437563066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042600605437563066",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042600528249786774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 何意味？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 216,
+          "like_count": 1688,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T16:12:52.000Z",
+        "description": "Chinese/English，日本語苦手\n凛として時雨/東方project/Pokemon/Arknights/（微量）音乐游戏\n意外怀旧的梦境编织者，今天要编织什么样的梦呢？",
+        "id": "1267489240256000002",
+        "name": "黑雨_怀旧版",
+        "pinned_tweet_id": "1944809631416467487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944806369699258369/c5CmTV-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 367,
+          "like_count": 27682,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 3051
+        },
+        "username": "THEBLACKSTAR_HY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026339728325488640"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2026339735913087440",
+    "created_at": "2026-02-24T16:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026339735913087440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPF7LSj7V0",
+          "end": 41,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2026339735913087440/photo/1",
+          "media_key": "3_2026339728325488640",
+          "start": 18,
+          "url": "https://t.co/bPF7LSj7V0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026339735913087440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我詭秘跟我說這張都不用p的（） https://t.co/bPF7LSj7V0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2026339728325488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8BPzUaMAAQIW0.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026339728325488640"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2026339735913087440",
+        "created_at": "2026-02-24T16:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026339735913087440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPF7LSj7V0",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2026339735913087440/photo/1",
+              "media_key": "3_2026339728325488640",
+              "start": 18,
+              "url": "https://t.co/bPF7LSj7V0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026339735913087440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我詭秘跟我說這張都不用p的（） https://t.co/bPF7LSj7V0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 133,
+          "like_count": 780,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

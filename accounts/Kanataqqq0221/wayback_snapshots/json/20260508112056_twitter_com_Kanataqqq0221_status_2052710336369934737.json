@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2052645324116897806",
+    "created_at": "2026-05-08T11:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052710336369934737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817762587788169216",
+          "start": 0,
+          "username": "HuangMouRen0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052710336369934737",
+    "in_reply_to_user_id": "1817762587788169216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052705513117516279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangMouRen0408 镭光造物的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2052645324116897806",
+        "created_at": "2026-05-08T11:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052710336369934737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817762587788169216",
+              "start": 0,
+              "username": "HuangMouRen0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052710336369934737",
+        "in_reply_to_user_id": "1817762587788169216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052705513117516279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangMouRen0408 镭光造物的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817762587788169216",
+        "conversation_id": "2052645324116897806",
+        "created_at": "2026-05-08T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052705513117516279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052705513117516279",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052645324116897806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 我去你这是哪个摊子的合志我要买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 262,
+          "like_count": 2251,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T03:22:36.000Z",
+        "description": "🇨🇳叫我黄某人/HMR0408就好！除了中文外其他都是用翻译器发的，最喜欢的角色是九条枫，发的画打码的是约的稿没打的基本都是自己画的",
+        "id": "1817762587788169216",
+        "location": "幻想乡",
+        "name": "黄某人",
+        "pinned_tweet_id": "1973288238640160835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032115157980364804/G5pCT9db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 362,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 1582
+        },
+        "username": "HuangMouRen0408",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2017149785627889703",
+    "created_at": "2026-01-30T08:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017149785627889703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993228237397540868",
+          "start": 0,
+          "username": "Stanleyyw0113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017149785627889703",
+    "in_reply_to_user_id": "1993228237397540868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Stanleyyw0113 我把這個人今天中午剛買的麵包乾奪取了半包吃掉，哈哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2017149785627889703",
+        "created_at": "2026-01-30T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017149785627889703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993228237397540868",
+              "start": 0,
+              "username": "Stanleyyw0113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017149785627889703",
+        "in_reply_to_user_id": "1993228237397540868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Stanleyyw0113 我把這個人今天中午剛買的麵包乾奪取了半包吃掉，哈哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 119,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:00:28.000Z",
+        "description": "(14y old)rythm game player maimai16500 chunithm16.5(?) phigros16.89 Arcaea12.55",
+        "id": "1993228237397540868",
+        "name": "Stanleyyw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999269533140549635/4ISccQS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 50,
+          "like_count": 4192,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "Stanleyyw0113",
+        "verified": false
+      }
+    ]
+  }
+}

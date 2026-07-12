@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2049584473113874633",
+    "created_at": "2026-04-29T22:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049622660972528038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872738838193618944",
+          "start": 0,
+          "username": "lngmbito132117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049622660972528038",
+    "in_reply_to_user_id": "1872738838193618944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049584473113874633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngmbito132117 😈能不能在鸟窝狙击（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2049584458224058368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGWNKGbQAAQSfO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2049584473113874633",
+        "created_at": "2026-04-29T22:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049622660972528038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872738838193618944",
+              "start": 0,
+              "username": "lngmbito132117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049622660972528038",
+        "in_reply_to_user_id": "1872738838193618944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049584473113874633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngmbito132117 😈能不能在鸟窝狙击（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049584458224058368"
+          ]
+        },
+        "author_id": "1872738838193618944",
+        "conversation_id": "2049584473113874633",
+        "created_at": "2026-04-29T20:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049584473113874633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYuUxrGQh3",
+              "end": 38,
+              "expanded_url": "https://x.com/lngmbito132117/status/2049584473113874633/photo/1",
+              "media_key": "3_2049584458224058368",
+              "start": 15,
+              "url": "https://t.co/IYuUxrGQh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049584473113874633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萤火虫计划，或许有人找我玩吗 https://t.co/IYuUxrGQh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 256,
+          "like_count": 2102,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T20:18:40.000Z",
+        "description": "白桃です！中国人です、日本語はまだ勉強中 中国語はok！お会いできてうれしいです！",
+        "id": "1872738838193618944",
+        "location": "🇨🇳中国人/转载禁止",
+        "name": "鈴木白桃",
+        "pinned_tweet_id": "2037061533382193229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872747274935345152/NAn2D7bN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 661,
+          "like_count": 4632,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 150
+        },
+        "username": "lngmbito132117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988436359082827891",
+    "created_at": "2025-11-12T02:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988436359082827891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kshemao/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kshemao/status/1987899220343546135",
+          "start": 4,
+          "url": "https://t.co/rPEAmu9sJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988436359082827891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987899220343546135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃（ https://t.co/rPEAmu9sJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1987899191730061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZvyFRbQAABmwf.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988436359082827891",
+        "created_at": "2025-11-12T02:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988436359082827891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kshemao/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kshemao/status/1987899220343546135",
+              "start": 4,
+              "url": "https://t.co/rPEAmu9sJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988436359082827891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987899220343546135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃（ https://t.co/rPEAmu9sJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987899191730061312"
+          ]
+        },
+        "author_id": "1225589799370645504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987899220343546135",
+        "created_at": "2025-11-10T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987899220343546135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNNLg1Xnib",
+              "end": 35,
+              "expanded_url": "https://x.com/kshemao/status/1987899220343546135/photo/1",
+              "media_key": "3_1987899191730061312",
+              "start": 12,
+              "url": "https://t.co/CNNLg1Xnib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987899220343546135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 66201,
+          "like_count": 1227,
+          "quote_count": 1,
+          "reply_count": 190,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "看到的小宝可以拿一块🍉 https://t.co/CNNLg1Xnib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 73,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T01:19:27.000Z",
+        "description": "野生小猫/bl向/自娱自乐/私信看到都会回/我永远希望做个温柔的人/尊重4i但不是直男(坦诚 /如果能被喜欢那真是太好了/饮品在饭盒↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kerios12.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kerios12.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/OkjfTiNtyF"
+              }
+            ]
+          }
+        },
+        "id": "1225589799370645504",
+        "name": "ks",
+        "pinned_tweet_id": "1965359779255300595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932948351600807936/t47d5Ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73176,
+          "following_count": 25,
+          "like_count": 7209,
+          "listed_count": 113,
+          "media_count": 258,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/OkjfTiNtyF",
+        "username": "kshemao",
+        "verified": false
+      }
+    ]
+  }
+}

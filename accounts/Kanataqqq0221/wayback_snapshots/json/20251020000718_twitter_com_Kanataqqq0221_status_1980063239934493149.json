@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979856012292112384"
+      ],
+      "media_source_tweet_id": [
+        "1979856061357302237"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1980063239934493149",
+    "created_at": "2025-10-20T00:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980063239934493149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "769182171332390913",
+          "start": 3,
+          "username": "kodachi_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0FXNHBX880",
+          "end": 47,
+          "expanded_url": "https://x.com/kodachi_oekaki/status/1979856061357302237/photo/1",
+          "media_key": "3_1979856012292112384",
+          "start": 24,
+          "url": "https://t.co/0FXNHBX880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980063239934493149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 562
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979856061357302237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kodachi_oekaki: テスト https://t.co/0FXNHBX880"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1979856012292112384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ncja8XwAAVg2C.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979856012292112384"
+          ],
+          "media_source_tweet_id": [
+            "1979856061357302237"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1980063239934493149",
+        "created_at": "2025-10-20T00:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980063239934493149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "769182171332390913",
+              "start": 3,
+              "username": "kodachi_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FXNHBX880",
+              "end": 47,
+              "expanded_url": "https://x.com/kodachi_oekaki/status/1979856061357302237/photo/1",
+              "media_key": "3_1979856012292112384",
+              "start": 24,
+              "url": "https://t.co/0FXNHBX880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980063239934493149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 562
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979856061357302237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kodachi_oekaki: テスト https://t.co/0FXNHBX880"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979856012292112384"
+          ]
+        },
+        "author_id": "769182171332390913",
+        "conversation_id": "1979856061357302237",
+        "created_at": "2025-10-19T10:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979856061357302237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FXNHBX880",
+              "end": 27,
+              "expanded_url": "https://x.com/kodachi_oekaki/status/1979856061357302237/photo/1",
+              "media_key": "3_1979856012292112384",
+              "start": 4,
+              "url": "https://t.co/0FXNHBX880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979856061357302237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3306,
+          "impression_count": 158377,
+          "like_count": 12810,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "テスト https://t.co/0FXNHBX880"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 53
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-26T14:38:15.000Z",
+        "description": "オリジナル漫画と二次創作（ブルアカ、艦これ、ウマ娘）を描いてます【FANBOXや通販リンク】→　https://t.co/gXUbX5gOLI\n※現在リクエストは受けておりません。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kodachioekaki",
+                "end": 71,
+                "expanded_url": "https://lit.link/kodachioekaki",
+                "start": 48,
+                "url": "https://t.co/gXUbX5gOLI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=12186083",
+                "start": 0,
+                "url": "https://t.co/K3SUd4QBXX"
+              }
+            ]
+          }
+        },
+        "id": "769182171332390913",
+        "location": "無断転載・AI利用禁止",
+        "name": "超弩級戦艦こだち＠総集編DL配布中！",
+        "pinned_tweet_id": "1941080451978031300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972202953420521472/pdgH18xV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191827,
+          "following_count": 1443,
+          "like_count": 23548,
+          "listed_count": 1286,
+          "media_count": 2497,
+          "tweet_count": 73970
+        },
+        "url": "https://t.co/K3SUd4QBXX",
+        "username": "kodachi_oekaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2026326109705683269",
+    "created_at": "2026-02-25T03:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026492630495035635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026492630495035635",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026418416400347205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2026326109705683269",
+        "created_at": "2026-02-25T03:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026492630495035635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026492630495035635",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026418416400347205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2026326109705683269",
+        "created_at": "2026-02-24T22:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026418416400347205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026418416400347205",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026326109705683269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 133,
+          "like_count": 782,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜民國97年男高 絕對不翻車｜梗圖➕日常發瘋號｜粵港澳愛跨大手子｜雙相｜哲學社會學研究ing｜日語生｜日麻癡｜粵拼使用者｜🚪64HK$\n｜小貓咪:@suimikax\n｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "suimikax"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KunHaku0",
+                "end": 23,
+                "expanded_url": "http://t.me/KunHaku0",
+                "start": 0,
+                "url": "https://t.co/ntbzBOLbQQ"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "+852 インターネット",
+        "name": "葉々🍁空白子💤",
+        "pinned_tweet_id": "2021493784887038082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 500,
+          "like_count": 8704,
+          "listed_count": 6,
+          "media_count": 436,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/ntbzBOLbQQ",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

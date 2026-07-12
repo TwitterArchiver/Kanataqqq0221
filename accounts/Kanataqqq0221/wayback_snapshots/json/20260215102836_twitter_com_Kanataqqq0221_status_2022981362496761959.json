@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022981354158481409"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022981362496761959",
+    "created_at": "2026-02-15T10:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022981362496761959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTCq2Sz16j",
+          "end": 32,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2022981362496761959/photo/1",
+          "media_key": "3_2022981354158481409",
+          "start": 9,
+          "url": "https://t.co/PTCq2Sz16j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022981362496761959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Torliです！ https://t.co/PTCq2Sz16j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2022981354158481409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMS0sna4AE1BEX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022981354158481409"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022981362496761959",
+        "created_at": "2026-02-15T10:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022981362496761959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTCq2Sz16j",
+              "end": 32,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2022981362496761959/photo/1",
+              "media_key": "3_2022981354158481409",
+              "start": 9,
+              "url": "https://t.co/PTCq2Sz16j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022981362496761959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Torliです！ https://t.co/PTCq2Sz16j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 125,
+          "like_count": 662,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

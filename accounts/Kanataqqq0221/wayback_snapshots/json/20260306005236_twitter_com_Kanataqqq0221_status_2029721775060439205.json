@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029721766877388800"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2029721775060439205",
+    "created_at": "2026-03-06T00:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T01:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029721775060439205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jIvK76QVNW",
+          "end": 48,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2029721775060439205/photo/1",
+          "media_key": "3_2029721766877388800",
+          "start": 25,
+          "url": "https://t.co/jIvK76QVNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029721775060439205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔝\n這是一個自我介紹🧡\n歡迎和我互fo🥺\n愛你們 https://t.co/jIvK76QVNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2029721766877388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsFMWua4AAjcl2.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029721766877388800"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2029721775060439205",
+        "created_at": "2026-03-06T00:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029721775060439205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIvK76QVNW",
+              "end": 48,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2029721775060439205/photo/1",
+              "media_key": "3_2029721766877388800",
+              "start": 25,
+              "url": "https://t.co/jIvK76QVNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029721775060439205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n這是一個自我介紹🧡\n歡迎和我互fo🥺\n愛你們 https://t.co/jIvK76QVNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 146,
+          "like_count": 834,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

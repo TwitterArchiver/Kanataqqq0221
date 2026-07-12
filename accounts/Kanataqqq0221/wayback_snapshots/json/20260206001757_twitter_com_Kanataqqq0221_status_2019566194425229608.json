@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2019330743919604021",
+    "created_at": "2026-02-06T00:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T01:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019566194425229608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819958701186592768",
+          "start": 0,
+          "username": "Haruto_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019566194425229608",
+    "in_reply_to_user_id": "1819958701186592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019330743919604021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruto_maimai ネコ🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2019330726999781377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYamOracAEom80.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2019330743919604021",
+        "created_at": "2026-02-06T00:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019566194425229608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819958701186592768",
+              "start": 0,
+              "username": "Haruto_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019566194425229608",
+        "in_reply_to_user_id": "1819958701186592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019330743919604021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruto_maimai ネコ🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019330726999781377"
+          ]
+        },
+        "author_id": "1819958701186592768",
+        "conversation_id": "2019330743919604021",
+        "created_at": "2026-02-05T08:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019330743919604021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NAy18Wa0Q",
+              "end": 41,
+              "expanded_url": "https://x.com/Haruto_maimai/status/2019330743919604021/photo/1",
+              "media_key": "3_2019330726999781377",
+              "start": 18,
+              "url": "https://t.co/6NAy18Wa0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330743919604021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "部活帰りにコンビニ寄ったら猫いて神 https://t.co/6NAy18Wa0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 126,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T04:50:14.000Z",
+        "description": "高校生/音ゲー大好き！maimai、プロセカ、太鼓の達人、モンストなどやってます！\nよろしくお願いします！",
+        "id": "1819958701186592768",
+        "location": "ほっかいどうちほー",
+        "name": "はると",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015396341728575488/expAD9fB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 4048,
+          "like_count": 54931,
+          "listed_count": 8,
+          "media_count": 300,
+          "tweet_count": 33987
+        },
+        "username": "Haruto_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

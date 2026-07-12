@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057026908030906369"
+      ],
+      "media_source_tweet_id": [
+        "2057026913659760738"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2057052133254713820",
+    "created_at": "2026-05-20T10:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057052133254713820"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 35,
+          "tag": "ongeki_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "828745247978971136",
+          "start": 3,
+          "username": "ngc7k137"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6P8bsgveV",
+          "end": 70,
+          "expanded_url": "https://x.com/ngc7k137/status/2057026913659760738/photo/1",
+          "media_key": "3_2057026908030906369",
+          "start": 47,
+          "url": "https://t.co/j6P8bsgveV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057052133254713820",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057026913659760738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngc7k137: Apollo / TJ.hangneil\n#ongeki_art https://t.co/j6P8bsgveV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057026908030906369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwHEwKaMAEQ62E.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057026908030906369"
+          ],
+          "media_source_tweet_id": [
+            "2057026913659760738"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2057052133254713820",
+        "created_at": "2026-05-20T10:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057052133254713820"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "ongeki_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "828745247978971136",
+              "start": 3,
+              "username": "ngc7k137"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6P8bsgveV",
+              "end": 70,
+              "expanded_url": "https://x.com/ngc7k137/status/2057026913659760738/photo/1",
+              "media_key": "3_2057026908030906369",
+              "start": 47,
+              "url": "https://t.co/j6P8bsgveV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057052133254713820",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057026913659760738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngc7k137: Apollo / TJ.hangneil\n#ongeki_art https://t.co/j6P8bsgveV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057026908030906369"
+          ]
+        },
+        "author_id": "828745247978971136",
+        "conversation_id": "2057026913659760738",
+        "created_at": "2026-05-20T09:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057026913659760738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "ongeki_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6P8bsgveV",
+              "end": 56,
+              "expanded_url": "https://x.com/ngc7k137/status/2057026913659760738/photo/1",
+              "media_key": "3_2057026908030906369",
+              "start": 33,
+              "url": "https://t.co/j6P8bsgveV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057026913659760738",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 11357,
+          "like_count": 807,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "Apollo / TJ.hangneil\n#ongeki_art https://t.co/j6P8bsgveV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 265,
+          "like_count": 2341,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-06T23:20:39.000Z",
+        "description": "絵と漫画を描きます◆Webtoonネーム制作『逆行令嬢の復讐計画』『傷だらけ聖女より報復をこめて』『消える私に夫の愛はいりません』◆ジャンプ+『紙食会』◆owl＊tree様『QOL』『Arq Eid』ジャケット/他グッズイラスト制作◆他業務遍歴はlitlinkにて◆ご依頼・ご連絡はメール又はDMにてお願いします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ngc7k137",
+                "end": 23,
+                "expanded_url": "https://lit.link/ngc7k137",
+                "start": 0,
+                "url": "https://t.co/ykkoXVfx51"
+              }
+            ]
+          }
+        },
+        "id": "828745247978971136",
+        "name": "NGC7K◆コミティア156 I22a",
+        "pinned_tweet_id": "2051274500629725600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771180425056223234/tjFTE6Jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 82,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/ykkoXVfx51",
+        "username": "ngc7k137",
+        "verified": false
+      }
+    ]
+  }
+}

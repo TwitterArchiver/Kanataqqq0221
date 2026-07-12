@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2027774236518240556",
+    "created_at": "2026-03-25T04:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036654681204875348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942892567861108736",
+          "start": 0,
+          "username": "Crysta1lized"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036654681204875348",
+    "in_reply_to_user_id": "1942892567861108736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027774236518240556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crysta1lized td"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027774088199229440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQZyiPbUAA6-vu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027774087775535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQZygqaQAA6qI7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027774088194990080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQZyiOaoAAH733.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 47985,
+        "height": 1280,
+        "media_key": "7_2027774087779782662",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027774087779782662/pu/img/qQoxS2Fd0lhOPlRa.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027774087779782662/pu/vid/avc1/320x568/Fk7WOMo3q6ssV5Ay.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027774087779782662/pu/vid/avc1/480x852/TVmg0pfv-dLRgFtz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027774087779782662/pu/vid/avc1/720x1280/bmvd4LylMkTTuSs0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027774087779782662/pu/pl/DuhioXJzi0NQCPot.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2027774236518240556",
+        "created_at": "2026-03-25T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036654681204875348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942892567861108736",
+              "start": 0,
+              "username": "Crysta1lized"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036654681204875348",
+        "in_reply_to_user_id": "1942892567861108736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027774236518240556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crysta1lized td"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027774088199229440",
+            "3_2027774087775535104",
+            "3_2027774088194990080",
+            "7_2027774087779782662"
+          ]
+        },
+        "author_id": "1942892567861108736",
+        "conversation_id": "2027774236518240556",
+        "created_at": "2026-02-28T15:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027774236518240556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJoWSsGh6w",
+              "end": 61,
+              "expanded_url": "https://x.com/Crysta1lized/status/2027774236518240556/video/1",
+              "media_key": "3_2027774088199229440",
+              "start": 38,
+              "url": "https://t.co/XJoWSsGh6w"
+            },
+            {
+              "display_url": "pic.x.com/XJoWSsGh6w",
+              "end": 61,
+              "expanded_url": "https://x.com/Crysta1lized/status/2027774236518240556/video/1",
+              "media_key": "3_2027774087775535104",
+              "start": 38,
+              "url": "https://t.co/XJoWSsGh6w"
+            },
+            {
+              "display_url": "pic.x.com/XJoWSsGh6w",
+              "end": 61,
+              "expanded_url": "https://x.com/Crysta1lized/status/2027774236518240556/video/1",
+              "media_key": "3_2027774088194990080",
+              "start": 38,
+              "url": "https://t.co/XJoWSsGh6w"
+            },
+            {
+              "display_url": "pic.x.com/XJoWSsGh6w",
+              "end": 61,
+              "expanded_url": "https://x.com/Crysta1lized/status/2027774236518240556/video/1",
+              "media_key": "7_2027774087779782662",
+              "start": 38,
+              "url": "https://t.co/XJoWSsGh6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027774236518240556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "14.6-14.8 All SSS奪回+rating⬆️14✌\n很高興ww https://t.co/XJoWSsGh6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 174,
+          "like_count": 1239,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T10:24:34.000Z",
+        "description": "Chinese Rhythm game player\nmaimai 16377ra 真舞舞1/3募集中\nArcaea ptt12.67",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/eNNNPYP",
+                "end": 23,
+                "expanded_url": "https://b23.tv/eNNNPYP",
+                "start": 0,
+                "url": "https://t.co/eMoQi2z1D7"
+              }
+            ]
+          }
+        },
+        "id": "1942892567861108736",
+        "location": "中华人民共和国 北京市",
+        "name": "Crysta11ized",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965314789309382660/qPpP2gQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 132,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/eMoQi2z1D7",
+        "username": "Crysta1lized",
+        "verified": false
+      }
+    ]
+  }
+}

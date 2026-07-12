@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017092703826432002"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2017092712630288733",
+    "created_at": "2026-01-30T04:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T05:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017092712630288733"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "乙姫様",
+          "probability": 0.4635,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 54,
+          "tag": "maimai_art"
+        },
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "maimai"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "乙姫"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UqY2DXFLoW",
+          "end": 101,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2017092712630288733/photo/1",
+          "media_key": "3_2017092703826432002",
+          "start": 78,
+          "url": "https://t.co/UqY2DXFLoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017092712630288733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乙姫様🥺🥺🥺\n(実はこの前、描き終わっていたんです🥺 皆さんに気に入っていただけたら嬉しいです☺️（）（）\n#maimai_art #maimai #乙姫 https://t.co/UqY2DXFLoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017092703826432002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4nIIqbUAIviCA.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017092703826432002"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2017092712630288733",
+        "created_at": "2026-01-30T04:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017092712630288733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "乙姫様",
+              "probability": 0.4635,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 54,
+              "tag": "maimai_art"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "maimai"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "乙姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqY2DXFLoW",
+              "end": 101,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2017092712630288733/photo/1",
+              "media_key": "3_2017092703826432002",
+              "start": 78,
+              "url": "https://t.co/UqY2DXFLoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017092712630288733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乙姫様🥺🥺🥺\n(実はこの前、描き終わっていたんです🥺 皆さんに気に入っていただけたら嬉しいです☺️（）（）\n#maimai_art #maimai #乙姫 https://t.co/UqY2DXFLoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨maimaiでらつくす16062丨精神不安定QvQ互fo大欢迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 118,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054690944860168192"
+      ],
+      "media_source_tweet_id": [
+        "2054690951508185587"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2054820645008232747",
+    "created_at": "2026-05-14T07:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054820645008232747"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "CHUNITHM_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1817762587788169216",
+          "start": 3,
+          "username": "HuangMouRen0408"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIVvYUXrlm",
+          "end": 58,
+          "expanded_url": "https://x.com/HuangMouRen0408/status/2054690951508185587/photo/1",
+          "media_key": "3_2054690944860168192",
+          "start": 35,
+          "url": "https://t.co/JIVvYUXrlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054820645008232747",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054690951508185587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuangMouRen0408: #CHUNITHM_art https://t.co/JIVvYUXrlm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2054690944860168192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIO6hzOaIAAXO7w.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054690944860168192"
+          ],
+          "media_source_tweet_id": [
+            "2054690951508185587"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2054820645008232747",
+        "created_at": "2026-05-14T07:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054820645008232747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1817762587788169216",
+              "start": 3,
+              "username": "HuangMouRen0408"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIVvYUXrlm",
+              "end": 58,
+              "expanded_url": "https://x.com/HuangMouRen0408/status/2054690951508185587/photo/1",
+              "media_key": "3_2054690944860168192",
+              "start": 35,
+              "url": "https://t.co/JIVvYUXrlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054820645008232747",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054690951508185587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuangMouRen0408: #CHUNITHM_art https://t.co/JIVvYUXrlm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054690944860168192"
+          ]
+        },
+        "author_id": "1817762587788169216",
+        "conversation_id": "2054690951508185587",
+        "created_at": "2026-05-13T22:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T23:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054690951508185587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIVvYUXrlm",
+              "end": 37,
+              "expanded_url": "https://x.com/HuangMouRen0408/status/2054690951508185587/photo/1",
+              "media_key": "3_2054690944860168192",
+              "start": 14,
+              "url": "https://t.co/JIVvYUXrlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054690951508185587",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3173,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "#CHUNITHM_art https://t.co/JIVvYUXrlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 265,
+          "like_count": 2315,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T03:22:36.000Z",
+        "description": "🇨🇳叫我黄某人/HMR0408就好！除了中文外其他都是用翻译器发的，最喜欢的角色是九条枫，发的画打码的是约的稿没打的基本都是自己画的",
+        "id": "1817762587788169216",
+        "location": "幻想乡",
+        "name": "黄某人",
+        "pinned_tweet_id": "1973288238640160835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032115157980364804/G5pCT9db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 368,
+          "like_count": 5207,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 1644
+        },
+        "username": "HuangMouRen0408",
+        "verified": false
+      }
+    ]
+  }
+}

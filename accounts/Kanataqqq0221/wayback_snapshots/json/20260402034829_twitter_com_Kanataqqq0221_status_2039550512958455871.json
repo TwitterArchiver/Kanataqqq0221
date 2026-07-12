@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2039548211904622763",
+    "created_at": "2026-04-02T03:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039550512958455871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644155900133376",
+          "start": 0,
+          "username": "Jewelzzz21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039550512958455871",
+    "in_reply_to_user_id": "2038644155900133376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039548211904622763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewelzzz21 吃这么好😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2039548202442223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3uSLza8AAK4cy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2039548211904622763",
+        "created_at": "2026-04-02T03:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039550512958455871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644155900133376",
+              "start": 0,
+              "username": "Jewelzzz21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039550512958455871",
+        "in_reply_to_user_id": "2038644155900133376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039548211904622763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewelzzz21 吃这么好😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039548202442223616"
+          ]
+        },
+        "author_id": "2038644155900133376",
+        "conversation_id": "2039548211904622763",
+        "created_at": "2026-04-02T03:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039548211904622763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gM74AWamPN",
+              "end": 34,
+              "expanded_url": "https://x.com/Jewelzzz21/status/2039548211904622763/photo/1",
+              "media_key": "3_2039548202442223616",
+              "start": 11,
+              "url": "https://t.co/gM74AWamPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039548211904622763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一北京攻略制作中… https://t.co/gM74AWamPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16176丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 194,
+          "like_count": 1424,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:48:04.000Z",
+        "description": "这里是江陵Jewel/infj/07🌈/广州/舟/舞萌\n碎碎念博主 偶尔当擦边博主\n你喜欢我=我喜欢你 \n当朋友圈发 很高兴认识你",
+        "id": "2038644155900133376",
+        "name": "Jewel",
+        "pinned_tweet_id": "2038645930912821621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645209190567936/zftA-uoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 72,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "username": "Jewelzzz21",
+        "verified": false
+      }
+    ]
+  }
+}

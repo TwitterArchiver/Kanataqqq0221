@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1979753709476397166",
+    "created_at": "2025-10-20T00:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980062194353230152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980062194353230152",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979753709476397166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB 好美的白姬。。。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1979753706951262208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3l_gd2XwAAps6N.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1979753709476397166",
+        "created_at": "2025-10-20T00:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980062194353230152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980062194353230152",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979753709476397166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB 好美的白姬。。。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979753706951262208"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "1979753709476397166",
+        "created_at": "2025-10-19T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979753709476397166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkSNJ45Adz",
+              "end": 34,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/1979753709476397166/photo/1",
+              "media_key": "3_1979753706951262208",
+              "start": 11,
+              "url": "https://t.co/kkSNJ45Adz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979753709476397166",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3410,
+          "like_count": 277,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Commission https://t.co/kkSNJ45Adz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "里@Lanthanum_CSL        \n♢Email:trypanblue.tpb@gmail.com\n♢booth:https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "Lanthanum_CSL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 86,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 63,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "location": "ChasingLanthanum",
+        "name": "锥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 706,
+          "like_count": 5515,
+          "listed_count": 22,
+          "media_count": 206,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": false
+      }
+    ]
+  }
+}

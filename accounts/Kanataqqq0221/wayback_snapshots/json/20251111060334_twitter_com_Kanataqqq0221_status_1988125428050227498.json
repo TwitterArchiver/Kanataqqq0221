@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988125225545019891",
+    "created_at": "2025-11-11T06:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988125428050227498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988122330791583745",
+          "start": 0,
+          "username": "hametsutsu0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988125428050227498",
+    "in_reply_to_user_id": "1988122330791583745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988125225545019891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hametsutsu0221 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988125212530143236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c9WOXbcAQK-hf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988125225545019891",
+        "created_at": "2025-11-11T06:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988125428050227498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988122330791583745",
+              "start": 0,
+              "username": "hametsutsu0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988125428050227498",
+        "in_reply_to_user_id": "1988122330791583745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988125225545019891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hametsutsu0221 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988125212530143236"
+          ]
+        },
+        "author_id": "1988122330791583745",
+        "conversation_id": "1988125225545019891",
+        "created_at": "2025-11-11T06:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988125225545019891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpQ6rWvgkV",
+              "end": 27,
+              "expanded_url": "https://x.com/hametsutsu0221/status/1988125225545019891/photo/1",
+              "media_key": "3_1988125212530143236",
+              "start": 4,
+              "url": "https://t.co/vpQ6rWvgkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988125225545019891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏捏） https://t.co/vpQ6rWvgkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 68,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T05:51:35.000Z",
+        "description": "🔞內容大量產生丨互fo请随意❤️",
+        "id": "1988122330791583745",
+        "name": "破滅はーめつ（裏サキマレ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988122567090257920/kMZr1yow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "hametsutsu0221",
+        "verified": false
+      }
+    ]
+  }
+}

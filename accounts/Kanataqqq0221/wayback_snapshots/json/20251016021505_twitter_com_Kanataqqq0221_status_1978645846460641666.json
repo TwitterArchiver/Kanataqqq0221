@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978152918210760704"
+      ],
+      "media_source_tweet_id": [
+        "1978152920794251324"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1978645846460641666",
+    "created_at": "2025-10-16T02:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978645846460641666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962874365701423104",
+          "start": 3,
+          "username": "Mo2gana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrlY8hhqNP",
+          "end": 82,
+          "expanded_url": "https://x.com/Mo2gana/status/1978152920794251324/photo/1",
+          "media_key": "3_1978152918210760704",
+          "start": 59,
+          "url": "https://t.co/jrlY8hhqNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978645846460641666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978152920794251324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mo2gana: 其实重庆上次地震的时候，调教我的S着急忙慌的跑了，就我还被挂着项圈锁在笼子里😭谁来救我😭😭 https://t.co/jrlY8hhqNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978152918210760704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PPmTFa0AAGjA9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978152918210760704"
+          ],
+          "media_source_tweet_id": [
+            "1978152920794251324"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1978645846460641666",
+        "created_at": "2025-10-16T02:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978645846460641666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962874365701423104",
+              "start": 3,
+              "username": "Mo2gana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrlY8hhqNP",
+              "end": 82,
+              "expanded_url": "https://x.com/Mo2gana/status/1978152920794251324/photo/1",
+              "media_key": "3_1978152918210760704",
+              "start": 59,
+              "url": "https://t.co/jrlY8hhqNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978645846460641666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978152920794251324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mo2gana: 其实重庆上次地震的时候，调教我的S着急忙慌的跑了，就我还被挂着项圈锁在笼子里😭谁来救我😭😭 https://t.co/jrlY8hhqNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978152918210760704"
+          ]
+        },
+        "author_id": "1962874365701423104",
+        "conversation_id": "1978152920794251324",
+        "created_at": "2025-10-14T17:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978152920794251324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrlY8hhqNP",
+              "end": 69,
+              "expanded_url": "https://x.com/Mo2gana/status/1978152920794251324/photo/1",
+              "media_key": "3_1978152918210760704",
+              "start": 46,
+              "url": "https://t.co/jrlY8hhqNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978152920794251324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 29462,
+          "like_count": 558,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "其实重庆上次地震的时候，调教我的S着急忙慌的跑了，就我还被挂着项圈锁在笼子里😭谁来救我😭😭 https://t.co/jrlY8hhqNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T13:45:01.000Z",
+        "description": "已成年在校大学生 坐标川渝\n欢迎xnn私信 扩列\n互粉互推dd \n私信这一块不回没关注的\n玩了挺久的其他社交平台 第一次转推特试试",
+        "id": "1962874365701423104",
+        "name": "莫甘娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969765466349686784/OclsK8fS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 75,
+          "like_count": 43,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 85
+        },
+        "username": "Mo2gana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066664341932515328"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2066664351579381825",
+    "created_at": "2026-06-15T23:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066664351579381825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "重音テト"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXgi7ravjN",
+          "end": 42,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2066664351579381825/photo/1",
+          "media_key": "3_2066664341932515328",
+          "start": 19,
+          "url": "https://t.co/AXgi7ravjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066664351579381825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "coming s♾️n…\n#重音テト https://t.co/AXgi7ravjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2066664341932515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5ERPLaoAAeTjk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066664341932515328"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2066664351579381825",
+        "created_at": "2026-06-15T23:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066664351579381825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXgi7ravjN",
+              "end": 42,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2066664351579381825/photo/1",
+              "media_key": "3_2066664341932515328",
+              "start": 19,
+              "url": "https://t.co/AXgi7ravjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066664351579381825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "coming s♾️n…\n#重音テト https://t.co/AXgi7ravjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 345,
+          "like_count": 2648,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

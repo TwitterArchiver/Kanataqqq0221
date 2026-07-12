@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2046546681282592788",
+    "created_at": "2026-04-23T02:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047147073070600310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047147073070600310",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046546681282592788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB 在现场，我是床🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046546678669529088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbLXHZaUAA_os5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2046546681282592788",
+        "created_at": "2026-04-23T02:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047147073070600310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047147073070600310",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046546681282592788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB 在现场，我是床🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046546678669529088"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "2046546681282592788",
+        "created_at": "2026-04-21T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046546681282592788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 11,
+              "tag": "ongeki_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsepVBW1SD",
+              "end": 46,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/2046546681282592788/photo/1",
+              "media_key": "3_2046546678669529088",
+              "start": 23,
+              "url": "https://t.co/AsepVBW1SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046546681282592788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 25690,
+          "like_count": 1904,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "ね 、見て、これ～🍀\n#ongeki_art https://t.co/AsepVBW1SD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 240,
+          "like_count": 1927,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "✦ 𝑮𝑬𝑻 𝑻𝑯𝑬 𝑹𝑬𝑮𝑹𝑬𝑻 𝑶𝑽𝑬𝑹.                                    \n連絡先： trypanblue.tpb@gmail.com                   \nBOOTH: https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 138,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 115,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "name": "锥",
+        "pinned_tweet_id": "2032280205113643290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5724,
+          "following_count": 798,
+          "like_count": 6446,
+          "listed_count": 34,
+          "media_count": 230,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": true
+      }
+    ]
+  }
+}

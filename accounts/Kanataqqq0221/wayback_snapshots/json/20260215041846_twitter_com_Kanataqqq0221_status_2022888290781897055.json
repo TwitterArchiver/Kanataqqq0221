@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2022685417276084362",
+    "created_at": "2026-02-15T04:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022888290781897055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864660924164132865",
+          "start": 0,
+          "username": "nuruhyou_arnold"
+        },
+        {
+          "end": 29,
+          "id": "1634356196697341953",
+          "start": 17,
+          "username": "TORLI114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022888290781897055",
+    "in_reply_to_user_id": "1864660924164132865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022882274640023793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuruhyou_arnold @TORLI114514 また一緒に遊ぼう(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2022685417276084362",
+        "created_at": "2026-02-15T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022888290781897055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864660924164132865",
+              "start": 0,
+              "username": "nuruhyou_arnold"
+            },
+            {
+              "end": 29,
+              "id": "1634356196697341953",
+              "start": 17,
+              "username": "TORLI114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022888290781897055",
+        "in_reply_to_user_id": "1864660924164132865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022882274640023793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuruhyou_arnold @TORLI114514 また一緒に遊ぼう(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864660924164132865",
+        "conversation_id": "2022685417276084362",
+        "created_at": "2026-02-15T03:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022882274640023793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            },
+            {
+              "end": 27,
+              "id": "1634356196697341953",
+              "start": 15,
+              "username": "TORLI114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022882274640023793",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022685417276084362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 @TORLI114514 私も行きたいなあ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 123,
+          "like_count": 639,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:19:52.000Z",
+        "description": "音ゲー愛好者 | ユビート / IIDX / maimai DX | 書道勉強中",
+        "id": "1864660924164132865",
+        "name": "温氷_アーノルド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982224241991778305/NjNFPh2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 614,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 257
+        },
+        "username": "nuruhyou_arnold",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:51:10.000Z",
+        "description": "普通な音ゲープレイヤ  muse dash/ maimai/ taiko /sdvx / chunithm 日本语苦手 English/中文",
+        "id": "1634356196697341953",
+        "location": "Singapore",
+        "name": "TORLI",
+        "pinned_tweet_id": "1988376483937874217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634356660490899456/PijgS2F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 122,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "TORLI114514",
+        "verified": false
+      }
+    ]
+  }
+}

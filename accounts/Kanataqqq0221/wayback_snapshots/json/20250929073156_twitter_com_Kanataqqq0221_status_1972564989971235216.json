@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836307099011420162"
+      ],
+      "media_source_tweet_id": [
+        "1836344422017171490"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972564989971235216",
+    "created_at": "2025-09-29T07:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T08:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972564989971235216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "maimai"
+        },
+        {
+          "end": 31,
+          "start": 20,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1317475394182807554",
+          "start": 3,
+          "username": "mmk_lr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3Jg3xHLhy",
+          "end": 55,
+          "expanded_url": "https://x.com/mmk_lr/status/1836344422017171490/photo/1",
+          "media_key": "3_1836307099011420162",
+          "start": 32,
+          "url": "https://t.co/h3Jg3xHLhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972564989971235216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836344422017171490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmk_lr: #maimai #maimai_art https://t.co/h3Jg3xHLhy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1836307099011420162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXvfk88akAI2ofb.jpg",
+        "width": 2809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836307099011420162"
+          ],
+          "media_source_tweet_id": [
+            "1836344422017171490"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972564989971235216",
+        "created_at": "2025-09-29T07:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972564989971235216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "maimai"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1317475394182807554",
+              "start": 3,
+              "username": "mmk_lr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3Jg3xHLhy",
+              "end": 55,
+              "expanded_url": "https://x.com/mmk_lr/status/1836344422017171490/photo/1",
+              "media_key": "3_1836307099011420162",
+              "start": 32,
+              "url": "https://t.co/h3Jg3xHLhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972564989971235216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836344422017171490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmk_lr: #maimai #maimai_art https://t.co/h3Jg3xHLhy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836307099011420162"
+          ]
+        },
+        "author_id": "1317475394182807554",
+        "conversation_id": "1836344422017171490",
+        "created_at": "2024-09-18T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836344422017171490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "maimai"
+            },
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3Jg3xHLhy",
+              "end": 43,
+              "expanded_url": "https://x.com/mmk_lr/status/1836344422017171490/photo/1",
+              "media_key": "3_1836307099011420162",
+              "start": 20,
+              "url": "https://t.co/h3Jg3xHLhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836344422017171490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 24165,
+          "like_count": 816,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai #maimai_art https://t.co/h3Jg3xHLhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T14:39:56.000Z",
+        "description": "絵 #tt猫 【サブ@tttt__ss】【r18 @_Ixss】【Twitch】https://t.co/gAoMvSbv4s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 2,
+                "tag": "tt猫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "tttt__ss"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "username": "_Ixss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/mmk_lr",
+                "end": 63,
+                "expanded_url": "https://www.twitch.tv/mmk_lr",
+                "start": 40,
+                "url": "https://t.co/gAoMvSbv4s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mmk_lr",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mmk_lr",
+                "start": 0,
+                "url": "https://t.co/VdRCi0S1LP"
+              }
+            ]
+          }
+        },
+        "id": "1317475394182807554",
+        "location": "福岡",
+        "name": "tt",
+        "pinned_tweet_id": "1949047041822167351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950032280346599424/rnrSio5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 573,
+          "like_count": 16327,
+          "listed_count": 15,
+          "media_count": 639,
+          "tweet_count": 4661
+        },
+        "url": "https://t.co/VdRCi0S1LP",
+        "username": "mmk_lr",
+        "verified": false
+      }
+    ]
+  }
+}

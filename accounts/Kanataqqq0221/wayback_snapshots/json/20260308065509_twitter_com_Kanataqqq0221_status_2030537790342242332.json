@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2030497992588018163",
+    "created_at": "2026-03-08T06:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030537790342242332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1235736508465704960",
+          "start": 0,
+          "username": "Sanitater_1926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030537790342242332",
+    "in_reply_to_user_id": "1235736508465704960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030497992588018163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanitater_1926 滨门"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030497982244864000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3HKCTaQAAsr7c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2030497982190366720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3HKCGasAAD4vk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030497982249062400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3HKCUaUAAMO7Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2030497992588018163",
+        "created_at": "2026-03-08T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030537790342242332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1235736508465704960",
+              "start": 0,
+              "username": "Sanitater_1926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030537790342242332",
+        "in_reply_to_user_id": "1235736508465704960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030497992588018163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanitater_1926 滨门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030497982244864000",
+            "3_2030497982190366720",
+            "3_2030497982249062400"
+          ]
+        },
+        "author_id": "1235736508465704960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030497992588018163",
+        "created_at": "2026-03-08T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030497992588018163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OP6zhbMbvR",
+              "end": 35,
+              "expanded_url": "https://x.com/Sanitater_1926/status/2030497992588018163/photo/1",
+              "media_key": "3_2030497982244864000",
+              "start": 12,
+              "url": "https://t.co/OP6zhbMbvR"
+            },
+            {
+              "display_url": "pic.x.com/OP6zhbMbvR",
+              "end": 35,
+              "expanded_url": "https://x.com/Sanitater_1926/status/2030497992588018163/photo/1",
+              "media_key": "3_2030497982190366720",
+              "start": 12,
+              "url": "https://t.co/OP6zhbMbvR"
+            },
+            {
+              "display_url": "pic.x.com/OP6zhbMbvR",
+              "end": 35,
+              "expanded_url": "https://x.com/Sanitater_1926/status/2030497992588018163/photo/1",
+              "media_key": "3_2030497982249062400",
+              "start": 12,
+              "url": "https://t.co/OP6zhbMbvR"
+            },
+            {
+              "display_url": "x.com/sanitater_1926…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sanitater_1926/status/2030244316401250744",
+              "start": 36,
+              "url": "https://t.co/uzYMy4pX9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030497992588018163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030244316401250744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中午又吃滨寿司了🍣\n豪 https://t.co/OP6zhbMbvR https://t.co/uzYMy4pX9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 153,
+          "like_count": 888,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T01:18:51.000Z",
+        "description": "a CS💻 student in PRC (GMT+8) | Counter Strike💣 | LUMIX s5📷 & Nikon F100🎞️ & Konica iiia🎞️ | Touhou☯️ | Kyoto Animation❤️ | maimaiDX🐻‍❄️",
+        "id": "1235736508465704960",
+        "location": "幻想郷",
+        "name": "Rubbin1926",
+        "pinned_tweet_id": "1746405740552864016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994736376374583296/wIFgFABx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 396,
+          "like_count": 40618,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 2420
+        },
+        "username": "Sanitater_1926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981231110999904266",
+    "created_at": "2025-10-23T05:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981231110999904266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivwvioo/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ivwvioo/status/1980665406546407797",
+          "start": 6,
+          "url": "https://t.co/IYQz0W97VZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981231110999904266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980665406546407797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次画这个 https://t.co/IYQz0W97VZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1980665396639236096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3y8rymXAAA1oo0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981231110999904266",
+        "created_at": "2025-10-23T05:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981231110999904266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivwvioo/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ivwvioo/status/1980665406546407797",
+              "start": 6,
+              "url": "https://t.co/IYQz0W97VZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981231110999904266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980665406546407797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次画这个 https://t.co/IYQz0W97VZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980665396639236096"
+          ]
+        },
+        "author_id": "1908440345547022336",
+        "conversation_id": "1980665406546407797",
+        "created_at": "2025-10-21T16:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980665406546407797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2UxoNpyGG",
+              "end": 23,
+              "expanded_url": "https://x.com/ivwvioo/status/1980665406546407797/photo/1",
+              "media_key": "3_1980665396639236096",
+              "start": 0,
+              "url": "https://t.co/X2UxoNpyGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980665406546407797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 217527,
+          "like_count": 2555,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X2UxoNpyGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中丨於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T08:44:05.000Z",
+        "description": "目前墙内没有任何号，如果有人搬运抄袭请帮我举报或提醒。 （禁二改二传，❌融梗/抄袭：搬运，不要代入现实❗️）/⭕️不接推广⭕️，接定制文，看🌟盘和塔罗可以私信找窝！🥺 （@GuoMang41077 这个是芝士玉米的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "GuoMang41077"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivwvioo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ivwvioo",
+                "start": 0,
+                "url": "https://t.co/al06LQF748"
+              }
+            ]
+          }
+        },
+        "id": "1908440345547022336",
+        "location": "不接推广不卖号",
+        "name": "芝士玉米次不次",
+        "pinned_tweet_id": "1969471419307475101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908442171956707328/BHXm-mYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34738,
+          "following_count": 39,
+          "like_count": 2200,
+          "listed_count": 30,
+          "media_count": 139,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/al06LQF748",
+        "username": "ivwvioo",
+        "verified": false
+      }
+    ]
+  }
+}

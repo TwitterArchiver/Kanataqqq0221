@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021592361407562020",
+    "created_at": "2026-02-11T23:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021735563301359730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738907027362209792",
+          "start": 0,
+          "username": "ElysiumFengxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021735563301359730",
+    "in_reply_to_user_id": "1738907027362209792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021592361407562020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElysiumFengxuan 96！？？？？這麼高檔的嗎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021592355619704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4jiV1bkAAC0gc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021592357549084672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4jidBbkAAVL1x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021592361407562020",
+        "created_at": "2026-02-11T23:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021735563301359730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021735563301359730",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021592361407562020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 96！？？？？這麼高檔的嗎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021592355619704832",
+            "3_2021592357549084672"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2021592361407562020",
+        "created_at": "2026-02-11T14:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021592361407562020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LQmvt9hGx",
+              "end": 66,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2021592361407562020/photo/1",
+              "media_key": "3_2021592355619704832",
+              "start": 43,
+              "url": "https://t.co/5LQmvt9hGx"
+            },
+            {
+              "display_url": "pic.x.com/5LQmvt9hGx",
+              "end": 66,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2021592361407562020/photo/1",
+              "media_key": "3_2021592357549084672",
+              "start": 43,
+              "url": "https://t.co/5LQmvt9hGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021592361407562020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1561,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好了96一晚订的酒店居然是双层房，甚至还是中央空调ovo，原来南昌酒店这么高端的吗 https://t.co/5LQmvt9hGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16097丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 134,
+          "like_count": 544,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1837,
+          "like_count": 3197,
+          "listed_count": 7,
+          "media_count": 943,
+          "tweet_count": 6892
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

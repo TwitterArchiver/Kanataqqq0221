@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1990413253285986764",
+    "created_at": "2025-11-18T01:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990589226128388458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864660924164132865",
+          "start": 0,
+          "username": "nuruhyou_arnold"
+        },
+        {
+          "end": 27,
+          "id": "1843975943419047936",
+          "start": 17,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990589226128388458",
+    "in_reply_to_user_id": "1864660924164132865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990434984365301766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuruhyou_arnold @leaderxiu 舞神教教我）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1990413253285986764",
+        "created_at": "2025-11-18T01:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990589226128388458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864660924164132865",
+              "start": 0,
+              "username": "nuruhyou_arnold"
+            },
+            {
+              "end": 27,
+              "id": "1843975943419047936",
+              "start": 17,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990589226128388458",
+        "in_reply_to_user_id": "1864660924164132865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990434984365301766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuruhyou_arnold @leaderxiu 舞神教教我）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864660924164132865",
+        "conversation_id": "1990413253285986764",
+        "created_at": "2025-11-17T15:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990434984365301766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990434984365301766",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990430869744431491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 我不是舞神的說"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 75,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:19:52.000Z",
+        "description": "音ゲー愛好者 | ユビート、IIDX、maimai でらっくす | 書道勉強中",
+        "id": "1864660924164132865",
+        "name": "温氷_アーノルド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982224241991778305/NjNFPh2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 559,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 99
+        },
+        "username": "nuruhyou_arnold",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "想同大家互Fo,廣告同埋叫技離遠點\n\n關注我的刷到都點赞👍\n\n一起打ball同埋廳音樂打game了😁（逃生艙@chaikh111）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "chaikh111"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去",
+        "pinned_tweet_id": "1980703611522101288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984692391098351618/Ib7q35gx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 312,
+          "like_count": 23622,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1494
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

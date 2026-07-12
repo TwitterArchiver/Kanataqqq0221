@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983492972953120768"
+      ],
+      "media_source_tweet_id": [
+        "1983492983363379314"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1983704386900730025",
+    "created_at": "2025-10-30T01:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T02:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983704386900730025"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 28,
+          "tag": "NIKKEcosplay"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "Bready"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1235725501429198848",
+          "start": 3,
+          "username": "azarashi__draw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VcE0o8wKM6",
+          "end": 82,
+          "expanded_url": "https://x.com/azarashi__draw/status/1983492983363379314/photo/1",
+          "media_key": "3_1983492972953120768",
+          "start": 59,
+          "url": "https://t.co/VcE0o8wKM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983704386900730025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983492983363379314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azarashi__draw: 美味...🍪\n #NIKKEcosplay #Bready #cosplay https://t.co/VcE0o8wKM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1983492972953120768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bIWZNasAA7neV.jpg",
+        "width": 2733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983492972953120768"
+          ],
+          "media_source_tweet_id": [
+            "1983492983363379314"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1983704386900730025",
+        "created_at": "2025-10-30T01:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983704386900730025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 28,
+              "tag": "NIKKEcosplay"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "Bready"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1235725501429198848",
+              "start": 3,
+              "username": "azarashi__draw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcE0o8wKM6",
+              "end": 82,
+              "expanded_url": "https://x.com/azarashi__draw/status/1983492983363379314/photo/1",
+              "media_key": "3_1983492972953120768",
+              "start": 59,
+              "url": "https://t.co/VcE0o8wKM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983704386900730025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983492983363379314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azarashi__draw: 美味...🍪\n #NIKKEcosplay #Bready #cosplay https://t.co/VcE0o8wKM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983492972953120768"
+          ]
+        },
+        "author_id": "1235725501429198848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1983492983363379314",
+        "created_at": "2025-10-29T11:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983492983363379314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "NIKKEcosplay"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "Bready"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcE0o8wKM6",
+              "end": 62,
+              "expanded_url": "https://x.com/azarashi__draw/status/1983492983363379314/photo/1",
+              "media_key": "3_1983492972953120768",
+              "start": 39,
+              "url": "https://t.co/VcE0o8wKM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983492983363379314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 838,
+          "impression_count": 56299,
+          "like_count": 4540,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "美味...🍪\n #NIKKEcosplay #Bready #cosplay https://t.co/VcE0o8wKM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中 丨是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 57,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T00:35:06.000Z",
+        "description": "coser 20↓成人済 全て重加工 新規予定×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zr__aczr",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zr__aczr",
+                "start": 0,
+                "url": "https://t.co/miZJS9hRx1"
+              }
+            ]
+          }
+        },
+        "id": "1235725501429198848",
+        "location": ":大阪🦋あくなあざらしと申します🦭",
+        "name": "あざらし🦭さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912108340815015936/9XqvqjVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46152,
+          "following_count": 452,
+          "like_count": 62365,
+          "listed_count": 238,
+          "media_count": 491,
+          "tweet_count": 14433
+        },
+        "url": "https://t.co/miZJS9hRx1",
+        "username": "azarashi__draw",
+        "verified": true
+      }
+    ]
+  }
+}

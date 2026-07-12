@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2051277290773119094",
+    "created_at": "2026-05-05T01:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051481885105332723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406117662632071170",
+          "start": 0,
+          "username": "TrypanBlue_TPB"
+        },
+        {
+          "end": 27,
+          "id": "1882731151925915648",
+          "start": 16,
+          "username": "AlphaSanmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051481885105332723",
+    "in_reply_to_user_id": "1406117662632071170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051277290773119094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrypanBlue_TPB @AlphaSanmi 大！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2051277288034185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeZ00kasAAVHJU.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2051277290773119094",
+        "created_at": "2026-05-05T01:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051481885105332723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406117662632071170",
+              "start": 0,
+              "username": "TrypanBlue_TPB"
+            },
+            {
+              "end": 27,
+              "id": "1882731151925915648",
+              "start": 16,
+              "username": "AlphaSanmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051481885105332723",
+        "in_reply_to_user_id": "1406117662632071170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051277290773119094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrypanBlue_TPB @AlphaSanmi 大！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051277288034185216"
+          ]
+        },
+        "author_id": "1406117662632071170",
+        "conversation_id": "2051277290773119094",
+        "created_at": "2026-05-04T12:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051277290773119094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q1O7LwJsK",
+              "end": 55,
+              "expanded_url": "https://x.com/TrypanBlue_TPB/status/2051277290773119094/photo/1",
+              "media_key": "3_2051277288034185216",
+              "start": 32,
+              "url": "https://t.co/5q1O7LwJsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051277290773119094",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 5546,
+          "like_count": 404,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art 💚\nHappy birthday!!! https://t.co/5q1O7LwJsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 262,
+          "like_count": 2195,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "✦ 𝑮𝑬𝑻 𝑻𝑯𝑬 𝑹𝑬𝑮𝑹𝑬𝑻 𝑶𝑽𝑬𝑹.                                    \n連絡先： trypanblue.tpb@gmail.com                   \nBOOTH: https://t.co/qbHrRQbIMy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 138,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 115,
+                "url": "https://t.co/qbHrRQbIMy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOOeU"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "name": "锥✦百日絵描き中",
+        "pinned_tweet_id": "2032280205113643290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5839,
+          "following_count": 809,
+          "like_count": 6631,
+          "listed_count": 34,
+          "media_count": 232,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/n4kKQKOOeU",
+        "username": "TrypanBlue_TPB",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T10:04:41.000Z",
+        "description": "maimai 時々 お絵描き(休止中) 🍋娘 #れもづきあーと\nヘッダー@kokone2722と合作🧂BOOTH pixivなど🔽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "れもづきあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "kokone2722"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/alphasanmi",
+                "end": 23,
+                "expanded_url": "https://lit.link/alphasanmi",
+                "start": 0,
+                "url": "https://t.co/kMIHKLGrUe"
+              }
+            ]
+          }
+        },
+        "id": "1882731151925915648",
+        "location": "かながわちほー",
+        "name": "さんみ",
+        "pinned_tweet_id": "2030252141185810624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045625088687607808/PL_vd8da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 244,
+          "like_count": 52294,
+          "listed_count": 3,
+          "media_count": 1254,
+          "tweet_count": 8751
+        },
+        "url": "https://t.co/kMIHKLGrUe",
+        "username": "AlphaSanmi",
+        "verified": false
+      }
+    ]
+  }
+}

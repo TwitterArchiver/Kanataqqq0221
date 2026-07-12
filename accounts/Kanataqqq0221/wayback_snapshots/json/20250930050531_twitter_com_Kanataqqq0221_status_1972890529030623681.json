@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972234582654341120"
+      ],
+      "media_source_tweet_id": [
+        "1972234644059033977"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972890529030623681",
+    "created_at": "2025-09-30T05:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972890529030623681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1167831523950612482",
+          "start": 3,
+          "username": "mone_shiratsuyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOPlqQ6FuD",
+          "end": 51,
+          "expanded_url": "https://x.com/mone_shiratsuyu/status/1972234644059033977/photo/1",
+          "media_key": "3_1972234582654341120",
+          "start": 28,
+          "url": "https://t.co/XOPlqQ6FuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972890529030623681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3306
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972234644059033977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mone_shiratsuyu: にはは... https://t.co/XOPlqQ6FuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2979,
+        "media_key": "3_1972234582654341120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17I51DaUAAz5E3.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972234582654341120"
+          ],
+          "media_source_tweet_id": [
+            "1972234644059033977"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972890529030623681",
+        "created_at": "2025-09-30T05:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972890529030623681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1167831523950612482",
+              "start": 3,
+              "username": "mone_shiratsuyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOPlqQ6FuD",
+              "end": 51,
+              "expanded_url": "https://x.com/mone_shiratsuyu/status/1972234644059033977/photo/1",
+              "media_key": "3_1972234582654341120",
+              "start": 28,
+              "url": "https://t.co/XOPlqQ6FuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972890529030623681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3306
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972234644059033977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mone_shiratsuyu: にはは... https://t.co/XOPlqQ6FuD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972234582654341120"
+          ]
+        },
+        "author_id": "1167831523950612482",
+        "conversation_id": "1972234644059033977",
+        "created_at": "2025-09-28T09:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972234644059033977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOPlqQ6FuD",
+              "end": 30,
+              "expanded_url": "https://x.com/mone_shiratsuyu/status/1972234644059033977/photo/1",
+              "media_key": "3_1972234582654341120",
+              "start": 7,
+              "url": "https://t.co/XOPlqQ6FuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972234644059033977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14215,
+          "impression_count": 1255199,
+          "like_count": 58951,
+          "quote_count": 121,
+          "reply_count": 37,
+          "retweet_count": 3306
+        },
+        "reply_settings": "everyone",
+        "text": "にはは... https://t.co/XOPlqQ6FuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T16:08:37.000Z",
+        "description": "しらつゆです。https://t.co/jlp4leebQG すずりhttps://t.co/L0UfjnN5y1  依頼停止中です！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mone_shiratsuyu",
+                "end": 30,
+                "expanded_url": "https://marshmallow-qa.com/mone_shiratsuyu",
+                "start": 7,
+                "url": "https://t.co/jlp4leebQG"
+              },
+              {
+                "display_url": "suzuri.jp/akcnnngn",
+                "end": 57,
+                "expanded_url": "https://suzuri.jp/akcnnngn",
+                "start": 34,
+                "url": "https://t.co/L0UfjnN5y1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mone_shiratsuy…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mone_shiratsuyu?r=nametag",
+                "start": 0,
+                "url": "https://t.co/78tHhuTFJL"
+              }
+            ]
+          }
+        },
+        "id": "1167831523950612482",
+        "location": "聖蹟桜ヶ丘",
+        "name": "白露もね",
+        "pinned_tweet_id": "1964629128839381494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941467388542844929/r-eGR9Iy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28808,
+          "following_count": 311,
+          "like_count": 1635,
+          "listed_count": 277,
+          "media_count": 89,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/78tHhuTFJL",
+        "username": "mone_shiratsuyu",
+        "verified": false
+      }
+    ]
+  }
+}

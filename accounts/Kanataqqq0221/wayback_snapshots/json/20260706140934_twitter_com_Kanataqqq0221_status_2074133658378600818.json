@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074133632336441344"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2074133658378600818",
+    "created_at": "2026-07-06T14:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074133658378600818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6Zr90n0hg",
+          "end": 71,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2074133658378600818/photo/1",
+          "media_key": "3_2074133632336441344",
+          "start": 48,
+          "url": "https://t.co/a6Zr90n0hg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074133658378600818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "班花听信豆包谣言要求全班买大筒木浦式上分应对高考，我反手掏出马斑天下无双，再战百次结果亦是如此 https://t.co/a6Zr90n0hg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074133632336441344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjNjKQasAANPy1.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074133632336441344"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2074133658378600818",
+        "created_at": "2026-07-06T14:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074133658378600818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6Zr90n0hg",
+              "end": 71,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2074133658378600818/photo/1",
+              "media_key": "3_2074133632336441344",
+              "start": 48,
+              "url": "https://t.co/a6Zr90n0hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074133658378600818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班花听信豆包谣言要求全班买大筒木浦式上分应对高考，我反手掏出马斑天下无双，再战百次结果亦是如此 https://t.co/a6Zr90n0hg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 371,
+          "like_count": 2899,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

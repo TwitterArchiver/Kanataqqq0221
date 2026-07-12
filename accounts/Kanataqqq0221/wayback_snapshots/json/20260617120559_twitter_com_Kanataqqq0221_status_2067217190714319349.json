@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2067179693405856047",
+    "created_at": "2026-06-17T12:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067217190714319349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1474198081864626179",
+          "start": 0,
+          "username": "CTS_TOAST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217190714319349",
+    "in_reply_to_user_id": "1474198081864626179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067179693405856047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTS_TOAST 😨看到這條才想起來新活動還沒打😭😭糟糕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2067179656143585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAY8eNaQAADGb3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067179656135258113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAY8eLbMAE0ogE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2067179693405856047",
+        "created_at": "2026-06-17T12:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217190714319349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1474198081864626179",
+              "start": 0,
+              "username": "CTS_TOAST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217190714319349",
+        "in_reply_to_user_id": "1474198081864626179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067179693405856047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTS_TOAST 😨看到這條才想起來新活動還沒打😭😭糟糕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067179656143585280",
+            "3_2067179656135258113"
+          ]
+        },
+        "author_id": "1474198081864626179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2067179693405856047",
+        "created_at": "2026-06-17T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067179693405856047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TRCeBorE9",
+              "end": 50,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2067179693405856047/photo/1",
+              "media_key": "3_2067179656143585280",
+              "start": 27,
+              "url": "https://t.co/5TRCeBorE9"
+            },
+            {
+              "display_url": "pic.x.com/5TRCeBorE9",
+              "end": 50,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2067179693405856047/photo/1",
+              "media_key": "3_2067179656135258113",
+              "start": 27,
+              "url": "https://t.co/5TRCeBorE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067179693405856047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了9個月的工作了才知道同事有玩明日方舟何意味😭😭😭 https://t.co/5TRCeBorE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 345,
+          "like_count": 2654,
+          "listed_count": 4,
+          "media_count": 344,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T01:59:58.000Z",
+        "description": "台湾🇹🇼音ゲー玩家/20y/太鼓 23,24,25赤十 26金十/maimai Lv.13～14全AP 21神10舞舞 舞神 残り2/Chunithm AVG16.87/オンゲキ R17/WACCA XIII/移動端:Arknights,雀魂,Pikmin/努力健身中/一個全工半讀沒什麼時間的人/其他想到再+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@toast-720?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@toast-720?si=sFZV1q_8mYllheBM",
+                "start": 0,
+                "url": "https://t.co/FO76BUjkIQ"
+              }
+            ]
+          }
+        },
+        "id": "1474198081864626179",
+        "location": "New Taipei City, Taiwan",
+        "name": "吐司🍞(9/3～9/13大阪🇯🇵)",
+        "pinned_tweet_id": "2058259833238032528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151569203036161/FkI635QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 921,
+          "like_count": 11935,
+          "listed_count": 3,
+          "media_count": 1357,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/FO76BUjkIQ",
+        "username": "CTS_TOAST",
+        "verified": false
+      }
+    ]
+  }
+}

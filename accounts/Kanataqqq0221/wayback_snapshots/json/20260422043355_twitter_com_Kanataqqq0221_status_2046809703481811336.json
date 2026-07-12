@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2046777671607263681",
+    "created_at": "2026-04-22T04:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046809703481811336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554488290803208192",
+          "start": 0,
+          "username": "SamakeCofe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046809703481811336",
+    "in_reply_to_user_id": "1554488290803208192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046789573649600653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamakeCofe （毕竟Marlo实在是太可爱了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2046777671607263681",
+        "created_at": "2026-04-22T04:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046809703481811336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554488290803208192",
+              "start": 0,
+              "username": "SamakeCofe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046809703481811336",
+        "in_reply_to_user_id": "1554488290803208192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046789573649600653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamakeCofe （毕竟Marlo实在是太可爱了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554488290803208192",
+        "conversation_id": "2046777671607263681",
+        "created_at": "2026-04-22T03:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046789573649600653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046789573649600653",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046777671607263681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 诶哟我操还有马老弟的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 237,
+          "like_count": 1897,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:24:42.000Z",
+        "description": "🇨🇳/rhythm games/X非必要不常用/日本語でのコミュニケーションには必要に応じて機械翻訳を使用します/Machine translation may be used when communicating in English",
+        "id": "1554488290803208192",
+        "location": "梦中做的另外一个梦",
+        "name": "SamakeCofe_YzYg",
+        "pinned_tweet_id": "2039515199703785856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695400876155047936/s81q-vod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 565,
+          "like_count": 9750,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2118
+        },
+        "username": "SamakeCofe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978274339893256192"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1978274347308441795",
+    "created_at": "2025-10-15T01:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T02:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978274347308441795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tnkz3Mlg75",
+          "end": 30,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1978274347308441795/photo/1",
+          "media_key": "3_1978274339893256192",
+          "start": 7,
+          "url": "https://t.co/Tnkz3Mlg75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978274347308441795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ビーーーーー https://t.co/Tnkz3Mlg75"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_1978274339893256192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Q-B-GboAAarFG.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978274339893256192"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1978274347308441795",
+        "created_at": "2025-10-15T01:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978274347308441795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tnkz3Mlg75",
+              "end": 30,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1978274347308441795/photo/1",
+              "media_key": "3_1978274339893256192",
+              "start": 7,
+              "url": "https://t.co/Tnkz3Mlg75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978274347308441795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ビーーーーー https://t.co/Tnkz3Mlg75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

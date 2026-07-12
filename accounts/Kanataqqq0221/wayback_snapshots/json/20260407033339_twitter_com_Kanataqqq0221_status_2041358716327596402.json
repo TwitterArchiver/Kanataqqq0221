@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2041177924481822938",
+    "created_at": "2026-04-07T03:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041358716327596402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864660924164132865",
+          "start": 0,
+          "username": "nuruhyou_arnold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041358716327596402",
+    "in_reply_to_user_id": "1864660924164132865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041313512455324041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuruhyou_arnold 戳戳）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2041177924481822938",
+        "created_at": "2026-04-07T03:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041358716327596402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864660924164132865",
+              "start": 0,
+              "username": "nuruhyou_arnold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041358716327596402",
+        "in_reply_to_user_id": "1864660924164132865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041313512455324041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuruhyou_arnold 戳戳）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864660924164132865",
+        "conversation_id": "2041177924481822938",
+        "created_at": "2026-04-07T00:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041313512455324041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041313512455324041",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041177924481822938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 戳到我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16192丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 203,
+          "like_count": 1581,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:19:52.000Z",
+        "description": "音ゲーマー | ユビート / IIDX / maimai DX | 書道勉強中",
+        "id": "1864660924164132865",
+        "name": "温氷_Arnold",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033381076186583040/7XNfnD_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 653,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 435
+        },
+        "username": "nuruhyou_arnold",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:19:52.000Z",
+        "description": "音ゲーマー | ユビート / IIDX / maimai DX | 書道勉強中",
+        "id": "1864660924164132865",
+        "name": "温氷_Arnold",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033381076186583040/7XNfnD_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 653,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "nuruhyou_arnold",
+        "verified": false
+      }
+    ]
+  }
+}

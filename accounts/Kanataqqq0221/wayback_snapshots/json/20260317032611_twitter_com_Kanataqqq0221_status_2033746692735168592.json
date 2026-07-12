@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2033736702154723729",
+    "created_at": "2026-03-17T03:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033746692735168592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777344951556456448",
+          "start": 0,
+          "username": "AyakoHimy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033746692735168592",
+    "in_reply_to_user_id": "1777344951556456448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033746476187455583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyakoHimy えー！？本当にですか！？ wwwwwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2033736702154723729",
+        "created_at": "2026-03-17T03:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033746692735168592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777344951556456448",
+              "start": 0,
+              "username": "AyakoHimy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033746692735168592",
+        "in_reply_to_user_id": "1777344951556456448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033746476187455583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyakoHimy えー！？本当にですか！？ wwwwwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777344951556456448",
+        "conversation_id": "2033736702154723729",
+        "created_at": "2026-03-17T03:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033746476187455583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033746476187455583",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033745949017969064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 あのアイコン、君にそっくりじゃん wwwwww😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16153丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 167,
+          "like_count": 1120,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T14:37:27.000Z",
+        "description": "24/06 21/01 私はフリーランスの作曲家兼画家です\n\nこの文章を読んでくださっているあなたと、ぜひ音楽でコラボレーションしたいです。\n\nここでは誰も私を知らないので、他のソーシャル メディア プラットフォームよりも自然に自分の日常生活や仕事をシェアしています。",
+        "id": "1777344951556456448",
+        "name": "ayako himy",
+        "pinned_tweet_id": "2015734311144833070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022891768249987072/0Ppo8nbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 72,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1308
+        },
+        "username": "AyakoHimy",
+        "verified": false
+      }
+    ]
+  }
+}

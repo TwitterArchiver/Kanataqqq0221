@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2058853742133526558",
+    "created_at": "2026-05-25T10:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058853742133526558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunjiu/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yunjiu/status/2058574543518883974",
+          "start": 6,
+          "url": "https://t.co/sUu5ldNxfR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058853742133526558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058574543518883974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正确的…… https://t.co/sUu5ldNxfR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2058574525038809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGGn6ybUAAF3et.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2058853742133526558",
+        "created_at": "2026-05-25T10:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058853742133526558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunjiu/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yunjiu/status/2058574543518883974",
+              "start": 6,
+              "url": "https://t.co/sUu5ldNxfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058853742133526558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058574543518883974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正确的…… https://t.co/sUu5ldNxfR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058574525038809088"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058574543518883974",
+        "created_at": "2026-05-24T15:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058574543518883974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8COwMszMuN",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2058574543518883974/photo/1",
+              "media_key": "3_2058574525038809088",
+              "start": 0,
+              "url": "https://t.co/8COwMszMuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058574543518883974",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 153098,
+          "like_count": 6030,
+          "quote_count": 13,
+          "reply_count": 34,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8COwMszMuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 114,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 265,
+          "like_count": 2341,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105045,
+          "following_count": 793,
+          "like_count": 36972,
+          "listed_count": 295,
+          "media_count": 18853,
+          "tweet_count": 27041
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

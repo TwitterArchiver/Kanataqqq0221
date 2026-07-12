@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981190562255446016"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1981190572598862196",
+    "created_at": "2025-10-23T02:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T03:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981190572598862196"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 6,
+          "tag": "maimai_art"
+        },
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "maimai"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "ソルト"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0HPcPaSr7",
+          "end": 55,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/1981190572598862196/photo/1",
+          "media_key": "3_1981190562255446016",
+          "start": 32,
+          "url": "https://t.co/Y0HPcPaSr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981190572598862196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ソルト ②\n#maimai_art  #maimai #ソルト https://t.co/Y0HPcPaSr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981190562255446016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36aUc-XoAAJay6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981190562255446016"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1981190572598862196",
+        "created_at": "2025-10-23T02:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981190572598862196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "maimai_art"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "maimai"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "ソルト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0HPcPaSr7",
+              "end": 55,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/1981190572598862196/photo/1",
+              "media_key": "3_1981190562255446016",
+              "start": 32,
+              "url": "https://t.co/Y0HPcPaSr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981190572598862196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ソルト ②\n#maimai_art  #maimai #ソルト https://t.co/Y0HPcPaSr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 92
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

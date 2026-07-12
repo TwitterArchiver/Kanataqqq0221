@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978298414497685504"
+      ],
+      "media_source_tweet_id": [
+        "1978298420457570678"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1978732274880290982",
+    "created_at": "2025-10-16T07:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978732274880290982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2346644904",
+          "start": 3,
+          "username": "uri11_27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l32pePM2LQ",
+          "end": 43,
+          "expanded_url": "https://x.com/uri11_27/status/1978298420457570678/photo/1",
+          "media_key": "3_1978298414497685504",
+          "start": 20,
+          "url": "https://t.co/l32pePM2LQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978732274880290982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2076
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978298420457570678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uri11_27: BOOM💥 https://t.co/l32pePM2LQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_1978298414497685504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RT7S_aYAAaIZQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978298414497685504"
+          ],
+          "media_source_tweet_id": [
+            "1978298420457570678"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1978732274880290982",
+        "created_at": "2025-10-16T07:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978732274880290982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2346644904",
+              "start": 3,
+              "username": "uri11_27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l32pePM2LQ",
+              "end": 43,
+              "expanded_url": "https://x.com/uri11_27/status/1978298420457570678/photo/1",
+              "media_key": "3_1978298414497685504",
+              "start": 20,
+              "url": "https://t.co/l32pePM2LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978732274880290982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2076
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978298420457570678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uri11_27: BOOM💥 https://t.co/l32pePM2LQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978298414497685504"
+          ]
+        },
+        "author_id": "2346644904",
+        "conversation_id": "1978298420457570678",
+        "created_at": "2025-10-15T03:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978298420457570678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l32pePM2LQ",
+              "end": 29,
+              "expanded_url": "https://x.com/uri11_27/status/1978298420457570678/photo/1",
+              "media_key": "3_1978298414497685504",
+              "start": 6,
+              "url": "https://t.co/l32pePM2LQ"
+            },
+            {
+              "display_url": "x.com/oekakiism/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/oekakiism/status/1977149822454186097",
+              "start": 30,
+              "url": "https://t.co/69jMnRyJ6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978298420457570678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18959,
+          "impression_count": 2444719,
+          "like_count": 76151,
+          "quote_count": 32,
+          "reply_count": 116,
+          "retweet_count": 2076
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977149822454186097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BOOM💥 https://t.co/l32pePM2LQ https://t.co/69jMnRyJ6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-16T10:42:11.000Z",
+        "description": "𓆜𓇼 活動中→→→ Fantia→https://t.co/J5YdsfIs2E♥️Patreon→ https://t.co/HdQQ1c0RdM♥️サブ垢→(@uriri11_27)$URI→ T1nEKn1kMyMKD5D4uvXe7VD5V86D9yu6NegK4xnBAGS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "uriri11_27"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/421777",
+                "end": 40,
+                "expanded_url": "https://fantia.jp/fanclubs/421777",
+                "start": 17,
+                "url": "https://t.co/J5YdsfIs2E"
+              },
+              {
+                "display_url": "patreon.com/uri1127",
+                "end": 74,
+                "expanded_url": "https://patreon.com/uri1127",
+                "start": 51,
+                "url": "https://t.co/HdQQ1c0RdM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/gQrqIdC3TSSaEG…",
+                "end": 23,
+                "expanded_url": "https://lit.link/gQrqIdC3TSSaEG9b7Hm9rhOZeiL2",
+                "start": 0,
+                "url": "https://t.co/LiPH9AZkcp"
+              }
+            ]
+          }
+        },
+        "id": "2346644904",
+        "location": "日本",
+        "name": "𓆟uri 𓆟",
+        "pinned_tweet_id": "1402822836109012997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958121209251713024/8gXadUVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663424,
+          "following_count": 165,
+          "like_count": 29334,
+          "listed_count": 3994,
+          "media_count": 874,
+          "tweet_count": 61028
+        },
+        "url": "https://t.co/LiPH9AZkcp",
+        "username": "uri11_27",
+        "verified": true
+      }
+    ]
+  }
+}

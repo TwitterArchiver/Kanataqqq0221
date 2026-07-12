@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987824604833026048",
+        "3_1987824604841414657",
+        "3_1987824604841406464",
+        "3_1987824604874936320"
+      ],
+      "media_source_tweet_id": [
+        "1987824614672847293",
+        "1987824614672847293",
+        "1987824614672847293",
+        "1987824614672847293"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988434737145446676",
+    "created_at": "2025-11-12T02:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988434737145446676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414672456804040705",
+          "start": 3,
+          "username": "Bunch_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i5R6YF3uFk",
+          "end": 53,
+          "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+          "media_key": "3_1987824604833026048",
+          "start": 30,
+          "url": "https://t.co/i5R6YF3uFk"
+        },
+        {
+          "display_url": "pic.x.com/i5R6YF3uFk",
+          "end": 53,
+          "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+          "media_key": "3_1987824604841414657",
+          "start": 30,
+          "url": "https://t.co/i5R6YF3uFk"
+        },
+        {
+          "display_url": "pic.x.com/i5R6YF3uFk",
+          "end": 53,
+          "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+          "media_key": "3_1987824604841406464",
+          "start": 30,
+          "url": "https://t.co/i5R6YF3uFk"
+        },
+        {
+          "display_url": "pic.x.com/i5R6YF3uFk",
+          "end": 53,
+          "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+          "media_key": "3_1987824604874936320",
+          "start": 30,
+          "url": "https://t.co/i5R6YF3uFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988434737145446676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3281
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987824614672847293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunch_1123: 沼らせ系黒髪後輩ボブちゃん https://t.co/i5R6YF3uFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987824604833026048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yr8jbakAA_r77.jpg",
+        "width": 1786
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987824604841414657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yr8jdakAEAAs0.jpg",
+        "width": 1757
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987824604841406464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yr8jdacAA2oZt.jpg",
+        "width": 1794
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987824604874936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yr8jlaEAAQ7dP.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987824604833026048",
+            "3_1987824604841414657",
+            "3_1987824604841406464",
+            "3_1987824604874936320"
+          ],
+          "media_source_tweet_id": [
+            "1987824614672847293",
+            "1987824614672847293",
+            "1987824614672847293",
+            "1987824614672847293"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988434737145446676",
+        "created_at": "2025-11-12T02:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988434737145446676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414672456804040705",
+              "start": 3,
+              "username": "Bunch_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 53,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604833026048",
+              "start": 30,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 53,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604841414657",
+              "start": 30,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 53,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604841406464",
+              "start": 30,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 53,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604874936320",
+              "start": 30,
+              "url": "https://t.co/i5R6YF3uFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988434737145446676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3281
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987824614672847293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunch_1123: 沼らせ系黒髪後輩ボブちゃん https://t.co/i5R6YF3uFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987824604833026048",
+            "3_1987824604841414657",
+            "3_1987824604841406464",
+            "3_1987824604874936320"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "1987824614672847293",
+        "created_at": "2025-11-10T10:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987824614672847293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 37,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604833026048",
+              "start": 14,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 37,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604841414657",
+              "start": 14,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 37,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604841406464",
+              "start": 14,
+              "url": "https://t.co/i5R6YF3uFk"
+            },
+            {
+              "display_url": "pic.x.com/i5R6YF3uFk",
+              "end": 37,
+              "expanded_url": "https://x.com/Bunch_1123/status/1987824614672847293/photo/1",
+              "media_key": "3_1987824604874936320",
+              "start": 14,
+              "url": "https://t.co/i5R6YF3uFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987824614672847293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11108,
+          "impression_count": 762431,
+          "like_count": 49197,
+          "quote_count": 86,
+          "reply_count": 32,
+          "retweet_count": 3281
+        },
+        "reply_settings": "everyone",
+        "text": "沼らせ系黒髪後輩ボブちゃん https://t.co/i5R6YF3uFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 73,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "インターネットらくがきマン 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】FANBOX→https://t.co/uWdpGMfCeO 【お仕事はこちらから】buchi5433@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 72,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 49,
+                "url": "https://t.co/uWdpGMfCeO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfcX79"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "location": "強めの幻覚 AI学習禁止    ",
+        "name": "ぶんち",
+        "pinned_tweet_id": "1987415436884091377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516940,
+          "following_count": 591,
+          "like_count": 20787,
+          "listed_count": 2773,
+          "media_count": 156,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/UgBLIfcX79",
+        "username": "Bunch_1123",
+        "verified": true
+      }
+    ]
+  }
+}

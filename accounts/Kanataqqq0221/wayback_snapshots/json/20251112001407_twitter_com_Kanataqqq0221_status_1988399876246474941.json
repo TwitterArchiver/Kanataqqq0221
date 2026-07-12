@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1988114058470715721",
+    "created_at": "2025-11-12T00:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T01:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988399876246474941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507047275716960263",
+          "start": 0,
+          "username": "MeiMuii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988399876246474941",
+    "in_reply_to_user_id": "1507047275716960263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988114058470715721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiMuii_ 好恶心啊。。。怎么能这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1988114058470715721",
+        "created_at": "2025-11-12T00:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988399876246474941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507047275716960263",
+              "start": 0,
+              "username": "MeiMuii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988399876246474941",
+        "in_reply_to_user_id": "1507047275716960263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988114058470715721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiMuii_ 好恶心啊。。。怎么能这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507047275716960263",
+        "conversation_id": "1988114058470715721",
+        "created_at": "2025-11-11T05:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988114058470715721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988114058470715721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 199892,
+          "like_count": 624,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼就他妈的是傻逼，装修花70多买的隔音棉让来干活的工人尿了\n他妈的马路对面就是公共厕所不去，尿的我家新铺的瓷砖上满哪儿都是，一股恶心骚味，妈的臭傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 73,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T17:30:57.000Z",
+        "description": "=莓依/夏鸣｜非单有对象｜网瘾少女｜情绪垃圾桶🗑️｜声控｜主坑FF14月猫四黑瞳｜私信打游戏可以｜别问隐私别问傻逼问题｜会善用拉黑",
+        "id": "1507047275716960263",
+        "location": "昆仑秘境",
+        "name": "莓饱饱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986261819594522624/mcu18oef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9796,
+          "following_count": 317,
+          "like_count": 5154,
+          "listed_count": 16,
+          "media_count": 340,
+          "tweet_count": 4884
+        },
+        "username": "MeiMuii_",
+        "verified": false
+      }
+    ]
+  }
+}

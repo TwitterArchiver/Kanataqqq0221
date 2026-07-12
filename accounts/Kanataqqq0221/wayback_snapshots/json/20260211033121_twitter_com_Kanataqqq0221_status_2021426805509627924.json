@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021158221776306191",
+    "created_at": "2026-02-11T03:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021426805509627924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859254891971313665",
+          "start": 0,
+          "username": "dongmugen08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021426805509627924",
+    "in_reply_to_user_id": "1859254891971313665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021158221776306191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongmugen08 漢堡不吃可以給我，謝謝😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2021158218949701632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyYsQtbsAASZE2.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021158221776306191",
+        "created_at": "2026-02-11T03:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021426805509627924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859254891971313665",
+              "start": 0,
+              "username": "dongmugen08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021426805509627924",
+        "in_reply_to_user_id": "1859254891971313665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021158221776306191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongmugen08 漢堡不吃可以給我，謝謝😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021158218949701632"
+          ]
+        },
+        "author_id": "1859254891971313665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021158221776306191",
+        "created_at": "2026-02-10T09:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021158221776306191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fku4JsAAaO",
+              "end": 33,
+              "expanded_url": "https://x.com/dongmugen08/status/2021158221776306191/photo/1",
+              "media_key": "3_2021158218949701632",
+              "start": 10,
+              "url": "https://t.co/Fku4JsAAaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021158221776306191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3927,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么雷霆大傻逼 https://t.co/Fku4JsAAaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16062丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2016420726807658879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 132,
+          "like_count": 518,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T15:18:40.000Z",
+        "description": "幸福的活下去吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dongmugen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dongmugen",
+                "start": 0,
+                "url": "https://t.co/bFjIvxeqO1"
+              }
+            ]
+          }
+        },
+        "id": "1859254891971313665",
+        "location": "斯德哥尔摩",
+        "name": "东木艮",
+        "pinned_tweet_id": "2014950901824553077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004987018967937024/XHErfR23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 645,
+          "like_count": 3470,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/bFjIvxeqO1",
+        "username": "dongmugen08",
+        "verified": false
+      }
+    ]
+  }
+}

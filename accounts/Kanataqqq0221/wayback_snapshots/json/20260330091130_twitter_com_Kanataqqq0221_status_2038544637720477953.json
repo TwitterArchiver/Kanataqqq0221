@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2038196779167138205",
+    "created_at": "2026-03-30T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038544637720477953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "787189314",
+          "start": 0,
+          "username": "ri_neb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038544637720477953",
+    "in_reply_to_user_id": "787189314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038196779167138205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_neb 神秘的东方文字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038196747701559296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkhJKkboAAxV6u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2038196779167138205",
+        "created_at": "2026-03-30T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038544637720477953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "787189314",
+              "start": 0,
+              "username": "ri_neb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038544637720477953",
+        "in_reply_to_user_id": "787189314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038196779167138205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_neb 神秘的东方文字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038196747701559296"
+          ]
+        },
+        "author_id": "787189314",
+        "conversation_id": "2038196779167138205",
+        "created_at": "2026-03-29T10:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038196779167138205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbLy1GOhKB",
+              "end": 23,
+              "expanded_url": "https://x.com/ri_neb/status/2038196779167138205/photo/1",
+              "media_key": "3_2038196747701559296",
+              "start": 0,
+              "url": "https://t.co/DbLy1GOhKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038196779167138205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DbLy1GOhKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 189,
+          "like_count": 1353,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-28T14:59:26.000Z",
+        "description": "잉여인간・Arcstar「ELLIA」Producer・Game Producer and Music Game Composer ・mail : rabbithouse@teamarcstar.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rineb.notion.site",
+                "end": 23,
+                "expanded_url": "https://rineb.notion.site/",
+                "start": 0,
+                "url": "https://t.co/8iyNjgCjJ6"
+              }
+            ]
+          }
+        },
+        "id": "787189314",
+        "location": "대한민국",
+        "name": "Rabbit House",
+        "pinned_tweet_id": "1797921445374476458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465826928695607296/QWGJjEF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10467,
+          "following_count": 1178,
+          "like_count": 5897,
+          "listed_count": 53,
+          "media_count": 19151,
+          "tweet_count": 120832
+        },
+        "url": "https://t.co/8iyNjgCjJ6",
+        "username": "ri_neb",
+        "verified": true
+      }
+    ]
+  }
+}

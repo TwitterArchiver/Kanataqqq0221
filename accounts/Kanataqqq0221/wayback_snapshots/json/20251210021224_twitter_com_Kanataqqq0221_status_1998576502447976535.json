@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "1998404107795636327",
+    "created_at": "2025-12-10T02:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998576502447976535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872130736872144897",
+          "start": 0,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998576502447976535",
+    "in_reply_to_user_id": "1872130736872144897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998404107795636327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhenzhen21 无敌了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1998404103572213762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vB8bca0AIG7gK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "1998404107795636327",
+        "created_at": "2025-12-10T02:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998576502447976535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872130736872144897",
+              "start": 0,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998576502447976535",
+        "in_reply_to_user_id": "1872130736872144897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998404107795636327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhenzhen21 无敌了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998404103572213762"
+          ]
+        },
+        "author_id": "1872130736872144897",
+        "conversation_id": "1998404107795636327",
+        "created_at": "2025-12-09T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998404107795636327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj6tZcBfDw",
+              "end": 42,
+              "expanded_url": "https://x.com/yanzhenzhen21/status/1998404107795636327/photo/1",
+              "media_key": "3_1998404103572213762",
+              "start": 19,
+              "url": "https://t.co/Pj6tZcBfDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998404107795636327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24796,
+          "like_count": 179,
+          "quote_count": 5,
+          "reply_count": 48,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "解锁成就之用郊狼电我妈(„ಡωಡ„) https://t.co/Pj6tZcBfDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16021rating丨CHUNITHM嘗試中…… ❗️丨私人委託開放中～丨愛人: @TORLI114514 大好きです〜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "TORLI114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 89,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "世界好温柔我爱这个世界，世界支离破碎抱抱我     姐姐@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 849,
+          "like_count": 28006,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1179
+        },
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

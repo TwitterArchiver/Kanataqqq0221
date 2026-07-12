@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2063418688733352192",
+    "created_at": "2026-06-07T11:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063588309037953148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044343667427549184",
+          "start": 0,
+          "username": "Ronerbank"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063588309037953148",
+    "in_reply_to_user_id": "2044343667427549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063510370367791537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ronerbank 就是关注的意思）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2063418688733352192",
+        "created_at": "2026-06-07T11:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063588309037953148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044343667427549184",
+              "start": 0,
+              "username": "Ronerbank"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063588309037953148",
+        "in_reply_to_user_id": "2044343667427549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063510370367791537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ronerbank 就是关注的意思）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044343667427549184",
+        "conversation_id": "2063418688733352192",
+        "created_at": "2026-06-07T06:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063510370367791537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063510370367791537",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063418688733352192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 额⊙∀⊙！，这是何意味，fo是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 339,
+          "like_count": 2592,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T09:15:02.000Z",
+        "description": "人类开智了，不好的言论会删，类人开智了，会把以前的不爽推脱给别人。\n推特好啊，就爱来推特看擦边，看色图，跟我一起看的兄弟们真好啊，就爱跟着兄弟们看点色图，推特就是释放⭐🦆🐜的绝对天堂啊。\n来推特找找乐子，阿哈要乐子，推特乐子真多啊，人是乐子，事也是乐子，哈哈😃，就爱乐子\n性别是阿帕奇武装直升机",
+        "id": "2044343667427549184",
+        "location": "CN",
+        "name": "Ronerbank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044344988168036352/PkFZgL7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 68,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 140
+        },
+        "username": "Ronerbank",
+        "verified": false
+      }
+    ]
+  }
+}

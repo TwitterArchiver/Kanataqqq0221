@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2049447075100913827",
+    "created_at": "2026-04-30T22:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049981566789816350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "370743613",
+          "start": 0,
+          "username": "guy_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049981566789816350",
+    "in_reply_to_user_id": "370743613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049447075100913827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guy_kun 怎麼沒有椰樹牌椰汁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049447011150397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEZMr2bAAAn09n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049447010869432320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEZMqzb0AA-Snr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049447010911297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEZMq9aoAAcBHr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2049447075100913827",
+        "created_at": "2026-04-30T22:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049981566789816350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "370743613",
+              "start": 0,
+              "username": "guy_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049981566789816350",
+        "in_reply_to_user_id": "370743613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049447075100913827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guy_kun 怎麼沒有椰樹牌椰汁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049447011150397440",
+            "3_2049447010869432320",
+            "3_2049447010911297536"
+          ]
+        },
+        "author_id": "370743613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049447075100913827",
+        "created_at": "2026-04-29T11:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049447075100913827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5kPmihz6N",
+              "end": 23,
+              "expanded_url": "https://x.com/guy_kun/status/2049447075100913827/photo/1",
+              "media_key": "3_2049447011150397440",
+              "start": 0,
+              "url": "https://t.co/C5kPmihz6N"
+            },
+            {
+              "display_url": "pic.x.com/C5kPmihz6N",
+              "end": 23,
+              "expanded_url": "https://x.com/guy_kun/status/2049447075100913827/photo/1",
+              "media_key": "3_2049447010869432320",
+              "start": 0,
+              "url": "https://t.co/C5kPmihz6N"
+            },
+            {
+              "display_url": "pic.x.com/C5kPmihz6N",
+              "end": 23,
+              "expanded_url": "https://x.com/guy_kun/status/2049447075100913827/photo/1",
+              "media_key": "3_2049447010911297536",
+              "start": 0,
+              "url": "https://t.co/C5kPmihz6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049447075100913827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 42623,
+          "like_count": 589,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C5kPmihz6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16202丨DM🆗丨互fo大歡迎ww丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 256,
+          "like_count": 2138,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "location": "日本 東京",
+        "name": "Guy",
+        "pinned_tweet_id": "2008088034181595239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24881,
+          "following_count": 1148,
+          "like_count": 56334,
+          "listed_count": 47,
+          "media_count": 6250,
+          "tweet_count": 43563
+        },
+        "username": "guy_kun",
+        "verified": true
+      }
+    ]
+  }
+}

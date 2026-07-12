@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2039391261346738228",
+    "created_at": "2026-04-02T01:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039509281951875179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "983614790890242048",
+          "start": 0,
+          "username": "non_otoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039509281951875179",
+    "in_reply_to_user_id": "983614790890242048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039391261346738228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@non_otoge welcome！(#^.^#)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2039391236726153216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1fhk8bYAAg9jl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2039391261346738228",
+        "created_at": "2026-04-02T01:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039509281951875179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "983614790890242048",
+              "start": 0,
+              "username": "non_otoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039509281951875179",
+        "in_reply_to_user_id": "983614790890242048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039391261346738228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@non_otoge welcome！(#^.^#)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039391236726153216"
+          ]
+        },
+        "author_id": "983614790890242048",
+        "conversation_id": "2039391261346738228",
+        "created_at": "2026-04-01T17:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039391261346738228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mti8uH4SjR",
+              "end": 30,
+              "expanded_url": "https://x.com/non_otoge/status/2039391261346738228/photo/1",
+              "media_key": "3_2039391236726153216",
+              "start": 7,
+              "url": "https://t.co/Mti8uH4SjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039391261346738228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2968,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "重慶来た！！ https://t.co/Mti8uH4SjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨♀丨16歲の音ゲーマ、中國人です～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16171丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 だいしゅきです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 193,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-10T07:56:55.000Z",
+        "description": "maimai KoP4th準優勝 MAS全理論値(~25/7/10) #maiノーツ 開発者(技術)\nたまにプロセカ、ボルテ、弐寺\n神アイコンはいぶ(@Eve24186720)様より\nサブ@non_otoge_sub\nYouTube https://t.co/E7JEjAJIdF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "maiノーツ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Eve24186720"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "non_otoge_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@non_maimai",
+                "end": 140,
+                "expanded_url": "https://youtube.com/@non_maimai",
+                "start": 117,
+                "url": "https://t.co/E7JEjAJIdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mai-notes.com",
+                "end": 23,
+                "expanded_url": "https://mai-notes.com",
+                "start": 0,
+                "url": "https://t.co/0AygNLuoGp"
+              }
+            ]
+          }
+        },
+        "id": "983614790890242048",
+        "location": "ちいさな まほうつかい",
+        "name": "のん",
+        "pinned_tweet_id": "2030505539747385654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949852110486634496/X3X6TDNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14910,
+          "following_count": 977,
+          "like_count": 37311,
+          "listed_count": 36,
+          "media_count": 3640,
+          "tweet_count": 23774
+        },
+        "url": "https://t.co/0AygNLuoGp",
+        "username": "non_otoge",
+        "verified": false
+      }
+    ]
+  }
+}

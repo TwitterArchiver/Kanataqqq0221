@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027892796804501544"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2027892825946493042",
+    "created_at": "2026-02-28T23:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T00:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027892825946493042"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 50,
+          "tag": "originalcharacter"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1346780611260735488",
+          "start": 36,
+          "username": "mofuuneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mLFFNfv7R",
+          "end": 92,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2027892825946493042/photo/1",
+          "media_key": "3_2027892796804501544",
+          "start": 69,
+          "url": "https://t.co/9mLFFNfv7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027892825946493042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "//🧡//🤍//·*.⌯&gt;ᴗ o⌯.ʚ✞ɞ \n【稿件展示】\n畫師：@mofuuneko \n🥺\n#originalcharacter https://t.co/9mLFFNfv7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2027892796804501544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSFwSQbECgGx6e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027892796804501544"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2027892825946493042",
+        "created_at": "2026-02-28T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027892825946493042"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 50,
+              "tag": "originalcharacter"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1346780611260735488",
+              "start": 36,
+              "username": "mofuuneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mLFFNfv7R",
+              "end": 92,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2027892825946493042/photo/1",
+              "media_key": "3_2027892796804501544",
+              "start": 69,
+              "url": "https://t.co/9mLFFNfv7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027892825946493042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "//🧡//🤍//·*.⌯&gt;ᴗ o⌯.ʚ✞ɞ \n【稿件展示】\n畫師：@mofuuneko \n🥺\n#originalcharacter https://t.co/9mLFFNfv7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう～みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16128 丨DM🆗丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 132,
+          "like_count": 793,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T11:28:26.000Z",
+        "description": "♡𝕀𝕝𝕝𝕦𝕤𝕥𝕣𝕒𝕥𝕠𝕣・絵描き♡ ￤猫耳、ふわふわ女の子が好き🐱☁️ ￤オリキャラ、ごちうさ&音ゲー関連多め￤Pixiv ▷https://t.co/KF2Moh88kR￤サブ▷@nemumineko_oxo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "nemumineko_oxo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78673041",
+                "end": 86,
+                "expanded_url": "https://www.pixiv.net/users/78673041",
+                "start": 63,
+                "url": "https://t.co/KF2Moh88kR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofuuneko.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://mofuuneko.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/5fv4P24m19"
+              }
+            ]
+          }
+        },
+        "id": "1346780611260735488",
+        "location": "無断転載/自作発言/AI学習禁止",
+        "name": "🎀眠夢ちゃ🪽",
+        "pinned_tweet_id": "2024774500643119383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976013423088738304/EV4GsXLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 625,
+          "like_count": 8603,
+          "listed_count": 55,
+          "media_count": 181,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/5fv4P24m19",
+        "username": "mofuuneko",
+        "verified": true
+      }
+    ]
+  }
+}

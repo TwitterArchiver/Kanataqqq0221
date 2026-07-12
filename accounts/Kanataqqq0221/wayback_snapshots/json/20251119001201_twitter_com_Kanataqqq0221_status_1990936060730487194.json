@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989909994482110464"
+      ],
+      "media_source_tweet_id": [
+        "1989910000438055102"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1990936060730487194",
+    "created_at": "2025-11-19T00:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990936060730487194"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "アモちゃん",
+          "probability": 0.8717,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 24,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708764908370976769",
+          "start": 3,
+          "username": "mrn4453"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wl5lw2fwUj",
+          "end": 59,
+          "expanded_url": "https://x.com/mrn4453/status/1989910000438055102/photo/1",
+          "media_key": "3_1989909994482110464",
+          "start": 36,
+          "url": "https://t.co/Wl5lw2fwUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990936060730487194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989910000438055102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrn4453: アモちゃん可愛すぎね\n#maimai_art https://t.co/Wl5lw2fwUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989909994482110464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52UmNQbEAAw2nz.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989909994482110464"
+          ],
+          "media_source_tweet_id": [
+            "1989910000438055102"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1990936060730487194",
+        "created_at": "2025-11-19T00:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990936060730487194"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "アモちゃん",
+              "probability": 0.8717,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 24,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708764908370976769",
+              "start": 3,
+              "username": "mrn4453"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl5lw2fwUj",
+              "end": 59,
+              "expanded_url": "https://x.com/mrn4453/status/1989910000438055102/photo/1",
+              "media_key": "3_1989909994482110464",
+              "start": 36,
+              "url": "https://t.co/Wl5lw2fwUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990936060730487194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989910000438055102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrn4453: アモちゃん可愛すぎね\n#maimai_art https://t.co/Wl5lw2fwUj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989909994482110464"
+          ]
+        },
+        "author_id": "1708764908370976769",
+        "conversation_id": "1989910000438055102",
+        "created_at": "2025-11-16T04:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989910000438055102"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "アモちゃん",
+              "probability": 0.8679,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 11,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl5lw2fwUj",
+              "end": 46,
+              "expanded_url": "https://x.com/mrn4453/status/1989910000438055102/photo/1",
+              "media_key": "3_1989909994482110464",
+              "start": 23,
+              "url": "https://t.co/Wl5lw2fwUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989910000438055102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 11271,
+          "like_count": 585,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "アモちゃん可愛すぎね\n#maimai_art https://t.co/Wl5lw2fwUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨🇨🇳-廣東深圳丨音ゲー愛好者www 丨maimaiでらつくす16010rating丨CHUNITHM嘗試中…… ❗️丨裏x @hametsutsu0221丨私人委託開放中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "hametsutsu0221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "1981615189167616428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 80,
+          "like_count": 337,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T08:44:50.000Z",
+        "description": "お絵描きと3機種sdvx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mrn4453",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mrn4453",
+                "start": 0,
+                "url": "https://t.co/0KzGKmiiHj"
+              }
+            ]
+          }
+        },
+        "id": "1708764908370976769",
+        "name": "はまやらわ",
+        "pinned_tweet_id": "1978221778507034865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952501105755058177/0wAFrM6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 120,
+          "like_count": 11580,
+          "listed_count": 16,
+          "media_count": 391,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/0KzGKmiiHj",
+        "username": "mrn4453",
+        "verified": false
+      }
+    ]
+  }
+}

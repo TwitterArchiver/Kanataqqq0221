@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030801211579154432"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2030801220475195749",
+    "created_at": "2026-03-09T00:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T01:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030801220475195749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ipmbj6YR7c",
+          "end": 166,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2030801220475195749/photo/1",
+          "media_key": "3_2030801211579154432",
+          "start": 143,
+          "url": "https://t.co/Ipmbj6YR7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030801220475195749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我偶尔打扮一下让你看一下我高帧率的时候你知道我好看的时候是什么样子就就可以了你让我一直运行这个模式很累的多吃显卡呀咱这个是旮旯给木恋爱来的特殊CG的时候能看的过眼就可以啦又不是FPS射击游戏你想颗秒我平常低帧率跑跑流畅度可以就好了啊哎呀脸上有那马赛克什么有多边形这都是小事你别要求太多 https://t.co/Ipmbj6YR7c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2030801211579154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7a8TmbwAAD4EV.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030801211579154432"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2030801220475195749",
+        "created_at": "2026-03-09T00:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030801220475195749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ipmbj6YR7c",
+              "end": 166,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2030801220475195749/photo/1",
+              "media_key": "3_2030801211579154432",
+              "start": 143,
+              "url": "https://t.co/Ipmbj6YR7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030801220475195749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我偶尔打扮一下让你看一下我高帧率的时候你知道我好看的时候是什么样子就就可以了你让我一直运行这个模式很累的多吃显卡呀咱这个是旮旯给木恋爱来的特殊CG的时候能看的过眼就可以啦又不是FPS射击游戏你想颗秒我平常低帧率跑跑流畅度可以就好了啊哎呀脸上有那马赛克什么有多边形这都是小事你别要求太多 https://t.co/Ipmbj6YR7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらつくす16158丨DM🆗丨互fo大歡迎ww丨 @TORLI114514 大好きです〜丨逃生艙@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2029721775060439205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027893096135184384/qVxIiyua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 155,
+          "like_count": 915,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

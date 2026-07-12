@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971913544636813312"
+      ],
+      "media_source_tweet_id": [
+        "1971995753619849335"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "1972564200188006705",
+    "created_at": "2025-09-29T07:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T08:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972564200188006705"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "オンゲキワンドロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "50131812",
+          "start": 3,
+          "username": "dqpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qa4pkqVc4C",
+          "end": 51,
+          "expanded_url": "https://x.com/dqpo/status/1971995753619849335/photo/1",
+          "media_key": "3_1971913544636813312",
+          "start": 28,
+          "url": "https://t.co/qa4pkqVc4C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972564200188006705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971995753619849335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dqpo: +20mちなつ\n#オンゲキワンドロ https://t.co/qa4pkqVc4C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2458,
+        "media_key": "3_1971913544636813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12k69Pb0AAtnvz.jpg",
+        "width": 1881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971913544636813312"
+          ],
+          "media_source_tweet_id": [
+            "1971995753619849335"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "1972564200188006705",
+        "created_at": "2025-09-29T07:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972564200188006705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "オンゲキワンドロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "50131812",
+              "start": 3,
+              "username": "dqpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qa4pkqVc4C",
+              "end": 51,
+              "expanded_url": "https://x.com/dqpo/status/1971995753619849335/photo/1",
+              "media_key": "3_1971913544636813312",
+              "start": 28,
+              "url": "https://t.co/qa4pkqVc4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972564200188006705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971995753619849335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dqpo: +20mちなつ\n#オンゲキワンドロ https://t.co/qa4pkqVc4C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971913544636813312"
+          ]
+        },
+        "author_id": "50131812",
+        "conversation_id": "1971995753619849335",
+        "created_at": "2025-09-27T17:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971995753619849335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "オンゲキワンドロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qa4pkqVc4C",
+              "end": 41,
+              "expanded_url": "https://x.com/dqpo/status/1971995753619849335/photo/1",
+              "media_key": "3_1971913544636813312",
+              "start": 18,
+              "url": "https://t.co/qa4pkqVc4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971995753619849335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 5598,
+          "like_count": 333,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "+20mちなつ\n#オンゲキワンドロ https://t.co/qa4pkqVc4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "丨🇨🇳丨音ゲー愛好者www 丨maimaiでらつくす16002rating丨CHUNITHM嘗試中…… ❗️於是幻想成為制霸全音ゲー的神秘女子———Kanataqかなたく，參上！",
+        "id": "1971027114582474752",
+        "name": "破滅かなたく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971027247466491904/xYqKzjYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-23T22:59:21.000Z",
+        "description": "5,7,10,14鍵/ｹﾞｷﾁｭｳ/写真/ﾌﾟﾘｺﾈ/ﾌﾞﾙｱｶ/俺ﾀﾜｰ/ﾌｫﾄｶﾉ-LoveR/柴犬/猫/絵/おいしいもの/7144/🔞 お題箱:https://t.co/thottyK1Q5 skeb:https://t.co/X8PSWPiSVi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/dqpo",
+                "end": 98,
+                "expanded_url": "http://odaibako.net/u/dqpo",
+                "start": 75,
+                "url": "https://t.co/thottyK1Q5"
+              },
+              {
+                "display_url": "skeb.jp/@dqpo",
+                "end": 127,
+                "expanded_url": "https://skeb.jp/@dqpo",
+                "start": 104,
+                "url": "https://t.co/X8PSWPiSVi"
+              }
+            ]
+          }
+        },
+        "id": "50131812",
+        "location": "新潟市",
+        "name": "おぶ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612166813252718592/8UZMdbdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 634,
+          "like_count": 40682,
+          "listed_count": 31,
+          "media_count": 7693,
+          "tweet_count": 82844
+        },
+        "username": "dqpo",
+        "verified": false
+      }
+    ]
+  }
+}

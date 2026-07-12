@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2021750562090627239",
+    "created_at": "2026-02-12T11:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021911182958019059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880644154092670977",
+          "start": 0,
+          "username": "Liuru_Kurerusu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021911182958019059",
+    "in_reply_to_user_id": "1880644154092670977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021750562090627239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liuru_Kurerusu ええ!？Lobotomy Cooperation!!!？？？maimai！！!(｀・ω・´)本当にすごいね！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1909,
+        "media_key": "3_2021750289066602496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6zLRxbsAAsoNX.jpg",
+        "width": 2532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2021750562090627239",
+        "created_at": "2026-02-12T11:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021911182958019059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880644154092670977",
+              "start": 0,
+              "username": "Liuru_Kurerusu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021911182958019059",
+        "in_reply_to_user_id": "1880644154092670977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021750562090627239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liuru_Kurerusu ええ!？Lobotomy Cooperation!!!？？？maimai！！!(｀・ω・´)本当にすごいね！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021750289066602496"
+          ]
+        },
+        "author_id": "1880644154092670977",
+        "conversation_id": "2021750562090627239",
+        "created_at": "2026-02-12T00:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021750562090627239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlW6cf2xy9",
+              "end": 51,
+              "expanded_url": "https://x.com/Liuru_Kurerusu/status/2021750562090627239/photo/1",
+              "media_key": "3_2021750289066602496",
+              "start": 28,
+              "url": "https://t.co/vlW6cf2xy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021750562090627239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2356,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art \n「愛と正義の名のもとに！！」 https://t.co/vlW6cf2xy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Yuen Long, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.05,
+                  22.41667
+                ],
+                "type": "Point"
+              },
+              "region": "Yuen Long"
+            }
+          ]
+        },
+        "description": "=破滅/終焉之梦丨16歲の音ゲーマ～音ゲー関連のイラストを描いてるよ^^ もう〜何でも描いてみるよ！みんなに気に入ってもらえるといいな！丨中文&日本語OK 英語苦手丨maimaiでらつくす16097丨精神不安定QvQ互fo大歡迎ww丨 @TORLI114514 大好きです〜丨轉生@Kanataqqq9178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "破滅かなたく(はーめつ)",
+        "pinned_tweet_id": "2021830168860586310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011326629763821568/Y7oOHTW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 122,
+          "like_count": 575,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T15:51:29.000Z",
+        "description": "イラスト絶賛練習中で音ゲーとまのさばの絵が多めです\n可愛い女の子中心に描きますがたまに男性とかも画きます\nhttps://t.co/8wXKz5qlJw←pixiv\nhttps://t.co/c5YF0tI5cY←Bluesky",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/114860756",
+                "end": 76,
+                "expanded_url": "https://www.pixiv.net/users/114860756",
+                "start": 53,
+                "url": "https://t.co/8wXKz5qlJw"
+              },
+              {
+                "display_url": "bsky.app/profile/known2…",
+                "end": 106,
+                "expanded_url": "https://bsky.app/profile/known27.bsky.social",
+                "start": 83,
+                "url": "https://t.co/c5YF0tI5cY"
+              }
+            ]
+          }
+        },
+        "id": "1880644154092670977",
+        "location": "無断転載・使用禁止   /   AI学習NG",
+        "name": "ノウン",
+        "pinned_tweet_id": "2016472336573362366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016473448038440962/qJMOTrHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 153,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 823
+        },
+        "username": "Liuru_Kurerusu",
+        "verified": false
+      }
+    ]
+  }
+}
