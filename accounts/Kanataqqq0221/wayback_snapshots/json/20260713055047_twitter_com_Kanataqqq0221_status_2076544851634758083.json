@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076349730540720128",
+        "3_2076349730540621824",
+        "3_2076349730473545728",
+        "3_2076349730582630400"
+      ],
+      "media_source_tweet_id": [
+        "2076349738325328317",
+        "2076349738325328317",
+        "2076349738325328317",
+        "2076349738325328317"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076544851634758083",
+    "created_at": "2026-07-13T05:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076544851634758083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474198081864626179",
+          "start": 3,
+          "username": "CTS_TOAST"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nauSsmj8IL",
+          "end": 82,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+          "media_key": "3_2076349730540720128",
+          "start": 59,
+          "url": "https://t.co/nauSsmj8IL"
+        },
+        {
+          "display_url": "pic.x.com/nauSsmj8IL",
+          "end": 82,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+          "media_key": "3_2076349730540621824",
+          "start": 59,
+          "url": "https://t.co/nauSsmj8IL"
+        },
+        {
+          "display_url": "pic.x.com/nauSsmj8IL",
+          "end": 82,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+          "media_key": "3_2076349730473545728",
+          "start": 59,
+          "url": "https://t.co/nauSsmj8IL"
+        },
+        {
+          "display_url": "pic.x.com/nauSsmj8IL",
+          "end": 82,
+          "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+          "media_key": "3_2076349730582630400",
+          "start": 59,
+          "url": "https://t.co/nauSsmj8IL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076544851634758083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076349738325328317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CTS_TOAST: 一版本P38首不同的14+ 很有意思\n期望下版本可以双彩舞神其中一個確定或是都確定😎😎 https://t.co/nauSsmj8IL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2076349730540720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCtFDZbkAASt0R.jpg",
+        "width": 1085
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2076349730540621824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCtFDZaEAApVkR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 462,
+        "media_key": "3_2076349730473545728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCtFDJakAAtJES.jpg",
+        "width": 332
+      },
+      {
+        "height": 1057,
+        "media_key": "3_2076349730582630400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCtFDjbEAAsn64.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076349730540720128",
+            "3_2076349730540621824",
+            "3_2076349730473545728",
+            "3_2076349730582630400"
+          ],
+          "media_source_tweet_id": [
+            "2076349738325328317",
+            "2076349738325328317",
+            "2076349738325328317",
+            "2076349738325328317"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076544851634758083",
+        "created_at": "2026-07-13T05:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076544851634758083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474198081864626179",
+              "start": 3,
+              "username": "CTS_TOAST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 82,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730540720128",
+              "start": 59,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 82,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730540621824",
+              "start": 59,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 82,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730473545728",
+              "start": 59,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 82,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730582630400",
+              "start": 59,
+              "url": "https://t.co/nauSsmj8IL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076544851634758083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076349738325328317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CTS_TOAST: 一版本P38首不同的14+ 很有意思\n期望下版本可以双彩舞神其中一個確定或是都確定😎😎 https://t.co/nauSsmj8IL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076349730540720128",
+            "3_2076349730540621824",
+            "3_2076349730473545728",
+            "3_2076349730582630400"
+          ]
+        },
+        "author_id": "1474198081864626179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076349738325328317",
+        "created_at": "2026-07-12T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076349738325328317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 67,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730540720128",
+              "start": 44,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 67,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730540621824",
+              "start": 44,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 67,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730473545728",
+              "start": 44,
+              "url": "https://t.co/nauSsmj8IL"
+            },
+            {
+              "display_url": "pic.x.com/nauSsmj8IL",
+              "end": 67,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076349738325328317/photo/1",
+              "media_key": "3_2076349730582630400",
+              "start": 44,
+              "url": "https://t.co/nauSsmj8IL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076349738325328317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一版本P38首不同的14+ 很有意思\n期望下版本可以双彩舞神其中一個確定或是都確定😎😎 https://t.co/nauSsmj8IL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 376,
+          "like_count": 2938,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T01:59:58.000Z",
+        "description": "台湾🇹🇼音ゲー玩家/20y/太鼓 23,24,25赤十 26金十/maimai Lv.13～14全AP 22神10舞舞 舞神 残り2/Chunithm AVG16.87/オンゲキ R17/WACCA XIII/移動端:Arknights,雀魂,Pikmin/努力健身中/一個全工半讀沒什麼時間的人/其他想到再+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@toast-720?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@toast-720?si=sFZV1q_8mYllheBM",
+                "start": 0,
+                "url": "https://t.co/FO76BUjkIQ"
+              }
+            ]
+          }
+        },
+        "id": "1474198081864626179",
+        "location": "New Taipei City, Taiwan",
+        "name": "吐司🍞(9/3～9/13大阪🇯🇵)",
+        "pinned_tweet_id": "2058259833238032528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151569203036161/FkI635QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 933,
+          "like_count": 12545,
+          "listed_count": 3,
+          "media_count": 1426,
+          "tweet_count": 3516
+        },
+        "url": "https://t.co/FO76BUjkIQ",
+        "username": "CTS_TOAST",
+        "verified": false
+      }
+    ]
+  }
+}

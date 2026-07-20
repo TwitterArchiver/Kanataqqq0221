@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073866727587450880"
+      ],
+      "media_source_tweet_id": [
+        "2073866768511287447"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076398444198154491",
+    "created_at": "2026-07-12T20:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076398444198154491"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811272011404255232",
+          "start": 3,
+          "username": "NIKice99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tb1UqogdR5",
+          "end": 49,
+          "expanded_url": "https://x.com/NIKice99/status/2073866768511287447/photo/1",
+          "media_key": "3_2073866727587450880",
+          "start": 26,
+          "url": "https://t.co/Tb1UqogdR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076398444198154491",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073866768511287447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIKice99: #maimai_art https://t.co/Tb1UqogdR5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073866727587450880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfazQlaEAAtaXJ.jpg",
+        "width": 3186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073866727587450880"
+          ],
+          "media_source_tweet_id": [
+            "2073866768511287447"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076398444198154491",
+        "created_at": "2026-07-12T20:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076398444198154491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811272011404255232",
+              "start": 3,
+              "username": "NIKice99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb1UqogdR5",
+              "end": 49,
+              "expanded_url": "https://x.com/NIKice99/status/2073866768511287447/photo/1",
+              "media_key": "3_2073866727587450880",
+              "start": 26,
+              "url": "https://t.co/Tb1UqogdR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076398444198154491",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073866768511287447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NIKice99: #maimai_art https://t.co/Tb1UqogdR5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073866727587450880"
+          ]
+        },
+        "author_id": "1811272011404255232",
+        "conversation_id": "2073866768511287447",
+        "created_at": "2026-07-05T20:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073866768511287447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb1UqogdR5",
+              "end": 35,
+              "expanded_url": "https://x.com/NIKice99/status/2073866768511287447/photo/1",
+              "media_key": "3_2073866727587450880",
+              "start": 12,
+              "url": "https://t.co/Tb1UqogdR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073866768511287447",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1789,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/Tb1UqogdR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 376,
+          "like_count": 2933,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:31:22.000Z",
+        "description": "｜Illustrator｜AI🚫｜中/EN｜",
+        "id": "1811272011404255232",
+        "location": "China",
+        "name": "NIKice99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853841908411531264/VEOAAwZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 846,
+          "like_count": 4078,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "NIKice99",
+        "verified": false
+      }
+    ]
+  }
+}

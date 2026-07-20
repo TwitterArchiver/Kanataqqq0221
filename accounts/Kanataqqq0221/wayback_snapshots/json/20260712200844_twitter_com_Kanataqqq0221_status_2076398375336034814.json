@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076382655797678430",
+    "created_at": "2026-07-12T20:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076398375336034814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811272011404255232",
+          "start": 0,
+          "username": "NIKice99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076398375336034814",
+    "in_reply_to_user_id": "1811272011404255232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076382655797678430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NIKice99 我喜欢这个😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2909,
+        "media_key": "3_2076382610977329152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDK-8kaEAAyP5q.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076382655797678430",
+        "created_at": "2026-07-12T20:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076398375336034814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811272011404255232",
+              "start": 0,
+              "username": "NIKice99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076398375336034814",
+        "in_reply_to_user_id": "1811272011404255232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076382655797678430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIKice99 我喜欢这个😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076382610977329152"
+          ]
+        },
+        "author_id": "1811272011404255232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076382655797678430",
+        "created_at": "2026-07-12T19:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076382655797678430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5cdfY5ZiY",
+              "end": 39,
+              "expanded_url": "https://x.com/NIKice99/status/2076382655797678430/photo/1",
+              "media_key": "3_2076382610977329152",
+              "start": 16,
+              "url": "https://t.co/C5cdfY5ZiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076382655797678430",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art\nRas https://t.co/C5cdfY5ZiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 376,
+          "like_count": 2932,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:31:22.000Z",
+        "description": "｜Illustrator｜AI🚫｜中/EN｜",
+        "id": "1811272011404255232",
+        "location": "China",
+        "name": "NIKice99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853841908411531264/VEOAAwZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 846,
+          "like_count": 4078,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "NIKice99",
+        "verified": false
+      }
+    ]
+  }
+}

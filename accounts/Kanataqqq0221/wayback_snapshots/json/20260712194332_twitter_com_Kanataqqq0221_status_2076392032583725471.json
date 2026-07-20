@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076368151386972220",
+    "created_at": "2026-07-12T19:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076392032583725471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076282671811170304",
+          "start": 0,
+          "username": "maolaoban2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076392032583725471",
+    "in_reply_to_user_id": "2076282671811170304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076368151386972220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maolaoban2003 知道了少爷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4433,
+        "height": 720,
+        "media_key": "13_2076368094973562880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076368094973562880/img/cxBk3S7DaCOoUzKc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076368094973562880/vid/avc1/480x270/WQ501A2AzKWl0Hs2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076368094973562880/vid/avc1/640x360/nx9_H34olkFQJs_n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076368094973562880/vid/avc1/1280x720/yrzqgEODAx8_jwG_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076368094973562880/pl/KVIwLOBtsN9mPZQw.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076368094919086080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC9yACbUAA3Zvm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076368151386972220",
+        "created_at": "2026-07-12T19:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076392032583725471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076282671811170304",
+              "start": 0,
+              "username": "maolaoban2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076392032583725471",
+        "in_reply_to_user_id": "2076282671811170304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076368151386972220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maolaoban2003 知道了少爷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076368094973562880",
+            "3_2076368094919086080"
+          ]
+        },
+        "author_id": "2076282671811170304",
+        "conversation_id": "2076368151386972220",
+        "created_at": "2026-07-12T18:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076368151386972220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNwQu4AW0q",
+              "end": 32,
+              "expanded_url": "https://x.com/maolaoban2003/status/2076368151386972220/video/1",
+              "media_key": "13_2076368094973562880",
+              "start": 9,
+              "url": "https://t.co/GNwQu4AW0q"
+            },
+            {
+              "display_url": "pic.x.com/GNwQu4AW0q",
+              "end": 32,
+              "expanded_url": "https://x.com/maolaoban2003/status/2076368151386972220/video/1",
+              "media_key": "3_2076368094919086080",
+              "start": 9,
+              "url": "https://t.co/GNwQu4AW0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076368151386972220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我马上染这个发型 https://t.co/GNwQu4AW0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 375,
+          "like_count": 2931,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:29:40.000Z",
+        "description": "",
+        "id": "2076282671811170304",
+        "name": "猫老板",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076355026298269696/rmUFzXF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "maolaoban2003",
+        "verified": false
+      }
+    ]
+  }
+}

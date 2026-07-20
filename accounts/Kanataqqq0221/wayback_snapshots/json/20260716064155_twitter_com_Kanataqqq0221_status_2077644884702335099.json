@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2077411480568582276",
+    "created_at": "2026-07-16T06:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077644884702335099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1721384096058990592",
+          "start": 0,
+          "username": "Hm6xdwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077644884702335099",
+    "in_reply_to_user_id": "1721384096058990592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077412585968959841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hm6xdwd 妈妈😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2077411480568582276",
+        "created_at": "2026-07-16T06:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077644884702335099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1721384096058990592",
+              "start": 0,
+              "username": "Hm6xdwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077644884702335099",
+        "in_reply_to_user_id": "1721384096058990592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412585968959841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hm6xdwd 妈妈😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721384096058990592",
+        "conversation_id": "2077411480568582276",
+        "created_at": "2026-07-15T15:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077412585968959841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077412585968959841",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077411480568582276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 妈妈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 381,
+          "like_count": 2986,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:28:55.000Z",
+        "description": "=氢/H+/水素 /07 /普通の音ゲーマです/maimai14500/プロセカ /ガルパ/chunithm15⬆️/ボカロ/イラスト描いて/中国語&英语ok/日本語を勉強しています/無言フォロー失礼します",
+        "id": "1721384096058990592",
+        "name": "写作H+读作氢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020504499790708736/sUxeld8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 56,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "Hm6xdwd",
+        "verified": false
+      }
+    ]
+  }
+}

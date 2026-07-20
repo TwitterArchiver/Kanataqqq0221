@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076927354325422306",
+    "created_at": "2026-07-14T23:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077167033121403042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076282671811170304",
+          "start": 0,
+          "username": "maolaoban2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077167033121403042",
+    "in_reply_to_user_id": "2076282671811170304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076927354325422306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@maolaoban2003 进军成都了这是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076927342702927873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNK6agYaoAEF151.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076927354325422306",
+        "created_at": "2026-07-14T23:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077167033121403042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076282671811170304",
+              "start": 0,
+              "username": "maolaoban2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077167033121403042",
+        "in_reply_to_user_id": "2076282671811170304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076927354325422306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@maolaoban2003 进军成都了这是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076927342702927873"
+          ]
+        },
+        "author_id": "2076282671811170304",
+        "conversation_id": "2076927354325422306",
+        "created_at": "2026-07-14T07:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076927354325422306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQmlm3krRO",
+              "end": 28,
+              "expanded_url": "https://x.com/maolaoban2003/status/2076927354325422306/photo/1",
+              "media_key": "3_2076927342702927873",
+              "start": 5,
+              "url": "https://t.co/IQmlm3krRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076927354325422306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "ootd https://t.co/IQmlm3krRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 377,
+          "like_count": 2960,
+          "listed_count": 5,
+          "media_count": 393,
+          "tweet_count": 2173
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:29:40.000Z",
+        "description": "03年 全脸整容花费十余万 喜欢男的 小企业主 无聊",
+        "id": "2076282671811170304",
+        "name": "成都猫老板",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076928239361310720/VkxO4Ket_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "maolaoban2003",
+        "verified": false
+      }
+    ]
+  }
+}

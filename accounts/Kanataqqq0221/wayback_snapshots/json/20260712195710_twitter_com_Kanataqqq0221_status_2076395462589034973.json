@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076279426309112203",
+    "created_at": "2026-07-12T19:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076395462589034973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049406075376660480",
+          "start": 0,
+          "username": "Wxmk4xRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076395462589034973",
+    "in_reply_to_user_id": "2049406075376660480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076321103472124029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wxmk4xRS 拍的这张没垫，但是我在考虑要不要垫不然衣服撑不起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076279426309112203",
+        "created_at": "2026-07-12T19:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076395462589034973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049406075376660480",
+              "start": 0,
+              "username": "Wxmk4xRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076395462589034973",
+        "in_reply_to_user_id": "2049406075376660480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076321103472124029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wxmk4xRS 拍的这张没垫，但是我在考虑要不要垫不然衣服撑不起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049406075376660480",
+        "conversation_id": "2076279426309112203",
+        "created_at": "2026-07-12T15:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076321103472124029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076321103472124029",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076279426309112203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 竟敢用假雷这么下作的手段"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 375,
+          "like_count": 2931,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T08:31:10.000Z",
+        "description": "女 | she/her | a.k.a. WxmkaxRS | TsiAxZi \n中文&英語ok | 友跨 | 背景＝KZ秋 | 头像＝KATO | 2008.07.08\n音ゲー | maimai 曉舞舞 確認 | CHUNI lmn.ver 16.47\n中国人 | 彼氏@CH3COOOH_ | Iron Maiden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "CH3COOOH_"
+              }
+            ]
+          }
+        },
+        "id": "2049406075376660480",
+        "location": "ちょっと……やめてくださる？",
+        "name": "SSanceD",
+        "pinned_tweet_id": "2074526453908287576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073188242279759872/cA3NsuWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 102,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Wxmk4xRS",
+        "verified": true
+      }
+    ]
+  }
+}

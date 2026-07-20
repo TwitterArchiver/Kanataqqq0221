@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075875148360749056"
+      ],
+      "media_source_tweet_id": [
+        "2075875217172545971"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2076545566247641288",
+    "created_at": "2026-07-13T05:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076545566247641288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 68,
+          "tag": "祝maimai14周年"
+        },
+        {
+          "end": 92,
+          "start": 81,
+          "tag": "maimai_art"
+        },
+        {
+          "end": 100,
+          "start": 93,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761297029677101057",
+          "start": 3,
+          "username": "kokone2722"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tS7Sub3I4f",
+          "end": 124,
+          "expanded_url": "https://x.com/kokone2722/status/2075875217172545971/video/1",
+          "media_key": "13_2075875148360749056",
+          "start": 101,
+          "url": "https://t.co/tS7Sub3I4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076545566247641288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075875217172545971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokone2722: 【maimai】プロトディスコ\n14周年おめでとうございます🎉🎉🎉🎉🎉🎉🎉🎉\n最高の音ゲーをありがとう\n#祝maimai14周年 #maimai_art #maimai https://t.co/tS7Sub3I4f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15333,
+        "height": 720,
+        "media_key": "13_2075875148360749056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075875148360749056/img/ZPBLSTfvM6ZGcFcj.jpg",
+        "public_metrics": {
+          "view_count": 9330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075875148360749056/vid/avc1/360x270/5fX9i2bDkage8j1F.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075875148360749056/vid/avc1/480x360/BmDPheSEAWXGJ5Kk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075875148360749056/vid/avc1/960x720/3oKQo-wwTWc6_xB3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075875148360749056/pl/QWV4S3vX3x3jL00v.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075875148360749056"
+          ],
+          "media_source_tweet_id": [
+            "2075875217172545971"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2076545566247641288",
+        "created_at": "2026-07-13T05:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076545566247641288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "祝maimai14周年"
+            },
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "maimai_art"
+            },
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761297029677101057",
+              "start": 3,
+              "username": "kokone2722"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS7Sub3I4f",
+              "end": 124,
+              "expanded_url": "https://x.com/kokone2722/status/2075875217172545971/video/1",
+              "media_key": "13_2075875148360749056",
+              "start": 101,
+              "url": "https://t.co/tS7Sub3I4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076545566247641288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075875217172545971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokone2722: 【maimai】プロトディスコ\n14周年おめでとうございます🎉🎉🎉🎉🎉🎉🎉🎉\n最高の音ゲーをありがとう\n#祝maimai14周年 #maimai_art #maimai https://t.co/tS7Sub3I4f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075875148360749056"
+          ]
+        },
+        "author_id": "1761297029677101057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2075875217172545971",
+        "created_at": "2026-07-11T09:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075875217172545971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "祝maimai14周年"
+            },
+            {
+              "end": 76,
+              "start": 65,
+              "tag": "maimai_art"
+            },
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS7Sub3I4f",
+              "end": 108,
+              "expanded_url": "https://x.com/kokone2722/status/2075875217172545971/video/1",
+              "media_key": "13_2075875148360749056",
+              "start": 85,
+              "url": "https://t.co/tS7Sub3I4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075875217172545971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 33718,
+          "like_count": 1340,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "【maimai】プロトディスコ\n14周年おめでとうございます🎉🎉🎉🎉🎉🎉🎉🎉\n最高の音ゲーをありがとう\n#祝maimai14周年 #maimai_art #maimai https://t.co/tS7Sub3I4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 376,
+          "like_count": 2942,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T07:48:54.000Z",
+        "description": "イラストを描いてます•*¨*•.¸¸✍ Phigros、maimai | 音ゲ垢:@kokonen0818 | 𝕊𝕜𝕖𝕓(二次創作×): https://t.co/YYJPHjDeaz | 変なやつ:@QZwarabi | オリキャラ:#ここねんあーと | Joker推し🃏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "ここねんあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "kokonen0818"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "QZwarabi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kokone2722",
+                "end": 92,
+                "expanded_url": "https://skeb.jp/@kokone2722",
+                "start": 69,
+                "url": "https://t.co/YYJPHjDeaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kokone2722",
+                "end": 23,
+                "expanded_url": "https://lit.link/kokone2722",
+                "start": 0,
+                "url": "https://t.co/Vy2QF3uzGx"
+              }
+            ]
+          }
+        },
+        "id": "1761297029677101057",
+        "location": "大阪",
+        "name": "kokone✧*｡.*･ﾟskeb募集中",
+        "pinned_tweet_id": "2009929349592694836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333377370128384/ANFcV5zH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 1155,
+          "like_count": 12716,
+          "listed_count": 6,
+          "media_count": 843,
+          "tweet_count": 8901
+        },
+        "url": "https://t.co/Vy2QF3uzGx",
+        "username": "kokone2722",
+        "verified": false
+      }
+    ]
+  }
+}

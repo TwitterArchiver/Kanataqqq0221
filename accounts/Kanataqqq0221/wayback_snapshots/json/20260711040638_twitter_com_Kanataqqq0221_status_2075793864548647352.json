@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2075666251712709015",
+    "created_at": "2026-07-11T04:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075793864548647352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1970515302837551104",
+          "start": 0,
+          "username": "eo67390"
+        },
+        {
+          "end": 22,
+          "id": "3176137200",
+          "start": 9,
+          "username": "whitekaraage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075793864548647352",
+    "in_reply_to_user_id": "1970515302837551104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075784161240260616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eo67390 @whitekaraage うあー😭あなたのフォローは本当にありがとうー😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2075666251712709015",
+        "created_at": "2026-07-11T04:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075793864548647352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1970515302837551104",
+              "start": 0,
+              "username": "eo67390"
+            },
+            {
+              "end": 22,
+              "id": "3176137200",
+              "start": 9,
+              "username": "whitekaraage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075793864548647352",
+        "in_reply_to_user_id": "1970515302837551104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075784161240260616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eo67390 @whitekaraage うあー😭あなたのフォローは本当にありがとうー😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515302837551104",
+        "conversation_id": "2075666251712709015",
+        "created_at": "2026-07-11T03:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075784161240260616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            },
+            {
+              "end": 28,
+              "id": "3176137200",
+              "start": 15,
+              "username": "whitekaraage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075784161240260616",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075666251712709015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 @whitekaraage しゃまはどれだけ盛っても良い…\nフォローしました！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 374,
+          "like_count": 2948,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:47:51.000Z",
+        "description": "音ゲーしてます！！\nそろそろいい加減カレスコ赤SSS取りたい\n兄→　@maso_ongeki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "maso_ongeki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCijyU…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCijyUzH6_WDxlkDO2VI5wHA?si=eN1pEbviahf9ed10",
+                "start": 0,
+                "url": "https://t.co/IOrkO4PLSl"
+              }
+            ]
+          }
+        },
+        "id": "1970515302837551104",
+        "location": "アミパラ佐世保店",
+        "name": "のすけ！！！！！！！",
+        "pinned_tweet_id": "2075539117191098678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067377462636666880/79Cw_c8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 237,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/IOrkO4PLSl",
+        "username": "eo67390",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-26T11:16:03.000Z",
+        "description": "CN:46K4R4.第5回天下一音ゲ祭maimai部門全国Finalistベスト4.maimaiメイン,CHUNITHM,オンゲキ,SDVX,Arcaea,プロセカ.YoutubeとTikTokに動画上げてます見てね〜〜〜😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChQ4O…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChQ4OW1BJ2M7PgRtHEvPjhg",
+                "start": 0,
+                "url": "https://t.co/pM69JFe7Fs"
+              }
+            ]
+          }
+        },
+        "id": "3176137200",
+        "location": "長崎↔︎福岡　GiGOサンスパ大村",
+        "name": "ほわいとからあげ-46K4R4",
+        "pinned_tweet_id": "1917797402272227658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609239208841076736/oTA1vg_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8785,
+          "following_count": 8892,
+          "like_count": 48032,
+          "listed_count": 49,
+          "media_count": 15921,
+          "tweet_count": 66941
+        },
+        "url": "https://t.co/pM69JFe7Fs",
+        "username": "whitekaraage",
+        "verified": false
+      }
+    ]
+  }
+}

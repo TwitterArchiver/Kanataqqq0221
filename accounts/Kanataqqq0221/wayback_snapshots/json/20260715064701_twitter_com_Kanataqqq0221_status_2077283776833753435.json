@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2077283776833753435",
+    "created_at": "2026-07-15T06:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077283776833753435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/squeal_li/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/squeal_li/status/2077283034496393382",
+          "start": 3,
+          "url": "https://t.co/Ce9Q1j3n0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077283776833753435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077283034496393382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以 https://t.co/Ce9Q1j3n0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077282764353867776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP9qxNakAAVMmg.jpg",
+        "width": 2835
+      },
+      {
+        "height": 2058,
+        "media_key": "3_2077282764299354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP9qxAawAABFu_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2077283776833753435",
+        "created_at": "2026-07-15T06:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077283776833753435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/squeal_li/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/squeal_li/status/2077283034496393382",
+              "start": 3,
+              "url": "https://t.co/Ce9Q1j3n0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077283776833753435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077283034496393382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以 https://t.co/Ce9Q1j3n0X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077282764353867776",
+            "3_2077282764299354112"
+          ]
+        },
+        "author_id": "2012971527164370944",
+        "conversation_id": "2077283034496393382",
+        "created_at": "2026-07-15T06:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077283034496393382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B96hJFp7q7",
+              "end": 44,
+              "expanded_url": "https://x.com/Squeal_Li/status/2077283034496393382/photo/1",
+              "media_key": "3_2077282764353867776",
+              "start": 21,
+              "url": "https://t.co/B96hJFp7q7"
+            },
+            {
+              "display_url": "pic.x.com/B96hJFp7q7",
+              "end": 44,
+              "expanded_url": "https://x.com/Squeal_Li/status/2077283034496393382/photo/1",
+              "media_key": "3_2077282764299354112",
+              "start": 21,
+              "url": "https://t.co/B96hJFp7q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077283034496393382",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Brunch with  Kanataq https://t.co/B96hJFp7q7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 381,
+          "like_count": 2973,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T19:33:15.000Z",
+        "description": "Work for CS2 Morningstar",
+        "id": "2012971527164370944",
+        "name": "Squeal Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072932490285907968/xDZtXLYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Squeal_Li",
+        "verified": false
+      }
+    ]
+  }
+}

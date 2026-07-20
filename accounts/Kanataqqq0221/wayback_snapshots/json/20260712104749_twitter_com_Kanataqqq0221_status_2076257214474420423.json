@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2076257214474420423",
+    "created_at": "2026-07-12T10:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076257214474420423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474198081864626179",
+          "start": 3,
+          "username": "CTS_TOAST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076257214474420423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076196402468970976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CTS_TOAST: Latent Kingdom MAS 初AP!!!!!!!!!!!\n14+AP No.79🥳🥳\nAP次數41到底是何意味 最愛速通了🥰\n冰滅坐的大牢全部還回來了啊\n双神餘1 下個打黑盒怎麼樣😎😎\n\n好在現場只有我一個人\n不小心就把喜悅全部釋放出來呢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 187471,
+        "height": 1920,
+        "media_key": "13_2076188910066249728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076188910066249728/img/LDeePf4sfL0TLsCN.jpg",
+        "public_metrics": {
+          "view_count": 167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076188910066249728/vid/avc1/320x568/ujTSxLNsvcbpoQNY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076188910066249728/vid/avc1/1080x1920/d4xmbf0QTsO19m5m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076188910066249728/vid/avc1/720x1280/WLmqCt7V_3kYY43P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076188910066249728/vid/avc1/480x852/xhXBkiQZy7dXf2W3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076188910066249728/pl/0aLG72w3p2UlVBma.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076188632193609728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAaj5SasAACXJl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1652,
+        "media_key": "3_2076188632189419520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAaj5RawAACvGx.jpg",
+        "width": 816
+      },
+      {
+        "height": 594,
+        "media_key": "3_2076188632218808320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAaj5YbMAAkN1S.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2076257214474420423",
+        "created_at": "2026-07-12T10:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076257214474420423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474198081864626179",
+              "start": 3,
+              "username": "CTS_TOAST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076257214474420423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076196402468970976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CTS_TOAST: Latent Kingdom MAS 初AP!!!!!!!!!!!\n14+AP No.79🥳🥳\nAP次數41到底是何意味 最愛速通了🥰\n冰滅坐的大牢全部還回來了啊\n双神餘1 下個打黑盒怎麼樣😎😎\n\n好在現場只有我一個人\n不小心就把喜悅全部釋放出來呢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076188910066249728",
+            "3_2076188632193609728",
+            "3_2076188632189419520",
+            "3_2076188632218808320"
+          ]
+        },
+        "author_id": "1474198081864626179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076196402468970976",
+        "created_at": "2026-07-12T06:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076196402468970976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiBpHSCYFl",
+              "end": 150,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076196402468970976/video/1",
+              "media_key": "13_2076188910066249728",
+              "start": 127,
+              "url": "https://t.co/jiBpHSCYFl"
+            },
+            {
+              "display_url": "pic.x.com/jiBpHSCYFl",
+              "end": 150,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076196402468970976/video/1",
+              "media_key": "3_2076188632193609728",
+              "start": 127,
+              "url": "https://t.co/jiBpHSCYFl"
+            },
+            {
+              "display_url": "pic.x.com/jiBpHSCYFl",
+              "end": 150,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076196402468970976/video/1",
+              "media_key": "3_2076188632189419520",
+              "start": 127,
+              "url": "https://t.co/jiBpHSCYFl"
+            },
+            {
+              "display_url": "pic.x.com/jiBpHSCYFl",
+              "end": 150,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2076196402468970976/video/1",
+              "media_key": "3_2076188632218808320",
+              "start": 127,
+              "url": "https://t.co/jiBpHSCYFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076196402468970976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Latent Kingdom MAS 初AP!!!!!!!!!!!\n14+AP No.79🥳🥳\nAP次數41到底是何意味 最愛速通了🥰\n冰滅坐的大牢全部還回來了啊\n双神餘1 下個打黑盒怎麼樣😎😎\n\n好在現場只有我一個人\n不小心就把喜悅全部釋放出來呢🫪🫪 https://t.co/jiBpHSCYFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす15610丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 374,
+          "like_count": 2928,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T01:59:58.000Z",
+        "description": "台湾🇹🇼音ゲー玩家/20y/太鼓 23,24,25赤十 26金十/maimai Lv.13～14全AP 22神10舞舞 舞神 残り2/Chunithm AVG16.87/オンゲキ R17/WACCA XIII/移動端:Arknights,雀魂,Pikmin/努力健身中/一個全工半讀沒什麼時間的人/其他想到再+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@toast-720?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@toast-720?si=sFZV1q_8mYllheBM",
+                "start": 0,
+                "url": "https://t.co/FO76BUjkIQ"
+              }
+            ]
+          }
+        },
+        "id": "1474198081864626179",
+        "location": "New Taipei City, Taiwan",
+        "name": "吐司🍞(9/3～9/13大阪🇯🇵)",
+        "pinned_tweet_id": "2058259833238032528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151569203036161/FkI635QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 933,
+          "like_count": 12528,
+          "listed_count": 3,
+          "media_count": 1425,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/FO76BUjkIQ",
+        "username": "CTS_TOAST",
+        "verified": false
+      }
+    ]
+  }
+}
