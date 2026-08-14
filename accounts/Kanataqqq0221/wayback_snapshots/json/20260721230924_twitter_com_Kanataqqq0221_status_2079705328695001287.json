@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079705220767178753"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2079705328695001287",
+    "created_at": "2026-07-21T23:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079705328695001287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fi5KYgpY63",
+          "end": 34,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079705328695001287/video/1",
+          "media_key": "13_2079705220767178753",
+          "start": 11,
+          "url": "https://t.co/Fi5KYgpY63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079705328695001287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "起床了哦哦哦哦哦哦。 https://t.co/Fi5KYgpY63"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9216,
+        "height": 960,
+        "media_key": "13_2079705220767178753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079705220767178753/img/f9PizQEd4pDMtDTQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079705220767178753/vid/avc1/320x426/U4A2CZDCsev9cjY2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079705220767178753/vid/avc1/480x640/Y0eXRULsy80BMufo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079705220767178753/vid/avc1/720x960/JENdkbbtixrwyi6r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079705220767178753/pl/lkI3ekCRHXR-OFnX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079705220767178753"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2079705328695001287",
+        "created_at": "2026-07-21T23:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079705328695001287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fi5KYgpY63",
+              "end": 34,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079705328695001287/video/1",
+              "media_key": "13_2079705220767178753",
+              "start": 11,
+              "url": "https://t.co/Fi5KYgpY63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079705328695001287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起床了哦哦哦哦哦哦。 https://t.co/Fi5KYgpY63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 381,
+          "like_count": 3002,
+          "listed_count": 5,
+          "media_count": 402,
+          "tweet_count": 2202
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

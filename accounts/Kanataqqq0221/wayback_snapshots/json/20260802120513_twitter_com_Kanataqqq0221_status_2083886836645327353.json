@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083749006480662528",
+        "3_2083749006463930368"
+      ],
+      "media_source_tweet_id": [
+        "2083749012491079784",
+        "2083749012491079784"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083886836645327353",
+    "created_at": "2026-08-02T12:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083886836645327353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896576496472633344",
+          "start": 3,
+          "username": "lcxyyds1145"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cD08HJTj2t",
+          "end": 107,
+          "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+          "media_key": "3_2083749006480662528",
+          "start": 84,
+          "url": "https://t.co/cD08HJTj2t"
+        },
+        {
+          "display_url": "pic.x.com/cD08HJTj2t",
+          "end": 107,
+          "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+          "media_key": "3_2083749006463930368",
+          "start": 84,
+          "url": "https://t.co/cD08HJTj2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083886836645327353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083749012491079784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lcxyyds1145: 封焰の135秒 lv.14.8  初101😇🚀\n在比赛时理論值！！！！！！！！\n世界20位\n這也許是是歷史上的比賽最佳成績了哈哈哈哈 https://t.co/cD08HJTj2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083749006480662528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr2rmRaYAAYKEM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083749006463930368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr2rmNbEAAYPm9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083749006480662528",
+            "3_2083749006463930368"
+          ]
+        },
+        "author_id": "1896576496472633344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083749012491079784",
+        "created_at": "2026-08-02T02:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083749012491079784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cD08HJTj2t",
+              "end": 90,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+              "media_key": "3_2083749006480662528",
+              "start": 67,
+              "url": "https://t.co/cD08HJTj2t"
+            },
+            {
+              "display_url": "pic.x.com/cD08HJTj2t",
+              "end": 90,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+              "media_key": "3_2083749006463930368",
+              "start": 67,
+              "url": "https://t.co/cD08HJTj2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083749012491079784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16071,
+          "like_count": 330,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "封焰の135秒 lv.14.8  初101😇🚀\n在比赛时理論值！！！！！！！！\n世界20位\n這也許是是歷史上的比賽最佳成績了哈哈哈哈 https://t.co/cD08HJTj2t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083749006480662528",
+            "3_2083749006463930368"
+          ],
+          "media_source_tweet_id": [
+            "2083749012491079784",
+            "2083749012491079784"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083886836645327353",
+        "created_at": "2026-08-02T12:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083886836645327353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896576496472633344",
+              "start": 3,
+              "username": "lcxyyds1145"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cD08HJTj2t",
+              "end": 107,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+              "media_key": "3_2083749006480662528",
+              "start": 84,
+              "url": "https://t.co/cD08HJTj2t"
+            },
+            {
+              "display_url": "pic.x.com/cD08HJTj2t",
+              "end": 107,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2083749012491079784/photo/1",
+              "media_key": "3_2083749006463930368",
+              "start": 84,
+              "url": "https://t.co/cD08HJTj2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083886836645327353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083749012491079784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lcxyyds1145: 封焰の135秒 lv.14.8  初101😇🚀\n在比赛时理論值！！！！！！！！\n世界20位\n這也許是是歷史上的比賽最佳成績了哈哈哈哈 https://t.co/cD08HJTj2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 392,
+          "like_count": 3138,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T15:01:00.000Z",
+        "description": "maimai player 15 years old",
+        "id": "1896576496472633344",
+        "location": "Taipei City, Taiwan",
+        "name": "夏龍",
+        "pinned_tweet_id": "2042955009999147376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896576611233005568/d_X8Ab9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 213,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "lcxyyds1145",
+        "verified": false
+      }
+    ]
+  }
+}

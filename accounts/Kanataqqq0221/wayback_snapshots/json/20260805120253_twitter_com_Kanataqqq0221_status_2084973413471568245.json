@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2084971687456702895",
+    "created_at": "2026-08-05T12:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084973413471568245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1314580867491139585",
+          "start": 0,
+          "username": "bokkihuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084973413471568245",
+    "in_reply_to_user_id": "1314580867491139585",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084971687456702895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bokkihuru o(≧v≦)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2084971687456702895",
+        "created_at": "2026-08-05T12:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084973413471568245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1314580867491139585",
+              "start": 0,
+              "username": "bokkihuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084973413471568245",
+        "in_reply_to_user_id": "1314580867491139585",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084971687456702895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bokkihuru o(≧v≦)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314580867491139585",
+        "conversation_id": "2084971687456702895",
+        "created_at": "2026-08-05T11:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084971687456702895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084971687456702895",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 \n\n謝謝回關！ 雖然沒什麼特別的推文，但還是請多關照。\n\n因為使用了翻譯工具，如果語句不太自然，請見諒..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 393,
+          "like_count": 3174,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T14:58:07.000Z",
+        "description": "",
+        "id": "1314580867491139585",
+        "name": "うーる",
+        "pinned_tweet_id": "1322082967401869317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084130764300718080/0PH8ER5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 226,
+          "like_count": 6618,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "bokkihuru",
+        "verified": false
+      }
+    ]
+  }
+}

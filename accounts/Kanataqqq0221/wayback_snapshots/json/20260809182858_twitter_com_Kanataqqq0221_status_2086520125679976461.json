@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086520119812124672"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2086520125679976461",
+    "created_at": "2026-08-09T18:28:58.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086520125679976461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VpRrqajHKt",
+          "end": 149,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2086520125679976461/photo/1",
+          "media_key": "3_2086520119812124672",
+          "start": 126,
+          "url": "https://t.co/VpRrqajHKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086520125679976461",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086520119812124672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一点我觉得还是要说清楚的：\n首先是线下和月出来面基完全OK 但是请一定要做好个人卫生处理……虽然我看在面子上不会说但是我觉得这个还是要注意一下吧\n其次就是月有对象所以不熟悉的异性非正常肢体接触如摸头/抱的话绝对NG除非你跟我特别特别熟不然我会红温。 https://t.co/VpRrqajHKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086520119812124672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTO_n4bcAAlxyb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086520119812124672"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2086520125679976461",
+        "created_at": "2026-08-09T18:28:58.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086520125679976461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpRrqajHKt",
+              "end": 149,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2086520125679976461/photo/1",
+              "media_key": "3_2086520119812124672",
+              "start": 126,
+              "url": "https://t.co/VpRrqajHKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086520125679976461",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086520119812124672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一点我觉得还是要说清楚的：\n首先是线下和月出来面基完全OK 但是请一定要做好个人卫生处理……虽然我看在面子上不会说但是我觉得这个还是要注意一下吧\n其次就是月有对象所以不熟悉的异性非正常肢体接触如摸头/抱的话绝对NG除非你跟我特别特别熟不然我会红温。 https://t.co/VpRrqajHKt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2086520125679976461",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 392,
+          "like_count": 3203,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

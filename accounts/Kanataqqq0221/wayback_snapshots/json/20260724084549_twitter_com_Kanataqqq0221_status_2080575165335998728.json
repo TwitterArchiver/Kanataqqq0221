@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080575119622279168",
+        "3_2080575119593033728"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2080575165335998728",
+    "created_at": "2026-07-24T08:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080575165335998728"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "osu"
+        },
+        {
+          "end": 77,
+          "start": 69,
+          "tag": "osugame"
+        },
+        {
+          "end": 84,
+          "start": 78,
+          "tag": "Pippi"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/80rWjzzDn0",
+          "end": 113,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2080575165335998728/photo/1",
+          "media_key": "3_2080575119622279168",
+          "start": 90,
+          "url": "https://t.co/80rWjzzDn0"
+        },
+        {
+          "display_url": "pic.x.com/80rWjzzDn0",
+          "end": 113,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2080575165335998728/photo/1",
+          "media_key": "3_2080575119593033728",
+          "start": 90,
+          "url": "https://t.co/80rWjzzDn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080575165335998728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Click the circle and start the game.\n今天出現在了綴夢2.0的展會現場～大家都有認出我嗎？\n#osu #osugame #Pippi #cos https://t.co/80rWjzzDn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080575119622279168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-wDEWaEAAaWp7.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1151,
+        "media_key": "3_2080575119593033728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-wDEPb0AArdyi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080575119622279168",
+            "3_2080575119593033728"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2080575165335998728",
+        "created_at": "2026-07-24T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080575165335998728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "osu"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "osugame"
+            },
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "Pippi"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/80rWjzzDn0",
+              "end": 113,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2080575165335998728/photo/1",
+              "media_key": "3_2080575119622279168",
+              "start": 90,
+              "url": "https://t.co/80rWjzzDn0"
+            },
+            {
+              "display_url": "pic.x.com/80rWjzzDn0",
+              "end": 113,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2080575165335998728/photo/1",
+              "media_key": "3_2080575119593033728",
+              "start": 90,
+              "url": "https://t.co/80rWjzzDn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080575165335998728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Click the circle and start the game.\n今天出現在了綴夢2.0的展會現場～大家都有認出我嗎？\n#osu #osugame #Pippi #cos https://t.co/80rWjzzDn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 387,
+          "like_count": 3016,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

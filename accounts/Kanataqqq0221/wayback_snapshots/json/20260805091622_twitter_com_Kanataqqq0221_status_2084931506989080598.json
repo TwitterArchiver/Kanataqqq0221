@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2084906006740684887",
+    "created_at": "2026-08-05T09:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084931506989080598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1721384096058990592",
+          "start": 0,
+          "username": "Hm6xdwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084931506989080598",
+    "in_reply_to_user_id": "1721384096058990592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084913155881439561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hm6xdwd 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2084906006740684887",
+        "created_at": "2026-08-05T09:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084931506989080598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1721384096058990592",
+              "start": 0,
+              "username": "Hm6xdwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084931506989080598",
+        "in_reply_to_user_id": "1721384096058990592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084913155881439561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hm6xdwd 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721384096058990592",
+        "conversation_id": "2084906006740684887",
+        "created_at": "2026-08-05T08:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084913155881439561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084913155881439561",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084906006740684887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 妈妈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 392,
+          "like_count": 3162,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:28:55.000Z",
+        "description": "=氢/H+/水素 /07 /普通の音ゲーマです/maimai14500/プロセカ /ガルパ/chunithm15⬆️/ボカロ/イラスト描いて/中国語&英语ok/日本語を勉強しています/無言フォロー失礼します",
+        "id": "1721384096058990592",
+        "location": "我是凑企鹅！",
+        "name": "液化水素.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079218634250170369/jt9sA4By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "Hm6xdwd",
+        "verified": false
+      }
+    ]
+  }
+}

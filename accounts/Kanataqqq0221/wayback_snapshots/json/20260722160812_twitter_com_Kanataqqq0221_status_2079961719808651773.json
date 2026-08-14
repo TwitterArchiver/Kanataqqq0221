@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079961618516176896",
+        "3_2079961618579128320",
+        "3_2079961618541318144"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2079961719808651773",
+    "created_at": "2026-07-22T16:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079961719808651773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869730336395104256",
+          "start": 1,
+          "username": "Rasket_cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dfxstVuPi4",
+          "end": 36,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+          "media_key": "3_2079961618516176896",
+          "start": 13,
+          "url": "https://t.co/dfxstVuPi4"
+        },
+        {
+          "display_url": "pic.x.com/dfxstVuPi4",
+          "end": 36,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+          "media_key": "3_2079961618579128320",
+          "start": 13,
+          "url": "https://t.co/dfxstVuPi4"
+        },
+        {
+          "display_url": "pic.x.com/dfxstVuPi4",
+          "end": 36,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+          "media_key": "3_2079961618541318144",
+          "start": 13,
+          "url": "https://t.co/dfxstVuPi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079961719808651773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面@Rasket_cat https://t.co/dfxstVuPi4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079961618516176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2CEmoacAAaX5P.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079961618579128320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2CEm3bAAAAm35.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079961618541318144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2CEmuaEAAwxCH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079961618516176896",
+            "3_2079961618579128320",
+            "3_2079961618541318144"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2079961719808651773",
+        "created_at": "2026-07-22T16:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079961719808651773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869730336395104256",
+              "start": 1,
+              "username": "Rasket_cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfxstVuPi4",
+              "end": 36,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+              "media_key": "3_2079961618516176896",
+              "start": 13,
+              "url": "https://t.co/dfxstVuPi4"
+            },
+            {
+              "display_url": "pic.x.com/dfxstVuPi4",
+              "end": 36,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+              "media_key": "3_2079961618579128320",
+              "start": 13,
+              "url": "https://t.co/dfxstVuPi4"
+            },
+            {
+              "display_url": "pic.x.com/dfxstVuPi4",
+              "end": 36,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079961719808651773/photo/1",
+              "media_key": "3_2079961618541318144",
+              "start": 13,
+              "url": "https://t.co/dfxstVuPi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079961719808651773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面@Rasket_cat https://t.co/dfxstVuPi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 381,
+          "like_count": 3005,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T13:03:54.000Z",
+        "description": "我是rasket~18岁男，平时喜欢画画捏，但是音游什么的咱偶尔也打打啦~虽然咱很菜的啦……",
+        "id": "1869730336395104256",
+        "name": "Rasket Cat",
+        "pinned_tweet_id": "2074485056203063379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045584400721784832/fWBxT8gH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 81,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Rasket_cat",
+        "verified": false
+      }
+    ]
+  }
+}

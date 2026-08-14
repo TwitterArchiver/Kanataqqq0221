@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079965204381872130",
+        "3_2079965204394455043",
+        "3_2079965204377677829",
+        "3_2079965204381933569"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079965326180294980",
+    "created_at": "2026-07-22T16:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079965326180294980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FsA1b0p9I",
+          "end": 25,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+          "media_key": "3_2079965204381872130",
+          "start": 2,
+          "url": "https://t.co/4FsA1b0p9I"
+        },
+        {
+          "display_url": "pic.x.com/4FsA1b0p9I",
+          "end": 25,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+          "media_key": "3_2079965204394455043",
+          "start": 2,
+          "url": "https://t.co/4FsA1b0p9I"
+        },
+        {
+          "display_url": "pic.x.com/4FsA1b0p9I",
+          "end": 25,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+          "media_key": "3_2079965204377677829",
+          "start": 2,
+          "url": "https://t.co/4FsA1b0p9I"
+        },
+        {
+          "display_url": "pic.x.com/4FsA1b0p9I",
+          "end": 25,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+          "media_key": "3_2079965204381933569",
+          "start": 2,
+          "url": "https://t.co/4FsA1b0p9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079965326180294980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杭 https://t.co/4FsA1b0p9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079965204381872130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2FVVBasAIjft4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079965204394455043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2FVVEasAMgluq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079965204377677829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2FVVAasAU6Lvs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079965204381933569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2FVVBboAEoGI_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079965204381872130",
+            "3_2079965204394455043",
+            "3_2079965204377677829",
+            "3_2079965204381933569"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079965326180294980",
+        "created_at": "2026-07-22T16:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079965326180294980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FsA1b0p9I",
+              "end": 25,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+              "media_key": "3_2079965204381872130",
+              "start": 2,
+              "url": "https://t.co/4FsA1b0p9I"
+            },
+            {
+              "display_url": "pic.x.com/4FsA1b0p9I",
+              "end": 25,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+              "media_key": "3_2079965204394455043",
+              "start": 2,
+              "url": "https://t.co/4FsA1b0p9I"
+            },
+            {
+              "display_url": "pic.x.com/4FsA1b0p9I",
+              "end": 25,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+              "media_key": "3_2079965204377677829",
+              "start": 2,
+              "url": "https://t.co/4FsA1b0p9I"
+            },
+            {
+              "display_url": "pic.x.com/4FsA1b0p9I",
+              "end": 25,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2079965326180294980/photo/1",
+              "media_key": "3_2079965204381933569",
+              "start": 2,
+              "url": "https://t.co/4FsA1b0p9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079965326180294980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭 https://t.co/4FsA1b0p9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 382,
+          "like_count": 3006,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}
