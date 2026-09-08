@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2089950256352145829",
+    "created_at": "2026-08-19T05:39:05.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089950256352145829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089263600045334528",
+          "start": 0,
+          "username": "sanwenyuynewnas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089950256352145829",
+    "in_reply_to_user_id": "2089263600045334528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@sanwenyuynewnas 你好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2089950256352145829",
+        "created_at": "2026-08-19T05:39:05.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089950256352145829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089263600045334528",
+              "start": 0,
+              "username": "sanwenyuynewnas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089950256352145829",
+        "in_reply_to_user_id": "2089263600045334528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@sanwenyuynewnas 你好可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2089950256352145829",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2079116292255330315",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 400,
+          "like_count": 3235,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T08:11:09.000Z",
+        "description": "love@Kanataqqq0221",
+        "id": "2089263600045334528",
+        "is_identity_verified": false,
+        "name": "三文鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089263600045334528/1786956358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089272266047860736/eUhYoHIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "sanwenyuynewnas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

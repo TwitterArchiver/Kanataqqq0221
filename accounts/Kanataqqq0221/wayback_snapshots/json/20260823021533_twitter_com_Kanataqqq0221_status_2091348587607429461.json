@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2091100432152342680",
+    "created_at": "2026-08-23T02:15:33.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091348587607429461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868851866362429440",
+          "start": 0,
+          "username": "TheAS5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091348587607429461",
+    "in_reply_to_user_id": "1868851866362429440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091318205457617167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheAS5Y 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2091100432152342680",
+        "created_at": "2026-08-23T02:15:33.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091348587607429461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868851866362429440",
+              "start": 0,
+              "username": "TheAS5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091348587607429461",
+        "in_reply_to_user_id": "1868851866362429440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091318205457617167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheAS5Y 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868851866362429440",
+        "conversation_id": "2091100432152342680",
+        "created_at": "2026-08-23T00:14:49.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091318205457617167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091318205457617167",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091100432152342680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 👂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2091348587607429461",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 397,
+          "like_count": 3260,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-17T02:53:12.000Z",
+        "description": "屁股斜的meme弹药库",
+        "id": "1868851866362429440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091318839011414412",
+        "name": "AS5Y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868851866362429440/1734404215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868852772315316224/Wklg_uHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 232,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "TheAS5Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

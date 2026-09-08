@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2096237298186907863",
+    "created_at": "2026-09-05T15:58:11.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096266653978026288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013209398395752448",
+          "start": 0,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096266653978026288",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096237298186907863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@DesireLovet1qi 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096237285566210048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdUtHMaYAAcoaT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2096237285599752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdUtHUaMAACrum.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2096237298186907863",
+        "created_at": "2026-09-05T15:58:11.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096266653978026288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096266653978026288",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096237298186907863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DesireLovet1qi 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096237285566210048",
+            "3_2096237285599752192"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2096237298186907863",
+        "created_at": "2026-09-05T14:01:32.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096237298186907863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIELmpUSYC",
+              "end": 30,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2096237298186907863/photo/1",
+              "media_key": "3_2096237285566210048",
+              "start": 7,
+              "url": "https://t.co/UIELmpUSYC"
+            },
+            {
+              "display_url": "pic.x.com/UIELmpUSYC",
+              "end": 30,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2096237298186907863/photo/1",
+              "media_key": "3_2096237285599752192",
+              "start": 7,
+              "url": "https://t.co/UIELmpUSYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096237298186907863",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096237285566210048"
+          },
+          {
+            "media_key": "3_2096237285599752192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "本🉑好可爱啊 https://t.co/UIELmpUSYC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2096266653978026288",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095822397249347584/bwAKXy9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 401,
+          "like_count": 3335,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲\n🚪52。只是不想乱加人 互关可以随便找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2096262614095745344",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 546,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

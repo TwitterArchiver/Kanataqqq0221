@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2095962933629173808",
+    "created_at": "2026-09-05T08:33:44.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096154804288692459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990912416983601153",
+          "start": 0,
+          "username": "91DFjiaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096154804288692459",
+    "in_reply_to_user_id": "990912416983601153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095962933629173808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@91DFjiaofu 吐口水涂上去的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095962913442074624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZbKjYbkAARzaz.jpg",
+        "width": 1729
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095962924737249281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZbLNdaQAEjd8C.jpg",
+        "width": 1729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2095962933629173808",
+        "created_at": "2026-09-05T08:33:44.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096154804288692459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "91DFjiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096154804288692459",
+        "in_reply_to_user_id": "990912416983601153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095962933629173808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@91DFjiaofu 吐口水涂上去的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095962913442074624",
+            "3_2095962924737249281"
+          ]
+        },
+        "author_id": "990912416983601153",
+        "conversation_id": "2095962933629173808",
+        "created_at": "2026-09-04T19:51:19.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095962933629173808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCkcId5ewa",
+              "end": 35,
+              "expanded_url": "https://x.com/91DFjiaofu/status/2095962933629173808/photo/1",
+              "media_key": "3_2095962913442074624",
+              "start": 12,
+              "url": "https://t.co/pCkcId5ewa"
+            },
+            {
+              "display_url": "pic.x.com/pCkcId5ewa",
+              "end": 35,
+              "expanded_url": "https://x.com/91DFjiaofu/status/2095962933629173808/photo/1",
+              "media_key": "3_2095962924737249281",
+              "start": 12,
+              "url": "https://t.co/pCkcId5ewa"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2095962933629173808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095962913442074624"
+          },
+          {
+            "media_key": "3_2095962924737249281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次弄出来前列腺液哎 https://t.co/pCkcId5ewa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2096154804288692459",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095822397249347584/bwAKXy9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 401,
+          "like_count": 3341,
+          "listed_count": 5,
+          "media_count": 454,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-30T11:15:05.000Z",
+        "description": "爱打三角洲 tg:@xiong5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "xiong5201314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "df.qq.com",
+                "end": 23,
+                "expanded_url": "https://df.qq.com/",
+                "start": 0,
+                "url": "https://t.co/Tx31jDcMut"
+              }
+            ]
+          }
+        },
+        "id": "990912416983601153",
+        "is_identity_verified": false,
+        "location": "航天基地",
+        "most_recent_tweet_id": "2096028434187362443",
+        "name": "跨性别睾酮教父",
+        "pinned_tweet_id": "1952390523546636415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073555279577591808/A7Vubu7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 5238,
+          "like_count": 58143,
+          "listed_count": 13,
+          "media_count": 164,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/Tx31jDcMut",
+        "username": "91DFjiaofu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

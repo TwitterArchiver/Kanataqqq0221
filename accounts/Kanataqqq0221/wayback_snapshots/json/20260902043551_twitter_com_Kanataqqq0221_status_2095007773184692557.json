@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2094574245552763083",
+    "created_at": "2026-09-02T04:35:51.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095007773184692557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012862287485493248",
+          "start": 0,
+          "username": "woaini223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095007773184692557",
+    "in_reply_to_user_id": "2012862287485493248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094574245552763083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaini223 别搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2094574245552763083",
+        "created_at": "2026-09-02T04:35:51.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095007773184692557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012862287485493248",
+              "start": 0,
+              "username": "woaini223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095007773184692557",
+        "in_reply_to_user_id": "2012862287485493248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094574245552763083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaini223 别搞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012862287485493248",
+        "conversation_id": "2094574245552763083",
+        "created_at": "2026-08-31T23:53:10.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094574245552763083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094574245552763083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突擊所有人的屁眼（暴言"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n嘎比嘎比@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2095007773184692557",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1787887715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 399,
+          "like_count": 3334,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T12:19:15.000Z",
+        "description": "🇨🇳/16yo/中文ENG🆗（很差不要相信我的外語）/只喜歡bl/一切只為自己開心，歡迎找我玩/我會發佈暴力內容⚠️🩸\n什麼都沒有但存在的賬號：@kseniya1145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "kseniya1145"
+              }
+            ]
+          }
+        },
+        "id": "2012862287485493248",
+        "is_identity_verified": false,
+        "location": "誕生日2/23",
+        "most_recent_tweet_id": "2094939356045906280",
+        "name": "フユキ",
+        "pinned_tweet_id": "2090059863955231185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012862287485493248/1783182178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073442564829552640/tyj0ALls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 99,
+          "like_count": 7165,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "woaini223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

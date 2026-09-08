@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2093003820725112841",
+    "created_at": "2026-08-28T02:59:43.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093171643149697517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1480129570741407746",
+          "start": 0,
+          "username": "haunted0917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093171643149697517",
+    "in_reply_to_user_id": "1480129570741407746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093003820725112841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haunted0917 好萌呀。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2093003805394919424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvX3y4a4AAhB8g.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2093003820725112841",
+        "created_at": "2026-08-28T02:59:43.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093171643149697517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1480129570741407746",
+              "start": 0,
+              "username": "haunted0917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093171643149697517",
+        "in_reply_to_user_id": "1480129570741407746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093003820725112841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haunted0917 好萌呀。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093003805394919424"
+          ]
+        },
+        "author_id": "1480129570741407746",
+        "conversation_id": "2093003820725112841",
+        "created_at": "2026-08-27T15:52:51.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093003820725112841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JneznatLR",
+              "end": 36,
+              "expanded_url": "https://x.com/haunted0917/status/2093003820725112841/photo/1",
+              "media_key": "3_2093003805394919424",
+              "start": 13,
+              "url": "https://t.co/0JneznatLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093003820725112841",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093003805394919424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1188,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次穿这种类型的衣服 https://t.co/0JneznatLR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n嘎比嘎比@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2093171643149697517",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1787883787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 403,
+          "like_count": 3313,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 2495
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-09T10:49:39.000Z",
+        "description": "又只留我一个人…\n💊🩸🚬\n求可爱女孩互fo呀",
+        "id": "1480129570741407746",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2093165424578032060",
+        "name": "吸烟室",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480129570741407746/1763029703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782914700180869120/NGXLXzTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 419,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "haunted0917",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

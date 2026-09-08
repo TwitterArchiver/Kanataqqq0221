@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095138064121430016"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2095138131662303626",
+    "created_at": "2026-09-02T13:13:51.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095138131662303626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCYi3xtvnS",
+          "end": 39,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2095138131662303626/photo/1",
+          "media_key": "3_2095138064121430016",
+          "start": 16,
+          "url": "https://t.co/PCYi3xtvnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095138131662303626",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095138064121430016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "關於R18稿件相關的最新通告： https://t.co/PCYi3xtvnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2095138064121430016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNs-ANbgAA_22g.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095138064121430016"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2095138131662303626",
+        "created_at": "2026-09-02T13:13:51.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095138131662303626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCYi3xtvnS",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2095138131662303626/photo/1",
+              "media_key": "3_2095138064121430016",
+              "start": 16,
+              "url": "https://t.co/PCYi3xtvnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095138131662303626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095138064121430016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "關於R18稿件相關的最新通告： https://t.co/PCYi3xtvnS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n嘎比嘎比@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2095138131662303626",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1787887715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 399,
+          "like_count": 3334,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

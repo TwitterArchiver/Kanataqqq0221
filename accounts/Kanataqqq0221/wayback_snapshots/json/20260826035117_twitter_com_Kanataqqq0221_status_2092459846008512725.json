@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2092243884357349756",
+    "created_at": "2026-08-26T03:51:17.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092459846008512725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012862287485493248",
+          "start": 0,
+          "username": "woaini223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092459846008512725",
+    "in_reply_to_user_id": "2012862287485493248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092243884357349756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaini223 我想放假"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092243860009431040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkktJtasAAsHEy.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2092243884357349756",
+        "created_at": "2026-08-26T03:51:17.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092459846008512725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012862287485493248",
+              "start": 0,
+              "username": "woaini223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092459846008512725",
+        "in_reply_to_user_id": "2012862287485493248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092243884357349756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaini223 我想放假"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092243860009431040"
+          ]
+        },
+        "author_id": "2012862287485493248",
+        "conversation_id": "2092243884357349756",
+        "created_at": "2026-08-25T13:33:08.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092243884357349756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYGSe0rglu",
+              "end": 30,
+              "expanded_url": "https://x.com/woaini223/status/2092243884357349756/photo/1",
+              "media_key": "3_2092243860009431040",
+              "start": 7,
+              "url": "https://t.co/vYGSe0rglu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092243884357349756",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092243860009431040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "給我放點假吧 https://t.co/vYGSe0rglu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2092459846008512725",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 403,
+          "like_count": 3285,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T12:19:15.000Z",
+        "description": "🇨🇳/16yo/中文ENG🆗（很差不要相信我的外語）/只喜歡bl/一切只為自己開心，歡迎找我玩\n什麼都沒有但存在的賬號：@kseniya1145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "kseniya1145"
+              }
+            ]
+          }
+        },
+        "id": "2012862287485493248",
+        "is_identity_verified": false,
+        "location": "誕生日2/23",
+        "most_recent_tweet_id": "2092446036119986594",
+        "name": "フユキ",
+        "pinned_tweet_id": "2090059863955231185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012862287485493248/1783182178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073442564829552640/tyj0ALls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 102,
+          "like_count": 6505,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "woaini223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

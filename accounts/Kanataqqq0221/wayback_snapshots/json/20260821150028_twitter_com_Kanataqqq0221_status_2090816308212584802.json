@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090816288541257728"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2090816308212584802",
+    "created_at": "2026-08-21T15:00:28.000Z",
+    "display_text_range": [
+      0,
+      196
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090816308212584802"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 184,
+          "start": 174,
+          "tag": "乙姬2026生誕祭"
+        },
+        {
+          "end": 196,
+          "start": 185,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 86,
+          "id": "1406117662632071170",
+          "start": 71,
+          "username": "TrypanBlue_TPB"
+        },
+        {
+          "end": 125,
+          "id": "1406117662632071170",
+          "start": 110,
+          "username": "TrypanBlue_TPB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UI0ZmKSxkg",
+          "end": 220,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2090816308212584802/photo/1",
+          "media_key": "3_2090816288541257728",
+          "start": 197,
+          "url": "https://t.co/UI0ZmKSxkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090816308212584802",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090816288541257728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "♡ ⟡⋆.₊‧꒰ა 乙姫お誕生日おめでとう໒꒱ ‧₊˚⊹♡\n⟡⋆.₊‧꒰ა 東京時間2026.8.22 0:00໒꒱ ‧₊˚⊹\nart by：@TrypanBlue_TPB &amp;@Kanataqqq0221 \n是與@TrypanBlue_TPB 老師一同繪製的生賀——本次負責了線稿部分的繪製！非常感謝錐老師的參與和上色！簡直是神繪製———\n#乙姬2026生誕祭 #maimai_art https://t.co/UI0ZmKSxkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090816288541257728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQSVjkaMAA0bgX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090816288541257728"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2090816308212584802",
+        "created_at": "2026-08-21T15:00:28.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090816308212584802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 184,
+              "start": 174,
+              "tag": "乙姬2026生誕祭"
+            },
+            {
+              "end": 196,
+              "start": 185,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 86,
+              "id": "1406117662632071170",
+              "start": 71,
+              "username": "TrypanBlue_TPB"
+            },
+            {
+              "end": 125,
+              "id": "1406117662632071170",
+              "start": 110,
+              "username": "TrypanBlue_TPB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UI0ZmKSxkg",
+              "end": 220,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2090816308212584802/photo/1",
+              "media_key": "3_2090816288541257728",
+              "start": 197,
+              "url": "https://t.co/UI0ZmKSxkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090816308212584802",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090816288541257728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♡ ⟡⋆.₊‧꒰ა 乙姫お誕生日おめでとう໒꒱ ‧₊˚⊹♡\n⟡⋆.₊‧꒰ა 東京時間2026.8.22 0:00໒꒱ ‧₊˚⊹\nart by：@TrypanBlue_TPB &amp;@Kanataqqq0221 \n是與@TrypanBlue_TPB 老師一同繪製的生賀——本次負責了線稿部分的繪製！非常感謝錐老師的參與和上色！簡直是神繪製———\n#乙姬2026生誕祭 #maimai_art https://t.co/UI0ZmKSxkg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2090816308212584802",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090577921610334359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 397,
+          "like_count": 3247,
+          "listed_count": 5,
+          "media_count": 444,
+          "tweet_count": 2431
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-19T05:12:30.000Z",
+        "description": "連絡先： trypanblue.tpb@gmail.com                   \nBOOTH: https://t.co/qbHrRQbaX0\n里@Lanthanum_CSL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Lanthanum_CSL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "trypanblue.booth.pm",
+                "end": 79,
+                "expanded_url": "http://trypanblue.booth.pm",
+                "start": 56,
+                "url": "https://t.co/qbHrRQbaX0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61636605",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/61636605",
+                "start": 0,
+                "url": "https://t.co/n4kKQKOgpm"
+              }
+            ]
+          }
+        },
+        "id": "1406117662632071170",
+        "is_identity_verified": false,
+        "location": "錐蟲藍=錐=すい",
+        "most_recent_tweet_id": "2090275913393221764",
+        "name": "錐",
+        "pinned_tweet_id": "2089208537847332945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406117662632071170/1778164085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706936297875779584/PbdOxChY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569,
+          "following_count": 828,
+          "like_count": 7154,
+          "listed_count": 39,
+          "media_count": 281,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/n4kKQKOgpm",
+        "username": "TrypanBlue_TPB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

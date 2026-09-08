@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2091800174284914744",
+    "created_at": "2026-08-24T08:32:42.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091805890152427816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401219416310775808",
+          "start": 0,
+          "username": "QingGuo_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091805890152427816",
+    "in_reply_to_user_id": "1401219416310775808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091804883154329772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingGuo_maimai 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2091800174284914744",
+        "created_at": "2026-08-24T08:32:42.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091805890152427816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401219416310775808",
+              "start": 0,
+              "username": "QingGuo_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091805890152427816",
+        "in_reply_to_user_id": "1401219416310775808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091804883154329772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingGuo_maimai 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401219416310775808",
+        "conversation_id": "2091800174284914744",
+        "created_at": "2026-08-24T08:28:42.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091804883154329772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091804883154329772",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091800174284914744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 姐你多画点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2091805890152427816",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 400,
+          "like_count": 3276,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-05T16:48:52.000Z",
+        "description": "‖07身心男单‖异性恋‖一般打工仔‖只发点生活日常当隔壁qq空间‖互fo欢迎‖中国人‖会一些日语‖粤语客语ok\n注意∶本人符合国家法律18岁抽烟喝酒可能让您感受不满谅解",
+        "id": "1401219416310775808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091804883154329772",
+        "name": "青果_QingGuo",
+        "pinned_tweet_id": "2064018688249077780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401219416310775808/1785965481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082062096137850880/Mq1NMKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 1270,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "QingGuo_maimai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

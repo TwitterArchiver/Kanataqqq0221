@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2096641413341737037",
+    "created_at": "2026-09-07T08:06:13.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096872656243183625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485478878085120",
+          "start": 0,
+          "username": "WkymylFf7669364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096872656243183625",
+    "in_reply_to_user_id": "1675485478878085120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096641413341737037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WkymylFf7669364 哦咩爹多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2096640974856560640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjD26_aoAAcVZ6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096641109271494657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjD-vubwAEv1zS.jpg",
+        "width": 3072
+      },
+      {
+        "duration_ms": 12214,
+        "height": 1280,
+        "media_key": "13_2096641228628758528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096641228628758528/img/q-cjOcd0oVYMyffV.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641228628758528/vid/avc1/320x568/bGTDIM4XQ4-fJo5y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641228628758528/vid/avc1/480x852/Nxy2nZlFXhpAyZE1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641228628758528/vid/avc1/720x1280/HV4dklkT2Bv1dVRS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096641228628758528/pl/96S3xKCrPpD0Dolm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2096641413341737037",
+        "created_at": "2026-09-07T08:06:13.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096872656243183625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485478878085120",
+              "start": 0,
+              "username": "WkymylFf7669364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096872656243183625",
+        "in_reply_to_user_id": "1675485478878085120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096641413341737037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WkymylFf7669364 哦咩爹多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096640974856560640",
+            "3_2096641109271494657",
+            "13_2096641228628758528"
+          ]
+        },
+        "author_id": "1675485478878085120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096641413341737037",
+        "created_at": "2026-09-06T16:47:21.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096641413341737037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTNPbpSmTw",
+              "end": 41,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2096641413341737037/video/1",
+              "media_key": "3_2096640974856560640",
+              "start": 18,
+              "url": "https://t.co/aTNPbpSmTw"
+            },
+            {
+              "display_url": "pic.x.com/aTNPbpSmTw",
+              "end": 41,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2096641413341737037/video/1",
+              "media_key": "3_2096641109271494657",
+              "start": 18,
+              "url": "https://t.co/aTNPbpSmTw"
+            },
+            {
+              "display_url": "pic.x.com/aTNPbpSmTw",
+              "end": 41,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2096641413341737037/video/1",
+              "media_key": "13_2096641228628758528",
+              "start": 18,
+              "url": "https://t.co/aTNPbpSmTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096641413341737037",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096640974856560640"
+          },
+          {
+            "media_key": "3_2096641109271494657"
+          },
+          {
+            "media_key": "13_2096641228628758528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌dx2026 legend达成 https://t.co/aTNPbpSmTw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2096872656243183625",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096871165663072256/aNvmorVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 400,
+          "like_count": 3345,
+          "listed_count": 5,
+          "media_count": 456,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T12:44:10.000Z",
+        "description": "自私自利自负自卑",
+        "id": "1675485478878085120",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2096641413341737037",
+        "name": "三着",
+        "pinned_tweet_id": "1988889812841959634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675485478878085120/1767378471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011140344306679811/OWJv5hb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 522,
+          "like_count": 14385,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "WkymylFf7669364",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

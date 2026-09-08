@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2091800174284914744",
+    "created_at": "2026-08-24T13:14:31.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091876810787352804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672585826633658372",
+          "start": 0,
+          "username": "HaisenMinoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091876810787352804",
+    "in_reply_to_user_id": "1672585826633658372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091825063049998464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaisenMinoki 大大大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2091825057672916992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQenzpba8AAoG3-.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2091800174284914744",
+        "created_at": "2026-08-24T13:14:31.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091876810787352804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672585826633658372",
+              "start": 0,
+              "username": "HaisenMinoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091876810787352804",
+        "in_reply_to_user_id": "1672585826633658372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091825063049998464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaisenMinoki 大大大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091825057672916992"
+          ]
+        },
+        "author_id": "1672585826633658372",
+        "conversation_id": "2091800174284914744",
+        "created_at": "2026-08-24T09:48:53.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091825063049998464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRP01yp5RS",
+              "end": 58,
+              "expanded_url": "https://x.com/HaisenMinoki/status/2091825063049998464/photo/1",
+              "media_key": "3_2091825057672916992",
+              "start": 35,
+              "url": "https://t.co/cRP01yp5RS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091825063049998464",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091825057672916992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091800174284914744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 有点巨大了吧这个这个\n但是画风太色情了 https://t.co/cRP01yp5RS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2091876810787352804",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 400,
+          "like_count": 3281,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-24T12:42:45.000Z",
+        "description": "喜欢初音未来，大好きミク\n我宝宝@Limiremelootes\n里垢@_AbyssEnd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "Limiremelootes"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "_AbyssEnd"
+              }
+            ]
+          }
+        },
+        "id": "1672585826633658372",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2091857340920406112",
+        "name": "裴川巳泷",
+        "pinned_tweet_id": "2058184639924281349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672585826633658372/1778299763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089921481992196096/xYoEMEu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 733,
+          "like_count": 1613,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 4071
+        },
+        "url": "",
+        "username": "HaisenMinoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

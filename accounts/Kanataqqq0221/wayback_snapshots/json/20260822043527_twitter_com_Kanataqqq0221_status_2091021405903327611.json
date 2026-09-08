@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091021348734914560"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2091021405903327611",
+    "created_at": "2026-08-22T04:35:27.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091021405903327611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z5Ym1DJIl8",
+          "end": 27,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2091021405903327611/photo/1",
+          "media_key": "3_2091021348734914560",
+          "start": 4,
+          "url": "https://t.co/Z5Ym1DJIl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091021405903327611",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091021348734914560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去hk https://t.co/Z5Ym1DJIl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091021348734914560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTM1oUaUAARBKM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091021348734914560"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2091021405903327611",
+        "created_at": "2026-08-22T04:35:27.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091021405903327611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5Ym1DJIl8",
+              "end": 27,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2091021405903327611/photo/1",
+              "media_key": "3_2091021348734914560",
+              "start": 4,
+              "url": "https://t.co/Z5Ym1DJIl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091021405903327611",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091021348734914560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去hk https://t.co/Z5Ym1DJIl8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2091021405903327611",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 397,
+          "like_count": 3249,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

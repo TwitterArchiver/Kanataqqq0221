@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096477173616123904",
+        "3_2096477173574254592",
+        "3_2096477173725155328",
+        "3_2096477173582589952"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2096477189332148639",
+    "created_at": "2026-09-06T05:54:47.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096477189332148639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hUI7WWxax",
+          "end": 39,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+          "media_key": "3_2096477173616123904",
+          "start": 16,
+          "url": "https://t.co/5hUI7WWxax"
+        },
+        {
+          "display_url": "pic.x.com/5hUI7WWxax",
+          "end": 39,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+          "media_key": "3_2096477173574254592",
+          "start": 16,
+          "url": "https://t.co/5hUI7WWxax"
+        },
+        {
+          "display_url": "pic.x.com/5hUI7WWxax",
+          "end": 39,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+          "media_key": "3_2096477173725155328",
+          "start": 16,
+          "url": "https://t.co/5hUI7WWxax"
+        },
+        {
+          "display_url": "pic.x.com/5hUI7WWxax",
+          "end": 39,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+          "media_key": "3_2096477173582589952",
+          "start": 16,
+          "url": "https://t.co/5hUI7WWxax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096477189332148639",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096477173616123904"
+      },
+      {
+        "media_key": "3_2096477173574254592"
+      },
+      {
+        "media_key": "3_2096477173725155328"
+      },
+      {
+        "media_key": "3_2096477173582589952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雅思考試超簡單\n直接clear https://t.co/5hUI7WWxax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096477173616123904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4b0aoAA-XTm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096477173574254592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4bqbwAAicxF.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096477173725155328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4cOaUAA3zv-.jpg",
+        "width": 943
+      },
+      {
+        "height": 1527,
+        "media_key": "3_2096477173582589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4bsa8AAxTXk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096477173616123904",
+            "3_2096477173574254592",
+            "3_2096477173725155328",
+            "3_2096477173582589952"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2096477189332148639",
+        "created_at": "2026-09-06T05:54:47.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096477189332148639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173616123904",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173574254592",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173725155328",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173582589952",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096477189332148639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096477173616123904"
+          },
+          {
+            "media_key": "3_2096477173574254592"
+          },
+          {
+            "media_key": "3_2096477173725155328"
+          },
+          {
+            "media_key": "3_2096477173582589952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雅思考試超簡單\n直接clear https://t.co/5hUI7WWxax"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2096477189332148639",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095822397249347584/bwAKXy9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 401,
+          "like_count": 3336,
+          "listed_count": 5,
+          "media_count": 456,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

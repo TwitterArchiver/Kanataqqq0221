@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2094942078652555682",
+    "created_at": "2026-09-02T03:40:26.000Z",
+    "display_text_range": [
+      11,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094993827572646318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094993827572646318",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094949590302912893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST QAQ抱抱帕克……感觉老一辈人思想是这样的，明明身体健康才是最重要的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2094942078652555682",
+        "created_at": "2026-09-02T03:40:26.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094993827572646318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094993827572646318",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094949590302912893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST QAQ抱抱帕克……感觉老一辈人思想是这样的，明明身体健康才是最重要的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751240173650935808",
+        "conversation_id": "2094942078652555682",
+        "created_at": "2026-09-02T00:44:39.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094949590302912893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094949590302912893",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094942078652555682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 …抱抱你。我前几天家里也一直催着我“赶快调整状态好好去上学”什么的。\n我都快死掉了，还让我想着上学呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n嘎比嘎比@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2094993827572646318",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1787887715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 399,
+          "like_count": 3332,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/含少量🔞NSFW内容！/Applied Mathematics/音ゲー/maimai檄熊华舞舞暁神確認/Rotaeno前AP制霸/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿は機械翻訳です、不適切な表現をご容赦。",
+        "id": "1751240173650935808",
+        "is_identity_verified": false,
+        "location": "Guangzhou, China",
+        "most_recent_tweet_id": "2094949590302912893",
+        "name": "Livermst",
+        "pinned_tweet_id": "2092735540768444895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751240173650935808/1714294695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078684462364217344/ks09A2e8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1604,
+          "like_count": 1,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 2108
+        },
+        "url": "",
+        "username": "Liver_MST",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

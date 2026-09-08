@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2092125014753697797",
+    "created_at": "2026-08-26T03:53:01.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092460281201152024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1474198081864626179",
+          "start": 0,
+          "username": "CTS_TOAST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092460281201152024",
+    "in_reply_to_user_id": "1474198081864626179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092125014753697797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTS_TOAST 還有界園"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2092125006889369600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQi4m_VaQAAvadU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2092125014753697797",
+        "created_at": "2026-08-26T03:53:01.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092460281201152024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1474198081864626179",
+              "start": 0,
+              "username": "CTS_TOAST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092460281201152024",
+        "in_reply_to_user_id": "1474198081864626179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092125014753697797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTS_TOAST 還有界園"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092125006889369600"
+          ]
+        },
+        "author_id": "1474198081864626179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092125014753697797",
+        "created_at": "2026-08-25T05:40:47.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092125014753697797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aK5qXAwB94",
+              "end": 94,
+              "expanded_url": "https://x.com/CTS_TOAST/status/2092125014753697797/photo/1",
+              "media_key": "3_2092125006889369600",
+              "start": 71,
+              "url": "https://t.co/aK5qXAwB94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092125014753697797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092125006889369600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隨便列幾個去日本的目標\n\n音擊打到彩R\n買賣天界9全AP&amp;考個真皆傳掛\n不要把唐吉柯德免稅當成免費\n要節制飲食澱粉跟甜的儘量不吃太多 https://t.co/aK5qXAwB94"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16051丨逃生艙@Kanataqqq9178丨彼氏@TORLI114514丨OC相關投稿➡️#Kam1zuk1_art丨@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 114,
+                "tag": "Kam1zuk1_art丨"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2092460281201152024",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1778743876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 403,
+          "like_count": 3286,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-24T01:59:58.000Z",
+        "description": "台湾🇹🇼音ゲー玩家/21y/太鼓 23,24,25赤十 26金十/maimai Lv.13～14全AP 22神10舞舞/Chunithm AVG16.87/オンゲキ R17/WACCA XIII/移動端:Arknights,雀魂,Pikmin/一個全工半讀沒什麼時間的人/理論值超神努力中/其他想到再+ 歡迎互追蹤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@toast-720?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@toast-720?si=sFZV1q_8mYllheBM",
+                "start": 0,
+                "url": "https://t.co/FO76BUiMTi"
+              }
+            ]
+          }
+        },
+        "id": "1474198081864626179",
+        "is_identity_verified": false,
+        "location": "New Taipei City, Taiwan",
+        "most_recent_tweet_id": "2092420057985163290",
+        "name": "吐司🍞(9/3～9/13大阪🇯🇵)",
+        "pinned_tweet_id": "2058259833238032528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474198081864626179/1776536255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151569203036161/FkI635QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 969,
+          "like_count": 14013,
+          "listed_count": 3,
+          "media_count": 1521,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/FO76BUiMTi",
+        "username": "CTS_TOAST",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
