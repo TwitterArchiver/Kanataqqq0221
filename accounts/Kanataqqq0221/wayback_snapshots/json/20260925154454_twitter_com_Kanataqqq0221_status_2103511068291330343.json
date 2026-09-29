@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2103503585434894349",
+    "created_at": "2026-09-25T15:44:54.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103511068291330343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990912416983601153",
+          "start": 0,
+          "username": "91DFjiaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103511068291330343",
+    "in_reply_to_user_id": "990912416983601153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103510360926142662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@91DFjiaofu 闹麻了唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2103503585434894349",
+        "created_at": "2026-09-25T15:44:54.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103511068291330343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "91DFjiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103511068291330343",
+        "in_reply_to_user_id": "990912416983601153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103510360926142662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@91DFjiaofu 闹麻了唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990912416983601153",
+        "conversation_id": "2103503585434894349",
+        "created_at": "2026-09-25T15:42:06.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103510360926142662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103510360926142662",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103503585434894349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 见多了，懒得劝了，就直接喝吧，反正我拦不住"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2103511068291330343",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 409,
+          "like_count": 3523,
+          "listed_count": 5,
+          "media_count": 486,
+          "tweet_count": 2673
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-30T11:15:05.000Z",
+        "description": "爱打三角洲 tg:@xiong5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "xiong5201314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "df.qq.com",
+                "end": 23,
+                "expanded_url": "https://df.qq.com/",
+                "start": 0,
+                "url": "https://t.co/Tx31jDcMut"
+              }
+            ]
+          }
+        },
+        "id": "990912416983601153",
+        "is_identity_verified": false,
+        "location": "航天基地",
+        "most_recent_tweet_id": "2103510360926142662",
+        "name": "跨性别睾酮教父",
+        "pinned_tweet_id": "1952390523546636415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073555279577591808/A7Vubu7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 5246,
+          "like_count": 58661,
+          "listed_count": 13,
+          "media_count": 166,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/Tx31jDcMut",
+        "username": "91DFjiaofu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

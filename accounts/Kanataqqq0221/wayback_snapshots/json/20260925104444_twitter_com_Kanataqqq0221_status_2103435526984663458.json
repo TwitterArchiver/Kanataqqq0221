@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2103434312087695862",
+    "created_at": "2026-09-25T10:44:44.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103435526984663458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1862903626194370560",
+          "start": 0,
+          "username": "sla1457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103435526984663458",
+    "in_reply_to_user_id": "1862903626194370560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103435111337459794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sla1457 低手（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2103434312087695862",
+        "created_at": "2026-09-25T10:44:44.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103435526984663458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1862903626194370560",
+              "start": 0,
+              "username": "sla1457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103435526984663458",
+        "in_reply_to_user_id": "1862903626194370560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103435111337459794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sla1457 低手（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862903626194370560",
+        "conversation_id": "2103434312087695862",
+        "created_at": "2026-09-25T10:43:05.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103435111337459794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103435111337459794",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103434312087695862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 糕手来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2103435526984663458",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 409,
+          "like_count": 3507,
+          "listed_count": 5,
+          "media_count": 483,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T16:56:57.000Z",
+        "description": "10｜身心男介意请绕开\n防走失@SLA1457aka\n此账号含有大量中南海\n。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "SLA1457aka"
+              }
+            ]
+          }
+        },
+        "id": "1862903626194370560",
+        "is_identity_verified": false,
+        "location": "Georgia, USA",
+        "most_recent_tweet_id": "2103435111337459794",
+        "name": "SLA",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086249846743375872/EhVJhdhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 38,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "sla1457",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

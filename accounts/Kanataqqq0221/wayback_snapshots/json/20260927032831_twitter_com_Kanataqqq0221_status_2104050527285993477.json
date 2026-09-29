@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2103785902007079345",
+    "created_at": "2026-09-27T03:28:31.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104050527285993477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979004979705982976",
+          "start": 0,
+          "username": "Arisu208488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104050527285993477",
+    "in_reply_to_user_id": "1979004979705982976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103785902007079345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arisu208488 ⚡️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2103785891047370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTImHx9bcAACRL8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2103785902007079345",
+        "created_at": "2026-09-27T03:28:31.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104050527285993477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979004979705982976",
+              "start": 0,
+              "username": "Arisu208488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104050527285993477",
+        "in_reply_to_user_id": "1979004979705982976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103785902007079345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arisu208488 ⚡️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103785891047370752"
+          ]
+        },
+        "author_id": "1979004979705982976",
+        "conversation_id": "2103785902007079345",
+        "created_at": "2026-09-26T09:57:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103785902007079345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIsf6NIRoj",
+              "end": 43,
+              "expanded_url": "https://x.com/Arisu208488/status/2103785902007079345/photo/1",
+              "media_key": "3_2103785891047370752",
+              "start": 20,
+              "url": "https://t.co/sIsf6NIRoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103785902007079345",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103785891047370752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这孩子..超可爱啊…！\n（不是萝莉控） https://t.co/sIsf6NIRoj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2104050527285993477",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 410,
+          "like_count": 3593,
+          "listed_count": 5,
+          "media_count": 488,
+          "tweet_count": 2695
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T02:02:14.000Z",
+        "description": "中国Galgame & 音游玩家(｡･ω･｡)ﾉ♡\n💕綾地寧々大好きです💕\n「日本語を勉強している...」🙇‍♀️🙇‍♀️\n| maimai(ra16433) & arcaea(12.596ptt) |\n|ゆずソフト|ぱれっと|まどそふと| 枕 | 好き!\n关注都会回关｜同好请跟我交朋友🥺🥺",
+        "id": "1979004979705982976",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2103914320963015116",
+        "name": "ありす",
+        "pinned_tweet_id": "2099736215100797333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979004979705982976/1789649601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098863619211706368/KxAAktFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 210,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "Arisu208488",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

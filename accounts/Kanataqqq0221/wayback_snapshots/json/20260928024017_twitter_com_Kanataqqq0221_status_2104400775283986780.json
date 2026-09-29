@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2104269648292413453",
+    "created_at": "2026-09-28T02:40:17.000Z",
+    "display_text_range": [
+      12,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104400775283986780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497823201656983552",
+          "start": 0,
+          "username": "kong233333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104400775283986780",
+    "in_reply_to_user_id": "1497823201656983552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104399686757138648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kong233333 我觉得是的\n这群人非常热衷于将一个圈子饭圈化，建立一大堆村规，反正不混圈解决一切问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2104269648292413453",
+        "created_at": "2026-09-28T02:40:17.000Z",
+        "display_text_range": [
+          12,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104400775283986780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497823201656983552",
+              "start": 0,
+              "username": "kong233333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104400775283986780",
+        "in_reply_to_user_id": "1497823201656983552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104399686757138648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kong233333 我觉得是的\n这群人非常热衷于将一个圈子饭圈化，建立一大堆村规，反正不混圈解决一切问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497823201656983552",
+        "conversation_id": "2104269648292413453",
+        "created_at": "2026-09-28T02:35:57.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104399686757138648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104399686757138648",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104269648292413453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 绘圈该说也是一种饭圈吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2104400775283986780",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 413,
+          "like_count": 3610,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 2709
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-02-27T06:37:44.000Z",
+        "description": "avatar by @TrypanBlue_TPB | MUG player | MaiMaidx中国版 晓极获得 |CN🇨🇳|里垢 @Yakumo_itsumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "TrypanBlue_TPB"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Yakumo_itsumi"
+              }
+            ]
+          }
+        },
+        "id": "1497823201656983552",
+        "is_identity_verified": false,
+        "location": "全中国任意一家机厅内",
+        "most_recent_tweet_id": "2104400350010835182",
+        "name": "233355607",
+        "pinned_tweet_id": "2101154397392896052",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497823201656983552/1715707168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911124433776893953/EIMT2gnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 475,
+          "like_count": 354,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "kong233333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

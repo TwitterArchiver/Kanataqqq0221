@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2100881474312663407",
+    "created_at": "2026-09-18T09:47:13.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100884339517259908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979004979705982976",
+          "start": 0,
+          "username": "Arisu208488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100884339517259908",
+    "in_reply_to_user_id": "1979004979705982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100881474312663407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arisu208488 太強了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100881459544461312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfUjndaEAAWVDB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2100881474312663407",
+        "created_at": "2026-09-18T09:47:13.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100884339517259908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979004979705982976",
+              "start": 0,
+              "username": "Arisu208488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100884339517259908",
+        "in_reply_to_user_id": "1979004979705982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100881474312663407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arisu208488 太強了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100881459544461312"
+          ]
+        },
+        "author_id": "1979004979705982976",
+        "conversation_id": "2100881474312663407",
+        "created_at": "2026-09-18T09:35:50.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100881474312663407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VO1B0r6b6O",
+              "end": 65,
+              "expanded_url": "https://x.com/Arisu208488/status/2100881474312663407/photo/1",
+              "media_key": "3_2100881459544461312",
+              "start": 42,
+              "url": "https://t.co/VO1B0r6b6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100881474312663407",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100881459544461312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天终于把第一课学完了～！\n果然最有难度的还是外国人名…\nこれからも頑張ります💪💪 https://t.co/VO1B0r6b6O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16117丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n魚寶寶@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2100884339517259908",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 409,
+          "like_count": 3448,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T02:02:14.000Z",
+        "description": "中国Galgame & 音游玩家(｡･ω･｡)ﾉ♡\n💕綾地寧々大好きです💕\n「日本語を勉強しています...」🙇‍♀️🙇‍♀️\n| maimai(ra16433) & arcaea(12.596ptt) |\n|ゆずソフト|ぱれっと|まどそふと| 枕 | 好き!\n关注都会回关｜同好请跟我交朋友🥺🥺",
+        "id": "1979004979705982976",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2100881474312663407",
+        "name": "ありす",
+        "pinned_tweet_id": "2099736215100797333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979004979705982976/1789649601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098863619211706368/KxAAktFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 184,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Arisu208488",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

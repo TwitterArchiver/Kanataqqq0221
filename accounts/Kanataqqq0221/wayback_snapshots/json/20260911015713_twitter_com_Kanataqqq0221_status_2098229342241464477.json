@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098229333785755648"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2098229342241464477",
+    "created_at": "2026-09-11T01:57:13.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098229342241464477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7uiFjpC4b",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2098229342241464477/photo/1",
+          "media_key": "3_2098229333785755648",
+          "start": 10,
+          "url": "https://t.co/s7uiFjpC4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098229342241464477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098229333785755648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屋里不准荡秋千哦。 https://t.co/s7uiFjpC4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098229333785755648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5odlGawAA9C4f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098229333785755648"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2098229342241464477",
+        "created_at": "2026-09-11T01:57:13.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098229342241464477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7uiFjpC4b",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2098229342241464477/photo/1",
+              "media_key": "3_2098229333785755648",
+              "start": 10,
+              "url": "https://t.co/s7uiFjpC4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098229342241464477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098229333785755648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屋里不准荡秋千哦。 https://t.co/s7uiFjpC4b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2098229342241464477",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096871165663072256/aNvmorVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 403,
+          "like_count": 3383,
+          "listed_count": 5,
+          "media_count": 465,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2103731907406029271",
+    "created_at": "2026-09-26T12:06:20.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103818452540817673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855054997786181632",
+          "start": 0,
+          "username": "hanakonana74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103818452540817673",
+    "in_reply_to_user_id": "1855054997786181632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103731907406029271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanakonana74 我也要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103731896828182529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTH1A50aQAElvTI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2103731907406029271",
+        "created_at": "2026-09-26T12:06:20.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103818452540817673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855054997786181632",
+              "start": 0,
+              "username": "hanakonana74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103818452540817673",
+        "in_reply_to_user_id": "1855054997786181632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103731907406029271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanakonana74 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103731896828182529"
+          ]
+        },
+        "author_id": "1855054997786181632",
+        "conversation_id": "2103731907406029271",
+        "created_at": "2026-09-26T06:22:26.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103731907406029271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k42IPf0ZnR",
+              "end": 38,
+              "expanded_url": "https://x.com/hanakonana74/status/2103731907406029271/photo/1",
+              "media_key": "3_2103731896828182529",
+              "start": 15,
+              "url": "https://t.co/k42IPf0ZnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103731907406029271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103731896828182529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没喝这个了，一喝感觉好甜 https://t.co/k42IPf0ZnR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2103818452540817673",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 410,
+          "like_count": 3574,
+          "listed_count": 5,
+          "media_count": 487,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-09T01:09:33.000Z",
+        "description": "！？？？maimai12将 霸者 \n中文/繁体/英文/日文 ok",
+        "id": "1855054997786181632",
+        "is_identity_verified": false,
+        "location": "稔",
+        "most_recent_tweet_id": "2103772925899985102",
+        "name": "4nnnn",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855054997786181632/1770046641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103503936225484800/_Qk0k1k8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 471,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "hanakonana74",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

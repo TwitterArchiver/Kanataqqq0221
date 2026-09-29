@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2101661921896497363",
+    "created_at": "2026-09-20T14:06:20.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T15:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101674323501359105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979004979705982976",
+          "start": 0,
+          "username": "Arisu208488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101674323501359105",
+    "in_reply_to_user_id": "1979004979705982976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101661921896497363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arisu208488 强强ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101661807144538112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqaR0zbEAA4AjO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101661807224233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqaR1GbIAAPZOm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101661807228387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqaR1HagAAhrvq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2101661921896497363",
+        "created_at": "2026-09-20T14:06:20.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101674323501359105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979004979705982976",
+              "start": 0,
+              "username": "Arisu208488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101674323501359105",
+        "in_reply_to_user_id": "1979004979705982976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101661921896497363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arisu208488 强强ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101661807144538112",
+            "3_2101661807224233984",
+            "3_2101661807228387328"
+          ]
+        },
+        "author_id": "1979004979705982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101661921896497363",
+        "created_at": "2026-09-20T13:17:03.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101661921896497363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqbfT8JPzs",
+              "end": 55,
+              "expanded_url": "https://x.com/Arisu208488/status/2101661921896497363/photo/1",
+              "media_key": "3_2101661807144538112",
+              "start": 32,
+              "url": "https://t.co/nqbfT8JPzs"
+            },
+            {
+              "display_url": "pic.x.com/nqbfT8JPzs",
+              "end": 55,
+              "expanded_url": "https://x.com/Arisu208488/status/2101661921896497363/photo/1",
+              "media_key": "3_2101661807224233984",
+              "start": 32,
+              "url": "https://t.co/nqbfT8JPzs"
+            },
+            {
+              "display_url": "pic.x.com/nqbfT8JPzs",
+              "end": 55,
+              "expanded_url": "https://x.com/Arisu208488/status/2101661921896497363/photo/1",
+              "media_key": "3_2101661807228387328",
+              "start": 32,
+              "url": "https://t.co/nqbfT8JPzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101661921896497363",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101661807144538112"
+          },
+          {
+            "media_key": "3_2101661807224233984"
+          },
+          {
+            "media_key": "3_2101661807228387328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于把新14都鸟了…\n这次的14都超难啊！定数真的没有写错吗… https://t.co/nqbfT8JPzs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16117丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n魚寶寶@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 100,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2101674323501359105",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 409,
+          "like_count": 3488,
+          "listed_count": 5,
+          "media_count": 475,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T02:02:14.000Z",
+        "description": "中国Galgame & 音游玩家(｡･ω･｡)ﾉ♡\n💕綾地寧々大好きです💕\n「日本語を勉強しています...」🙇‍♀️🙇‍♀️\n| maimai(ra16433) & arcaea(12.596ptt) |\n|ゆずソフト|ぱれっと|まどそふと| 枕 | 好き!\n关注都会回关｜同好请跟我交朋友🥺🥺",
+        "id": "1979004979705982976",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2101662405722005874",
+        "name": "ありす",
+        "pinned_tweet_id": "2099736215100797333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979004979705982976/1789649601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098863619211706368/KxAAktFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 195,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Arisu208488",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

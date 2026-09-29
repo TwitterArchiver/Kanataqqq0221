@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103817887144452096",
+        "3_2103817887144431616",
+        "3_2103817887140208641",
+        "3_2103817887672889344"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103818498229391556",
+    "created_at": "2026-09-26T12:06:31.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103818498229391556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ZUPmBO6Mh",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+          "media_key": "3_2103817887144452096",
+          "start": 10,
+          "url": "https://t.co/3ZUPmBO6Mh"
+        },
+        {
+          "display_url": "pic.x.com/3ZUPmBO6Mh",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+          "media_key": "3_2103817887144431616",
+          "start": 10,
+          "url": "https://t.co/3ZUPmBO6Mh"
+        },
+        {
+          "display_url": "pic.x.com/3ZUPmBO6Mh",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+          "media_key": "3_2103817887140208641",
+          "start": 10,
+          "url": "https://t.co/3ZUPmBO6Mh"
+        },
+        {
+          "display_url": "pic.x.com/3ZUPmBO6Mh",
+          "end": 33,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+          "media_key": "3_2103817887672889344",
+          "start": 10,
+          "url": "https://t.co/3ZUPmBO6Mh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103818498229391556",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103817887144452096"
+      },
+      {
+        "media_key": "3_2103817887144431616"
+      },
+      {
+        "media_key": "3_2103817887140208641"
+      },
+      {
+        "media_key": "3_2103817887672889344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Happy day https://t.co/3ZUPmBO6Mh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103817887144452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJDOMtboAAIi7J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103817887144431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJDOMtbUAAHLvg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 764,
+        "media_key": "3_2103817887140208641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJDOMsa4AE-1qj.jpg",
+        "width": 1103
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103817887672889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJDOOra8AA7391.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103817887144452096",
+            "3_2103817887144431616",
+            "3_2103817887140208641",
+            "3_2103817887672889344"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103818498229391556",
+        "created_at": "2026-09-26T12:06:31.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103818498229391556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZUPmBO6Mh",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+              "media_key": "3_2103817887144452096",
+              "start": 10,
+              "url": "https://t.co/3ZUPmBO6Mh"
+            },
+            {
+              "display_url": "pic.x.com/3ZUPmBO6Mh",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+              "media_key": "3_2103817887144431616",
+              "start": 10,
+              "url": "https://t.co/3ZUPmBO6Mh"
+            },
+            {
+              "display_url": "pic.x.com/3ZUPmBO6Mh",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+              "media_key": "3_2103817887140208641",
+              "start": 10,
+              "url": "https://t.co/3ZUPmBO6Mh"
+            },
+            {
+              "display_url": "pic.x.com/3ZUPmBO6Mh",
+              "end": 33,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2103818498229391556/photo/1",
+              "media_key": "3_2103817887672889344",
+              "start": 10,
+              "url": "https://t.co/3ZUPmBO6Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103818498229391556",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103817887144452096"
+          },
+          {
+            "media_key": "3_2103817887144431616"
+          },
+          {
+            "media_key": "3_2103817887140208641"
+          },
+          {
+            "media_key": "3_2103817887672889344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Happy day https://t.co/3ZUPmBO6Mh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2103818498229391556",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 410,
+          "like_count": 3574,
+          "listed_count": 5,
+          "media_count": 488,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
