@@ -1,8 +1,8 @@
 {
   "name": "Kanataqかなたく＊滅3rd BOT",
   "username": "@Kanataqqq0221",
-  "bio": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
-  "location": "破滅の部屋",
+  "bio": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+  "location": "三文魚の部屋",
   "link": "https://www.pixiv.net/users/120006350",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,20 +10,20 @@
   "bio_entities": {
     "hashtags": [
       {
-        "end": 118,
-        "start": 105,
+        "end": 125,
+        "start": 112,
         "tag": "Kam1zuk1_art"
       }
     ],
     "mentions": [
       {
-        "end": 96,
-        "start": 82,
+        "end": 103,
+        "start": 89,
         "username": "Kanataqqq9178"
       },
       {
-        "end": 138,
-        "start": 122,
+        "end": 145,
+        "start": 129,
         "username": "sanwenyuynewnas"
       }
     ]
