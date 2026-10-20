@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108539257614893056",
+        "3_2108539289407811584"
+      ],
+      "media_source_tweet_id": [
+        "2108539333112410473",
+        "2108539333112410473"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2109930153405267990",
+    "created_at": "2026-10-13T08:52:03.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T09:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109930153405267990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1176946791415087104",
+          "start": 3,
+          "username": "EchanisEnicha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4fKKldlQ0A",
+          "end": 45,
+          "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+          "media_key": "3_2108539257614893056",
+          "start": 22,
+          "url": "https://t.co/4fKKldlQ0A"
+        },
+        {
+          "display_url": "pic.x.com/4fKKldlQ0A",
+          "end": 45,
+          "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+          "media_key": "3_2108539289407811584",
+          "start": 22,
+          "url": "https://t.co/4fKKldlQ0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109930153405267990",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108539257614893056"
+      },
+      {
+        "media_key": "3_2108539289407811584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 587
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108539333112410473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EchanisEnicha: 狂命 https://t.co/4fKKldlQ0A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3650,
+        "media_key": "3_2108539257614893056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMJSIUaAAANnGw.jpg",
+        "width": 3262
+      },
+      {
+        "height": 3650,
+        "media_key": "3_2108539289407811584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMJT-wbcAAQUM-.jpg",
+        "width": 2042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108539257614893056",
+            "3_2108539289407811584"
+          ],
+          "media_source_tweet_id": [
+            "2108539333112410473",
+            "2108539333112410473"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2109930153405267990",
+        "created_at": "2026-10-13T08:52:03.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T09:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109930153405267990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1176946791415087104",
+              "start": 3,
+              "username": "EchanisEnicha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fKKldlQ0A",
+              "end": 45,
+              "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+              "media_key": "3_2108539257614893056",
+              "start": 22,
+              "url": "https://t.co/4fKKldlQ0A"
+            },
+            {
+              "display_url": "pic.x.com/4fKKldlQ0A",
+              "end": 45,
+              "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+              "media_key": "3_2108539289407811584",
+              "start": 22,
+              "url": "https://t.co/4fKKldlQ0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109930153405267990",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108539257614893056"
+          },
+          {
+            "media_key": "3_2108539289407811584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 587
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108539333112410473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EchanisEnicha: 狂命 https://t.co/4fKKldlQ0A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108539257614893056",
+            "3_2108539289407811584"
+          ]
+        },
+        "author_id": "1176946791415087104",
+        "conversation_id": "2108539333112410473",
+        "created_at": "2026-10-09T12:45:26.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108539333112410473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fKKldlQ0A",
+              "end": 26,
+              "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+              "media_key": "3_2108539257614893056",
+              "start": 3,
+              "url": "https://t.co/4fKKldlQ0A"
+            },
+            {
+              "display_url": "pic.x.com/4fKKldlQ0A",
+              "end": 26,
+              "expanded_url": "https://x.com/EchanisEnicha/status/2108539333112410473/photo/1",
+              "media_key": "3_2108539289407811584",
+              "start": 3,
+              "url": "https://t.co/4fKKldlQ0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108539333112410473",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108539257614893056"
+          },
+          {
+            "media_key": "3_2108539289407811584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 618,
+          "impression_count": 71824,
+          "like_count": 4203,
+          "quote_count": 28,
+          "reply_count": 3,
+          "retweet_count": 587
+        },
+        "reply_settings": "everyone",
+        "text": "狂命 https://t.co/4fKKldlQ0A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "三文魚の部屋",
+        "most_recent_tweet_id": "2109930153405267990",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 413,
+          "like_count": 3766,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-25T19:49:25.000Z",
+        "description": "Design：｢@zentreya｣｢#アニマサーキット｣\nOriginal：｢HORiZONDOLLS｣｢BEASTECH｣｢ThermoALTER｣｢TETRABiND｣\nShop：https://t.co/WJl3WgeaG4\nFANBOX：https://t.co/NrX4yDbKGh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 19,
+                "tag": "アニマサーキット"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "zentreya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "echanisshop.booth.pm",
+                "end": 116,
+                "expanded_url": "http://echanisshop.booth.pm",
+                "start": 93,
+                "url": "https://t.co/WJl3WgeaG4"
+              },
+              {
+                "display_url": "echanisenicha.fanbox.cc",
+                "end": 147,
+                "expanded_url": "https://echanisenicha.fanbox.cc/",
+                "start": 124,
+                "url": "https://t.co/NrX4yDbKGh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/EchanisEnicha",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/EchanisEnicha",
+                "start": 0,
+                "url": "https://t.co/9dibeuVsYX"
+              }
+            ]
+          }
+        },
+        "id": "1176946791415087104",
+        "is_identity_verified": false,
+        "location": "無断転載　AI学習禁止",
+        "most_recent_tweet_id": "2109512450534154575",
+        "name": "エカニス・エニカ🅾️",
+        "pinned_tweet_id": "2092130458268238003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176946791415087104/1637773437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980933671822471168/nlMzaWjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244092,
+          "following_count": 430,
+          "like_count": 964,
+          "listed_count": 1625,
+          "media_count": 837,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/9dibeuVsYX",
+        "username": "EchanisEnicha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

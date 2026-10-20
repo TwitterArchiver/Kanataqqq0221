@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2111080850444222485",
+    "created_at": "2026-10-16T13:04:31.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T14:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2111080850444222485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2371p/status/2…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/2371p/status/2111019320381968705",
+          "start": 27,
+          "url": "https://t.co/g1lWX3tqHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111080850444222485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111019320381968705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "おおおおおおお......紅牙様サイコー...... https://t.co/g1lWX3tqHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2920,
+        "media_key": "3_2111018605563486208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUvYPLLaIAARxeY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2111080850444222485",
+        "created_at": "2026-10-16T13:04:31.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T14:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111080850444222485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2371p/status/2…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/2371p/status/2111019320381968705",
+              "start": 27,
+              "url": "https://t.co/g1lWX3tqHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111080850444222485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111019320381968705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おおおおおおお......紅牙様サイコー...... https://t.co/g1lWX3tqHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2111018605563486208"
+          ]
+        },
+        "author_id": "1158885144448495616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2111019320381968705",
+        "created_at": "2026-10-16T09:00:01.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111019320381968705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "CHUNITHM"
+            },
+            {
+              "end": 23,
+              "start": 10,
+              "tag": "CHUNITHM_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YR8ZSdCwxb",
+              "end": 50,
+              "expanded_url": "https://x.com/2371P/status/2111019320381968705/photo/1",
+              "media_key": "3_2111018605563486208",
+              "start": 27,
+              "url": "https://t.co/YR8ZSdCwxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111019320381968705",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2111018605563486208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 982,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#CHUNITHM #CHUNITHM_art\n狂命 https://t.co/YR8ZSdCwxb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "三文魚の部屋",
+        "most_recent_tweet_id": "2111080850444222485",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 413,
+          "like_count": 3785,
+          "listed_count": 5,
+          "media_count": 522,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-06T23:38:44.000Z",
+        "description": "日本在住の零細イラストレーター。\n Skeb https://t.co/b5kO3h4cep \nfanbox https://t.co/aYPraMbMxU\nFEAT https://t.co/smrltKAeII\n無断転載販売AI禁止。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@2371P",
+                "end": 46,
+                "expanded_url": "http://skeb.jp/@2371P",
+                "start": 23,
+                "url": "https://t.co/b5kO3h4cep"
+              },
+              {
+                "display_url": "kumarin.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://kumarin.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/aYPraMbMxU"
+              },
+              {
+                "display_url": "feat.kurogo.studio/2371Pkumarin",
+                "end": 107,
+                "expanded_url": "https://feat.kurogo.studio/2371Pkumarin",
+                "start": 84,
+                "url": "https://t.co/smrltKAeII"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/52683994",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/52683994",
+                "start": 0,
+                "url": "https://t.co/k5jIbJohw4"
+              }
+            ]
+          }
+        },
+        "id": "1158885144448495616",
+        "is_identity_verified": false,
+        "location": "for overseas, please use skeb",
+        "most_recent_tweet_id": "2111057944641167434",
+        "name": "2371P @skeb･ご依頼欲しいです",
+        "pinned_tweet_id": "2111019320381968705",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158885144448495616/1752248717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929595530071724032/2tYhzyps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1076,
+          "like_count": 297370,
+          "listed_count": 15,
+          "media_count": 6229,
+          "tweet_count": 26118
+        },
+        "url": "https://t.co/k5jIbJohw4",
+        "username": "2371P",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

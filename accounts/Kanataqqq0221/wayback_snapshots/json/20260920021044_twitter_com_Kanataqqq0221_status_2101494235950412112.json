@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2099682023413813413",
+    "created_at": "2026-09-20T02:10:44.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T03:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101494235950412112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1697872114270052352",
+          "start": 0,
+          "username": "hzzgee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101494235950412112",
+    "in_reply_to_user_id": "1697872114270052352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099682023413813413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzzgee 这集去过"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69966,
+        "height": 1280,
+        "media_key": "13_2099681244753911808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099681244753911808/img/6jD6_bU0f6aD40LU.jpg",
+        "public_metrics": {
+          "view_count": 77364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099681244753911808/vid/avc1/320x568/56tkS10fdLHK3FgA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099681244753911808/vid/avc1/480x852/NNUrm6Qu0aRPtwBK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099681244753911808/vid/avc1/720x1280/YQq5jKb5OtX4etd8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099681244753911808/pl/XRZoYDKB3YiOrxff.m3u8?v=b81"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2099682023413813413",
+        "created_at": "2026-09-20T02:10:44.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101494235950412112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1697872114270052352",
+              "start": 0,
+              "username": "hzzgee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101494235950412112",
+        "in_reply_to_user_id": "1697872114270052352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099682023413813413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzzgee 这集去过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099681244753911808"
+          ]
+        },
+        "author_id": "1697872114270052352",
+        "conversation_id": "2099682023413813413",
+        "created_at": "2026-09-15T02:09:39.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099682023413813413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5S6W7HSRg",
+              "end": 35,
+              "expanded_url": "https://x.com/hzzgee/status/2099682023413813413/video/1",
+              "media_key": "13_2099681244753911808",
+              "start": 12,
+              "url": "https://t.co/R5S6W7HSRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099682023413813413",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099681244753911808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 139183,
+          "like_count": 645,
+          "quote_count": 1,
+          "reply_count": 170,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好尴尬，女仆餐厅。 https://t.co/R5S6W7HSRg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16117丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n魚寶寶@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2101494235950412112",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 409,
+          "like_count": 3479,
+          "listed_count": 6,
+          "media_count": 473,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-02T07:20:52.000Z",
+        "description": "加密世界显眼包🤖｜钱包比脸干净 😂📉  | 狗宝殿资深搅屎棍🐶 | 交易亏得比挣得多 | 美食比BTC靠谱🍲 |  有美女记得@我🤤 | 蓝 V 审核中……",
+        "id": "1697872114270052352",
+        "is_identity_verified": true,
+        "location": "距离1.72KM",
+        "most_recent_tweet_id": "2101470906027741240",
+        "name": "混子哥 | 狗宝真帅🐕",
+        "pinned_tweet_id": "2099794658356523485",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697872114270052352/1743341620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101332651772948480/ap6ek31y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 2831,
+          "like_count": 7993,
+          "listed_count": 10,
+          "media_count": 704,
+          "tweet_count": 7648
+        },
+        "url": "",
+        "username": "hzzgee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

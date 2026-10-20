@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2109881137493680605",
+    "created_at": "2026-10-13T06:20:08.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T07:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109891921237930418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1963791319547179008",
+          "start": 0,
+          "username": "SanMu70606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109891921237930418",
+    "in_reply_to_user_id": "1963791319547179008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109881137493680605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SanMu70606 坏结局"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2109881128261910528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfNtSBaAAAkP50.jpg",
+        "width": 1440
+      },
+      {
+        "height": 572,
+        "media_key": "3_2109881128253624320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfNtR_bkAA-rQA.jpg",
+        "width": 1403
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2109881137493680605",
+        "created_at": "2026-10-13T06:20:08.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T07:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109891921237930418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1963791319547179008",
+              "start": 0,
+              "username": "SanMu70606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109891921237930418",
+        "in_reply_to_user_id": "1963791319547179008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109881137493680605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SanMu70606 坏结局"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109881128261910528",
+            "3_2109881128253624320"
+          ]
+        },
+        "author_id": "1963791319547179008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2109881137493680605",
+        "created_at": "2026-10-13T05:37:17.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T06:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109881137493680605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uX7Extfqr3",
+              "end": 28,
+              "expanded_url": "https://x.com/SanMu70606/status/2109881137493680605/photo/1",
+              "media_key": "3_2109881128261910528",
+              "start": 5,
+              "url": "https://t.co/uX7Extfqr3"
+            },
+            {
+              "display_url": "pic.x.com/uX7Extfqr3",
+              "end": 28,
+              "expanded_url": "https://x.com/SanMu70606/status/2109881137493680605/photo/1",
+              "media_key": "3_2109881128253624320",
+              "start": 5,
+              "url": "https://t.co/uX7Extfqr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109881137493680605",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2109881128261910528"
+          },
+          {
+            "media_key": "3_2109881128253624320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。。 https://t.co/uX7Extfqr3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "三文魚の部屋",
+        "most_recent_tweet_id": "2109891921237930418",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 413,
+          "like_count": 3762,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T02:28:44.000Z",
+        "description": "English /日本語 /中文/全部OK\n絵を描き始めたばかりで、これからよろしく🤧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_12f85c52-09b8-45f4-b972-e493d121b524",
+                "start": 0,
+                "url": "https://t.co/2DzsALqg4N"
+              }
+            ]
+          }
+        },
+        "id": "1963791319547179008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109890251955257480",
+        "name": "KURUKU",
+        "pinned_tweet_id": "2062484400198259143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963791319547179008/1787619692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042646764650639360/dD_LAJZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 80,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/2DzsALqg4N",
+        "username": "SanMu70606",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

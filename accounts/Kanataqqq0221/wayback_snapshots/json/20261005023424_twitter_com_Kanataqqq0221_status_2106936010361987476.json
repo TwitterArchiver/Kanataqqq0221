@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2106699279926767771",
+    "created_at": "2026-10-05T02:34:24.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T03:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106936010361987476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012862287485493248",
+          "start": 0,
+          "username": "woaini223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106936010361987476",
+    "in_reply_to_user_id": "2012862287485493248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106699279926767771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaini223 青岛太舒服了，去的那几天真的吹风吹得我好舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2106699279926767771",
+        "created_at": "2026-10-05T02:34:24.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106936010361987476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012862287485493248",
+              "start": 0,
+              "username": "woaini223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106936010361987476",
+        "in_reply_to_user_id": "2012862287485493248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106699279926767771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaini223 青岛太舒服了，去的那几天真的吹风吹得我好舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012862287485493248",
+        "conversation_id": "2106699279926767771",
+        "created_at": "2026-10-04T10:53:43.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106699279926767771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106699279926767771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到要回廣東繼續苦逼上學我就想跳樓啊。青島的天氣好舒適，我需要涼爽乾燥的空氣😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2106936010361987476",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 414,
+          "like_count": 3716,
+          "listed_count": 5,
+          "media_count": 506,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T12:19:15.000Z",
+        "description": "🇨🇳/16yo/中文ENG🆗（很差不要相信我的外語）/只喜歡bl/一切只為自己開心，歡迎找我玩/我會發佈暴力內容⚠️🩸/我喜歡各種綠色\n記憶管理局何潮相關：@KseniyaUvU（幾乎都是碎碎念謹慎關注\n垃圾桶賬號：@kseniya1145",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "KseniyaUvU"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "kseniya1145"
+              }
+            ]
+          }
+        },
+        "id": "2012862287485493248",
+        "is_identity_verified": false,
+        "location": "誕生日2/23",
+        "most_recent_tweet_id": "2106815672470704538",
+        "name": "シュウキ223",
+        "pinned_tweet_id": "2090059863955231185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012862287485493248/1783182178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073442564829552640/tyj0ALls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 123,
+          "like_count": 10138,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "woaini223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

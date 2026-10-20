@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105497217650102272",
+        "3_2105497217629044736",
+        "3_2105497218241409025",
+        "3_2105497217973059584"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105497280505872567",
+    "created_at": "2026-10-01T03:17:24.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105497280505872567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "2089263600045334528",
+          "start": 5,
+          "username": "sanwenyuynewnas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyfsPKe1xZ",
+          "end": 49,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+          "media_key": "3_2105497217650102272",
+          "start": 26,
+          "url": "https://t.co/EyfsPKe1xZ"
+        },
+        {
+          "display_url": "pic.x.com/EyfsPKe1xZ",
+          "end": 49,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+          "media_key": "3_2105497217629044736",
+          "start": 26,
+          "url": "https://t.co/EyfsPKe1xZ"
+        },
+        {
+          "display_url": "pic.x.com/EyfsPKe1xZ",
+          "end": 49,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+          "media_key": "3_2105497218241409025",
+          "start": 26,
+          "url": "https://t.co/EyfsPKe1xZ"
+        },
+        {
+          "display_url": "pic.x.com/EyfsPKe1xZ",
+          "end": 49,
+          "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+          "media_key": "3_2105497217973059584",
+          "start": 26,
+          "url": "https://t.co/EyfsPKe1xZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105497280505872567",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105497217650102272"
+      },
+      {
+        "media_key": "3_2105497217629044736"
+      },
+      {
+        "media_key": "3_2105497218241409025"
+      },
+      {
+        "media_key": "3_2105497217973059584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正在前往找@sanwenyuynewnas 的路上 https://t.co/EyfsPKe1xZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105497217650102272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTg6kGWbkAAj-is.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105497217629044736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTg6kGRaQAAsQVA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105497218241409025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTg6kIjaMAEruHl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105497217973059584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTg6kHjbgAAuPQb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105497217650102272",
+            "3_2105497217629044736",
+            "3_2105497218241409025",
+            "3_2105497217973059584"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105497280505872567",
+        "created_at": "2026-10-01T03:17:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105497280505872567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2089263600045334528",
+              "start": 5,
+              "username": "sanwenyuynewnas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyfsPKe1xZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+              "media_key": "3_2105497217650102272",
+              "start": 26,
+              "url": "https://t.co/EyfsPKe1xZ"
+            },
+            {
+              "display_url": "pic.x.com/EyfsPKe1xZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+              "media_key": "3_2105497217629044736",
+              "start": 26,
+              "url": "https://t.co/EyfsPKe1xZ"
+            },
+            {
+              "display_url": "pic.x.com/EyfsPKe1xZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+              "media_key": "3_2105497218241409025",
+              "start": 26,
+              "url": "https://t.co/EyfsPKe1xZ"
+            },
+            {
+              "display_url": "pic.x.com/EyfsPKe1xZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2105497280505872567/photo/1",
+              "media_key": "3_2105497217973059584",
+              "start": 26,
+              "url": "https://t.co/EyfsPKe1xZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105497280505872567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105497217650102272"
+          },
+          {
+            "media_key": "3_2105497217629044736"
+          },
+          {
+            "media_key": "3_2105497218241409025"
+          },
+          {
+            "media_key": "3_2105497217973059584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在前往找@sanwenyuynewnas 的路上 https://t.co/EyfsPKe1xZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2105497280505872567",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 412,
+          "like_count": 3673,
+          "listed_count": 5,
+          "media_count": 497,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T08:11:09.000Z",
+        "description": "love @Kanataqqq0221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "Kanataqqq0221"
+              }
+            ]
+          }
+        },
+        "id": "2089263600045334528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105345326303658059",
+        "name": "三文鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089263600045334528/1786956358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089272266047860736/eUhYoHIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 6,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "sanwenyuynewnas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

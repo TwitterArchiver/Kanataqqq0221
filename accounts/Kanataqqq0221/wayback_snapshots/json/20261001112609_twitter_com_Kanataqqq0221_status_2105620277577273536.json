@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971027114582474752",
+    "conversation_id": "2105608108982911079",
+    "created_at": "2026-10-01T11:26:09.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105620277577273536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089263600045334528",
+          "start": 0,
+          "username": "sanwenyuynewnas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105620277577273536",
+    "in_reply_to_user_id": "2089263600045334528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105608108982911079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanwenyuynewnas 我入"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2105608077315825664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTifY-yaYAAs8hp.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2105608108982911079",
+        "created_at": "2026-10-01T11:26:09.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105620277577273536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089263600045334528",
+              "start": 0,
+              "username": "sanwenyuynewnas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105620277577273536",
+        "in_reply_to_user_id": "2089263600045334528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105608108982911079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanwenyuynewnas 我入"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105608077315825664"
+          ]
+        },
+        "author_id": "2089263600045334528",
+        "conversation_id": "2105608108982911079",
+        "created_at": "2026-10-01T10:37:48.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105608108982911079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOd0xdc3xw",
+              "end": 31,
+              "expanded_url": "https://x.com/sanwenyuynewnas/status/2105608108982911079/photo/1",
+              "media_key": "3_2105608077315825664",
+              "start": 8,
+              "url": "https://t.co/pOd0xdc3xw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105608108982911079",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105608077315825664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝在干嘛。。 https://t.co/pOd0xdc3xw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=神月/Kanataqかなたく丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16139丨內容混亂丨🔞垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 112,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2105620277577273536",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 412,
+          "like_count": 3680,
+          "listed_count": 5,
+          "media_count": 498,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T08:11:09.000Z",
+        "description": "love @Kanataqqq0221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "Kanataqqq0221"
+              }
+            ]
+          }
+        },
+        "id": "2089263600045334528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105608108982911079",
+        "name": "三文鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089263600045334528/1786956358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089272266047860736/eUhYoHIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "sanwenyuynewnas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

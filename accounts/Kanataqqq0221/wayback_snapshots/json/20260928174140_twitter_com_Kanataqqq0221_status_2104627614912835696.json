@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104566782040375296"
+      ],
+      "media_source_tweet_id": [
+        "2104566787853742440"
+      ]
+    },
+    "author_id": "1971027114582474752",
+    "conversation_id": "2104627614912835696",
+    "created_at": "2026-09-28T17:41:40.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104627614912835696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1514551880520978436",
+          "start": 3,
+          "username": "jam_madmed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9DX76kCPo",
+          "end": 47,
+          "expanded_url": "https://x.com/jam_madmed/status/2104566787853742440/photo/1",
+          "media_key": "3_2104566782040375296",
+          "start": 24,
+          "url": "https://t.co/J9DX76kCPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104627614912835696",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104566782040375296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104566787853742440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jam_madmed: 黒髪も好き？？ https://t.co/J9DX76kCPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104566782040375296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTsVnmagAAbc9s.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104566782040375296"
+          ],
+          "media_source_tweet_id": [
+            "2104566787853742440"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2104627614912835696",
+        "created_at": "2026-09-28T17:41:40.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104627614912835696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1514551880520978436",
+              "start": 3,
+              "username": "jam_madmed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9DX76kCPo",
+              "end": 47,
+              "expanded_url": "https://x.com/jam_madmed/status/2104566787853742440/photo/1",
+              "media_key": "3_2104566782040375296",
+              "start": 24,
+              "url": "https://t.co/J9DX76kCPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104627614912835696",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104566782040375296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104566787853742440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jam_madmed: 黒髪も好き？？ https://t.co/J9DX76kCPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104566782040375296"
+          ]
+        },
+        "author_id": "1514551880520978436",
+        "conversation_id": "2104566787853742440",
+        "created_at": "2026-09-28T13:39:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104566787853742440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9DX76kCPo",
+              "end": 31,
+              "expanded_url": "https://x.com/jam_madmed/status/2104566787853742440/photo/1",
+              "media_key": "3_2104566782040375296",
+              "start": 8,
+              "url": "https://t.co/J9DX76kCPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104566787853742440",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104566782040375296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 16180,
+          "like_count": 1433,
+          "quote_count": 38,
+          "reply_count": 51,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "黒髪も好き？？ https://t.co/J9DX76kCPo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2104627614912835696",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 413,
+          "like_count": 3635,
+          "listed_count": 5,
+          "media_count": 492,
+          "tweet_count": 2719
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-14T10:31:38.000Z",
+        "description": "💊『MADMED』@madmed_official🦇『RaRaJaM』@rarajam_info でした。タグ ▶︎ #じゃむちゅー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "じゃむちゅー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "madmed_official"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "rarajam_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@jamjamchi",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@jamjamchi",
+                "start": 0,
+                "url": "https://t.co/1tfYWfp6Az"
+              }
+            ]
+          }
+        },
+        "id": "1514551880520978436",
+        "is_identity_verified": false,
+        "location": "処方箋はなつきじゃむまで💊",
+        "most_recent_tweet_id": "2104566787853742440",
+        "name": "那月邪夢❤️‍🩹",
+        "pinned_tweet_id": "2044793244249407537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514551880520978436/1773632733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033389128419876864/rtSB9O4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36845,
+          "following_count": 151,
+          "like_count": 91538,
+          "listed_count": 213,
+          "media_count": 1119,
+          "tweet_count": 7434
+        },
+        "url": "https://t.co/1tfYWfp6Az",
+        "username": "jam_madmed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
